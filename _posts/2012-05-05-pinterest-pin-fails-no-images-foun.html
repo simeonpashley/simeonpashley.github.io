@@ -1,0 +1,48 @@
+---
+layout: post
+title: Pinterest pins fails to stick
+date: 2012-05-05 12:38:35.000000000 +01:00
+categories:
+- web development
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  aktt_notify_twitter: 'yes'
+  _aktt_hash_meta: ''
+  _edit_last: '2'
+  _thumbnail_id: '1267'
+  aktt_tweeted: '1'
+  _seosmart_cache: a:2:{s:8:"keywords";a:2:{s:8:"facebook";s:58:"http://www.facebook.com/pages/gamelinchpin/133379313340885";s:7:"website";s:37:"http://gamelinchpin.com/go/web_design";}s:4:"time";i:1422808147;}
+  _yoast_wpseo_linkdex: '0'
+author:
+  login: SimeonPashley
+  email: simeon@pashley.org
+  display_name: Simeon
+  first_name: Simeon
+  last_name: Pashley
+---
+<p><a title="Pinterest" href="http://pinterest.com/simeonp/" target="_blank">Pinterest</a> is a fantastic way to discover content, styles, products and ideas. As such, it's crucial that websites make it as simple as possible for their content to be 'pinned' on Pinterest.</p>
+<p>Sadly, it appears that many web developers are struggling to get their content on their due to silent errors. Many pages around the web give workarounds for clients but they don't address the issues faced by the website itself.</p>
+<p>I tried a few ways to find solutions for the websites I manage.</p>
+<p><!--more--></p>
+<p><strong>Pinning typically fails in 2 ways:</strong><br />
+When pinning via the common <strong>'Pin It' bookmarklet</strong> or using the onpage embedded 'Pin It' button the Image and description appear OK for the javascript pop-up but when the 'Pin This' button is pressed nothing is pinned and the dialog refreshes with no content.</p>
+<p><img class="aligncenter size-full wp-image-1267" title="Pinterest Pin" src="assets/Screen-Shot-2012-05-05-at-12.26.42.png" alt="" width="429" height="233" /></p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-1266" title="Pinterest Pin" src="assets/Screen-Shot-2012-05-05-at-12.27.19.png" alt="" width="467" height="278" /></p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-1265" title="Pinterest Pin fail" src="assets/Screen-Shot-2012-05-05-at-12.27.28.png" alt="" width="467" height="278" /></p>
+<p><strong>Directly pinning</strong> the content when on pinterest.com reveals "<em>We couldn't find any images</em>" despite the javascript app clearly finding images.</p>
+<p><img class="aligncenter size-full wp-image-1264" title="Pinterest Pin &quot;We couldn't find any images&quot;" src="assets/Screen-Shot-2012-05-05-at-12.27.52.png" alt="Pinterest Pin &quot;We couldn't find any images&quot;" /></p>
+<p>As a web developer I've attempted to fix this in a number of ways based on findings from around the web.</p>
+<ul>
+<li><strong>Is the image too small?</strong> Reports say minimum size is 109x109 and anything smaller will fail.</li>
+<li><strong>Strip parameters</strong> from image URLs such as timthumb 'w=300&amp;h=300 from URL'</li>
+<li><strong>Improved image quality</strong> and therefore image filesize on the 'found' images</li>
+<li>Changed <strong>http headers</strong> for the images to '<em>Cache-Control: public</em>'</li>
+<li>Added/removed <strong>Facebook opengraph</strong> image hints 'og:image' meta tag</li>
+<li>Double checked reverse DNS and other <strong>potential quirks</strong>.</li>
+</ul>
+<div> I also built a specific page that only included a 300x300 high quality image and some content for testing and this failed too.</div>
+<p>To date,<strong> none of my changes have made any of the pins stick</strong> on Pinterest so I have raised a support ticket with them and I await some assistance from them. However, evidence from around the 'net seems to suggest the Pinterest support is a blackhole for support tickets.</p>
+<p>As a web developer, have you found a solution?</p>

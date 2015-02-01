@@ -1,0 +1,59 @@
+---
+layout: post
+title: Contract - Turn based military javascript game
+date: 2010-11-25 12:27:09.000000000 +00:00
+categories:
+- contract
+tags:
+- game
+status: publish
+type: post
+published: true
+meta:
+  _yoast_wpseo_linkdex: '0'
+  _wpas_done_all: '1'
+  _wp_old_slug: ''
+  aktt_tweeted: '1'
+  slide_redirect_url: http://ringalpha.com/blog/contract-turn-based-military-javascript-game/
+  slider_style: sample.css
+  aktt_notify_twitter: 'yes'
+  _edit_last: '2'
+  _keyword_winner_competition_amount: '0'
+  SEO Smart Links: a:5:{s:11:"box_process";s:0:"";s:10:"box_nolink";s:0:"";s:17:"box_post_keywords";s:0:"";s:19:"box_custom_keywords";s:0:"";s:20:"add_instead_override";s:0:"";}
+  _yoast_wpseo_canonical: ''
+  _yoast_wpseo_sitemap-prio: "-"
+  _yoast_wpseo_sitemap-include: "-"
+  _yoast_wpseo_bctitle: ''
+  _yoast_wpseo_meta-robots-adv: none
+  _yoast_wpseo_meta-robots-noindex: '0'
+  _yoast_wpseo_meta-robots-nofollow: '0'
+  _yoast_wpseo_metakeywords: ''
+  _yoast_wpseo_metadesc: ''
+  _yoast_wpseo_title: ''
+  _seosmart_cache: a:2:{s:8:"keywords";a:1:{s:8:"facebook";s:58:"http://www.facebook.com/pages/gamelinchpin/133379313340885";}s:4:"time";i:1422809509;}
+  _yoast_wpseo_redirect: ''
+  _yoast_wpseo_focuskw: ''
+author:
+  login: SimeonPashley
+  email: simeon@pashley.org
+  display_name: Simeon
+  first_name: Simeon
+  last_name: Pashley
+---
+<p>I've recently been working on an <a title="oDesk" href="http://www.kqzyfj.com/click-4200016-10708933" target="_blank">oDesk</a> contract to make a complex turn-based military strategy game for the web, the project itself is still under wraps but I can share a little about the work I've done so far.</p>
+<p>The game is largely built by myself alone in Javascript and runs on pretty much anything with a web-browser including Mac, PC and iPad and is cross-browser compatible. It's constantly tested on all platforms to ensure maximum compatibility <strong>EXCEPT</strong> I don't test on Internet Explorer as it's an awful browser.</p>
+<p>The game is played by moving various types of Units around on a hex grid and each side can do things like Move, Fire, Defend, Rout, use Support amongst other things. It incorporates the usual terrain costs and line-of-site calculations that you need for a military sim.</p>
+<h3>Technology Used</h3>
+<p>The game runs almost entirely on the client in  custom written  <strong>javascript</strong> game code that's been coded especially for this game and I've only used two libraries as I prefer to write my own code mainly because I can and secondly because it's much more efficient than using bloated libraries.</p>
+<p>The first javascript library is a vector graphic library called <a href="http://raphaeljs.com/">Raphael</a>, which is pretty good but it has 1 fundamental problem in that it only renders to one discrete layer making it impossible to merge the graphics in through a scene. The major javascript library  I used is <a href="http://www.prototypejs.org/">Prototype Javascript Framework</a>, which I chose  initially for it's object-orientated Class  framework but I've been using little bits for the DOM and the JSON / AJAX calls amongst other things. There are little bits of AJAX php on the server too. The game also incorporates Facebook login to get the users name and icon if they choose.</p>
+<p>Along the way I tried out <a href="http://mootools.net/">MooTools</a>, which I found to be riddled with bugs and it didn't really have the robustness needed for a game. I was tried <a href="http://jquery.com/">jQuery</a> (which I love but it's not right for this project) for a while instead of Prototype but it's not right for using in a game as it's extensive feature set means that it's quite slow, well it is in comparison to Prototype.</p>
+<p>The game makes use of <a href="http://dev.w3.org/html5/webstorage/">HTML5 Local Storage</a>, CSS3 and some other little bits and bobs to make it a more rounded experience.</p>
+<p>I find that a good understanding of how to program games is essential and you also need to be able to write tight, efficient, robust Javascript code. It reminds me of writing for the under-powered game systems of many years ago where it was equally important to get the most out of the hardware (the browser in this case).</p>
+<p>My client is extremely happy with the work done so far and they even chose to give me a bonus for the quality and speed of my work!</p>
+<p>Other tools used:</p>
+<ul>
+<li><a href="http://www.activestate.com/komodo-ide">Komodo IDE</a> - a nice little IDE for web development, if a little slow</li>
+<li><a href="http://www.mamp.info/en/index.html">MAMP</a> - Mac Apache, MySQL &amp; PHP local server</li>
+<li><a href="http://mercurial.selenic.com/">Mercurial</a> - source distributed version control</li>
+<li><a href="http://bitbucket.org/">Bitbucket</a> - cloud Mercurial repository</li>
+</ul>

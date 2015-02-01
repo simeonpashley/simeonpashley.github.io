@@ -1,0 +1,60 @@
+---
+layout: post
+title: Install mono via YUM
+date: 2012-04-23 21:05:40.000000000 +01:00
+categories:
+- production
+tags: []
+status: draft
+type: post
+published: false
+meta:
+  aktt_notify_twitter: 'yes'
+  _edit_last: '2'
+  _aktt_hash_meta: ''
+  _yoast_wpseo_linkdex: '0'
+author:
+  login: SimeonPashley
+  email: simeon@pashley.org
+  display_name: Simeon
+  first_name: Simeon
+  last_name: Pashley
+---
+<h2>Install mono via YUM</h2>
+<p>yum -y install mono-*</p>
+<p>yum -y install httpd-devel</p>
+<p>Install mod_mono from source</p>
+<h2>yum install mono-addon-xsp</h2>
+<h2>mono -V</h2>
+<p>&nbsp;</p>
+<h2>What's really wrong</h2>
+<p>Since day one i'd been receiving warnings at apache startup up, but since i didn't understand what they meant and things seemed to be working, i had been ignoring the,. Of course, <em>that was a lie on its face</em>. Things were clearly not working, with the leaking semaphores, but I conveniently filed the two issues as unrelated in my head and ignored them at my peril. The warning was this:</p>
+<pre>[Mon Jan 24 00:12:50 2011] [crit] The unix daemon module not initialized yet.
+Please make sure that your mod_mono module is loaded after the User/Group
+directives have been parsed. Not initializing the dashboard.</pre>
+<p>This warning was repeated for as many times as I had ASP.NET vhosts defined. I looked at my vhost configurations and saw nothing about users and groups and thought it was some weird mono issue and left it at that. But <strong>the actual problem was not in the vhost configuration but in httpd.conf</strong>. The problem was this default section:</p>
+<pre>#
+# Load config files from the config directory "/etc/httpd/conf.d".
+#
+Include conf.d/*.conf
+
+#
+# If you wish httpd to run as a different user or group, you must run
+# httpd as root initially and it will switch.
+#
+# User/Group: The name (or #number) of the user/group to run httpd as.
+#  . On SCO (ODT 3) use "User nouser" and "Group nogroup".
+#  . On HPUX you may not be able to use shared memory as nobody, and the
+#    suggested workaround is to create a user www and use that user.
+#  NOTE that some kernels refuse to setgid(Group) or semctl(IPC_SET)
+#  when the value of (unsigned)Group is above 60000;
+#  don't use Group #-1 on these systems!
+#
+User apache
+Group apache</pre>
+<p>Obviously User and Group are set after all vhost configs are loaded. Pretty much exactly what the warning was saying (<em>doh</em>). I simply moved the Include below User/Group and since then I have not seen more than 9 semaphores and I've restarted mono, rebuilt the application and hit the app with ApacheBench, the combination of which used to drive semaphores up.</p>
+<p>Since things are working now and ASP.NET MVC under mod_mono is significantly faster than the Rails port, I'm sticking with ASP.NET MVC for production right now, monitoring semaphores to make sure this really did fix the problem.</p>
+<p>&nbsp;</p>
+<p>references:</p>
+<p>http://www.phpvs.net/articles/blakes-centos-lamp-server-guide/mono/</p>
+<p>&nbsp;</p>
