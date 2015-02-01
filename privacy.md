@@ -12,7 +12,8 @@ The owner of this blog does not share personal information with third-parties no
 
 ## Blog Comments
 
-The owner of this blog reserves the right to edit or delete any comments submitted to this blog without notice due to:
+The owner of this blog reserves the right to edit or delete any comments submitted to this blog without notice due
+to:
 
 1. Comments deemed to be spam or questionable spam
 2. Comments including profanity
