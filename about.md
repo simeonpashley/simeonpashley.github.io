@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: About this blog
+header_title: About
+description: Detail about the the nature of this blog
+type: AboutPage
+author: gamelinchpin
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<p>This blog is a place to share some ideas, solutions, events, etc.</p>

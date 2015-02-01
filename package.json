@@ -1,0 +1,67 @@
+{
+  "name": "gamelinchpin.github.io",
+  "description": "My personal blog",
+  "version": "0.2.4",
+  "author": "Simeon Pashley",
+  "analyze": true,
+  "contributors": [
+    {
+      "name": "Simeon Pashley",
+      "email": "simeon@ringalpha.com"
+    }
+  ],
+  "config": {
+    "unsafe-perm": true
+  },
+  "dependencies": {
+    "grunt": "0.4.5",
+    "chalk": "^0.5.1",
+    "grunt-cli": "^0.1.13"
+  },
+  "devDependencies": {
+    "autoprefixer-core": "x.x.x",
+    "cave": "^2.0.0",
+    "colors": "~1.0.3",
+    "diff": "~1.0.8",
+    "grunt-contrib-compass": "^0.7.2",
+    "grunt-contrib-copy": "0.7.0",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-gh-pages": "^0.9.1",
+    "grunt-jekyll": "^0.4.2",
+    "grunt-legacy-util": "^0.2.0",
+    "grunt-sass": "0.16.x",
+    "jsonfile": "2.0.0",
+    "load-grunt-tasks": "^0.4.0",
+    "mkdirp": "0.5.0",
+    "node-sass": "1.2.2",
+    "q": "1.0.1"
+  },
+  "engines": {
+    "node": ">=0.10.4 <0.12"
+  },
+  "homepage": "http://gamelinchpin.github.io",
+  "keywords": [
+    "sass",
+    "scss",
+    "css",
+    "template",
+    "structure",
+    "smacss",
+    "web",
+    "front-end"
+  ],
+  "licenses": [
+    {
+      "type": "proprietary",
+      "url": "https://github.com/gamelinchpin"
+    }
+  ],
+  "main": "",
+  "preferGlobal": true,
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gamelinchpin/"
+  }
+}
