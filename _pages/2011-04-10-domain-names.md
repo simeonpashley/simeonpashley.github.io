@@ -2,8 +2,8 @@
 layout: page
 title: Domain Names
 date: 2011-04-10 16:15:48
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -24,13 +24,7 @@ description:
 
 
 Design";s:37:"http://gamelinchpin.com/go/web_design";s:9:"ecommerce";s:42:"/web-design-packages/web-design-ecommerce/";s:7:"hosting";s:28:"http://ringalpha.com/hosting";s:6:"domain";s:22:"/hosting/domain-names/";s:11:"Web
-Hosting";s:31:"http://gamelinchpin.com/hosting";}s:4:"time";i:1422760513;}
-
-
-
-
-
----
+Hosting";s:31:"http://gamelinchpin.com/hosting";}s:4:"time";i:1422760513;}---
 <div id="domains">
 
 <div
@@ -38,7 +32,7 @@ style="float:right;
 margin: 0 0 0.5em 0.5em; padding:0.5em;
 border: 2px solid #800;font-size:1.2em;">
 
-Find out about our latest domain name deals\
+Find out about our latest domain name deals
  [Domain Name Deals](/hosting2)
 
 </div>

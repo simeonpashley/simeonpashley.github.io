@@ -81,7 +81,7 @@ developers.
 
 Here's their current offering for XBox Live Arcade - Space Ark
 
-> What is Space Ark?\
+> What is Space Ark?
 >  It’s is a fun arcade/puzzle game with a hint of retro arcade flavour;
 > inspired by classic arcade games of the late 80s, such as Rainbow
 > Island, Bubble Bobble and Arkanoid.
@@ -152,16 +152,16 @@ the comments.
 
 #### Further Reading
 
-ThatGameCompany - http://thatgamecompany.com , twitter @thatgamecompany\
+ThatGameCompany - http://thatgamecompany.com , twitter @thatgamecompany
  Holographic Dreams - http://holographicdreams.com , twitter
-@HoloDreams\
- Strawdog Studios - http://www.strawdogstudios.com\
- Curve Studios - http://curve-studios.com , twitter @curvestudios\
+@HoloDreams
+ Strawdog Studios - http://www.strawdogstudios.com
+ Curve Studios - http://curve-studios.com , twitter @curvestudios
  Shadegrown Games - http://www.shadegrowngames.com, twitter
 @shadegrowngames
 
-**Bonus**:\
+**Bonus**:
  One Bit Beyond - Curve Studios Creative Director blog -
-http://www.onebitbeyond.com\
- Twitter @xnacommunity\
+http://www.onebitbeyond.com
+ Twitter @xnacommunity
  Twitter [\#xblig](http://twitter.com/#search?q=%23XBLIG)

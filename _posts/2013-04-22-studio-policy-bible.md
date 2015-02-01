@@ -4,16 +4,10 @@ author: gamelinchpin
 title: Studio Policy Bible
 date: 2013-04-22 11:32:00
 categories: production
-tags: []
+
 status: publish
 type: post
 published: true
-
-
-
-
-
-
 ---
 Every business needs some policies to keep teams aware of everything
 they need to know and working smoothly. Here's one of our old policy

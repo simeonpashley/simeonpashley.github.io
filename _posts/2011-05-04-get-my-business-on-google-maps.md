@@ -3,8 +3,8 @@ layout: post
 author: gamelinchpin
 title: Get my business on Google Maps
 date: 2011-05-04 12:18:27
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true
@@ -24,7 +24,7 @@ business details such as address, contact details, categories, images,
 reviews and more to Google for consideration. Getting noticed is a
 little harder.
 
-![](assets/google_maps.gif "Get my business on Google Maps")\
+![](assets/google_maps.gif "Get my business on Google Maps")
  The tough part is getting your business noticed on <span
 style="text-decoration:underline;">Google Maps</span>, as there are more and more businesses claiming their place and competing for attention. There are various components that need to be done right or it's just a waste of time.
  A well constructed place marker can generate genuine customers for your

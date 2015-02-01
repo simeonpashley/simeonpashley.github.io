@@ -3,8 +3,8 @@ layout: post
 author: gamelinchpin
 title: Practical Ways to Improve Website Readability
 date: 2010-10-26 14:08:13
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true

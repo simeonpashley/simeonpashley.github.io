@@ -2,26 +2,11 @@
 layout: page
 title: About Simeon
 date: 2010-09-16 14:27:08
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
-
-
-'yes'
-_
-
-
-'142684715'
-
-
-
-
-
-
-
-
 
 ---
 [![Simeon
@@ -37,7 +22,7 @@ Pashley](assets/Head2010-150x150.jpg "Simeon Pashley")](http://game-linchpin.com
 -   [My Manifesto](/about/about-simeon/Manifesto)
 -   [My Training](/about/about-simeon/Training)
 
-[\
+[
  ![](assets/TrainingLogos.png "Training")](/about/about-simeon/Training)
 
 </div>
@@ -126,7 +111,7 @@ LinkedIn](assets/btn_viewmy_160x33.png)](http://bit.ly/SimeonLinkedIn)
 </div>
 
 <span style="color: #0b5394;"><span style="font-size: x-large;"><span
-style="color: black;"><span style="font-size: medium;">\
+style="color: black;"><span style="font-size: medium;">
  </span></span></span></span>
 
 </div>
@@ -265,8 +250,8 @@ style="color: black;"><span style="font-size: medium;">\
 
     **Top qualities:**
 
-    Great Results,\
-     Personable,\
+    Great Results,
+     Personable,
      On Time
 
     Ivan Davies *hired Simeon as a Videogame Developer in 2005*

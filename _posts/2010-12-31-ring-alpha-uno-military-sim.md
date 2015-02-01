@@ -4,18 +4,10 @@ author: gamelinchpin
 title: Ring Alpha - Uno & Military Sim
 date: 2010-12-31 14:32:22
 categories: production
-tags: []
+
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
-
 ---
 Here's a couple of recent posts from my alter ego, Ring Alpha, about the
 recent web development I've been doing recently.

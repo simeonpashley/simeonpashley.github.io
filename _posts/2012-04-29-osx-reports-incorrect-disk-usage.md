@@ -4,17 +4,10 @@ author: gamelinchpin
 title: OSX reports incorrect disk usage
 date: 2012-04-29 14:05:44
 categories: production
-tags: []
+
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
 ---
 If you're OSX disk usage is being reported incorrectly then you've
 probably got caught by a Time Machine feature introduced in Apple OSX

@@ -2,12 +2,11 @@
 layout: page
 title: Subscribe to Game Linchpin
 date: 2010-06-09 10:59:54
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
-
 ---
 Subscribe to Game Linchpin
 --------------------------
@@ -106,10 +105,10 @@ style="font-weight: normal;"> </span><span class="Apple-style-span"
 style="font-weight: normal;">["What is
 RSS/Atom?"](what-is-rss)</span><span class="Apple-style-span"
 style="font-weight: normal;"> </span><span class="Apple-style-span"
-style="font-weight: normal;">page which will help you to understand this new and exciting technology.</span>**\
- **\
-**\
- **Our feeds are compatible with all feed readers!**\
+style="font-weight: normal;">page which will help you to understand this new and exciting technology.</span>**
+ **
+**
+ **Our feeds are compatible with all feed readers!**
  All of the feeds on this site are now powered by FeedBurner, which
 allows maximum compatibility to ensure the feeds are accessible from
 whichever feed reader or format you prefer such as [Google

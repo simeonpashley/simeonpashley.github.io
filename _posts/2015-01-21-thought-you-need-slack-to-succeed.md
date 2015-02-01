@@ -8,19 +8,7 @@ tags: production
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
-
-
 ---
-<span class="Apple-style-span"
-style="font-family: Verdana; font-size: 13px;"></span>
-
 <div style="margin-bottom: 0px; margin-top: 0px;">
 
 Slack is the need to have capacity to adapt to change, it's no good

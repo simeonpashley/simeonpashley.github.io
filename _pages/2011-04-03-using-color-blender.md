@@ -2,8 +2,8 @@
 layout: page
 title: Using Color Blender
 date: 2011-04-03 20:39:38
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -26,11 +26,6 @@ design";s:37:"http://gamelinchpin.com/go/web_design";}s:4:"time";i:1422699217;}
 
 slider_style: sample.css
 slide_redirect_url: http://ringalpha.com/?page_id=750
-
-
-
-
-
 ---
 If you are accustomed to software programs for instance Adobe Photoshop,
 Flash together with other drawing software programs, I am certain you

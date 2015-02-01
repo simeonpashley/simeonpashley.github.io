@@ -11,12 +11,6 @@ type: post
 published: true
 description: 'Games As A
 Service: Do You Really Know What It Means?'
-
-
-
-
-
-
 ---
 I was looking at the schedule for [Develop Conference
 2010](http://www.develop-conference.com/) ( @developconf2010 ) to see if there was anything I should pick up on regarding game production and development and I've spotted a couple of tasty things that I have experience so I thought I'd jump the gun and share a little before July comes along. Some of the content we've seen before from prior conferences and here's what I've

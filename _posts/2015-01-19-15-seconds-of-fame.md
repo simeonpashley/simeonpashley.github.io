@@ -4,13 +4,11 @@ author: gamelinchpin
 title: 15 seconds of fame
 date: 2015-01-19 09:33:15
 categories: Marketing - people
-tags: []
+
 status: publish
 type: post
 published: true
 ---
-<span class="Apple-style-span"
-style="font-family: Verdana; font-size: 13px;"></span>
 
 <div style="margin-bottom: 0px; margin-top: 0px;">
 

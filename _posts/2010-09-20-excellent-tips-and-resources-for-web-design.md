@@ -3,8 +3,8 @@ layout: post
 author: gamelinchpin
 title: 6 Excellent Tips and Resources for Web Design
 date: 2010-09-20 14:14:05
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true

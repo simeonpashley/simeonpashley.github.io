@@ -2,8 +2,8 @@
 layout: page
 title: Search Engine Submission
 date: 2011-04-18 14:21:28
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -21,14 +21,6 @@ description:
 
 
 "-"
-
-
-
-
-
-
-
-
 
 ---
 <div id="search_engine_submission">
@@ -472,7 +464,6 @@ We will optimise and submit your website to hundreds of search engines
 and directories worldwide to help you unleash the full potential of your
 online business.
 
-\*
-Source: <http://www.enquiroresearch.com/eyetracking-report.aspx>
+*Source: <http://www.enquiroresearch.com/eyetracking-report.aspx>
 
 </div>

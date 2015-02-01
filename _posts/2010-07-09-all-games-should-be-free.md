@@ -9,21 +9,16 @@ status: publish
 type: post
 published: true
 description: hy iPhone and iPad developers should stop moaning about the sale price of their games
-
-
-
-
-
 ---
-(mobile post)\
+(mobile post)
  Theres a debate raging over on LinkedIn about protecting the relatively
 high price of iPad apps when compared to iPhone apps and i have to say i
 disagree. I got so far
 as: **Games should be free!**
 
 Why would I say this even though I derive a living from games along with
-many thousands of other game developers?\
-\
+many thousands of other game developers?
+
  Because it's entirely possible to make money from 'free' games with a
 caveat that some aspects of the experience can be embellished, enhanced
 or sped up at a price. OK, I suppose I exaggerated the first point but I

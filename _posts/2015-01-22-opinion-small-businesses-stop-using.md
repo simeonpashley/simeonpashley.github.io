@@ -9,14 +9,6 @@ status: publish
 type: post
 published: true
 
-
-
-
-
-
-
-
-
 ---
 If there's one thing I hate, it's receiving an automated reply from a
 small business, in particular one that's supposed to connect with me as

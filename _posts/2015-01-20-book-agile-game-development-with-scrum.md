@@ -3,7 +3,7 @@ layout: post
 author: gamelinchpin
 title: Book - Agile Game Development with SCRUM
 date: 2015-01-20 11:20:32
-categories: []
+
 tags: read me
 status: publish
 type: post

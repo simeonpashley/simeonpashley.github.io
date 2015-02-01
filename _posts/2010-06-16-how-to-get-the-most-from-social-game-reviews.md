@@ -149,9 +149,9 @@ killer".
 
 On the iPad / iPhone it also has an inherent flaw in when people are
 encouraged to give feedback.
- An example:![](assets/iPhone-Rating.png "iPhone Rating")\
- 1. I buy the game on my iPhone (no ratings system)\
- 2. I play the game on my iPhone\
+ An example:![](assets/iPhone-Rating.png "iPhone Rating")
+ 1. I buy the game on my iPhone (no ratings system)
+ 2. I play the game on my iPhone
  3. I've finished with it / bored of it / need the space, so I remove
 it.
  4. I'm prompted to rate the app/game out of 5

@@ -2,13 +2,11 @@
 layout: page
 title: Twitter Landing Page
 date: 2010-07-01 22:26:22
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
-
-
 ---
 ### Who is @gamelinchpin?
 

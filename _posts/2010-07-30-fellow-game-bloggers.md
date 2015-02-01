@@ -8,14 +8,6 @@ tags: business
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
-
 ---
 I've collected a list of all of the video game bloggers I've found so
 far. These cover a broad range of topics include developers, producers,

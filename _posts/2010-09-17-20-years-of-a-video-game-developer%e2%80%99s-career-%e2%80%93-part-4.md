@@ -8,7 +8,6 @@ tags: career - history - LinkedIn
 status: publish
 type: post
 published: true
-
 ---
 I'd like to share with you my game development career experience as part
 of a series of posts, let's rejoin the story at during the twilight days
@@ -48,7 +47,7 @@ projects, which didn't take long and we were expanding quickly.
 -   **Projects**: 1
 -   **Platforms**: PlayStation 2, XBox, PC
 
-**Kuju Sheffield v1.1**\
+**Kuju Sheffield v1.1**
  Within a few weeks we expanded into a larger office on the same floor
 that took us up to about 15 people before we needed to move again. We
 were working on a football game for Codemasters at this point and we
@@ -83,7 +82,7 @@ posh Media Center.
 -   ****Projects**:** 1
 -   **Platforms**: PlayStation 2, XBox, PC
 
-**Kuju Sheffield v1.2**\
+**Kuju Sheffield v1.2**
  ![](assets/sheffield_office-150x150.jpg "sheffield_office")Our studio
 increased quickly over the next few years peaking at about 40 staff
 across 3 projects being made on PC, PSP, Xbox & PS2.
@@ -121,7 +120,7 @@ many other developers and the prospects didn't look good.
 -   ****Projects**:** 3
 -   **Platforms**: PlayStation 2, XBox, PC
 
-**Kuju v2.0 - The King is Dead**\
+**Kuju v2.0 - The King is Dead**
  ![](assets/IMG_4287-150x150.jpg "1st World War devs")What happened next
 was a blur of rapid change.
 
@@ -164,7 +163,7 @@ around the corner.
 -   ****Projects**:** 1
 -   **Platforms**: PlayStation 2, XBox, PC
 
-**Kuju v2.1 - Custom Fit Office**\
+**Kuju v2.1 - Custom Fit Office**
  ![](assets/Arundel_SmileyChris1-150x150.jpg "Smiley Chris")Our new
 offices was brilliant. I managed to find us a large open-plan space and
 I planned the floor space incorporating meeting rooms, a small office
@@ -189,7 +188,7 @@ I structured the studio to be as agile as possible and we started to
 invade the new territory of Outsourcing the artwork that very few people
 were doing at the time. It just made complete sense.
 
-**Meeting the Stars**\
+**Meeting the Stars**
  Our football game was a dream come true for a handful of us as we went
 to Barcelona and Milan to go behind the scenes of the largest clubs at
 Barcelona, Inter Milan and AC Milan to capture reference of the stars.

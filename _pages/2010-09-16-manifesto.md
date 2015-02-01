@@ -2,8 +2,8 @@
 layout: page
 title: Manifesto
 date: 2010-09-16 16:27:03
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -25,13 +25,7 @@ description:
 
 
 
-Manifesto";s:55:"http://gamelinchpin.com/2010/06/linchpin-manifesto.html";}s:4:"time";i:1422703612;}
-
-
-
-
-
----
+Manifesto";s:55:"http://gamelinchpin.com/2010/06/linchpin-manifesto.html";}s:4:"time";i:1422703612;}---
 The *The Linchpin Manifesto* take from Seth Godin's book '[*Linchpin: Are You Indispensable? How to drive your career and create a remarkable
 future*](http://www.amazon.co.uk/gp/product/0749953357/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0749953357&linkCode=as2&tag=gamedevelcons-21)' is something I truly believe in and affects every aspect of my life.
 

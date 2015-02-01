@@ -2,8 +2,8 @@
 layout: page
 title: Write For Us
 date: 2010-06-09 11:26:44
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -18,7 +18,7 @@ Not only is writ­ing for us a great way to share your ideas with other
 peo­ple in a new com­mu­nity, but it’s a great way to get rec­og­nized
 and build new rela­tion­ships. And on the side, boost your reputation!
 
-**Canidates**\
+**Canidates**
  We only accept writers from the computer games industry who can really
 help to the other developers by sharing their vast knowledge and
 experience.

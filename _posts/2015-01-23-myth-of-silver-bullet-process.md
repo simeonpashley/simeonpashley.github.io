@@ -8,19 +8,7 @@ tags: production
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
-
-
 ---
-<span class="Apple-style-span"
-style="font-family: Verdana; font-size: 13px;"></span>
-
 <div style="margin-bottom: 0px; margin-top: 0px;">
 
 There is no one development process that fits all; Scrum, Prince, Lean,
@@ -42,9 +30,7 @@ team before you unleash it.
 
 </div>
 
-<div style="margin-bottom: 0px; margin-top: 0px;">
 
-</div>
 
 <div style="margin-bottom: 0px; margin-top: 0px;">
 
@@ -62,9 +48,7 @@ where you're largely implementing your design.
 
 </div>
 
-<div style="margin-bottom: 0px; margin-top: 0px;">
 
-</div>
 
 <div style="margin-bottom: 0px; margin-top: 0px;">
 

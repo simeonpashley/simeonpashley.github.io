@@ -8,12 +8,6 @@ tags: business model - episodic - LinkedIn
 status: publish
 type: post
 published: true
-
-
-
-
-
-
 ---
 I think there's a missed opportunity with Episodic games that are
 currently being launched, they're largely just about delivering a known

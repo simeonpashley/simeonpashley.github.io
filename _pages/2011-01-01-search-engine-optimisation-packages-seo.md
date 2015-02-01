@@ -2,8 +2,8 @@
 layout: page
 title: SEO - Search Engine Optimisation
 date: 2011-01-01 23:11:43
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -22,13 +22,6 @@ SEO, Link building, page rank
 
 description:
 Yahoo. Our proven Search Engine Optimisation works. We can help you too.
-
-
-
-
-
-
-
 
 
 
@@ -197,5 +190,5 @@ Image optimisation
 
 </div>
 
-**\
+**
 **

@@ -2,8 +2,8 @@
 layout: page
 title: Small Business Website
 date: 2011-04-10 08:16:41
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -29,13 +29,7 @@ FREE: Logo, Google SEO, .co.uk domain and hosting '
 "/web-design-packages/"
 
 slider_style: sample.css
-slide_redirect_url: http://ringalpha.com/small-business-website/
-
-
-
-
-
----
+slide_redirect_url: http://ringalpha.com/small-business-website/---
 Benefits for Businesses
 -----------------------
 
@@ -171,7 +165,7 @@ includes e-mail for your business correspondence.
 [**A business website** with virtually unlimited pages, unlimited
 categories, dynamic product gallery and much more. You can also publish
 your latest news and offers regularly by yourself.
- **Extend with:**\
+ **Extend with:**
 ](/web-design-packages/cms-website-package/)
 -   micro eCommerce Store
 -   booking/reservations
@@ -204,7 +198,7 @@ your latest news and offers regularly by yourself.
 
 <div class="description">
 
-[\
+[
  An E-Commerce website for you according to your requirements.
 ](/web-design-packages/web-design-ecommerce/)
 <div>

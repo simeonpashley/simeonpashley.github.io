@@ -3,12 +3,11 @@ layout: post
 author: gamelinchpin
 title: Optimising an eCommerce Site
 date: 2011-07-17 18:41:27
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true
-
 ---
 Our development work this week has included a lot of server optimisation
 for an eCommerce website and we **dramatically improved response

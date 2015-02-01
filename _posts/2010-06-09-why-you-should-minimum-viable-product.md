@@ -11,11 +11,6 @@ published: true and PC Games Video Games and PC Games Games and PC Games
 
 description: 'How to engage your game players and maximise the feedback
 loop: Change Game > Ship Game > Feedback > Change Game > Ship Game > Feedback'
-
-
-
-
-
 ---
 The term **Minimum Viable Product** (MVP) has recently come to be used
 in the world of video game production but what does it mean and how can

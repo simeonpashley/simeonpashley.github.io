@@ -2,8 +2,8 @@
 layout: page
 title: Website Design Packages
 date: 2011-01-01 21:38:48
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -34,13 +34,7 @@ optimisation";s:5:"/seo/";s:10:"Web
 Design";s:37:"http://gamelinchpin.com/go/web_design";s:9:"ecommerce";s:42:"/web-design-packages/web-design-ecommerce/";s:7:"hosting";s:28:"http://ringalpha.com/hosting";s:6:"domain";s:22:"/hosting/domain-names/";s:20:"Website Health
 Check";s:21:"/website-healthcheck/";s:9:"marketing";s:37:"http://ringalpha.com/search-marketing";s:11:"Latest
 News";s:28:"http://gamelinchpin.com/blog";s:11:"Web
-Hosting";s:31:"http://gamelinchpin.com/hosting";}s:4:"time";i:1422481343;}
-
-
-
-
-
----
+Hosting";s:31:"http://gamelinchpin.com/hosting";}s:4:"time";i:1422481343;}---
 Benefits for Businesses
 -----------------------
 
@@ -225,7 +219,7 @@ your latest news and offers regularly by yourself.
 
 <div class="description">
 
-[\
+[
 ](/web-design-packages/web-design-ecommerce/)
 An E-Commerce website for you according to your requirements.
 

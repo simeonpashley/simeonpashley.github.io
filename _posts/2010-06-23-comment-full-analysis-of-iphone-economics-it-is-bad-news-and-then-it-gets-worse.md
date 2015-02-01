@@ -8,13 +8,6 @@ tags: business - iphone
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
 ---
 I recently re-tweeted this article and I commented on the post but
 wanted to bring the discussion here to see what you think.

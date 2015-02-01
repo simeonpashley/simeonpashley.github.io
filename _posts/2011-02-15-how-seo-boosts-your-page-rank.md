@@ -3,8 +3,8 @@ layout: post
 author: gamelinchpin
 title: How SEO Boosts Your Page Rank
 date: 2011-02-15 19:30:47
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true

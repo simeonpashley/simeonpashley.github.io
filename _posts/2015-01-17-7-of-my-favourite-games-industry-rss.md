@@ -9,14 +9,6 @@ status: publish
 type: post
 published: true
 
-
-
-
-
-
-
-
-
 ---
 I spend a lot of my time keeping in touch with what's going off in the
 Games Industry and I thought it worthwhile sharing 7 of my favourite

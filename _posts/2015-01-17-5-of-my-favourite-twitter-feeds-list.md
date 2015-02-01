@@ -9,14 +9,6 @@ status: publish
 type: post
 published: true
 
-
-
-
-
-
-
-
-
 ---
 <div style="float: left;
 padding: 5px;">
@@ -49,7 +41,7 @@ and definitely worth following. Don't forget to mention @GameFreelancing
 **1. @milkstone** - A great Spanish Independent Game Development studio
 that's launched it's new iPhone title this week and also produces some
 great tweets about being an independent developer. One to watch.
-[Follow @milkstone](http://twitter.com/milkstone)\
+[Follow @milkstone](http://twitter.com/milkstone)
 <http://www.milkstonestudios.com/>
 
 </div>
@@ -60,7 +52,7 @@ great tweets about being an independent developer. One to watch.
 Product" and he also talks about starting a business in a 'lean' way,
 which always makes for an interesting read and something I'll be
 covering more about here on @GameFreelancing .
-[Follow @ericries](http://twitter.com/ericries)\
+[Follow @ericries](http://twitter.com/ericries)
 <http://www.startuplessonslearned.com/>
 
 </div>
@@ -72,7 +64,7 @@ finger on the pulse of promotion and connecting with your audience thats
 appropriate in many ways, such as how to talk to your game audience, how
 expectations change, how marketing has changed. It's often a thought
 provoking and inspiring read.
-[Follow @ThisIsSethsBlog](http://twitter.com/ThisIsSethsBlog)\
+[Follow @ThisIsSethsBlog](http://twitter.com/ThisIsSethsBlog)
 <http://sethgodin.typepad.com/>
 
 </div>

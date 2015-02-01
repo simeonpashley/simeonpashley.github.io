@@ -2,8 +2,8 @@
 layout: page
 title: One Click Website
 date: 2011-03-18 10:57:05
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -24,13 +24,7 @@ description:
 slider_style: sample.css
 slide_redirect_url: http://ringalpha.com/web-hosting/one-click-website/
 
-Design";s:37:"http://gamelinchpin.com/go/web_design";s:9:"ecommerce";s:42:"/web-design-packages/web-design-ecommerce/";}s:4:"time";i:1422120861;}
-
-
-
-
-
----
+Design";s:37:"http://gamelinchpin.com/go/web_design";s:9:"ecommerce";s:42:"/web-design-packages/web-design-ecommerce/";}s:4:"time";i:1422120861;}---
 Get your website online in minutes
 
 Get your website up and running in minutes

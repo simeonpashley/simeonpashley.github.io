@@ -115,7 +115,7 @@ Back then though, PC systems running DOS were the de facto standard and
 the ubiquitous text editor then was
 '[BRIEF](http://en.wikipedia.org/wiki/Brief_(text_editor))', which was a revelation because it not only restored your session but also enabled you to have multiple files open in split windows! Later versions also integrated the error messages from your tools that meant you could quickly jump around your code and fix the errors quickly without referencing a separate compiler output file.
 
-**<span style="font-weight: normal;">\
+**<span style="font-weight: normal;">
  </span>**
 
 I'll continue my career story in Part 3...

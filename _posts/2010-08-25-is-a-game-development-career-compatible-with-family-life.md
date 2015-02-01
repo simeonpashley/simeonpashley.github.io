@@ -8,15 +8,7 @@ tags: career
 status: publish
 type: post
 published: true
-description: "What compromises have you made to balance your career and family?\\r\\n"
-
-
-
-
-
-
-
----
+description: "What compromises have you made to balance your career and family?\\r\\n"---
 I've been following the thread over on Luke's blog entitled ['Goodbye,
 Realtime
 Worlds'](http://lukehalliwell.wordpress.com/2010/08/19/goodbye-realtime-worlds/) and

@@ -2,23 +2,21 @@
 layout: page
 title: Paypal Button Code
 date: 2009-05-10 12:48:46
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
-
-
 ---
 <div style="float: left;">
 
-\
+
 
 </div>
 
 <div style="float: left;">
 
-\
+
 
 </div>
 
@@ -89,31 +87,31 @@ guarantees. **Please check the results on your own website**
 Copy and paste the code below into your HTML
 --------------------------------------------
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+
+
+
+
+
+
+
+
+
+
+
+
 ### Test Your Button
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+
+
+
+
+
+
+
+
+
+
+
 
 </div>
 

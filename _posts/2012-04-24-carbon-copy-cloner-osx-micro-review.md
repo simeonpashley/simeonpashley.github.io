@@ -4,17 +4,10 @@ author: gamelinchpin
 title: Carbon Copy Cloner OSX - micro review
 date: 2012-04-24 11:02:24
 categories: General
-tags: []
+
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
 ---
 Carbon Copy Cloner - micro review
 

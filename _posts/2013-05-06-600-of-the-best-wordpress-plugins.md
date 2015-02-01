@@ -4,7 +4,7 @@ author: gamelinchpin
 title: 600+ of the best WordPress Plugins
 date: 2013-05-06 12:20:00
 categories: blog
-tags: []
+
 status: publish
 type: post
 published: true

@@ -8,7 +8,6 @@ tags: business - contract - royalties
 status: publish
 type: post
 published: true
-
 ---
 <div
 style="clear: left;
@@ -28,10 +27,10 @@ it's not easy if you lack experience but we're here to help.
 
 I'll start by going through some common elements of royalty clauses.
 
-\
- ** **\
- ****\
- ****\
+
+ ** **
+ ****
+ ****
  **I'd like to start out by saying always take professional legal advice
 before signing a contract, the information below is my opinion only
 based on experience.**
@@ -132,7 +131,7 @@ of this known at the start, there's should be some value attributed here
 but try and get this defined or at least **try and cap the amount** that
 goes against your royalties.
 
-**Retention or Returns**\
+**Retention or Returns**
  These terms refer to the amount of cash the publisher retains to cope
 with unsold or returned stock. This figure is used to reduce the amount
 your royalties are calculated against. There's not a lot you can do

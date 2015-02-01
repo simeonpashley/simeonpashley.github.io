@@ -2,8 +2,8 @@
 layout: page
 title: Website Healthcheck
 date: 2011-01-02 00:38:21
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -27,13 +27,6 @@ description:
 
 '9880'
 
-
-
-
-
-
-
-
 ---
 ![](assets/health-check.jpg "Website Health Check")
 
@@ -51,7 +44,7 @@ Easy of use and user experience are absolutely critical to the success
 of your site and it's important to **avoid over-complicating the
 experience** with lots of gadgets, technology and graphics.
 
-Contact us today for a [FREE Website Health Check](/contact)\
+Contact us today for a [FREE Website Health Check](/contact)
 
 ### Website Healthcheck Service
 

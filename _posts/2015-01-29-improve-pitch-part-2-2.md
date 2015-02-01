@@ -10,15 +10,12 @@ type: post
 published: true 2
 
 description: In Part 2 of the series we talk about Funding, Presentations, Speaking and include some useful Further Reading
-
-
-
 ---
 Recently I wrote an introduction to [How To Improve Your
 Pitch](/2010/06/improve-pitch.html) for  your game and I thought it
 worth writing a little bit more ahead of E3 Expo 2010. I'll follow on
 with a little more detail today.
-\
+
  I covered the basics yesterday but I've been thinking about this quite
 a lot today and I wanted to share some more things that will hopefully
 prove useful.
@@ -119,19 +116,19 @@ or [contact](/contact) me directly.
 
 ### Further Reading
 
-**Powerpoint**\
+**Powerpoint**
  [slide:ology: The Art and Science of Creating Great
 Presentations: The Art and Science of Presentation
 Design](http://www.amazon.co.uk/gp/product/0596522347?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0596522347)![](assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0596522347) -
-Book\
- **Public Speaking**\
+Book
+ **Public Speaking**
  [How to Develop Self-confidence and Influence People by Public Speaking
 (Personal
 Development)](http://www.amazon.co.uk/gp/product/0749305797?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0749305797)![](assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0749305797) -
-Book\
+Book
  [Speak Clearly](http://www.wikihow.com/Speak-Clearly) - External
-Article\
+Article
  [a repository of Public Speaking
-help](http://www.wikihow.com/Speak-Clearly) - External Article\
+help](http://www.wikihow.com/Speak-Clearly) - External Article
  [A nice concise article on public
 speaking](http://www.ehow.co.uk/way_5188340_presentation-tips-public-speaking.html) - External Article

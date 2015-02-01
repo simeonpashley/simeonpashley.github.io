@@ -9,13 +9,6 @@ status: publish
 type: post
 published: true
 description: 'In a guest post by Mike Reeves-McMillan, he helps you cope with the inevitable stress that comes with making video games. '
-
-
-
-
-
-
-
 ---
 Stress is a fact of 21st-century life, and all the more so when you're
 working on big, high-pressure projects. I've worked in a projects
@@ -23,7 +16,7 @@ environment for most of the past 20 years, and I know how it gets. You
 start to become irritable, forgetful, you may find yourself dreaming
 about work, you're tired but you can't sleep well, you might even start
 to find loud noises and bright lights painful. It's not fun.
-\
+
  Basically, what's happened is that what is meant to be a short-term
 response for getting you out of immediate physical danger, increasing
 your concentration and memory and awareness of your environment, has

@@ -4,17 +4,10 @@ author: gamelinchpin
 title: Resurrecting a Synology DiskStation
 date: 2012-04-23 21:08:29
 categories: General
-tags: []
+
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
 ---
 I walked into a minefield of problems when attempting to connect back to
 my Synology DS210j after a regular firmware update. The approved desktop

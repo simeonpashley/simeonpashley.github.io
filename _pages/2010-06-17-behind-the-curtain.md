@@ -2,12 +2,11 @@
 layout: page
 title: Behind The Curtain
 date: 2010-06-17 11:09:40
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
-
 ---
 ###### Last
 Updated: 17th June 2010

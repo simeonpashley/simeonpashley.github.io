@@ -2,21 +2,13 @@
 layout: page
 title: Why You Need Me
 date: 2010-09-16 14:37:32
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
 
 _
-
-
-
-
-
-
-
-
 
 
 
@@ -39,7 +31,7 @@ There are a multitude of ways in which I can help you succeed covering
 all of the people, business and project aspects. Please take a look at
 my 'How Can I Help?' page for more details.
  Need help getting your ideas down on paper and getting all of those
-important documents together while you're busy focusing on the game?\
+important documents together while you're busy focusing on the game?
  Need some Senior / Executive guidance when starting out on a new
 venture and need to make sure it's heading in the right direction?
 

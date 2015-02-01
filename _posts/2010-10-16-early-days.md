@@ -3,22 +3,14 @@ layout: post
 author: gamelinchpin
 title: Early days
 date: 2010-10-16 18:34:30
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true
 
 slider_style: sample.css
-slide_redirect_url: http://ringalpha.com/blog/early-days/
-
-
-
-
-
-
-
----
+slide_redirect_url: http://ringalpha.com/blog/early-days/---
 Over the last few weeks I've been ramping up my efforts to get my teeth
 into all these prototypes I've got milling around, most of which are
 linked from my homepage. They work but they're not really manageable or
@@ -44,7 +36,7 @@ platforms relatively quickly. I've also unified the common bits of code
 into something that's more usable across titles, which was the aim going
 forwards.
 
-**Hardware**\
+**Hardware**
  I code everything on a Mac Mini now and my PC hasn't been on for many
 months. My PC is faster and I prefer W7 to OSX but it's also true that
 it's a damn sight noisier, consumes more power and I can't make iOS apps

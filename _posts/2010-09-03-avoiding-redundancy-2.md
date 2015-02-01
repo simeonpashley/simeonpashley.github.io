@@ -9,13 +9,6 @@ status: publish
 type: post
 published: true
 description: Let's put the redundancy post in context and explore the topic a little more.
-
-
-
-
-
-
-
 ---
 I very recently wrote a post entitled '[Why Does Redundancy Always
 Happen In Game
@@ -25,7 +18,7 @@ It's a tough topic to discuss and it always has
 negative connotations but it's a fact of life and ignoring it and not
 being prepared is a bad thing.
 
-\
+
  [![GamesBrief Job Loss Tracker -
 3/Sep/2010](assets/Screen-shot-2010-09-03-at-16.14.14-150x116.png "GamesBrief Job Loss Tracker - 3/Sep/2010")](http://www.gamesbrief.com/joblosstracker/)I can totally see how the provocative title and lack of context could have riled some people so here's some context. Redundancy is obviously a real and horrible event that happens and it can be mitigated by properly running a business but it's largely inevitable.
 

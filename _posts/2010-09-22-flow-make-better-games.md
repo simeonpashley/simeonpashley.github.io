@@ -9,14 +9,6 @@ status: publish
 type: post
 published: true
 description: Working in a state of Flow is both productive and pleasing. You should foster and support it's existence for a happy team and game.
-
-
-
-
-
-
-
-
 ---
 I’ve been meaning to re-present something I did for a whole game
 development studio a while back about ‘**Flow**’. It instantly improved

@@ -4,15 +4,10 @@ author: gamelinchpin
 title: Blog - Game Development Social Media Partnership
 date: 2010-07-03 16:40:15
 categories: General
-tags: []
+
 status: publish
 type: post
 published: true
-
-
-
-
-
 ---
 ### Fellow Game Development bloggers
 

@@ -3,8 +3,8 @@ layout: post
 author: gamelinchpin
 title: Spring Clean Your Website to improve your Search Results ranking
 date: 2011-04-07 10:18:21
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true

@@ -8,7 +8,6 @@ tags: career
 status: publish
 type: post
 published: true
-
 ---
 The way we apply for roles is still baked into the tradition of a paper CV along with the formatting that goes with it. Stop, think about it.
 

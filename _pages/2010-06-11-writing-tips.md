@@ -2,12 +2,11 @@
 layout: page
 title: Writing Tips
 date: 2010-06-11 12:58:47
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
-
 ---
 I put together some writing tips to help guide you on your merry way
 should you wish to [Write For Us](/write-for-us).

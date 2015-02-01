@@ -9,14 +9,6 @@ status: publish
 type: post
 published: true
 
-
-
-
-
-
-
-
-
 ---
 There are many ways to communicate with people, what’s your preference?
 

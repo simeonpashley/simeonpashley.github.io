@@ -2,23 +2,11 @@
 layout: page
 title: Facebook Landing Page
 date: 2010-07-03 17:20:59
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
-
-_
-
-
-
-
-pashley";s:42:"http://gamelinchpin.com/about/about-simeon";s:8:"facebook";s:58:"http://www.facebook.com/pages/gamelinchpin/133379313340885";s:7:"twitter";s:31:"http://twitter.com/gamelinchpin";}s:4:"time";i:1422784191;}
-
-
-
-
-
 ---
 ### Who is @gamelinchpin?
 

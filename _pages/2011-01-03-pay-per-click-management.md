@@ -2,8 +2,8 @@
 layout: page
 title: Pay Per Click Management
 date: 2011-01-03 00:55:50
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -19,13 +19,6 @@ slide_redirect_url: http://ringalpha.com/pay-per-click-management/
 
 
 description:
-
-
-
-
-
-
-
 
 
 ---

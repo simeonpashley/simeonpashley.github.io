@@ -8,13 +8,6 @@ tags: LinkedIn - pitch - pitching
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
 ---
 Over the years I've both pitched many games and been on the receiving
 end of pitches too, all of which range from a small game worth £100k up
@@ -206,7 +199,7 @@ prototype.
 
 #### High Concept
 
-![image](assets/image14.png "image")\
+![image](assets/image14.png "image")
  The original Burnout game's X Statement
 is:
 

@@ -9,7 +9,6 @@ status: publish
 type: post
 published: true
 description: I've watched many developers and people make the wrong decisions they need to make to maximise their potential. I hope this post gives you a broader view on the nature of choosing your physical location within the games industry and the impact it has.
-
 ---
 Well, the inevitable has happened and by the time you're reading this
 I'll have travelled 250 miles to start the next phase of game
@@ -21,7 +20,7 @@ Why do I think that migrating to a game development  hub is inevitable?
 Because you cannot makes games in a vacuum and both your career and your
 business need talent to feed on or you will starve.
 
-\
+
  (BTW pretty much all of my posts are scheduled, but don't tell anyone)
 
 I have long supported game development throughout the whole of the UK
@@ -92,7 +91,7 @@ You cannot ignore this isolation and the distances involved in
 connecting with the hubs as it can be a blocking issue. The prize has to
 be very special to warrant the personal investment in both sides.
 
-Here's a choice if you were commissioning a game:\
+Here's a choice if you were commissioning a game:
  a) Developer A - easy to get to, has ability to tap talent to expand
 and game is "sure-fire hit".
  b) Developer B - 6 hour one-way journey door-to-door, only "local"

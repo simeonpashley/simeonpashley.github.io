@@ -2,12 +2,11 @@
 layout: page
 title: My Follow Policy
 date: 2010-07-01 23:46:19
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
-
 ---
 ### How and Why I use Social Networks such as LinkedIn, Facebook and Twitter. A Social Networking Policy
 

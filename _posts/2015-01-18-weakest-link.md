@@ -56,6 +56,4 @@ things along, maybe you're happy where you are?
 
 </div>
 
-<div>
 
-</div>

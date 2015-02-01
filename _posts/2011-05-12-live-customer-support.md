@@ -3,8 +3,8 @@ layout: post
 author: gamelinchpin
 title: Live Customer Support, chat and monitoring of your website visitors
 date: 2011-05-12 15:24:59
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true
@@ -28,8 +28,8 @@ style="float:right;margin:0 0 10px 10px; border:1px #dfdfdf solid;
 padding: 5px;width:250px;font-size:1.2em;
 color:black;text-align:center;">
 
-Add Live Chat/Support to your website TODAY for ~~£100~~ **only £50**!\
-  \
+Add Live Chat/Support to your website TODAY for ~~£100~~ **only £50**!
+  
  [Contact Us](/contact) to get started straight away.
 
 </div>
@@ -60,7 +60,7 @@ Once installed, your website visitors appear as chat clients right
 inside your desktop chat client along with basic information about that
 particular user.
  ![live customer
-support](assets/buddy-list-300x121.png "live customer support")\
+support](assets/buddy-list-300x121.png "live customer support")
  On the website, they see that you're 'live' and they can choose to chat
 with you if they need help and you can also choose to start chatting to
 them.
@@ -118,7 +118,7 @@ Want Real-Time Chat on your website?
 We can help you setup your website and desktop client to enable you to
 catch real-time visitors on your website and improve your chance of
 converting those visitors into customers. [Contact us to find out
-how](/contact)\
+how](/contact)
  I can honestly say that we are genuinely impressed with Olark Live
 Customer Support and so our customers, especially as it brought them
 real orders within hours of being installed.

@@ -9,13 +9,6 @@ status: publish
 type: post
 published: true
 description: The Linchpin manifesto holds shows some of the things I hold dear and try to act on every day. I'm sure these apply to you too.
-
-
-
-
-
-
-
 ---
 <div style="font-size: 150%;">
 

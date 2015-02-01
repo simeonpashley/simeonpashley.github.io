@@ -4,18 +4,10 @@ author: gamelinchpin
 title: Performance and Development Review Template
 date: 2013-05-13 11:50:25
 categories: production
-tags: []
+
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
-
 ---
 Performance and Development reviews are an important aspect of
 everyone's career where ever you happen to work. We needed to provide

@@ -9,13 +9,6 @@ status: publish
 type: post
 published: true
 description: In the upcoming series I'll cover everything you need to know about Video Game Production. The whole story including a happy ending.
-
-
-
-
-
-
-
 ---
 By special request I'm going to dig deep and put together a series of
 posts on **Video Game Production**, covering the whole cycle from

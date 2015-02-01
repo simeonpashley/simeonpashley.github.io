@@ -3,8 +3,8 @@ layout: post
 author: gamelinchpin
 title: What Clients Want
 date: 2014-12-05 14:54:31
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true

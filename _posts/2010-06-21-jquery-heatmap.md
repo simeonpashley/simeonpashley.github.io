@@ -3,8 +3,8 @@ layout: post
 author: gamelinchpin
 title: jQuery heatmap
 date: 2010-06-21 14:38:22
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true
@@ -19,24 +19,16 @@ description:
 
 
 
-
-
-
-
-
-
-
-
 ---
 <div style="float: left;">
 
-\
+
 
 </div>
 
 <div style="float: left;">
 
-\
+
 
 </div>
 

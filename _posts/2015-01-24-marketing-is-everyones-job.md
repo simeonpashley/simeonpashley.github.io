@@ -9,22 +9,12 @@ status: publish
 type: post
 published: true
 
-
-
-
-
-
-
-
-
 ---
 In a world of freelancers, contractors and small, tight development
 communities. Everyone is on the public face of their business and
 reputation.
 
-<div>
 
-</div>
 
 <div>
 

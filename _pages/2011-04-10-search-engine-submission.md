@@ -2,8 +2,8 @@
 layout: page
 title: Search Engine Submission
 date: 2011-04-10 20:38:33
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -20,14 +20,6 @@ optimisation";s:5:"/seo/";s:7:"website";s:37:"http://gamelinchpin.com/go/web_des
 
 
 description:
-
-
-
-
-
-
-
-
 
 ---
 Why is Search Engine Optimisation (SEO) important?
@@ -353,5 +345,4 @@ We will optimise and submit your website to hundreds of search engines
 and directories worldwide to help you unleash the full potential of your
 online business.
 
-\*
-Source: <http://www.enquiroresearch.com/eyetracking-report.aspx>
+*Source: <http://www.enquiroresearch.com/eyetracking-report.aspx>

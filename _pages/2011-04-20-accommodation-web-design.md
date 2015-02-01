@@ -2,8 +2,8 @@
 layout: page
 title: Accommodation Web Design
 date: 2011-04-20 21:16:44
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -26,14 +26,7 @@ description:
 
 
 
-Design";s:37:"http://gamelinchpin.com/go/web_design";}s:4:"time";i:1422238820;}
-
-
-
-
-
-
----
+Design";s:37:"http://gamelinchpin.com/go/web_design";}s:4:"time";i:1422238820;}---
 Do you want just a simple website that is attractive that you can manage
 and brings in some new business? We've got you covered.
 

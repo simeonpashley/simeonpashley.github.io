@@ -2,8 +2,8 @@
 layout: page
 title: Get British Business Online partner
 date: 2011-04-08 14:04:33
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -31,13 +31,7 @@ Google, Enterprise UK, BT and partners such as Ring Alpha
 
 
 slider_style: sample.css
-slide_redirect_url: http://ringalpha.com/get-british-business-online-partner/
-
-
-
-
-
----
+slide_redirect_url: http://ringalpha.com/get-british-business-online-partner/---
 The GBBO initiative is setup by partners such as Google, BT and
 Enterprise UK to help businesses understand the importance of having an
 internet presence and creating their own website. Ring Alpha Web Design

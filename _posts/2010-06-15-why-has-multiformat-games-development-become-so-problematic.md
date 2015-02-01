@@ -9,11 +9,6 @@ status: publish
 type: post
 published: true
 description: Why has multiformat games development become so problematic?
-
-
-
-
-
 ---
 > With release dates slipping as titles need ‘further development time’
 > and louder groans from coders regarding the trials of contemporary
@@ -30,7 +25,7 @@ Cox](http://uk.linkedin.com/pub/mike-cox/2/55a/584)" as the author got his name 
 
 Read the full article below, including me waffling on about
 multi-platform video game development.
-\
+
  **Posted: Thursday, 3rd January 2008 at 9:38 am**
 
 > With release dates slipping as titles need ‘further development time’

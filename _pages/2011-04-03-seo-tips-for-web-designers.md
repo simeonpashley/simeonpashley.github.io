@@ -2,8 +2,8 @@
 layout: page
 title: SEO tips for web designers
 date: 2011-04-03 19:06:40
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -25,12 +25,6 @@ description:
 
 slider_style: sample.css
 slide_redirect_url: http://ringalpha.com/?page_id=743
-
-
-
-
-
-
 ---
 SEO (Search Engine Optimization) is certainly a sensitive area of
 interest inside web page design network. We have all noticed this

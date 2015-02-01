@@ -4,7 +4,7 @@ author: gamelinchpin
 title: 200+ RSS feeds from carefully cultivated reading list
 date: 2013-04-19 11:30:00
 categories: production
-tags: []
+
 status: publish
 type: post
 published: true
@@ -19,9 +19,7 @@ day. Here's how to import my list for your own use.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -38,7 +36,7 @@ Since most RSS readers sync with *Google Reader* you can use that as a
 way to get the feed setup. After which you can sync it with your
 favourite reader of choice
 
-Here's a quick way to use my feeds as a starting point:\
+Here's a quick way to use my feeds as a starting point:
  ![Google Reader
 settings](assets/Screenshot_18_04_2013_14_09-300x207.png)
 
@@ -77,9 +75,7 @@ where I can read them in comfort on my laptop or tablet.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -101,9 +97,7 @@ It really couldn't be simpler as you don't have to import anything!
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -111,9 +105,7 @@ That's it. **Stick with *Feedly*** as it supports 'Send to **Pocket**'
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -122,9 +114,7 @@ of stuff in there you're never going to read but it's a start. :)
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -134,9 +124,7 @@ You can also install a *Feedly* plugin for
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 

@@ -33,7 +33,7 @@ all of its own. I had to have it!
 iPad](http://clkuk.tradedoubler.com/click?p=23708&a=1829861&url=http%3A%2F%2Fitunes.apple.com%2Fgb%2Fapp%2Fbit-trip-beat-hd%2Fid383795335%3Fmt%3D8%26uo%3D4%26partnerId%3D2003)
 
 [![BIT.TRIP](assets/badge_appstore-lrg.gif)BIT.TRIP for
-iPhone](http://clkuk.tradedoubler.com/click?p=23708&a=1829861&url=http%3A%2F%2Fitunes.apple.com%2Fgb%2Fapp%2Fbit-trip-beat%2Fid383791435%3Fmt%3D8%26uo%3D4%26partnerId%3D2003)\
+iPhone](http://clkuk.tradedoubler.com/click?p=23708&a=1829861&url=http%3A%2F%2Fitunes.apple.com%2Fgb%2Fapp%2Fbit-trip-beat%2Fid383791435%3Fmt%3D8%26uo%3D4%26partnerId%3D2003)
 
 ### Modizer
 
@@ -67,7 +67,7 @@ Get your self some old skool tunes!
 > ...
 
 [![Modizer](assets/badge_appstore-lrg.gif) Modizer for
-**iPhone**](http://clkuk.tradedoubler.com/click?p=23708&a=1829861&url=http%3A%2F%2Fitunes.apple.com%2Fgb%2Fapp%2Fmodizer%2Fid393964792%3Fmt%3D8%26uo%3D4%26partnerId%3D2003)\
+**iPhone**](http://clkuk.tradedoubler.com/click?p=23708&a=1829861&url=http%3A%2F%2Fitunes.apple.com%2Fgb%2Fapp%2Fmodizer%2Fid393964792%3Fmt%3D8%26uo%3D4%26partnerId%3D2003)
  [![Modizer](assets/badge_appstore-lrg.gif)Modizer for
-**iPad**](http://clkuk.tradedoubler.com/click?p=23708&a=1829861&url=http%3A%2F%2Fitunes.apple.com%2Fgb%2Fapp%2Fmodizer%2Fid393964792%3Fmt%3D8%26uo%3D4%26partnerId%3D2003)\
+**iPad**](http://clkuk.tradedoubler.com/click?p=23708&a=1829861&url=http%3A%2F%2Fitunes.apple.com%2Fgb%2Fapp%2Fmodizer%2Fid393964792%3Fmt%3D8%26uo%3D4%26partnerId%3D2003)
  ****

@@ -3,7 +3,7 @@ layout: post
 author: gamelinchpin
 title: Quote – The gift is to the giver, and comes back to him… – Walt Whitman
 date: 2010-06-03 11:24:00
-categories: []
+
 tags: games
 status: publish
 type: post

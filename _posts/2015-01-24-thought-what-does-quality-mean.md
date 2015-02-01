@@ -3,19 +3,11 @@ layout: post
 author: gamelinchpin
 title: Thought - What does Quality mean?
 date: 2015-01-24 06:30:53
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
-
 
 ---
 Without looking it up, what does quality mean to you in terms of how you

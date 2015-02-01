@@ -2,8 +2,8 @@
 layout: page
 title: What is Joomla?
 date: 2011-04-03 19:10:28
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -25,12 +25,6 @@ description:
 
 slider_style: sample.css
 slide_redirect_url: http://ringalpha.com/?page_id=746
-
-
-
-
-
-
 ---
 What is Joomla!, not to mention what might the application undertake
 designed for my own Webpage?

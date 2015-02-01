@@ -9,14 +9,6 @@ status: publish
 type: post
 published: true
 
-
-
-
-
-
-
-
-
 ---
 Hmmm…. this could be a tough one to work out. Imagine all of the power
 used; development hardware like PCs, food eaten, servers, travel for

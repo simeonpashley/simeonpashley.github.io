@@ -3,8 +3,8 @@ layout: post
 author: gamelinchpin
 title: The Implications of YouTube Being The Second Largest Search Engine
 date: 2010-07-20 11:28:33
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true
@@ -13,13 +13,6 @@ published: true
 
 
 description:
-
-
-
-
-
-
-
 
 
 

@@ -4,19 +4,11 @@ author: gamelinchpin
 title: Setting up OSX for Web Development
 date: 2012-04-11 16:57:46
 categories: web development
-tags: []
+
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
----
-*(I will be maintaining this Post with my current setup steps as time
+---*(I will be maintaining this Post with my current setup steps as time
 moves on)*
 
 I've been using OSX for Web Development for a while now, initially on a

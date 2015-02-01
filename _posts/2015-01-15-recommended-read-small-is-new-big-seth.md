@@ -8,8 +8,6 @@ tags: read me
 status: publish
 type: post
 published: true
-
-
 ---
 <div>
 
@@ -49,5 +47,5 @@ synopsis, ratings and other reviews.
 
 </div>
 
-\
+
 

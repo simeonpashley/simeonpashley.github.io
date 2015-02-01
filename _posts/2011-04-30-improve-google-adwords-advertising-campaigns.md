@@ -3,8 +3,8 @@ layout: post
 author: gamelinchpin
 title: Improve Google Adwords advertising campaigns
 date: 2011-04-30 14:05:27
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true
@@ -20,20 +20,12 @@ description:
 
 
 
-
-
-
-
-
-
-
-
 ---
 Managing an effective **Pay Per Click advertising campaign** on **Google
 Adwords** takes experience and skill to do right as there are many
 factors that come into play in order to really **maximise your budget
 and effectiveness**.
-\
+
  At the time of writing every new Adwords account gets a £30 voucher to
 use within 15 days of the account opening so it's worth grabbing that
 free cash and using it will.

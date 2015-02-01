@@ -18,8 +18,8 @@ Maybe your one of these people, or maybe you'd like some critique of
 your work?
 
 I'm currently looking for 1 other developer to mentor and devote some
-real attention to, should this be you?\
-\
+real attention to, should this be you?
+
  I'm happy to say that in many cases I provide assistance and make a
 difference with their games and help re-direct them towards a more
 prosperous future by providing them with not only advice on the games

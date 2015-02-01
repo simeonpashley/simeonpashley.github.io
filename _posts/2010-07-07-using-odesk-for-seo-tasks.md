@@ -3,8 +3,8 @@ layout: post
 author: gamelinchpin
 title: Using Odesk For SEO Tasks
 date: 2010-07-07 14:32:40
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true
@@ -13,13 +13,6 @@ published: true
 
 
 description:
-
-
-
-
-
-
-
 
 
 

@@ -9,12 +9,6 @@ status: publish
 type: post
 published: true
 description: Find out what a 15 year video game developer has to say.
-
-
-
-
-
-
 ---
 I recently circulated a few questions to some veteran video game
 developers I know about their experience and their insight into video

@@ -9,14 +9,6 @@ status: publish
 type: post
 published: true
 description: All video game development need documents and here are some tips to ensure your documents are read, acted on and kept up-to-date.
-
-
-
-
-
-
-
-
 ---
 All video game production projects need documents, whether it’s a four
 page description for an iPhone game, Xbox Live Indie Game, Flash game or

@@ -3,13 +3,12 @@ layout: post
 author: gamelinchpin
 title: Javascript TreeGrid control
 date: 2010-06-20 14:39:24
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true
----
-**JavaScript TreeGrid control** aimed to organize and edit information
+---**JavaScript TreeGrid control** aimed to organize and edit information
 in grid, tree, or treegrid modes.-[Link](http://www.maxtreegrid.com/).
 
 <span><span>10 things every good web developer should know –

@@ -4,18 +4,10 @@ author: gamelinchpin
 title: Game Development Post Production - SHU GSPM S2W2
 date: 2012-03-28 11:39:30
 categories: production
-tags: []
+
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
-
 
 ---
 Below is a link to the presentation I gave at *Sheffield Hallam

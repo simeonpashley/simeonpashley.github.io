@@ -9,12 +9,6 @@ status: publish
 type: post
 published: true
 description: It's nice to get comments on games made ages ago
-
-
-
-
-
-
 ---
 I always get a warm fuzzy feeling when I get to know that people enjoyed
 the games I made all those years ago...in todays world it's relatively

@@ -4,7 +4,7 @@ author: gamelinchpin
 title: Job Interview Assessment Form Template
 date: 2013-04-29 11:41:38
 categories: General
-tags: []
+
 status: publish
 type: post
 published: true

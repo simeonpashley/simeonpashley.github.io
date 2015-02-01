@@ -4,7 +4,7 @@ author: gamelinchpin
 title: Syncing with Apple iPhone without iTunes — and it actually works!
 date: 2014-12-05 20:05:04
 categories: production
-tags: []
+
 status: publish
 type: post
 published: true

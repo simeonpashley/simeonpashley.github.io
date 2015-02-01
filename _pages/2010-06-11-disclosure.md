@@ -2,8 +2,8 @@
 layout: page
 title: Disclosure
 date: 2010-06-11 14:11:26
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -22,9 +22,7 @@ questions about this blog, please contact  Simeon (at) gamelinchpin
 
 </div>
 
-<div>
 
-</div>
 
 <div id="_mcePaste">
 
@@ -33,9 +31,7 @@ insertions or other forms of compensation.
 
 </div>
 
-<div>
 
-</div>
 
 <div id="_mcePaste">
 
@@ -47,9 +43,7 @@ as paid or sponsored content.
 
 </div>
 
-<div>
 
-</div>
 
 <div id="_mcePaste">
 
@@ -64,9 +58,7 @@ the manufacturer, provider or party in question.
 
 </div>
 
-<div>
 
-</div>
 
 <div id="_mcePaste">
 

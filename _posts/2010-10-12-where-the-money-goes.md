@@ -4,17 +4,10 @@ author: gamelinchpin
 title: Where The Money Goes
 date: 2010-10-12 11:28:08
 categories: commercial
-tags: []
+
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
 ---
 I wanted to share with you a presentation about **Where The Money Goes**
 that is received from making video games. I made this presentation a few

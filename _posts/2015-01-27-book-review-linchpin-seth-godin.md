@@ -13,12 +13,6 @@ published: true
 
 
 description: Seth Godin always inspires with his thought provoking writing and this book is now exception.
-
-
-
-
-
-
 ---
 <div class="separator"
 style="clear: both;
@@ -48,7 +42,7 @@ reach, then you have what it takes to become indispensable. It's time to
 stop complying with the system and draw your own map.*"
 
 Here's what I thought...
-\
+
 I have to say for the most part this is an inspiring read and has
 affected my approach to work, and it's influence can be seen on my blog
 postings. I can't help but see how anyone can be similarly affected. I
@@ -87,5 +81,5 @@ Read this, and The Dip and Tribes and you'll be spouting Godinisms!
 
   ------------------------ ------------------------ ------------------------
 
-\
+
 ![](assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0749953357)

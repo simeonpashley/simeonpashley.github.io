@@ -2,8 +2,8 @@
 layout: page
 title: Web Design Doncaster
 date: 2011-03-30 17:50:08
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -27,13 +27,7 @@ description:
 Design";s:37:"http://gamelinchpin.com/go/web_design";s:9:"rotherham";s:22:"/web-design-rotherham/";s:9:"sheffield";s:22:"/web-design-sheffield/";s:9:"doncaster";s:22:"/web-design-doncaster/";}s:4:"time";i:1422504702;}
 
 slider_style: sample.css
-slide_redirect_url: http://ringalpha.com/web-design-doncaster/
-
-
-
-
-
----
+slide_redirect_url: http://ringalpha.com/web-design-doncaster/---
 ![Web Design
 Doncaster](assets/frenchgate-e1301507291969-150x150.jpg "Web Design Doncaster")Based
 in Rotherham, Ring Alpha specialise in bringing more web business to

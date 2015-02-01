@@ -3,8 +3,8 @@ layout: post
 author: gamelinchpin
 title: Extend the Range of your Home or Business Wifi Network
 date: 2011-02-01 11:32:45
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true
@@ -21,14 +21,6 @@ slider_style: sample.css
 slide_redirect_url: http://ringalpha.com/blog/extend-the-range-of-your-home-or-business-wifi-network/
 
 
-
-
-
-
-
-
-
-
 ---
 I am sometimes asked how to extend the range of your home or business
 Wifi network using cheap hardware and the ADSL Router your ISP gave you
@@ -36,13 +28,13 @@ for free and I wanted to share with you my tips.
 
 <div style="float: left;">
 
-\
+
 
 </div>
 
 <div style="float: left;">
 
-\
+
 
 </div>
 
@@ -131,7 +123,7 @@ with firmware v2.2 and it's a breeze.
 
 -   [D-Link DWL-2100AP - 108Mbps Super G 802.11G Wireless Access
     Point](http://www.amazon.co.uk/gp/product/B00019EYVG?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B00019EYVG)
--   **OPTIONAL - Netgear GS108 8-port Gigabit Hub**\
+-   **OPTIONAL - Netgear GS108 8-port Gigabit Hub**
      The 2100AP sadly only has 1 network port so you'll need a little
     network hub if you want to connect more than 1 device to the
     endpoint.

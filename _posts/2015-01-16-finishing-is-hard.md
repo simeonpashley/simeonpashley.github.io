@@ -10,20 +10,13 @@ type: post
 published: true
 
 
-
-
-
-
-
-
-
 ---
 ![Knackered Runner](assets/4633508350_63c6eff451_m.jpg)Every new project
 starts out exciting and fun. Then it gets harder and less fun, until it
 hits a low point-really hard, and not much fun at all. And then you find
 yourself asking if the goal is even worth the hassle.
 
-Are you a finisher?\
+Are you a finisher?
 
 You're probably at Alpha and the hard work really starts now, it's time
 to stop tinkering, tweaking and adding features and it's time to ship

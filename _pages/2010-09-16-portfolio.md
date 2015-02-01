@@ -2,8 +2,8 @@
 layout: page
 title: Portfolio
 date: 2010-09-16 14:41:32
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -11,14 +11,6 @@ published: true
 _
 
 'yes'
-
-
-
-
-
-
-
-
 
 
 
@@ -75,12 +67,12 @@ Development</span>
 -   Future Platform titles
 -   Many unreleased prototypes
 
-<span id="p-s646"><span id="p-s647">\
- </span></span>\
+<span id="p-s646"><span id="p-s647">
+ </span></span>
  <span id="p-s646"><span id="p-s647"><span style="color: #0b5394;">2006
 – 2008
 date: </span>**<span style="color: #0b5394;">Chemistry
-</span>**<span style="color: #0b5394;">(formerly Kuju Entertainment Sheffield Studio): Studio Head</span></span></span>**\
+</span>**<span style="color: #0b5394;">(formerly Kuju Entertainment Sheffield Studio): Studio Head</span></span></span>**
 **
 
 ****
@@ -202,8 +194,8 @@ Programmer</span></span></span>
 
 <div id="p-s6484">
 
-<span id="p-s6486"><span id="p-s6487">\
- </span></span>\
+<span id="p-s6486"><span id="p-s6487">
+ </span></span>
  <span id="p-s6486"><span id="p-s6487"><span
 style="color: #0b5394;">1987 – 1988: </span>**<span
 style="color: #0b5394;">Alligata Software Ltd</span>**<span

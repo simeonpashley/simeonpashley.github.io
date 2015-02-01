@@ -13,12 +13,6 @@ published: true
 
 
 description: Generalist or Specialist game developer?
-
-
-
-
-
-
 ---
 Whilst researching teams, I recently came across 2 similar concepts that
 describe the skills of people working in your beloved game development
@@ -28,7 +22,8 @@ I wanted to know more about them and how these types relate to my
 experience of people and if the idea gives me something for me to learn.
 
 The shape of the letter is a nice way to visualise someones skill with
-the horizontal stroke '--------' referring to the breadth of someones
+the horizontal stroke '--------
+' referring to the breadth of someones
 skills and the vertical '|' referring to how skilled they are in that
 particular skill.
 

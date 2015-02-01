@@ -76,6 +76,6 @@ successful. :)
 #### Further Reading
 
 Blog Post - [Are You
-Unique?](http://game-linchpin.com/2010/05/are-you-unique.html)\
+Unique?](http://game-linchpin.com/2010/05/are-you-unique.html)
  Blog Post - [Weakest Link – Be A Better Game
 Developer](http://game-linchpin.com/2010/05/weakest-link.html)

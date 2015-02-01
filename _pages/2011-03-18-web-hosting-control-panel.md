@@ -2,8 +2,8 @@
 layout: page
 title: Web Hosting Control Panel
 date: 2011-03-18 10:51:23
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -25,13 +25,7 @@ slider_style: sample.css
 slide_redirect_url: http://ringalpha.com/web-hosting/web-hosting-control-panel/
 
 Hosting";s:31:"http://gamelinchpin.com/hosting";s:12:"Domain
-Names";s:44:"http://gamelinchpin.com/hosting/domain-names";}s:4:"time";i:1422752384;}
-
-
-
-
-
----
+Names";s:44:"http://gamelinchpin.com/hosting/domain-names";}s:4:"time";i:1422752384;}---
 Our web hosting control panel has been created to provide you with all
 the tools you need to make the most of your website. This guide will
 provide you with an over view of the great features available to our web

@@ -2,8 +2,8 @@
 layout: page
 title: Resources
 date: 2011-05-06 11:14:59
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -20,14 +20,6 @@ published: true
 description:
 
 '0'
-
-
-
-
-
-
-
-
 
 
 

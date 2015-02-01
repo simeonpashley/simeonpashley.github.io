@@ -4,7 +4,7 @@ author: gamelinchpin
 title: Five eCommerce Website SEO tips you can use
 date: 2011-04-27 13:36:39
 categories: eCommerce
-tags: []
+
 status: publish
 type: post
 published: true

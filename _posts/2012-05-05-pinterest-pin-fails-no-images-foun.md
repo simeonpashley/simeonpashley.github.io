@@ -4,7 +4,7 @@ author: gamelinchpin
 title: Pinterest pins fails to stick
 date: 2012-05-05 12:38:35
 categories: web development
-tags: []
+
 status: publish
 type: post
 published: true
@@ -18,7 +18,7 @@ website itself.
 
 I tried a few ways to find solutions for the websites I manage.
 
-**Pinning typically fails in 2 ways:**\
+**Pinning typically fails in 2 ways:**
  When pinning via the common **'Pin It' bookmarklet** or using the
 onpage embedded 'Pin It' button the Image and description appear OK for
 the javascript pop-up but when the 'Pin This' button is pressed nothing

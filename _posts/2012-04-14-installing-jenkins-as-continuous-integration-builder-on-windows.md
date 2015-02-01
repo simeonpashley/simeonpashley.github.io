@@ -4,7 +4,7 @@ author: gamelinchpin
 title: Installing Jenkins as Continuous Integration builder on Windows
 date: 2012-04-14 12:37:03
 categories: web development
-tags: []
+
 status: publish
 type: post
 published: true
@@ -18,9 +18,9 @@ model.
 
 Setting up a Continuous Integration server was the 1st task and I chose
 [Jenkins](http://jenkins-ci.org/) for the task in hand. This had to be setup on a Windows system so that it could invoke Visual Studio 2010 in order to build the required projects parts that were a mix of VB applications and ASP.NET web services. We also had a requirement to use Perforce as the SCM of choice.
-\
 
-\
+
+
  I'm assuming you already have a working build of your product on a host
 machine with your VS2010 build already cleanly building via a solution
 file.
@@ -50,7 +50,7 @@ in a common directory regardless of host machine that maps straight into
 the Perforce Depot at a consistent point. This ensures we can get
 developers up & running very quickly. In our case, it's:
 
-    C:\dev\
+    C:\dev
 
 Firstly, we'll relocate Jenkins into that directory so we can maintain
 it inside our Perforce Depot. So locate your downloaded & unpacked
@@ -91,8 +91,8 @@ this (b) restart Jenkins service to populate the list.
 #### Configure location of MSBuild.exe
 
 Go to your local *Jenkins Configuration* via
-<http://localhost:8080/configure>\
- Navigate down that page to *MSBuild* section\
+<http://localhost:8080/configure>
+ Navigate down that page to *MSBuild* section
  click '*Add MSBuild*'
 
 -   **Name**: .NET 4.0
@@ -109,16 +109,16 @@ Build Job
 
 ### Add a new Build Job
 
--- **New Job** http://localhost:8080/view/All/newJob\
- -- **Job Name**: *ProjectName*\
- -- **Type**: Build a free-style software project\
+-- **New Job** http://localhost:8080/view/All/newJob
+ -- **Job Name**: *ProjectName*
+ -- **Type**: Build a free-style software project
  -- **OK**
 
-![](assets/Jenkins-W7.jpg "Jenkins New Job")\
- Setup your Job to execute a **MSBuild** script:\
+![](assets/Jenkins-W7.jpg "Jenkins New Job")
+ Setup your Job to execute a **MSBuild** script:
  Navigate down through *Build -> Add Build Step -> Build a Visual
-Studio project*\
- -- **MsBuild Version**: .NET 4.0\
+Studio project*
+ -- **MsBuild Version**: .NET 4.0
  -- **MsBuild Build File**:
 C:\\dev\\Projects\\*ProjectName*\\*Project.vbproj*
 
@@ -147,8 +147,8 @@ Available*
 We're now going to configure the default Perforce command for the whole
 of Jenkins.
 
-Go to <http://localhost:8080/configure> and navigate down to *Perforce* section of the configuration click '*Add Perforce*'\
- -- **Name**: p4\
+Go to <http://localhost:8080/configure> and navigate down to *Perforce* section of the configuration click '*Add Perforce*'
+ -- **Name**: p4
  -- **Path**: C:\\Program Files\\Perforce\\p4.exe
 
 The system wide default Perforce command is now installed and ready for
@@ -160,9 +160,9 @@ Next we're going to join the command into the job so they execute when
 appropriate.
 
 Go to the job configuration page for the Job you're setting up
-and locate '*Source Code Management*' and select '*Perforce*'\
- --- **P4PORT**: *your perforce server IP*:1666\
- --- **username**: *your perforce username*\
+and locate '*Source Code Management*' and select '*Perforce*'
+ --- **P4PORT**: *your perforce server IP*:1666
+ --- **username**: *your perforce username*
  --- **workspace**: jenkins
 
 Ensure the perforce workspace/view mappings are accurate inside the
@@ -188,8 +188,8 @@ when you initiate a build. It's all good but it's not very
 *Continuous.* To make this work we're going to get Jenkins to poll
 Perforce every 1 minute for changes and then automatically start the Job
 we already setup.
- Find the setup portion inside Job -> Configure -> Build Triggers\
- -- [x] **Poll SCM** (checked)\
+ Find the setup portion inside Job -> Configure -> Build Triggers
+ -- [x] **Poll SCM** (checked)
  -- **Schedule** :
 
     # every minute

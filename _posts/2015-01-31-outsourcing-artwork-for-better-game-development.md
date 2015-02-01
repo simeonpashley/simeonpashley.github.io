@@ -9,11 +9,6 @@ status: publish
 type: post
 published: true
 description: Guest David Tolley shares his best practice on setting up an outsource operation to maximise your game production.
-
-
-
-
-
 ---
 Hi, my name is David Tolley and I'd like to share my many years of
 experience and extensive knowledge regarding successfully setting up,
@@ -108,7 +103,7 @@ forward to receiving them.
 
 [TIGA - Outsourcing and
 Offshoring](http://www.tiga.org/Documents/Download05_FINAL.PDF) -
-**External PDF**\
+**External PDF**
  [![](assets/TIGA.gif)TIGA](http://tiga.org/) is the trade association representing the UK’s games industry - **External Link**
 
 **UPDATE - 22/June/2010**

@@ -4,18 +4,10 @@ author: gamelinchpin
 title: What I was responsible for as Studio Head
 date: 2013-04-17 16:28:49
 categories: production
-tags: []
+
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
-
 ---
 I'm having a bit of a dig about in some old documents and I found my old
 job specification for when I was Studio Head for Kuju Sheffield.
@@ -122,7 +114,7 @@ developed by a balanced high caliber motivated team.
 10. Agree the HR Recruitment budget for the studio with HRM and CEO.
 11. Execute on HR Recruitment tasks within the agreed budget.
 
-**\
+**
 **
 
 ** **

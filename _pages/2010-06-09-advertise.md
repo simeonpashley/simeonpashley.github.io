@@ -2,8 +2,8 @@
 layout: page
 title: Advertise
 date: 2010-06-09 18:33:13
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -60,5 +60,5 @@ and each case will be considered individually.
 
 On termination any monies paid in advanced will be refunded.
 
-Kind Regards,\
+Kind Regards,
  Game-Linchpin.com Team

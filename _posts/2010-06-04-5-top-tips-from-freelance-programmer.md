@@ -7,7 +7,6 @@ tags: career - freelance - guest - programmer
 status: publish
 type: post
 published: true
-
 ---
 I recently reconnected with an old friend who's been a Freelance Game
 Programmer for many years, I asked him what advice he could give to
@@ -16,18 +15,18 @@ tips:
 
 I particularly like his ethos: *"value-for-money & minimum hassle", because contractors/freelancers have a general reputation for being otherwise (Expensive & demanding)*
 
-**Rhys Twelves, 12 Code Monkeys Ltd, UK**\
-[**http://uk.linkedin.com/in/rhystwelves**](http://uk.linkedin.com/in/rhystwelves)\
+**Rhys Twelves, 12 Code Monkeys Ltd, UK**
+[**http://uk.linkedin.com/in/rhystwelves**](http://uk.linkedin.com/in/rhystwelves)
 <span class="Apple-style-span"
 style="color: #777777; font-family: arial, sans-serif; font-size: small;"><span
 class="Apple-style-span"
-style="-webkit-border-horizontal-spacing: 2px; -webkit-border-vertical-spacing: 2px; border-collapse: collapse; font-size: 13px;">\
-</span></span>\
+style="-webkit-border-horizontal-spacing: 2px; -webkit-border-vertical-spacing: 2px; border-collapse: collapse; font-size: 13px;">
+</span></span>
 <span class="Apple-style-span"
 style="color: #777777; font-family: arial, sans-serif; font-size: small;"><span
 class="Apple-style-span"
 style="-webkit-border-horizontal-spacing: 2px; -webkit-border-vertical-spacing: 2px; border-collapse: collapse; font-size: 13px;">Here's
-Rhys' reply:</span></span>\
+Rhys' reply:</span></span>
 
 > The only real tips I have are:-
 

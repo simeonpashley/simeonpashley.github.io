@@ -3,12 +3,11 @@ layout: post
 author: gamelinchpin
 title: Don't miss the growing mobile web audience
 date: 2011-03-24 15:17:10
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true
-
 ---
 ![](assets/iphone_ra.jpg "iPhone view of Ring Alpha")Mobile purchases
 and mobile web viewing are increasing every day and it's simply not good

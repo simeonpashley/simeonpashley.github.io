@@ -2,8 +2,8 @@
 layout: page
 title: Golf Course Web Design - Websites for Private Clubs & Public Courses
 date: 2011-04-20 21:08:11
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -25,13 +25,7 @@ description:
 
 
 
-design";s:37:"http://gamelinchpin.com/go/web_design";s:9:"marketing";s:37:"http://ringalpha.com/search-marketing";s:9:"Portfolio";s:52:"http://gamelinchpin.com/about/about-simeon/portfolio";}s:4:"time";i:1422349147;}
-
-
-
-
-
----
+design";s:37:"http://gamelinchpin.com/go/web_design";s:9:"marketing";s:37:"http://ringalpha.com/search-marketing";s:9:"Portfolio";s:52:"http://gamelinchpin.com/about/about-simeon/portfolio";}s:4:"time";i:1422349147;}---
 What's the Deal?
 ----------------
 
@@ -167,13 +161,13 @@ We will spend as much time as you need to discuss your project
 
 ![](assets/arrow_right01.gif)
 
-**Simple hassle free web\
- design with a money back\
+**Simple hassle free web
+ design with a money back
  guarantee**
 
 ![](assets/arrow_right01.gif)
 
-**A Return on Investment no\
+**A Return on Investment no
  one can beat**
 
 [![](assets/get_btn.jpg)](http://replay.web.archive.org/20090206143443/http://resortswebdesign.com/golf-website-design-5.html)

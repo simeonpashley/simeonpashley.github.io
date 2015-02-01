@@ -2,8 +2,8 @@
 layout: page
 title: What is Mobile Blogging?
 date: 2011-05-01 08:49:03
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -18,14 +18,6 @@ published: true
 description:
 
 '0'
-
-
-
-
-
-
-
-
 
 
 

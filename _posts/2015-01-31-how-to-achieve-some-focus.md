@@ -70,16 +70,16 @@ reacting:
 
 <div>
 
--   a\) E-Mail only syncs every 30mins (or when I send). This can seem like a
+-   a) E-Mail only syncs every 30mins (or when I send). This can seem like a
     lifetime but it means you've got some time to work. If someone wants
     something urgently then they'll call.
--   b\) Phone calls - this is a bit controversial but I occasionally let a
+-   b) Phone calls - this is a bit controversial but I occasionally let a
     call go to voice mail in order to figure out if I think it's important
     to interrupt what I'm doing. I imagine the person standing next to me
     and wonder if they'd interrupt if they could actually see what I was
     doing at that moment. The exception here is my family and people I work
     for, who always get priority.
--   c\) Social Networks - I check my personal once daily, and my business
+-   c) Social Networks - I check my personal once daily, and my business
     ones a lot more frequently than that, as they are by definition,
     business related and therefore an opportunity may be lurking.
 

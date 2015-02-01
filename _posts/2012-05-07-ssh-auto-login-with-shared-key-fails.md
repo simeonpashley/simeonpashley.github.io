@@ -4,17 +4,10 @@ author: gamelinchpin
 title: SSH auto-login with shared key fails
 date: 2012-05-07 11:40:37
 categories: web development
-tags: []
+
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
 ---
 I recently had trouble when my SSH auto-login via shared key failed and
 it took a while to figure out what was wrong. I've made some notes for

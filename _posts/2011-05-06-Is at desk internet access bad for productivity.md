@@ -3,7 +3,7 @@ layout: post
 author: gamelinchpin
 title: Is at desk internet access bad for productivity?
 date: 2011-05-06 22:46:31
-categories: []
+
 tags: book - connect - development - facebook - knowledge - productivity - social network
 type: post
 published: true

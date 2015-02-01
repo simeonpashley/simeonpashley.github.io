@@ -10,14 +10,6 @@ type: post
 published: true
 
 
-
-
-
-
-
-
-
-
 ---
 There used to be a time when developers of all sizes existed from small
 bedroom teams up to hundreds of people working on projects and

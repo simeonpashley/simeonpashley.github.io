@@ -2,8 +2,8 @@
 layout: page
 title: What is RSS?
 date: 2010-06-09 11:02:34
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -39,7 +39,7 @@ on a regular basis to see what had been added.
 ### RSS Changes Everything
 
 *What if you could tell a website to let you know every time that they
-update? In a sense, this is what RSS does for you.*\
+update? In a sense, this is what RSS does for you.*
  RSS flips things around a little and is a technology that provides you
 with a method of getting relevant and up to date information sent to you
 for you to read in your own time. It saves you time and helps you to get
@@ -132,7 +132,7 @@ choosing ‘Google Reader’ or ‘Bloglines’ etc as your feed reader.
 
 Once you’ve done this and have subscribed to a few feeds you’ll begin to
 see unread items in your Feed Reader and you can start reading.
- <span style="font-size: 19px; font-weight: bold;">Don’t want to Use an RSS Reader? Email is an Option</span>\
+ <span style="font-size: 19px; font-weight: bold;">Don’t want to Use an RSS Reader? Email is an Option</span>
  If the above explanation all just seems a little too complicated for
 you then please don’t worry. Many sites also enable you to subscribe to
 RSS feeds via a more familiar medium – Email.

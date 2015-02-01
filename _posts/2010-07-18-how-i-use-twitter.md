@@ -9,15 +9,8 @@ status: publish
 type: post
 published: true
 
-
-
-
-
-
-
-
 ---
-(mobile post)\
+(mobile post)
  There's an interesting post over on GameProducer.net about how Juuso
 uses Twitter as part of his game blog that I wanted to emulate here.
 
@@ -47,15 +40,15 @@ channels who I continue to chat with on a daily basis. Find a channel,
 add people for the channel as they're obviously interested and engaged
 in that subject.
 
-I follow:\
- \#xblig - Xbox Live Independant Games\
- \#gamedev - general game development\
- \#iPhone - broad iPhone chat\
+I follow:
+ \#xblig - Xbox Live Independant Games
+ \#gamedev - general game development
+ \#iPhone - broad iPhone chat
  \#leanstartup - small business bootstrapping
 
-Event specific ones pop up too such as\
- \#gamescom\
- \#develop2010\
+Event specific ones pop up too such as
+ \#gamescom
+ \#develop2010
  \#e3expo
 
 Joining Twitter was one of the best things I've done for. Long time and

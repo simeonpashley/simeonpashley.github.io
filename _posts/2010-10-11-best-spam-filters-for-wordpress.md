@@ -3,8 +3,8 @@ layout: post
 author: gamelinchpin
 title: 4 of the Best Spam Filters for WordPress
 date: 2010-10-11 14:09:09
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true

@@ -2,8 +2,8 @@
 layout: page
 title: Business on Google Maps
 date: 2011-05-10 17:51:15
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -28,22 +28,14 @@ maps, google places
 
 
 
-
-
-
-
-
-
-
-
 ---
 <div
 style="float:right;margin:0 0 10px 10px; border:1px #dfdfdf solid;
 padding: 5px;width:250px;font-size:1.2em;
 color:black;text-align:center">
 
-Get your business on Google Maps TODAY for ~~£100~~ **only £50**!\
-  \
+Get your business on Google Maps TODAY for ~~£100~~ **only £50**!
+  
  [Contact Us](/contact) to get started straight away.
 
 </div>

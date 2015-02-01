@@ -8,17 +8,11 @@ tags: design
 status: publish
 type: post
 published: true
-
-
-
-
-
-
 ---
 Location based games have really taken off in the last year or so and
 they're only going to get better but do those ideas have to be
 constrained to gps devices? Can you do location based game play on a
-fixed console such as ps3?\
+fixed console such as ps3?
 
 For a while now I've enjoyed using the likes of SCVNGR, Gowalla and
 FourSquare to discover new places and share tips. I've also enjoyed the

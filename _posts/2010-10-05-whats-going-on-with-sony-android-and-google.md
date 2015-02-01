@@ -8,13 +8,6 @@ tags: LinkedIn
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
 ---
 Yesterday we witnessed [Google TV open it's
 web-doors](http://www.google.com/tv/) and it reminded me of a common thread between Sony and Google.

@@ -4,18 +4,10 @@ author: gamelinchpin
 title: Where have I been?
 date: 2010-12-05 13:03:06
 categories: career
-tags: []
+
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
-
 ---
 It's been quite a long time since I posted about Game Production as I've
 been focusing my efforts on my new venture '[Ring

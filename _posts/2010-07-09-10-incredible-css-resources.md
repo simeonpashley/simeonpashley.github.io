@@ -3,8 +3,8 @@ layout: post
 author: gamelinchpin
 title: 10 Incredible CSS Resources
 date: 2010-07-09 14:31:01
-categories: []
-tags: []
+
+
 status: publish
 type: post
 published: true

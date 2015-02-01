@@ -2,8 +2,8 @@
 layout: page
 title: Search Engine Marketing
 date: 2011-01-03 00:44:43
-categories: []
-tags: []
+
+
 status: publish
 type: page
 published: true
@@ -20,14 +20,6 @@ slide_redirect_url: http://ringalpha.com/what-is-search-marketing/
 description:
 
 '0'
-
-
-
-
-
-
-
-
 
 
 
@@ -71,7 +63,7 @@ therefore appear higher, than your competitors.
 margin: 0px;
 padding: 0px;">
 
-![](assets/Search_PPC.jpg "Search SEO")\
+![](assets/Search_PPC.jpg "Search SEO")
  ![](assets/Search_Adwords.jpg "Search_Adwords")
 
 </div>

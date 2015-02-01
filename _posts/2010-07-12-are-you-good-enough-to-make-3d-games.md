@@ -19,8 +19,8 @@ tech: you wear glasses that control which eye sees the view from a slightly diff
 There is of course a massive technical consideration for 3D games, that
 they have 1/2 your frame rate as you're now rendering twice as much as
 you were before. (This is a gross assumption based on the fact that
-you're render bound)\
-\
+you're render bound)
+
  Those beautiful silky games that did run at 60fps, drop a frame and
 you're now run at 30fps tops (2 frames at 60fps). There is no 50fps or
 40fps, it's straight down to 30fps. The next jump down is 20fps (3
@@ -53,6 +53,6 @@ takes talent and expertise to make 3D game sing.
 #### Further Reading
 
 [Housemarque - SuperStardust HD at
-120fps](http://blog.eu.playstation.com/2010/06/10/super-stardust-hd-3d-story/)\
+120fps](http://blog.eu.playstation.com/2010/06/10/super-stardust-hd-3d-story/)
  [The inspiring
 post](http://au.playstation.com/home/news/articles/detail/item285381/Talking-games-with-Shuhei-Yoshida/)

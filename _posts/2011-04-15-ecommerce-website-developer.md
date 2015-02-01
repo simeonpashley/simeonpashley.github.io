@@ -13,7 +13,7 @@ we're experienced experts in **ecommerce web development** having
 delivered multiple **ecommerce websites** of all sizes that serve
 anywhere from 100 to 90,000 customers per month and have over 1,000
 products listed on Google Products.
-\
+
  We offer a number of 'out of the box' **ecommerce packages** that can
 support your business whatever your scale now and in the future.
 

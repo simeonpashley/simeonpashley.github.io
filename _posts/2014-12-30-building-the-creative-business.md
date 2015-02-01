@@ -4,21 +4,13 @@ author: gamelinchpin
 title: Building the Creative Business
 date: 2014-12-30 08:19:17
 categories: production
-tags: []
+
 status: publish
 type: post
 published: true
 
 
-
-
-
-
-
-
-
----
-*Building the Creative Business* is a management course aimed at
+---*Building the Creative Business* is a management course aimed at
 entrepreneurs operating within the creative industries. I attended at
 [*London Business School*](http://www.london.edu/)where I learned about how to grow a business that is inherently complex and unpredictable due to the creative aspects involved. Ideas often don't work, challenges arise in trying to sell an idea and implementing that idea is often fraught with problems.
 
@@ -118,37 +110,37 @@ choice: the choices that we make about our place in the market-place, and the ch
 I captured some more detailed notes on the areas we covered in this
 module
 
-Business plan updates\
+Business plan updates
  *John Bates*
 
-What is Strategy? – Taking an external view\
+What is Strategy? – Taking an external view
  *Dominic Houlder*
 
-Strategy - Innovating to create value\
+Strategy - Innovating to create value
  *Dominic Houlder*
 
-Strategy – the challenge of strategic inertia\
+Strategy – the challenge of strategic inertia
  *Dominic Houlder*
 
-Getting to grips with the numbers – building your financial model\
+Getting to grips with the numbers – building your financial model
  *John Bates & Oliver Rivers*
 
-Your Business Plan – next steps\
+Your Business Plan – next steps
  *John Bates*
 
-Strategy - Understanding competitive forces in your environment\
+Strategy - Understanding competitive forces in your environment
  *Dominic Houlder*
 
-Strategy - Understanding competitive forces in your environment\
+Strategy - Understanding competitive forces in your environment
  *Dominic Houlder*
 
-Strategy – Managing your environment to capture value\
+Strategy – Managing your environment to capture value
  *Dominic Houlder*
 
-Strategy - Your strategy\
+Strategy - Your strategy
  *Dominic Houlder*
 
-Demystifying accounts\
+Demystifying accounts
  *Oliver Rivers*
 
 Faculty

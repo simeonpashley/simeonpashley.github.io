@@ -3,19 +3,11 @@ layout: post
 author: gamelinchpin
 title: Why fixed 9-5 working time is bad for video game
 date: 2015-01-26 23:04:38
-categories: []
+
 tags: career - production
 status: publish
 type: post
 published: true
-
-
-
-
-
-
-
-
 
 ---
 <div class="separator" style="clear: both; text-align: center;">
