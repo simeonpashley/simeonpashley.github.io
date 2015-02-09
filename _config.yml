@@ -3,7 +3,8 @@ exclude: [
   README.md,
   package.json,
   gruntfile.js,
-  sass/
+  sass/,
+  vendor
 ]
 
 paginate: 5
