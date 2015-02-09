@@ -19,6 +19,7 @@
     "grunt-cli": "^0.1.13"
   },
   "devDependencies": {
+    "bower": "*",
     "autoprefixer-core": "x.x.x",
     "cave": "^2.0.0",
     "colors": "~1.0.3",

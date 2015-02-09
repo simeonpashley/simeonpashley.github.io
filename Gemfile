@@ -8,7 +8,7 @@ gem 'jekyll',  versions['jekyll']
 gem 'hpricot'
 
 gem 'github-pages', versions['github-pages']
-
+gem 'html-proofer'
 
 group :jekyll_plugins do
   gem 'jekyll-compose', versions['jekyll-compose']

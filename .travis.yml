@@ -1,7 +1,8 @@
 language: ruby
 rvm:
 - 2.1
-script: jekyll build && htmlproof ./_site
+script: bundle exec jekyll build && bundle exec htmlproof ./_site
+
 
 # branch whitelist
 branches:
@@ -9,3 +10,8 @@ branches:
   - master     # test the gh-pages branch
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+
+install:
+- travis_retry npm install
+- travis_retry bower install
+- travis_retry bundle install

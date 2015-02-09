@@ -1,0 +1,16 @@
+{
+  "name": "gamelinchpin.github.io",
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "typicons": "*"
+  },
+  "homepage": "http://gamelinchpin.github.io",
+  "private": true,
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "authors": [
+  "Simeon Pashley", "Simeon Pashley <simeon@ringalpha.com>"
+  ]
+}
