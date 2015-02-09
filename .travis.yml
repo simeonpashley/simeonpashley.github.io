@@ -1,7 +1,9 @@
 language: ruby
 rvm:
 - 2.1
-script: ./script/cibuild# branch whitelist
+script: jekyll build && htmlproof ./_site
+
+# branch whitelist
 branches:
   only:
   - master     # test the gh-pages branch
