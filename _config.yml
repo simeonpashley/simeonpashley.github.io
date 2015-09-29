@@ -34,6 +34,8 @@ disqus_short_name: gamelinchpingithubio
 # Build settings
 markdown: kramdown
 
+excerpt_separator: <!--more-->
+
 # Put the authors in alphabetical order
 authors:
   gamelinchpin:
