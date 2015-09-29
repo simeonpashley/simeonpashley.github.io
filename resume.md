@@ -48,11 +48,11 @@ Note: I have only included recent achievements at Approved Food. I'm writing thi
 
 **Online Platform**
 
-- Online platform consistently in Top 5 of [IRUK 500: Web Performance Tracker](http://internetretailing.net/iruk-500-web-performance-tracker/) for PageSpeed
+- Online platform consistently in Top 5 of [IRUK 500: Web Performance Tracker](http://internetretailing.net/iruk-500-web-performance-tracker/) for PageSpeed. [My Post]({% post_url 2015-08-29-top-5-website-performance---july-2015 %})
 - Setup [Zopim Chat](http://www.zopim.com) & integrated into online platform.
 - Created Restful API for external connectivity and integration into internal systems; built on [Slim](http://www.slimframework.com).
 - Continual improvement of the online store platform for mobile devices.
-- Heavily optimised online store platform to cope with business gaining TV exposure.
+- Heavily optimised online store platform to cope with business gaining TV exposure. Site coped with 15,000 simultaneous visitors over a sustained period and gave the users a good shopping experience.
 - Improved website by moving many server-built pages into AJAX content to improve responsiveness for users and reduce server load.
 - Moved core online platform artwork to SVG format
 - Add global support for donating to _Food Banks_
