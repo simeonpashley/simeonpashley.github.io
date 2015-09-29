@@ -6,6 +6,7 @@ versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 
 gem 'jekyll',  versions['jekyll']
 gem 'hpricot'
+gem 'kramdown'
 
 gem 'github-pages', versions['github-pages']
 gem 'html-proofer'

@@ -24,7 +24,7 @@ description: > # this means to ignore newlines until "baseurl:"
   interesting.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gamelinchpin.github.io" # the base hostname & protocol for your site
-twitter_username: gamelinchpin
+twitter_username: simeonpashley
 github_username:  gamelinchpin
 
 permalink: /:year/:month/:title
@@ -42,7 +42,7 @@ authors:
     position: ""
     start_date: 1986-02-01
     github: gamelinchpin
-    twitter: gamelinchpin
+    twitter: simeonpashley
     gplus: +SimeonPashley
     linkedin: https://uk.linkedin.com/in/simeonpashley/
     gravatar: e75deb5e1dc8de89fecefba23a1efd97
