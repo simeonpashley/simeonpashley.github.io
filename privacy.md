@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: page
 title: Privacy Statement
-description: Our blog specific privacy statement.
 notitle: true
 author: gamelinchpin
+permalink: /privacy/
 ---
 
 ## Privacy

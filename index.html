@@ -1,29 +1,47 @@
 ---
 layout: default
-title: Gamelinchpin
+title: Simeon Pashley
 description: Home of random musings
 author: gamelinchpin
 notitle: true
 ---
 
 <div class="row">
-  <div class="col-md-8 col-md-offset-2">
-      {% for post in paginator.posts %}
-      <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-        <h2><a href="{{site.url}}{{ post.url }}/" itemprop="url">{{ post.title }}</a></h2>
-        <p>by <b><span itemprop="name">{{ site.authors[post.author].name }}</span></b> on <time itemprop="datePublished" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %d, %Y"}}</time></p>
-        <p>{{ post.excerpt }}</p>
-      </article>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-8 col-md-offset-2">
-    <ul class="pager">
-      <li class="previous {% if paginator.previous_page %}{% else %}disabled{% endif %}">
-        <a href="{% if paginator.previous_page %}{% if paginator.previous_page == 1 %}{{ site.url }}{% else %}/page{{ paginator.previous_page }}{% endif %}{% else %}#{% endif %}">&larr; Newer</a></li>
-      <li class="next {% if paginator.next_page %}{% else %}disabled{% endif %}"><a href="{% if paginator.next_page %}/page{{ paginator.next_page }}{% else %}#{% endif %}">Older &rarr;</a></li>
-    </ul>
-  </div>
+    <div class="col-md-4">
+      <h2>Find Me</h2>
+      <ul class="list-unstyled">
+      <li><i class="fa fa-user"></i> Simeon Pashley</li>
+      <li><i class="fa fa-map-marker"></i> Sheffield, SY</li>
+      <li><a href="https://twitter.com/simeonpashley"><i class="fa fa-twitter"></i> @simeonpashley</a></li>
+      <li><a href="https://github.com/gamelinchpin"><i class="fa fa-github"></i> @gamelinchpin</a></li>
+      <li><a href="https://uk.linkedin.com/in/simeonpashley"><i class="fa fa-linkedin"></i> @simeonpashley</a></li>
+      <li><a href="/resume"><i class="fa fa-file-text"></i> Resume</a></li>
+      </ul>
+    </div>
+    <div class="col-md-8">
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Recent Posts</h2>
+                <ul>{% for post in paginator.posts %}
+                    <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+                        <h3><a href="{{ post.url }}/" itemprop="url">{{ post.title }}</a></h3>
+                        <p>
+                            <time itemprop="datePublished" datetime="{{ page.date | date: " %Y-%m-%d " }}">{{ post.date | date: "%B %d, %Y"}}</time>
+                        </p>
+                        <p>{{ post.excerpt }}</p>
+                    </article>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="pager">
+                    <li class="previous {% if paginator.previous_page %}{% else %}disabled{% endif %}">
+                        <a href="{% if paginator.previous_page %}{% if paginator.previous_page == 1 %}{% else %}/page{{ paginator.previous_page }}{% endif %}{% else %}#{% endif %}">&larr; Newer</a></li>
+                    <li class="next {% if paginator.next_page %}{% else %}disabled{% endif %}"><a href="{% if paginator.next_page %}/page{{ paginator.next_page }}{% else %}#{% endif %}">Older &rarr;</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
 </div>
