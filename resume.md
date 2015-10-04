@@ -163,6 +163,7 @@ Note: I have only included recent achievements at Approved Food. I'm writing thi
 **Online Platform**
 
 - Designed & implemented affiliate scheme for increased marketing
+- Moved platform from single server in Texas to hosting by UK Fast
 
 **Internal Platform**
 
