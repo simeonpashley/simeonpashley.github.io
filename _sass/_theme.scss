@@ -45,7 +45,6 @@ h1, h2, h3, h4, h5, h6 { @extend %oswald; }
   padding-right: 0;
   padding-left: 0;
   margin-left: 2rem;
-  margin-right: 10rem;
   font-weight: bold;
   color: $site-primary;
 
@@ -419,6 +418,13 @@ pre {
 @media only screen and (max-width : 480px) {
     .tile .featurette, .topper {
         height: 300px;
+    }
+
+    .brand {
+      font-size: 2rem;
+      line-height: 2.2rem;
+      padding-left: 1rem;
+      line-height: 2.5rem;
     }
 
     h1.special,
