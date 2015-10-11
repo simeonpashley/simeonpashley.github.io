@@ -3,7 +3,7 @@
 %roboto { font-family: 'Roboto Condensed', sans-serif; }
 
 body {
-  margin-top: 9rem;
+  margin-top: 2rem;
 
   @extend %roboto;
   font-size: 1.8rem;
@@ -405,6 +405,9 @@ pre {
     margin: 75px 0px;
 }
 
+#side-profile {
+  @extend %oswald;
+}
 
 @media only screen and (max-width : 991px) {
     pre {
@@ -420,16 +423,16 @@ pre {
 
     h1.special,
     .tile h2 {
-        font-size: 4rem;
-        line-height: 44px;
+        font-size: 2rem;
+        line-height: 2.2rem;
     }
 
     .tile .inner-guts {
-        padding: 1.5rem 2.5rem;
+        padding: 0.5rem 1.5rem;
     }
 
     .tile .excerpt {
-        font-size: 22px;
-        line-height: 35px;
+        font-size: 2rem;
+        line-height: 2.5rem;
     }
 }
