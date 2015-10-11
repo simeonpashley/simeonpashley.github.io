@@ -20,7 +20,7 @@ the transition for PS1 to PlayStation 2 was happening.
 ### Krisalis v2 a.k.a Teque Software
 
 ![PS1 development
-kits](assets/SDC18434-300x225.jpg "Do you know what all the colours mean?")After
+kits](/assets/SDC18434-300x225.jpg "Do you know what all the colours mean?")After
 a long and fruitful period of key game development the rest of the world
 was moving over to PlayStation 2 but we were still making games for PS1.
 
@@ -31,7 +31,7 @@ including secret clubs and even in the middle of the top-secret
 high-speed ring at [Millbrook Proving
 Grounds](http://www.millbrook.co.uk). Saturn conferences were always held just outside of San Jose, California where I visited later as the venue for the emerging GD Conference, which I was also fortunate to regularly attend.
 
-![](assets/609px-Solar_eclips_1999_4_NR.jpg "Total Solar Eclipse")I was
+![](/assets/609px-Solar_eclips_1999_4_NR.jpg "Total Solar Eclipse")I was
 also chosen for the exclusive 1st unveiling of the PS2 to the "cream of
 the development community" at a [secret
 location](http://www.barcelo-hotels.co.uk/hotels/northern-england/barcelo-shrigley-hall-hotel-cheshire)along with short list of developers. What made this event totally cool was that it took place right before a solar eclipse gripped the UK and the event itself opened with a mock solar eclipse!
@@ -70,7 +70,7 @@ we were both redundant on the same day.
 
 ### Runecraft - levelling up and bad management.
 
-![](assets/81816401MHMCub_ph-300x225.jpg "PS2 Devkits")After the end of
+![](/assets/81816401MHMCub_ph-300x225.jpg "PS2 Devkits")After the end of
 Krisalis I quickly found a job going back to my roots as a programmer on
 PlayStation 2 where I worked on core animation related programming
 systems for a licensed platform game. Sadly, it turned out that
@@ -112,7 +112,7 @@ personal belongings and then escorted off the premises. This process was
 repeated for everyone in the studio, a slow one-by-one procession.
 
 ![It didn't happen quite like
-this](assets/1266-300x225.jpg "It didn't happen quite like this")The mob
+this](/assets/1266-300x225.jpg "It didn't happen quite like this")The mob
 was angry but I never got to see the end of it. Why? Because it turned
 out my contractual place of work was back at HQ along with 2 others from
 the Leeds studio. What happened next was just bizarre, one of those MPV

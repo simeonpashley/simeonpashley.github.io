@@ -54,7 +54,7 @@ relationship is typically rewarding for both parties.
 
 And sometimes, things are succesful despite everything telling you the
 contrary.
- ![](assets/jedward-fail1.JPG "Jedward")
+ ![](/assets/jedward-fail1.JPG "Jedward")
 
 #### Critique?
 

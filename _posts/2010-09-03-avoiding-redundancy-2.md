@@ -20,7 +20,7 @@ being prepared is a bad thing.
 
 
  [![GamesBrief Job Loss Tracker -
-3/Sep/2010](assets/Screen-shot-2010-09-03-at-16.14.14-150x116.png "GamesBrief Job Loss Tracker - 3/Sep/2010")](http://www.gamesbrief.com/joblosstracker/)I can totally see how the provocative title and lack of context could have riled some people so here's some context. Redundancy is obviously a real and horrible event that happens and it can be mitigated by properly running a business but it's largely inevitable.
+3/Sep/2010](/assets/Screen-shot-2010-09-03-at-16.14.14-150x116.png "GamesBrief Job Loss Tracker - 3/Sep/2010")](http://www.gamesbrief.com/joblosstracker/)I can totally see how the provocative title and lack of context could have riled some people so here's some context. Redundancy is obviously a real and horrible event that happens and it can be mitigated by properly running a business but it's largely inevitable.
 
 My recent experience is based around running mid to large-scale teams of
 30-80 people across multiple projects and the level of commitment that

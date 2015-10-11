@@ -11,7 +11,7 @@ published: true
 
 
 ---
-![Understanding Others](assets/4633477762_238fe45447_m.jpg)When working
+![Understanding Others](/assets/4633477762_238fe45447_m.jpg)When working
 with other people it's important to consider how they see things, as
 their view is often very different from your own perspective. In our
 world of game development there are, broadly speaking, 2 high level ways

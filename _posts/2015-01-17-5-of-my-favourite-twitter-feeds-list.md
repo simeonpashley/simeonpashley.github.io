@@ -13,7 +13,7 @@ published: true
 <div style="float: left;
 padding: 5px;">
 
-![Twitter](assets/t_logo-a.png)
+![Twitter](/assets/t_logo-a.png)
 
 </div>
 

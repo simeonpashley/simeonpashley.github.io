@@ -13,7 +13,7 @@ published: true
 style="clear: left;
 float: left; margin-bottom: 1em; margin-right: 1em; text-align: center;">
 
-![](assets/FEATURE_YenYen_GlassCeiling.jpg)
+![](/assets/FEATURE_YenYen_GlassCeiling.jpg)
 
 </div>
 

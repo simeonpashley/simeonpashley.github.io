@@ -15,7 +15,7 @@ Perfect for a Sunday morning.
 
 ### BIT.TRIP BEAT
 
-![](assets/mzi.egpepgiv.175x175-754.jpg "mzi.egpepgiv.175x175-75")I saw
+![](/assets/mzi.egpepgiv.175x175-754.jpg "mzi.egpepgiv.175x175-75")I saw
 a video of BIT.TRIP being played over on YouTube and it looked exactly
 like my kind of game. It look fun and furious with a great graphic style
 all of its own. I had to have it!
@@ -29,15 +29,15 @@ all of its own. I had to have it!
 > elusive "Perfect Score." Team-up with your friends for the intense
 > Multiplayer Gameplay Mode! Bounce to the beat with BIT.TRIP BEAT!
 
-[![BIT.TRIP](assets/badge_appstore-lrg.gif)BIT.TRIP for
+[![BIT.TRIP](/assets/badge_appstore-lrg.gif)BIT.TRIP for
 iPad](http://clkuk.tradedoubler.com/click?p=23708&a=1829861&url=http%3A%2F%2Fitunes.apple.com%2Fgb%2Fapp%2Fbit-trip-beat-hd%2Fid383795335%3Fmt%3D8%26uo%3D4%26partnerId%3D2003)
 
-[![BIT.TRIP](assets/badge_appstore-lrg.gif)BIT.TRIP for
+[![BIT.TRIP](/assets/badge_appstore-lrg.gif)BIT.TRIP for
 iPhone](http://clkuk.tradedoubler.com/click?p=23708&a=1829861&url=http%3A%2F%2Fitunes.apple.com%2Fgb%2Fapp%2Fbit-trip-beat%2Fid383791435%3Fmt%3D8%26uo%3D4%26partnerId%3D2003)
 
 ### Modizer
 
-![](assets/mzi.yhddbsyd.175x175-75.jpg "mzi.yhddbsyd.175x175-75")
+![](/assets/mzi.yhddbsyd.175x175-75.jpg "mzi.yhddbsyd.175x175-75")
 
 Modizer is a great way to check out those old game tracks like Chris
 Huelsbeck's Turrican 2 Intro, and Rob Hubbard's Lightforce and Zoids
@@ -66,8 +66,8 @@ Get your self some old skool tunes!
 > Jochen Hippel, Purple Motion, Lizardking, Audiomonster or Rob Hubbard,
 > ...
 
-[![Modizer](assets/badge_appstore-lrg.gif) Modizer for
+[![Modizer](/assets/badge_appstore-lrg.gif) Modizer for
 **iPhone**](http://clkuk.tradedoubler.com/click?p=23708&a=1829861&url=http%3A%2F%2Fitunes.apple.com%2Fgb%2Fapp%2Fmodizer%2Fid393964792%3Fmt%3D8%26uo%3D4%26partnerId%3D2003)
- [![Modizer](assets/badge_appstore-lrg.gif)Modizer for
+ [![Modizer](/assets/badge_appstore-lrg.gif)Modizer for
 **iPad**](http://clkuk.tradedoubler.com/click?p=23708&a=1829861&url=http%3A%2F%2Fitunes.apple.com%2Fgb%2Fapp%2Fmodizer%2Fid393964792%3Fmt%3D8%26uo%3D4%26partnerId%3D2003)
  ****

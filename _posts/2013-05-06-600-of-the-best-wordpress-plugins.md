@@ -17,7 +17,7 @@ Wordpress Plugins by Category
 -----------------------------
 
 ![600 Wordpress
-Plugins](assets/How-to-install-Wordpress-Plugins-300x134.jpg)
+Plugins](/assets/How-to-install-Wordpress-Plugins-300x134.jpg)
 
 ### Ad Management
 

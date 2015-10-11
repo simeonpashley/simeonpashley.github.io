@@ -8,7 +8,7 @@ status: publish
 type: post
 published: true
 ---
-![](assets/basket_key.jpg "eCommerce Website")It's fair to say that
+![](/assets/basket_key.jpg "eCommerce Website")It's fair to say that
 we're experienced experts in **ecommerce web development** having
 delivered multiple **ecommerce websites** of all sizes that serve
 anywhere from 100 to 90,000 customers per month and have over 1,000

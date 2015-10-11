@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 ---
-![](assets/ApprovedFood_v2.jpg "Approved Food v2")
+![](/assets/ApprovedFood_v2.jpg "Approved Food v2")
  Today saw the first public showing of the eCommerce site refresh for
 [www.approvedfood.co.uk](http://www.approvedfood.co.uk), which we're amazingly proud of.
 

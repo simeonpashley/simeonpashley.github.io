@@ -29,7 +29,7 @@ real customer feedback.
 
 [caption id="attachment_54" align="aligncenter" width="300"
 caption="Minimum Viable
-Product"]![](assets/minimum-viable-product-illustrated-methodologist1-300x225.gif "Minimum Viable Product")[/caption]
+Product"]![](/assets/minimum-viable-product-illustrated-methodologist1-300x225.gif "Minimum Viable Product")[/caption]
 
 Rapid Iteration
 ---------------

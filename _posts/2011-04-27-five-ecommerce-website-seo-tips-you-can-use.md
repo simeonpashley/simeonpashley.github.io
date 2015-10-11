@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 ---
-![](assets/basket_key.jpg "eCommerce Website")We have a great deal of
+![](/assets/basket_key.jpg "eCommerce Website")We have a great deal of
 experience in Search Engine Optimisation (SEO) for eCommerce websites to
 improve the position of both your online store and the items you sell.
 

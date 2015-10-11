@@ -2,7 +2,7 @@
 layout: post
 author: gamelinchpin
 title: How To Improve Your Video Game Pitch - Part 2
-date: 2015-01-29 07:26:58
+date: 2010-06-29 07:26:58
 categories: pitch
 tags: business - conference - pitch
 status: publish
@@ -19,6 +19,8 @@ with a little more detail today.
  I covered the basics yesterday but I've been thinking about this quite
 a lot today and I wanted to share some more things that will hopefully
 prove useful.
+
+<!-- more -->
 
 ### Funding
 
@@ -119,12 +121,12 @@ or [contact](/contact) me directly.
 **Powerpoint**
  [slide:ology: The Art and Science of Creating Great
 Presentations: The Art and Science of Presentation
-Design](http://www.amazon.co.uk/gp/product/0596522347?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0596522347)![](assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0596522347) -
+Design](http://www.amazon.co.uk/gp/product/0596522347?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0596522347)![](/assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0596522347) -
 Book
  **Public Speaking**
  [How to Develop Self-confidence and Influence People by Public Speaking
 (Personal
-Development)](http://www.amazon.co.uk/gp/product/0749305797?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0749305797)![](assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0749305797) -
+Development)](http://www.amazon.co.uk/gp/product/0749305797?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0749305797)![](/assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0749305797) -
 Book
  [Speak Clearly](http://www.wikihow.com/Speak-Clearly) - External
 Article

@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 ---
-![](assets/iphone_ra.jpg "iPhone view of Ring Alpha")Mobile purchases
+![](/assets/iphone_ra.jpg "iPhone view of Ring Alpha")Mobile purchases
 and mobile web viewing are increasing every day and it's simply not good
 enough to expect users to view your regular site. iPhone, Android and
 tablet viewers expect custom built views.
@@ -31,11 +31,11 @@ and iPad, I'm sure you'll agree they look very impressive.
 
 ### iPhone Web View
 
-![](assets/photo-1.png "iPhone View")
+![](/assets/photo-1.png "iPhone View")
 
 ### iPad Web View
 
-![](assets/photo-e1300979026311.png "iPad View")
+![](/assets/photo-e1300979026311.png "iPad View")
 
 Want to capture the growing mobile audience?
 --------------------------------------------

@@ -13,7 +13,7 @@ published: true
 style="clear: left;
 float: left; margin-bottom: 1em; margin-right: 1em;">
 
-![](assets/soundexchangeartist.jpg)
+![](/assets/soundexchangeartist.jpg)
 
 </div>
 

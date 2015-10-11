@@ -11,7 +11,7 @@ published: true
 
 
 ---
-![Knackered Runner](assets/4633508350_63c6eff451_m.jpg)Every new project
+![Knackered Runner](/assets/4633508350_63c6eff451_m.jpg)Every new project
 starts out exciting and fun. Then it gets harder and less fun, until it
 hits a low point-really hard, and not much fun at all. And then you find
 yourself asking if the goal is even worth the hassle.

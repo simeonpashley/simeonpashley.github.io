@@ -2,7 +2,7 @@
 layout: post
 author: gamelinchpin
 title: Leveraging Social Media To Maximise Your Game Sales
-date: 2015-01-28 06:45:16
+date: 2010-08-28 06:45:16
 categories: Marketing
 tags: business - marketing
 status: publish
@@ -12,8 +12,9 @@ published: true
 Connecting with your audience is absolutely critical to the success of
 your game and is something you should take seriously and adopt a
 professional understanding. I’ll cover some of the high level points
-here and provide
-how to maximise social media communication for different business types.
+here and provide how to maximise social media communication for different business types.
+
+<!-- more -->
 
 Old Skool / New Skool
 ---------------------

@@ -36,7 +36,7 @@ moment. This is a hard path to tread but they appear to be staying true
 to their indie roots and delivering emotion and passion in a small
 bundle.
 
-![](assets/Screen-shot-2010-06-22-at-23.54.34.png "Screen shot 2010-06-22 at 23.54.34")
+![](/assets/Screen-shot-2010-06-22-at-23.54.34.png "Screen shot 2010-06-22 at 23.54.34")
 
 > The pioneers that brought you the award-winning PlayStation®Network
 > titles flOw & Flower® are back with another title that challenges

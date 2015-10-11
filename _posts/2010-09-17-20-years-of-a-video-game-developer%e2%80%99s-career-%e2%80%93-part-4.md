@@ -16,7 +16,7 @@ lot of photos in this post so you may even make an appearance!
 
 ### Kuju Sheffield v1
 
-![](assets/Sheffield-Studio-January-2003-150x150.jpg "Sheffield Studio, January 2003")I
+![](/assets/Sheffield-Studio-January-2003-150x150.jpg "Sheffield Studio, January 2003")I
 was fortunate to be have formed strong relationships with people across
 the industry and I was brought in as employee \#2 for the newly formed
 Kuju studio in Sheffield where the next phase of my career began
@@ -83,7 +83,7 @@ posh Media Center.
 -   **Platforms**: PlayStation 2, XBox, PC
 
 **Kuju Sheffield v1.2**
- ![](assets/sheffield_office-150x150.jpg "sheffield_office")Our studio
+ ![](/assets/sheffield_office-150x150.jpg "sheffield_office")Our studio
 increased quickly over the next few years peaking at about 40 staff
 across 3 projects being made on PC, PSP, Xbox & PS2.
 
@@ -121,7 +121,7 @@ many other developers and the prospects didn't look good.
 -   **Platforms**: PlayStation 2, XBox, PC
 
 **Kuju v2.0 - The King is Dead**
- ![](assets/IMG_4287-150x150.jpg "1st World War devs")What happened next
+ ![](/assets/IMG_4287-150x150.jpg "1st World War devs")What happened next
 was a blur of rapid change.
 
 Our incumbent Studio Manager retired and I was asked to take over as I'd
@@ -143,7 +143,7 @@ a massive improvement in our prospects. We all relished the opportunity.
 We began work on our game, really pushing ourselves and learning new
 platforms and new ways of working.
 
-![](assets/Resize-of-100_1352-150x150.jpg "Running Out Of Space")We
+![](/assets/Resize-of-100_1352-150x150.jpg "Running Out Of Space")We
 rapidly ran out of space and we outgrew our offices where the main
 problem was that our expansion had caused us to take on additional,
 separate, offices in the same building. This was workable previously as
@@ -164,7 +164,7 @@ around the corner.
 -   **Platforms**: PlayStation 2, XBox, PC
 
 **Kuju v2.1 - Custom Fit Office**
- ![](assets/Arundel_SmileyChris1-150x150.jpg "Smiley Chris")Our new
+ ![](/assets/Arundel_SmileyChris1-150x150.jpg "Smiley Chris")Our new
 offices was brilliant. I managed to find us a large open-plan space and
 I planned the floor space incorporating meeting rooms, a small office
 (for me), storage space, kitchen and other bits and bobs. We got to
@@ -179,7 +179,7 @@ moving, even it if was just around the corner.
 
 I think it's safe to say that we enjoyed our new space.
 
-[![](assets/fire1_470x365-150x150.jpg "fire1_470x365")](http://game-linchpin.com/wp-content/uploads/2010/09/fire1_470x365.jpg)We had exciting times too, we had people trapped in a lift and had to call out the fire brigade that amused everyone except those trapped and we there was also a MASSIVE fire opposite our building and we just watched from our windows.
+[![](/assets/fire1_470x365-150x150.jpg "fire1_470x365")](http://game-linchpin.com/wp-content/uploads/2010/09/fire1_470x365.jpg)We had exciting times too, we had people trapped in a lift and had to call out the fire brigade that amused everyone except those trapped and we there was also a MASSIVE fire opposite our building and we just watched from our windows.
 
 During all of this we were still working on our game and all of our
 other commitments but it all seemed to gel.
@@ -199,7 +199,7 @@ Messi](http://en.wikipedia.org/wiki/Lionel_Messi)!
 
 ### Kuju v3.0 - becoming Chemistry
 
-![](assets/chem1-235x300.jpg "chem1")The higher-level business was going
+![](/assets/chem1-235x300.jpg "chem1")The higher-level business was going
 through a transition. The many Kuju studios in London, 2 in Guildford,
 Sheffield and Brighton all had their own niche and identity and it was
 becoming increasingly confusing for us internally and it also must have
@@ -219,7 +219,7 @@ identity for us as a studio to get behind. We had banners, marketing,
 press, t-shirts and a whole range of other things branded up. Our
 offices were white, clean, sterile with a few hints of colour.
 
-![](assets/Bafta1.jpg "Bafta1")Back on the floor, I'd also been pushing
+![](/assets/Bafta1.jpg "Bafta1")Back on the floor, I'd also been pushing
 new contracts and we were now working on 3 separate PS3 and X360 games.
 We had an FPS, a Football game and we were also helping Midway out on
 one of their projects.
@@ -236,7 +236,7 @@ furniture among other things.
 As management, there was myself and 1 other Project Manager doing all of
 this together. You can imagine what this did to me as a result.
 
-![](assets/ChemistryTeam_Feb2008-300x199.jpg "ChemistryTeam_Feb2008")
+![](/assets/ChemistryTeam_Feb2008-300x199.jpg "ChemistryTeam_Feb2008")
 
 -   **Date**: 2007
 -   **Role**: Anything going
@@ -246,7 +246,7 @@ this together. You can imagine what this did to me as a result.
 
 ### Enough is enough
 
-[![](assets/Mikey1-150x150.jpg "Leaving the studio in good hands")](http://game-linchpin.com/wp-content/uploads/2010/09/Mikey1.jpg)Despite great prospects and a wonderful team, I'd had enough and I worked with the Execs to bring in Mike as a replacement Studio Head and I sadly quickly left the business with nowhere else to go. These were tough times and sometimes people just won't listen to repeated cries for support and see the issues that are staring them right in the face. It sometimes takes a drastic measure to make people realise what's going
+[![](/assets/Mikey1-150x150.jpg "Leaving the studio in good hands")](http://game-linchpin.com/wp-content/uploads/2010/09/Mikey1.jpg)Despite great prospects and a wonderful team, I'd had enough and I worked with the Execs to bring in Mike as a replacement Studio Head and I sadly quickly left the business with nowhere else to go. These were tough times and sometimes people just won't listen to repeated cries for support and see the issues that are staring them right in the face. It sometimes takes a drastic measure to make people realise what's going
 off.
 
 So, I left Kuju and a great team. My time at Kuju was the happiest and

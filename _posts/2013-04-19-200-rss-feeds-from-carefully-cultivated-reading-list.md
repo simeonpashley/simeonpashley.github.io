@@ -38,7 +38,7 @@ favourite reader of choice
 
 Here's a quick way to use my feeds as a starting point:
  ![Google Reader
-settings](assets/Screenshot_18_04_2013_14_09-300x207.png)
+settings](/assets/Screenshot_18_04_2013_14_09-300x207.png)
 
 1.  Download my reading list in OPML format - <http://db.tt/Sad7oSAT>
 2.  Open *Google Reader* - <http://www.google.co.uk/reader>
@@ -71,7 +71,7 @@ where I can read them in comfort on my laptop or tablet.
 
 <div>
 
-![Feedly Browser](assets/Screenshot_18_04_2013_14_12-1024x651.png)
+![Feedly Browser](/assets/Screenshot_18_04_2013_14_12-1024x651.png)
 
 </div>
 

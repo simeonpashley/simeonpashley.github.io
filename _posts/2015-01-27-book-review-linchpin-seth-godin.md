@@ -8,19 +8,9 @@ tags: read me
 status: publish
 type: post
 published: true
-
-
-
-
 description: Seth Godin always inspires with his thought provoking writing and this book is now exception.
 ---
-<div class="separator"
-style="clear: both;
-float: left; text-align: center;">
-
-[![](assets/LinchPin+Cover.jpg)](http://www.amazon.co.uk/gp/product/0749953357?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0749953357)
-
-</div>
+[![](/assets/LinchPin+Cover.jpg)](http://www.amazon.co.uk/gp/product/0749953357?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0749953357)
 
 I recently finished Seth Godin's recent book entitled "Linchpin: Are You
 Indispensable? How to Drive Your Career and Create a Remarkable Future"
@@ -42,6 +32,8 @@ reach, then you have what it takes to become indispensable. It's time to
 stop complying with the system and draw your own map.*"
 
 Here's what I thought...
+
+<!-- more -->
 
 I have to say for the most part this is an inspiring read and has
 affected my approach to work, and it's influence can be seen on my blog
@@ -82,4 +74,4 @@ Read this, and The Dip and Tribes and you'll be spouting Godinisms!
   ------------------------ ------------------------ ------------------------
 
 
-![](assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0749953357)
+![](/assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0749953357)

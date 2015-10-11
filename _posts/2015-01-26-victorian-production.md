@@ -14,7 +14,7 @@ published: true
 style="clear: left;
 float: left; margin-bottom: 1em; margin-right: 1em; text-align: center;">
 
-![](assets/Child_Labor,_1918.JPG)
+![](/assets/Child_Labor,_1918.JPG)
 
 </div>
 

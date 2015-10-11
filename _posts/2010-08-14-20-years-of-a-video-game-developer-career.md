@@ -20,7 +20,7 @@ I used to spend hours lurking around the only computer shop for miles
 around, playing with the [Jupiter
 Ace](http://en.wikipedia.org/wiki/Jupiter_Ace)and the ZX80 in the shops marvelling at what they could do.
 
-![](assets/1kchess-300x225.png "1kchess")I was extremely fortunate to
+![](/assets/1kchess-300x225.png "1kchess")I was extremely fortunate to
 get a Sinclair ZX81 for Christmas one year but it didn't come with any
 way of getting games into it other than the usual way of typing in
 listings from magazines such as Sinclair User. I learned a tremendous
@@ -55,7 +55,7 @@ developers who have been involved with the scene at some point or other
 in their career. I still keep in touch with some of these people but
 most have moved onto other things.
 
-![](assets/11-netracer-800x600-300x225.jpg "Computer Club")I was also
+![](/assets/11-netracer-800x600-300x225.jpg "Computer Club")I was also
 teaching other people how to program these demos & elements at my local
 computer clubs, all of which were the core components of games. I found
 out later that some of these people were professionally making games and
@@ -74,7 +74,7 @@ but I only recognised this in hindsight.
 
 #### Alligata Software - 1987
 
-![](assets/382768-alligata_large.png "382768-alligata_large")
+![](/assets/382768-alligata_large.png "382768-alligata_large")
 
 My first job was at Alligata Software in Sheffield where I was
 programming both the Atari ST/Amiga versions of a C64 classic vertical
@@ -105,7 +105,7 @@ I quickly got a job working for another game developer setup in
 Rotherham called 'Wise Owl Software', which was initially setup to
 provide educational software but we had better ideas. :)
 
-![](assets/Atari2600-290x300.jpg "Atari2600")My 1st job was to make a
+![](/assets/Atari2600-290x300.jpg "Atari2600")My 1st job was to make a
 game on Atari 2600 called 'Oops', yes the first home console, which
 suited me down to the ground because it was all about getting the most
 out of the tiny bit of hardware. It meant pulling on all of my demo &
@@ -131,7 +131,7 @@ the horizon onto my next venture.
 
 <div class="right-col">
 
-![](assets/shadow_warriors_01-207x300.jpg "shadow_warriors_01")
+![](/assets/shadow_warriors_01-207x300.jpg "shadow_warriors_01")
 
 </div>
 
@@ -148,7 +148,7 @@ was Shadow Warrior.
 
 **Dev-Kits, QA, C and networks - a new ERA**
 
-![](assets/snasm2kit-300x265.png "Snasm 2 dev-kit")Not long after that a
+![](/assets/snasm2kit-300x265.png "Snasm 2 dev-kit")Not long after that a
 new bit of kit appeared called SNASM, which was a remote development kit
 that plugged somewhere into the target machine. This meant we all worked
 on fast Atari ST machines with hard-drives, remember it had all been on

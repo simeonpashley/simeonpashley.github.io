@@ -1,14 +1,18 @@
+<!-- page-is_blog -->
+{% include title-group.html %}
+
 <div class="col-md-9" itemprop="mainContentOfPage">
     {{ content }}
 </div>
 <div class="col-md-3">
     <aside class="well well-sm">
         <nav>
-            <ul class="nav nav-stacked">
+            <ul class="nav nav-stacked" style="margin-left:0">
                 <li class="nav-header">Recent Posts</li>
                 {% for post in site.posts limit:5 %}
                 <li><a href="{{ post.url }}/">{{ post.title }}</a></li>
                 {% endfor %}
+                {% include pagination.html %}
             </ul>
         </nav>
     </aside>

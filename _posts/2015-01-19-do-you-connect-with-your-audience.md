@@ -11,7 +11,7 @@ published: true
 ---
 <div class="separator" style="clear: both; text-align: center;">
 
-![](assets/1162210614W8p0A3.jpg)
+![](/assets/1162210614W8p0A3.jpg)
 
 </div>
 

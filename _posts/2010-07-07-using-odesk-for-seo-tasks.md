@@ -20,7 +20,7 @@ description:
 
 
 ---
-![](assets/wpknock-odesk-logo-300x244.jpg)SEO or search engine
+![](/assets/wpknock-odesk-logo-300x244.jpg)SEO or search engine
 optimization is a technique used to rank up high in Google. Deciding to
 hire a search engine optimizer is a big decision that can potentially
 improve your website, as well as, help you save valuable time, money and

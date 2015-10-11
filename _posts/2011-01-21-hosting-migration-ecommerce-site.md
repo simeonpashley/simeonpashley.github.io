@@ -10,7 +10,7 @@ type: post
 published: true
 ---
 ![Hosted Dell R410
-Server](assets/Dell-PowerEdge-R410-1U-Server-E5520-8-Core-2TB-4GB-DDR3-8XDVDRW-0908-13-server@11-e1295562432645.jpg "Hosted Dell R410 Server")
+Server](/assets/Dell-PowerEdge-R410-1U-Server-E5520-8-Core-2TB-4GB-DDR3-8XDVDRW-0908-13-server@11-e1295562432645.jpg "Hosted Dell R410 Server")
 
 Ring Alpha recently provide a **server migration service** for one of
 our ongoing clients, a **mid-size eCommerce store** with thousands of

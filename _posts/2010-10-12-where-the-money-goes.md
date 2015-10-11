@@ -35,7 +35,7 @@ are taken out of revenue fees received for development of a game for a
 mid-size UK studio containing about 35 staff or more. Again, these are
 typical but vary depending on the nature of your business.
 
-![WagesGraph](assets/WagesGraph.png "WagesGraph")
+![WagesGraph](/assets/WagesGraph.png "WagesGraph")
 
 Let's walk through the components of this
 example:
@@ -126,7 +126,7 @@ of a 'lean studio' where all the costs are as thin as possible and I'd
 assume this is typical of a micro or nano studio of employees, not
 self-employed people.
 
-![LeanBusiness](assets/LeanBusiness.png "LeanBusiness")
+![LeanBusiness](/assets/LeanBusiness.png "LeanBusiness")
 
 Blitzing through the points about we get to a salary taking up 59% of
 the revenue or in other words **for every £1 you earn the game needs to

@@ -27,7 +27,7 @@ experiences the same event. It could even be that this chapter is only
 available to play for a fixed period too, if you missed the event then
 you've got to wait for a repeat or get yourself the box-set.
 
-![](assets/TVSchedule1.jpg "TVSchedule")
+![](/assets/TVSchedule1.jpg "TVSchedule")
 
 I believe this will generate much more exposure for the game where the
 anticipation of what's in the episode and the discussions afterwards
@@ -60,7 +60,7 @@ since 2006 with the exact model with series such as The Inbetweeners
 being unlocked as they're aired on TV. It would seem likely that this
 model will extend to games too.
 
-![](assets/Screen-shot-2010-10-03-at-14.04.20.jpg "Screen-shot-2010-10-03-at-14.04.20")
+![](/assets/Screen-shot-2010-10-03-at-14.04.20.jpg "Screen-shot-2010-10-03-at-14.04.20")
 
 Steam have also been supporting this kind of pre-load and unlock for
 years where they pre-download content to your PC so that the game is

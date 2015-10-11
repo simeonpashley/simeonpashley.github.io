@@ -24,18 +24,18 @@ onpage embedded 'Pin It' button the Image and description appear OK for
 the javascript pop-up but when the 'Pin This' button is pressed nothing
 is pinned and the dialog refreshes with no content.
 
-![](assets/Screen-Shot-2012-05-05-at-12.26.42.png "Pinterest Pin")
+![](/assets/Screen-Shot-2012-05-05-at-12.26.42.png "Pinterest Pin")
 
-![](assets/Screen-Shot-2012-05-05-at-12.27.19.png "Pinterest Pin")
+![](/assets/Screen-Shot-2012-05-05-at-12.27.19.png "Pinterest Pin")
 
-![](assets/Screen-Shot-2012-05-05-at-12.27.28.png "Pinterest Pin fail")
+![](/assets/Screen-Shot-2012-05-05-at-12.27.28.png "Pinterest Pin fail")
 
 **Directly pinning** the content when on pinterest.com reveals "*We
 couldn't find any images*" despite the javascript app clearly finding
 images.
 
 ![Pinterest Pin "We couldn't find any
-images"](assets/Screen-Shot-2012-05-05-at-12.27.52.png "Pinterest Pin "We couldn't find any images"")
+images"](/assets/Screen-Shot-2012-05-05-at-12.27.52.png "Pinterest Pin "We couldn't find any images"")
 
 As a web developer I've attempted to fix this in a number of ways based
 on findings from around the web.

@@ -64,7 +64,7 @@ see what you want. For extra points, make it actually operate like a
 navigation bar on a website and skip you to the start of each section if
 you click on it.
 
-![](assets/Example_Document_Navigation_Bar-e1279555799474.png "Example Document Navigation Bar")
+![](/assets/Example_Document_Navigation_Bar-e1279555799474.png "Example Document Navigation Bar")
 
 Exception: while it's great to help teams find exactly what they're looking for, be wary of people zeroing in on exactly what they think they need and skipping the vital stuff they thought didn't apply to
 them. There's nothing wrong with putting a big note on the second page

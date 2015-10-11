@@ -60,7 +60,7 @@ Downloadable content such as levels, characters, vehicles, maps, whole
 new features, tracks, music, new season data all keep the game fresh and
 alive and are **all part of the service we offer**.
 
-![](assets/GameAsAService.jpg "Game As A Service")
+![](/assets/GameAsAService.jpg "Game As A Service")
 
 ### Why is this important?
 

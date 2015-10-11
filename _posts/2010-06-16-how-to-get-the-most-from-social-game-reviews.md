@@ -29,7 +29,7 @@ In recent years, review scores on
 Here's an example from a game I worked on, notice the **107 reviews**
 taken into account.
 
-![](assets/Metacritic-Pro.png "Metacritic Pro")
+![](/assets/Metacritic-Pro.png "Metacritic Pro")
 
 **Does paying someone affect their opinion?**
 
@@ -59,11 +59,11 @@ different storey, noticed the **1,112 votes** taken into account, over
 10 times the amount of pro
 views:
 
-![](assets/Metacritic-Crowd.png "Metacritic Crowd")
+![](/assets/Metacritic-Crowd.png "Metacritic Crowd")
 
 ### Scraping Amazon - the BIG VOICE
 
-![](assets/AmazonShopping.png "Amazon Shopping")Amazon is your friend if
+![](/assets/AmazonShopping.png "Amazon Shopping")Amazon is your friend if
 you want to discover what the world thinks about any product, people
 hopefully buy your game there and it's not short of people wanting to
 share their views on how good and bad your game is. These are usually
@@ -96,23 +96,23 @@ there. :)
 
 **France**
 
-![](assets/Amazon.fr-Heavy-Rain-Feedback.png "Amazon.fr Heavy Rain Feedback")
+![](/assets/Amazon.fr-Heavy-Rain-Feedback.png "Amazon.fr Heavy Rain Feedback")
 
 **Germany**
 
-![](assets/Amazon.de-Heavy-Rain-Feedback.png "Amazon.de Heavy Rain Feedback")
+![](/assets/Amazon.de-Heavy-Rain-Feedback.png "Amazon.de Heavy Rain Feedback")
 
 **United States**
 
-![](assets/Amazon.com-Heavy-Rain-Feedback1.png "Amazon.com Heavy Rain Feedback")
+![](/assets/Amazon.com-Heavy-Rain-Feedback1.png "Amazon.com Heavy Rain Feedback")
 
 **Japan**
 
-![](assets/Amazon.co_.jp-Heavy-Rain-Feedback.png "Amazon.co.jp Heavy Rain Feedback")
+![](/assets/Amazon.co_.jp-Heavy-Rain-Feedback.png "Amazon.co.jp Heavy Rain Feedback")
 
 **United Kingdom**
 
-![](assets/Amazon.co_.uk-Heavy-Rain-Feedback1.png "Amazon.co.uk Heavy Rain Feedback")
+![](/assets/Amazon.co_.uk-Heavy-Rain-Feedback1.png "Amazon.co.uk Heavy Rain Feedback")
 
 #### Promoted Reviewers
 
@@ -129,7 +129,7 @@ with these rare reviewers for some inside information and work with the
 closely, at least you'll have the opportunity to amplify your gain their
 connection with the audience as a trusted reviewer.
 
-![](assets/Amazon-Helpful-Reviewers.png "Amazon Helpful Reviewers")
+![](/assets/Amazon-Helpful-Reviewers.png "Amazon Helpful Reviewers")
 
 ### iTunes Feedback
 
@@ -138,7 +138,7 @@ I thought it worth dropping a note in about iTunes as I think we all
 recognise that the built in 5 star ratings system is welcome and enables
 people to at least give some feedback.
 
-![](assets/iTunes-Rating-Angry-Birds.png "iTunes Rating - Angry Birds")
+![](/assets/iTunes-Rating-Angry-Birds.png "iTunes Rating - Angry Birds")
 
 However, the vast majority of iPad / iPhone users interact on the phone
 itself and here's where it's painfully limited, I can only give it 1 to
@@ -149,7 +149,7 @@ killer".
 
 On the iPad / iPhone it also has an inherent flaw in when people are
 encouraged to give feedback.
- An example:![](assets/iPhone-Rating.png "iPhone Rating")
+ An example:![](/assets/iPhone-Rating.png "iPhone Rating")
  1. I buy the game on my iPhone (no ratings system)
  2. I play the game on my iPhone
  3. I've finished with it / bored of it / need the space, so I remove

@@ -107,7 +107,7 @@ be:
 
 <div>
 
-![](assets/Animal-Crossing-Dog.jpg "Animal-Crossing-Dog")**Animal
+![](/assets/Animal-Crossing-Dog.jpg "Animal-Crossing-Dog")**Animal
 Crossing** - vendors at specific times of day or even day of month,
 seasons, fishing at night and fruit that goes bad. Special events on
 religious festivals.
@@ -116,7 +116,7 @@ religious festivals.
 
 <div>
 
-![](assets/hustle_kings_ps3.jpg "hustle_kings_ps3") ****
+![](/assets/hustle_kings_ps3.jpg "hustle_kings_ps3") ****
  **Hustle Kings** - a viral trophy that you can only get by playing
 against someone who already has it.
 
@@ -124,7 +124,7 @@ against someone who already has it.
 
 <div>
 
-![](assets/farmville1.jpg "farmville")**FarmVille** - crops that need
+![](/assets/farmville1.jpg "farmville")**FarmVille** - crops that need
 tending in X hours or they perish, limited time offers for 'free' sheep
 that you must have, receiving a gift that I have to place in the world
 before it expires, your friends have fertilised your crops for you and

@@ -17,7 +17,7 @@ and I wanted to share with you my **complete guide to pitching a game**.
 In essence, **Pitching** is about building a bridge between the **Art**
 and the **Money,** let's learn how to make that bridge**.**
 
-![image](assets/image.png "image")
+![image](/assets/image.png "image")
 
 In order to make this connection we need **3 key elements** to be
 successful. These
@@ -27,14 +27,14 @@ are:
 
   -------------------------------------- -------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   A **Great Idea**                       A **Good Business Case**                                                                                       and a **Great Team** to execute it
-  ![image](assets/image47.png "image")   [![image](assets/image_thumb7.png "image")](http://game-linchpin.com/wp-content/uploads/2010/09/image48.png)   [![28561_401001936774_749226774_4419975_4373594_n](assets/28561_401001936774_749226774_4419975_4373594_n_thumb.jpg "28561_401001936774_749226774_4419975_4373594_n")](http://game-linchpin.com/wp-content/uploads/2010/09/28561_401001936774_749226774_4419975_4373594_n.jpg)
+  ![image](/assets/image47.png "image")   [![image](/assets/image_thumb7.png "image")](http://game-linchpin.com/wp-content/uploads/2010/09/image48.png)   [![28561_401001936774_749226774_4419975_4373594_n](/assets/28561_401001936774_749226774_4419975_4373594_n_thumb.jpg "28561_401001936774_749226774_4419975_4373594_n")](http://game-linchpin.com/wp-content/uploads/2010/09/28561_401001936774_749226774_4419975_4373594_n.jpg)
   -------------------------------------- -------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 </div>
 
 ### A Warning
 
-![image](assets/image3.png "image")
+![image](/assets/image3.png "image")
 
 What's presented in this post are general rules that work in most cases
 but these aren't definitive rules, you'll need to adapt them to suit
@@ -54,7 +54,7 @@ presenting. There are 3 main properties your great idea should have…
 <div>
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------
-  [![Glastonbury-Festival-2008-001](assets/Glastonbury-Festival-2008-001_thumb.jpg "Glastonbury-Festival-2008-001")](http://game-linchpin.com/wp-content/uploads/2010/09/Glastonbury-Festival-2008-001.jpg)   ![image](assets/image5.png "image")        [![six-sense](assets/six-sense_thumb.jpg "six-sense")](http://game-linchpin.com/wp-content/uploads/2010/09/six-sense.jpg)
+  [![Glastonbury-Festival-2008-001](/assets/Glastonbury-Festival-2008-001_thumb.jpg "Glastonbury-Festival-2008-001")](http://game-linchpin.com/wp-content/uploads/2010/09/Glastonbury-Festival-2008-001.jpg)   ![image](/assets/image5.png "image")        [![six-sense](/assets/six-sense_thumb.jpg "six-sense")](http://game-linchpin.com/wp-content/uploads/2010/09/six-sense.jpg)
   It needs to be **relevant to a big enough audience**                                                                                                                                                        It needs to **stand out from the crowd**   And be **Innovative**, in that it offers something new in actual game experience that sets it apart from other games in the genre.
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ presenting. There are 3 main properties your great idea should have…
 
 ### So how should we structure the pitch?
 
-![image](assets/image7.png "image") A good structure for a pitch is to
+![image](/assets/image7.png "image") A good structure for a pitch is to
 cover some basic areas to make sure that all the key information is
 shared
 
@@ -75,7 +75,7 @@ shared
 
 #### How Long Should It Be?
 
-![image](assets/image8.png "image")
+![image](/assets/image8.png "image")
 
 It's been scientifically proven that 10 minutes is the greatest amount
 of time a person can concentrate before their mind starts to wander.
@@ -100,7 +100,7 @@ Pitch" with the idea being that you could jump in a lift on the ground
 floor with the person you're presenting to and make your pitch memorable
 before they leave on the 2nd floor.
 
-[![image](assets/image_thumb1.png "image")](http://game-linchpin.com/wp-content/uploads/2010/09/image9.png)
+[![image](/assets/image_thumb1.png "image")](http://game-linchpin.com/wp-content/uploads/2010/09/image9.png)
 
 This means that it's important that your **high concept is easy to
 communicate**, memorable & easy to pass on.
@@ -125,7 +125,7 @@ statement, which is the idea.
 
 <div style="clear: both;">
 
-![image](assets/image10.png "image")
+![image](/assets/image10.png "image")
 
 "Improve the Age of your Brain in just 10 minutes a day"
 
@@ -133,7 +133,7 @@ statement, which is the idea.
 
 <div style="clear: both;">
 
-![image](assets/image11.png "image")
+![image](/assets/image11.png "image")
 
 "Create virtual people and run their lives"
 
@@ -141,7 +141,7 @@ statement, which is the idea.
 
 #### Set The Scene {style="clear: both;"}
 
-![image](assets/image12.png "image")
+![image](/assets/image12.png "image")
 
 So, you've nailed the **High Concept** and now it's time to give some
 more detail so everyone understands exactly what our offering is. The
@@ -188,7 +188,7 @@ pick the 3 strongest features on which to hang your pitch.
 By far the best way to communicate your **High Concept** and **3 Key
 Features** is to use visuals in whatever format you choose.
 
-![image](assets/image49.png "image")
+![image](/assets/image49.png "image")
 
 Let's use one of my favourite games, Burnout Paradise (the only PS3
 Platinum I have), as an example of how this may work by using some stock
@@ -199,7 +199,7 @@ prototype.
 
 #### High Concept
 
-![image](assets/image14.png "image")
+![image](/assets/image14.png "image")
  The original Burnout game's X Statement
 is:
 
@@ -210,7 +210,7 @@ crashing, secondly it refers to the effect it has on you.
 
 #### Risk = Reward {style="clear: both;"}
 
-![image](assets/image15.png "image")
+![image](/assets/image15.png "image")
 
 What takes Burnout beyond a regular car driving game is the element of
 "Risk = Reward". The more dangerous you drive, the more risks you take
@@ -220,7 +220,7 @@ generates more Boost.
 
 #### Paradise City {style="clear: both;"}
 
-![image](assets/image16.png "image")
+![image](/assets/image16.png "image")
 
 "Explore over 250 miles of open road, discovering jumps, stunts and
 shortcuts."
@@ -232,7 +232,7 @@ start of another - or you could just cruise away.
 
 #### Choose Your Route {style="clear: both;"}
 
-[![burnout-paradise-20080701043017547_640w](assets/burnout-paradise-20080701043017547_640w_thumb.jpg "burnout-paradise-20080701043017547_640w")](http://game-linchpin.com/wp-content/uploads/2010/09/burnout-paradise-20080701043017547_640w.jpg)
+[![burnout-paradise-20080701043017547_640w](/assets/burnout-paradise-20080701043017547_640w_thumb.jpg "burnout-paradise-20080701043017547_640w")](http://game-linchpin.com/wp-content/uploads/2010/09/burnout-paradise-20080701043017547_640w.jpg)
 
 The open world naturally facilitated choosing your own route through the
 world, you could take short-cuts, scenic routes and weave your way under
@@ -247,7 +247,7 @@ vehicles, DLC plans for later.
 
 ### Movies {style="clear: both;"}
 
-![image](assets/image17.png "image")
+![image](/assets/image17.png "image")
 
 If you have the time then a Movie can be a great way to get across your
 point. You may splice bits from other games, TV, Hollywood, DVDs in a
@@ -270,7 +270,7 @@ of:
 A great way to get across an idea is to take your audience through the
 experience in the form of a storyboard, walk-through or scenarios.
 
-![image](assets/image18.png "image")
+![image](/assets/image18.png "image")
 
 The aim of your storyboard is the same, its sole aim is to get across
 your **High Concept** and **3 Key Features**. Hollywood and TV have used
@@ -300,7 +300,7 @@ Let's use another of my favourite games as an example of how we can use
 a Storyboard to get across our Key Features in a way that is compelling
 and memorable.
 
-![image](assets/image21.png "image")
+![image](/assets/image21.png "image")
 
 Here’s a **Storyboard** that we could use to describe the action of a
 Survival Horror featuring Close-Quarter Intense Fights, Interactive
@@ -349,7 +349,7 @@ left: 0.5em;">
 
 <div style="clear: both;">
 
-![image](assets/image23.png "image")
+![image](/assets/image23.png "image")
 
 </div>
 
@@ -401,7 +401,7 @@ Features.**
 
 ### Defensive Slides {style="clear: both;"}
 
-[![image184_thumb](assets/image184_thumb_thumb.png "image184_thumb")](http://game-linchpin.com/wp-content/uploads/2010/09/image184_thumb.png)
+[![image184_thumb](/assets/image184_thumb_thumb.png "image184_thumb")](http://game-linchpin.com/wp-content/uploads/2010/09/image184_thumb.png)
 
 Now here's a top-secret
 tip: Defensive Slides.

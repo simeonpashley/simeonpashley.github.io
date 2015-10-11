@@ -12,7 +12,7 @@ published: true
 <div style="float: right;
 margin: 0 0 10px 10px;">
 
-[![](assets/125x125-go-chat-with.png)](http://www.olark.com/?r=tcg0p7ld "Olark live chat")
+[![](/assets/125x125-go-chat-with.png)](http://www.olark.com/?r=tcg0p7ld "Olark live chat")
 
 </div>
 
@@ -60,12 +60,12 @@ Once installed, your website visitors appear as chat clients right
 inside your desktop chat client along with basic information about that
 particular user.
  ![live customer
-support](assets/buddy-list-300x121.png "live customer support")
+support](/assets/buddy-list-300x121.png "live customer support")
  On the website, they see that you're 'live' and they can choose to chat
 with you if they need help and you can also choose to start chatting to
 them.
 
-![Realtime Chat](assets/visitor.png "Realtime Chat")
+![Realtime Chat](/assets/visitor.png "Realtime Chat")
 
 IMMEDIATE benefits
 ------------------
@@ -88,7 +88,7 @@ customer support.
 <div style="float: left;
 margin: 0 10px 10px 0;">
 
-[![](assets/125x125-live-chat-blue.png)](http://www.olark.com/?r=tcg0p7ld "Olark live chat")
+[![](/assets/125x125-live-chat-blue.png)](http://www.olark.com/?r=tcg0p7ld "Olark live chat")
 
 </div>
 
@@ -105,12 +105,12 @@ with:
 
 The realtime chat and customer support software is great whether you're
 on your own or if you have a team of support people.
- ![](assets/team-300x121.png "team")
+ ![](/assets/team-300x121.png "team")
 
 The software also generates lots of useful information about your online
 chats and visitors, as well as pushing more data out to Google Analytics
 so you can really drill down into the detail.
- ![](assets/reports-300x121.png "reports")
+ ![](/assets/reports-300x121.png "reports")
 
 Want Real-Time Chat on your website?
 ------------------------------------

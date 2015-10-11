@@ -62,7 +62,7 @@ What type of person are you? I think I'm 'T' shaped. :)
 -   [Generalizing
 Specialists: Improving Your IT Career
     Skills](http://www.agilemodeling.com/essays/generalizingSpecialists.htm)
--   [![](assets/TheTenFacesOfInnovation.jpg)](http://www.amazon.co.uk/gp/product/184668031X?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=184668031X)![](assets/ir?t=gamedevelcons-21&l=as2&o=2&a=184668031X)
+-   [![](/assets/TheTenFacesOfInnovation.jpg)](http://www.amazon.co.uk/gp/product/184668031X?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=184668031X)![](/assets/ir?t=gamedevelcons-21&l=as2&o=2&a=184668031X)
     [The Ten Faces of
     Innovation](http://www.amazon.co.uk/gp/product/184668031X?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=184668031X) -
     IDEO's Strategies for Beating the Devil's Advocate & Driving

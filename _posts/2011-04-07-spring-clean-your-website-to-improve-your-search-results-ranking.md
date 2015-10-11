@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 ---
-![](assets/change_ahead.jpg "Change Ahead")Keeping your website
+![](/assets/change_ahead.jpg "Change Ahead")Keeping your website
 up-to-date is important to ensure you keep high in the search listings
 or you will be overtaken by those that do. We can help you find and fix
 any issues that may affect your search results position, it's never been

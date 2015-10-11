@@ -76,7 +76,7 @@ Service](https://wiki.jenkins-ci.org/display/JENKINS/Installing+Jenkins+as+a+Win
 #### Here's a link to the plugin you're looking to setup
 locally: <https://wiki.jenkins-ci.org/display/JENKINS/MSBuild+Plugin> . You'll notice there's no download link on there as plugins are installed through the local Jenkins browser interface. {style="color: #333333; font-style: normal;"}
 
-![](assets/Screen-Shot-2012-04-13-at-18.19.41-300x215.png "Jenkins Plugin Manager Available")
+![](/assets/Screen-Shot-2012-04-13-at-18.19.41-300x215.png "Jenkins Plugin Manager Available")
 
 Inside the Jenkins browser you'll be installing the *MSBuild* plugin via
 *Jenkins>Manage Plugins>Available* then you'll find the *MSBuild* in
@@ -99,7 +99,7 @@ Go to your local *Jenkins Configuration* via
 -   **Path** : C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319
 -   **Default Params**: *empty*
 
-![](assets/Jenkins-W7.png "Jenkins Config MSBuild Command")
+![](/assets/Jenkins-W7.png "Jenkins Config MSBuild Command")
 
 You should now have the prerequisites to be able to make a build Job via
 Jenkins.
@@ -114,7 +114,7 @@ Build Job
  -- **Type**: Build a free-style software project
  -- **OK**
 
-![](assets/Jenkins-W7.jpg "Jenkins New Job")
+![](/assets/Jenkins-W7.jpg "Jenkins New Job")
  Setup your Job to execute a **MSBuild** script:
  Navigate down through *Build -> Add Build Step -> Build a Visual
 Studio project*
@@ -122,7 +122,7 @@ Studio project*
  -- **MsBuild Build File**:
 C:\\dev\\Projects\\*ProjectName*\\*Project.vbproj*
 
-![](assets/Jenkins-W7-2.png "Jenkins New Job Build MSBuild")
+![](/assets/Jenkins-W7-2.png "Jenkins New Job Build MSBuild")
 
 That's it for the basic build. You should now be able to get Jenkins to
 run your build job and have it build locally without errors. If it's not

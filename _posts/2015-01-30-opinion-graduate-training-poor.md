@@ -2,7 +2,7 @@
 layout: post
 author: gamelinchpin
 title: Opinion - Video Game Developer Graduate Training is Poor
-date: 2015-01-30 09:31:53
+date: 2010-04-01 09:31:53
 categories: career
 tags: career - training
 status: publish
@@ -16,8 +16,9 @@ well stocked with talented, passionate individuals and we're not going
 to get them by just sitting back and waiting.
 
 I've been actively involved in the promotion of graduate recruitment for
-years now and I spotted [this
-post](http://blogs.dailyrecord.co.uk/gaming/2010/03/train2game-offer-hnds-and-bachelor-degrees.html) that I prompted me to comment, but my comments were removed! So, I thought I'd share them here.
+years now and I spotted [this post](http://blogs.dailyrecord.co.uk/gaming/2010/03/train2game-offer-hnds-and-bachelor-degrees.html) that I prompted me to comment, but my comments were removed! So, I thought I'd share them here.
+
+<!-- more -->
 
 Now, I'm an avid support of [Train2Game](http://www.train2game.com/) because they're trying to do great things but I feel there's more to be
 done.
@@ -75,7 +76,7 @@ peoples lives.
 
 </div>
 
-[![](assets/logo_train2game.gif "logo_train2game")](http://www.train2game.com/)
+[![](/assets/logo_train2game.gif "logo_train2game")](http://www.train2game.com/)
  Train2Game - The group striving to support graduates - **External
 Link**
 

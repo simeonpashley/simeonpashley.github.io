@@ -8,8 +8,7 @@ author: gamelinchpin
 
 ---
 
-Recently when I was trying to run `brew update` on my Mac I was hitting errors that claimed I
-had uncommitted changes to my local brew and yet I hadn't made any changes. It didn't matter what I did, the changes would not revert and the errors would not go away.
+Recently when I was trying to run `brew update` on my Mac I was hitting errors that claimed I had uncommitted changes to my local brew and yet I hadn't made any changes. It didn't matter what I did, the changes would not revert and the errors would not go away.
 
 <!-- more -->
 

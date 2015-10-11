@@ -20,6 +20,8 @@ At the moment there appears to be no middle ground, developers are
 either large in house teams or small external teams. 30-40 people seems
 to be the top end for an independent developer right now.
 
+<!-- more -->
+
 **Pico developers** are the individual making iPhone games in their
 bedroom and becoming multi-millionaires over night.
 

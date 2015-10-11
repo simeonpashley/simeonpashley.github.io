@@ -16,9 +16,9 @@ Applications for Business**.
  If you're thinking about improving your availability, cost savings and
 ensuring your documents are backed up and shared then **give Ring Alpha
 a call to see how we can help you migrate**
- ![](assets/Google-Apps3.jpg "Google Apps")
+ ![](/assets/Google-Apps3.jpg "Google Apps")
 
-![](assets/google-apps-graphic.jpg "Google Apps")
+![](/assets/google-apps-graphic.jpg "Google Apps")
  Google Applications represents significant benefits over hosting your
 own services and here are a few key
 reasons:

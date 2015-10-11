@@ -9,9 +9,9 @@ status: publish
 type: post
 published: true
 ---
-Some notes from another round of performance optimisation of our server stack hosting our online platform.
+Some notes from another round of performance optimisation of our server stack hosting our online platform that dramatically improved customer experience too.
 
-<!--more-->
+<!-- more -->
 
 The environment is a set of dedicated front end webhosts running Nginx & PHP-FPM all of which share a common disk volume for the web application itself. Services including MySQL, Memcached and Elastic Search run on seperate VMs to ease the load. Memcached exists in 2 forms:
 

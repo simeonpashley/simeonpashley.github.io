@@ -122,12 +122,12 @@ Pitch – Part 2**](/2010/06/improve-pitch-part-2-2.html)**'**
 -   [Presentation
 Zen: Simple Ideas on Presentation Design and Delivery
     (Voices That
-    Matter)](http://www.amazon.co.uk/gp/product/0321525655?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0321525655)![](assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0321525655) -
+    Matter)](http://www.amazon.co.uk/gp/product/0321525655?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0321525655)![](/assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0321525655) -
     a great book that sets the basis for great presentations
 -   [Presentation Zen
 Design: Simple Design Principles and Techniques to
     Enhance Your Presentations (Voices That
     Matter)](http://www.amazon.co.uk/gp/product/0321668790?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0321668790) -
     a partner book that focuses on
-    design![](assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0321668790)
+    design![](/assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0321668790)
 

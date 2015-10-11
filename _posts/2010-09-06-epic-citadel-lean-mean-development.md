@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 ---
-![epic-citadel-004](assets/epiccitadel004.jpg "epic-citadel-004") The
+![epic-citadel-004](/assets/epiccitadel004.jpg "epic-citadel-004") The
 recent outing on iPhone of the amazing looking Unreal Engine 3 demo
 entitled [Epic
 Citadel](http://itunes.apple.com/us/app/epic-citadel/id388888815)

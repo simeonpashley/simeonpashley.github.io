@@ -40,7 +40,7 @@ It’s important for managers, colleagues, producers and businesses to
 recognise that supporting this can make a real difference to the quality
 of your game.
 
-![FlowTarget](assets/FlowTarget.png "FlowTarget")As you settle in for a
+![FlowTarget](/assets/FlowTarget.png "FlowTarget")As you settle in for a
 good working session, you slip from your Regular un-productive state
 that you sit at your desk at, through your **Immersion** phase into a
 state of **Flow** and this whole process typically takes you about 15
@@ -65,7 +65,7 @@ get into **Flow**.
 
 #### Explicit Interruptions
 
-![800-service-interruption-transfer](assets/800serviceinterruptiontransfer.jpg "800-service-interruption-transfer")
+![800-service-interruption-transfer](/assets/800serviceinterruptiontransfer.jpg "800-service-interruption-transfer")
 
 -   You get an email pop-up – +15 minutes
 -   IM pops up – +15 minutes
@@ -205,7 +205,7 @@ difference to your game development team and therefore the game.
 Encourage everyone in your organisation to learn about it and respect
 it.
 
-![](assets/GodKills-e1285111180331.jpg "GodKills")
+![](/assets/GodKills-e1285111180331.jpg "GodKills")
 
 #### Further Reading
 

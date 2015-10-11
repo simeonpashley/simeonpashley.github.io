@@ -19,7 +19,7 @@ Why am I writing about it? What on earth has it got to do with video
 game development? I felt compelled to write something while the
 programme is still on air
 
-![](assets/trans.gif "More...")I can't help but draw similes from this
+![](/assets/trans.gif "More...")I can't help but draw similes from this
 program when comparing small indie games (local shops) and AAA budget
 games (supermarkets). The message here is that it's absolutely pointless
 for the indies to try to be the big guys, you'll never win them at a

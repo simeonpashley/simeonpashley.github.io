@@ -26,7 +26,7 @@ that assumption was.
 I'm not going to talk specifically about [the games I've
 made](http://gamedevconsulting.blogspot.com/p/softography.html) as that information is available in lots of other places but but more about my career so far.
 
-![](assets/AmigaInsertWorkbench-300x257.gif "AmigaInsertWorkbench")In
+![](/assets/AmigaInsertWorkbench-300x257.gif "AmigaInsertWorkbench")In
 response to some comments on the 1st part I thought I'd embellish on
 typical examples of how we made the games back then too. I see echos of
 these early development concerns being raised on small mobile platforms
@@ -105,7 +105,7 @@ packing". :)
 
 #### File Editors & Remote Debug
 
-![](assets/BriefTextEditor-300x264.png "BriefTextEditor")The advent of
+![](/assets/BriefTextEditor-300x264.png "BriefTextEditor")The advent of
 remote debugging using SNASM dev-kits (later renamed PsyQ) brought in
 the use of proper compilers, linkers, debuggers and text editors. The
 debugger was \*the\* most important aspect of the whole setup and the

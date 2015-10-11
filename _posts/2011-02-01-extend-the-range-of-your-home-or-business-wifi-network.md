@@ -95,7 +95,7 @@ you'll have with this configuration. **Stick with firmware v2.2eu.**
     Homehub**, if they're not then it simply won't work.
 -   Select '**Apply**' and then you're done here
 
-![](assets/Dl-WifiRepeater.jpg "Dl-WifiRepeater")
+![](/assets/Dl-WifiRepeater.jpg "Dl-WifiRepeater")
 
 ### 2. Homehub
 
@@ -109,7 +109,7 @@ you'll have with this configuration. **Stick with firmware v2.2eu.**
     Points list
 -   Hit **Apply** and thats that.
 
-![](assets/BT-WifiRepeater.jpg "BT-WifiRepeater")
+![](/assets/BT-WifiRepeater.jpg "BT-WifiRepeater")
 
 That's it, once your devices have rebooted themselves your 2 networks
 should be able to see each other. I've done this a few times now and

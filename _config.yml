@@ -1,4 +1,14 @@
-highlighter: pygments
+# Where things are
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+layouts:     ./_layouts
+data_source: ./_data
+collections: null
+
+# Handling Reading
+safe:         false
+include:      [".htaccess"]
 exclude: [
   README.md,
   package.json,
@@ -6,37 +16,70 @@ exclude: [
   sass/,
   vendor
 ]
+keep_files:   [".git", ".svn"]
+encoding:     "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-paginate: 5
+# Filtering Content
+show_drafts: null
+limit_posts: 0
+future:      true
+unpublished: false
 
-share_twitter: true
-share_google: false
-share_facebook: false
-share_reddit: false
+# Plugins
+whitelist: []
+gems:      []
 
-# Site settings
-title: Simeon Pashley
-author: "Simeon Pashley"
-email: ""
-description: > # this means to ignore newlines until "baseurl:"
-  Some random collection of notes, posts and longer form writing.
-  Mostly about technology, web development, games and whatever else I find
-  interesting.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://gamelinchpin.github.io" # the base hostname & protocol for your site
-twitter_username: simeonpashley
-github_username:  gamelinchpin
-
-permalink: /:year/:month/:title
-
-disqus_short_name: gamelinchpingithubio
-
-# Build settings
+# Conversion
 markdown: kramdown
+highlighter: pygments
+lsi:         false
+excerpt_separator: <!-- more -->
+
+# Serving
+detach:  false
+port:    4000
+host:    127.0.0.1
+baseurl: "" # does not include hostname
+
+# Outputting
+permalink: /:year/:month/:title
+paginate: 10
+paginate_path: /page:num
+timezone:      null
+
+quiet:    false
+defaults: []
+
+# Markdown Processors
+rdiscount:
+  extensions: []
+
+redcarpet:
+  extensions: []
+
 kramdown:
   input: GFM
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  coderay:
+    coderay_wrap:              div
+    coderay_line_numbers:      inline
+    coderay_line_number_start: 1
+    coderay_tab_width:         4
+    coderay_bold_every:        10
+    coderay_css:               style
 
-excerpt_separator: <!--more-->
+
+# Site settings
+
+twitter_username: simeonpashley
+github_username:  gamelinchpin
+disqus_short_name: gamelinchpingithubio
 
 # Put the authors in alphabetical order
 authors:
@@ -51,3 +94,19 @@ authors:
     linkedin: https://uk.linkedin.com/in/simeonpashley/
     gravatar: e75deb5e1dc8de89fecefba23a1efd97
     about: ""
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "projects"
+      type: "pages" # previously `page` in Jekyll 2.2.
+    values:
+      layout: "project" # overrides previous default layout
+
+include: ['_pages']

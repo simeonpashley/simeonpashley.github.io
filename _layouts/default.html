@@ -1,15 +1,25 @@
-<!DOCTYPE html>
-<html>
-  {% include head.html %}
-  <body itemscope itemtype="http://schema.org/WebPage">
+<!doctype html>
+<!--[if lt IE 7 ]><html itemscope itemtype="http://schema.org/{% if page.id or post.id %}Article{% else %}Organization{% endif %}" id="ie6" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 7 ]>   <html itemscope itemtype="http://schema.org/{% if page.id or post.id %}Article{% else %}Organization{% endif %}" id="ie7" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 8 ]>   <html itemscope itemtype="http://schema.org/{% if page.id or post.id %}Article{% else %}Organization{% endif %}" id="ie8" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 9 ]>   <html itemscope itemtype="http://schema.org/{% if page.id or post.id %}Article{% else %}Organization{% endif %}" id="ie9" class="ie" lang="en-US"><![endif]-->
+<!--[if gt IE 9]><!--><html itemscope itemtype="http://schema.org/{% if page.id or post.id %}Article{% else %}Organization{% endif %}" lang="en-US"><!--<![endif]-->
+{% include head.html %}
+<body class="{{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %} layout-{{ page.layout-class }}{% endif %}" itemscope itemtype="http://schema.org/WebPage">
     {% include header.html %}
 
     <div class="container main">
       <div class="row">
-        {% if page.type %}
-        {% include page-type.html %}
+        {% if page.path contains '_posts' %}
+        {% include page-is_blog.html %}
+        {% elsif page.layout == 'post' %}
+        {% include page-is_blog.html %}
         {% elsif page.is_blog %}
         {% include page-is_blog.html %}
+        {% elsif page.path contains '_pages' %}
+        {% include page-page.html %}
+        {% elsif page.layout == 'page' %}
+        {% include page-page.html %}
         {% else %}
         {% include page-default.html %}
         {% endif %}
