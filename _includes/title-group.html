@@ -22,7 +22,14 @@
     </h1>
     {% if page.id %}
     <aside>
-        {{ page.date | date: "%m.%d.%y" }}
+        {% assign d = page.date | date: "%-d" %}
+        {% case d %}
+          {% when '1' or '21' or '31' %}{{ d }}<sup>st</sup>
+          {% when '2' or '22' %}{{ d }}<sup>nd</sup>
+          {% when '3' or '23' %}{{ d }}<sup>rd</sup>
+          {% else %}{{ d }}<sup>th</sup>
+          {% endcase %}
+        {{ page.date | date: "%B %Y" }}
         {% if page.categories != empty %}
             &middot;
             {% for category in page.categories %}
