@@ -32,6 +32,7 @@ gems:      [jekyll-paginate]
 
 # Conversion
 markdown: kramdown
+highlighter: rouge
 lsi:         false
 excerpt_separator: <!-- more -->
 
