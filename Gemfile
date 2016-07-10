@@ -17,4 +17,5 @@ group :jekyll_plugins do
   gem 'jekyll-mentions', versions['jekyll-mentions']
   gem 'jekyll-redirect-from', versions['jekyll-redirect-from']
   gem 'jekyll-sitemap', versions['jekyll-sitemap']
+  gem 'jekyll-paginate', versions['jekyll-paginate']
 end
