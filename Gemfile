@@ -11,7 +11,8 @@ gem 'mini_magick'
 gem 'autoprefixer-rails'
 gem 'uglifier'
 
-gem 'github-pages', versions['github-pages']
+gem 'activesupport', '4.2.6'
+gem 'github-pages'
 
 gem 'jekyll'
 

@@ -1,7 +1,6 @@
 _site
 .sass-cache
 node_modules/
-Gemfile.lock
 _drafts/
 bower_components
 .jekyll-metadata
