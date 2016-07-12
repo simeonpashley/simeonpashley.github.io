@@ -4,23 +4,71 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
   <meta content="yes" name="apple-mobile-web-app-capable">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta http-equiv="cleartype" content="on">
+
+  {% assign seo_title = site.data.global.title %}
+  {% if page.title %}
+    {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
+  {% endif %}
+
+  {% if seo_title %}
+    {% assign seo_title = seo_title | markdownify | strip_html | strip_newlines | escape_once %}
+  {% endif %}
+
+  {% if page.excerpt %}
+    {% assign seo_description = page.excerpt %}
+  {% elsif page.type == 'tag' %}
+    {% assign seo_description = page.title | prepend: "An archive of " | append: " posts." | %}
+  {% elsif site.description %}
+    {% assign seo_description = site.description %}
+  {% endif %}
+
+  {% if seo_description %}
+    {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once | truncate: 160 %}
+  {% endif %}
+
+  {% if site.baseurl %}
+    {% assign canonical_url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.data.global.url %}
+  {% endif %}
 
   {% if site.data.global.author %}
   <meta name="author" content="{{ site.data.global.author }}">
   {% endif %}
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.global.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.global.description }}{% endif %}">
 
-  <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="{{ site.data.global.title }} ♥ {{ site.data.global.description }}" href="{{ site.data.global.url }}/feed.xml">
-  <link rel="alternate" type="application/atom+xml" title="{{ site.data.global.title }} ♥ {{ site.data.global.description }}" href="{{ site.data.global.url }}/atom.xml">
+  {% if seo_title %}
+    <title>{{ seo_title }}</title>
+  {% endif %}
+
+  {% if seo_description %}
+    <meta name="description" content="{{ seo_description }}" />
+  {% endif %}
+
+  {% include sharing-meta.html %}
+
+  <link rel="canonical" href="{{ canonical_url }}">
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+
+  <!-- Webmaster Tools verifications -->
+  {% if site.owner.google.verify %}<meta name="google-site-verification" content="{{ site.owner.google.verify }}">{% endif %}
+  {% if site.owner.bing.verify %}<meta name="msvalidate.01" content="{{ site.owner.bing.verify }}">{% endif %}
+  {% if site.owner.alexa.verify %}<meta name="alexaVerifyID" content="{{ site.owner.alexa.verify }}">{% endif %}
+  {% if site.owner.yandex.verify %}<meta name="yandex-verification" content="{{ site.owner.yandex.verify }}">{% endif %}
+
+  {% if site.owner.google.plus %}<link rel="author" href="{{ site.owner.google.plus }}?rel=author">{% endif %}
 
   <!-- Fonts -->
+  <link href="//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400,400italic,700,700italic|Oswald:300,400,700">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <!-- Styles -->
   <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.data.global.url }}">
+  <script>
+    document.createElement("picture");
+  </script>
+  {% javascript vendor/picturefill.min async %}
+
 </head>

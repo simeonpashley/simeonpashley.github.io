@@ -1,0 +1,46 @@
+---
+layout: default
+---
+{% assign taxonomy = page.title | downcase | slugify %}
+{% assign tag = site.data.taxonomy[taxonomy] %}
+
+{% include masthead.html %}
+{% include browser-upgrade.html %}
+
+<div id="main" role="main">
+
+  <header class="container post__header">
+    <h1 class="post__title">{{ page.title }}</h1>
+    <h2>{{ page.date | date: "%Y" }} Archives</h2>
+    {% include breadcrumbs.html %}
+  </header>
+
+  <div class="container post__content">
+
+    <div class="post__inner-wrapper">
+
+      <section class="post__body">
+        {% for post in page.posts %}
+          <article itemscope itemtype="http://schema.org/CreativeWork">
+            <a class="archive__item" href="{{ post.url }}">
+              <div class="archive__item-body">
+                <h3 class="archive__item-title" itemprop="headline">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</h3>
+                <div class="archive__item-meta">
+                  <span class="date published" itemprop="datePublished"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d %B %Y" }}</time></span>
+                </div>
+              </div>
+            </a>
+          </article>
+        {% endfor %}
+      </section>
+    </div>
+    <aside class="post__sidebar sticky">
+      {% include ad.html %}
+    </aside>
+
+  </div>
+
+</div>
+
+
+{% include colophon.html %}

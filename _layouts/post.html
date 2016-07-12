@@ -3,23 +3,54 @@ is_blog: true
 layout: default
 ---
 
-<article itemscope itemtype="http://schema.org/BlogPosting">
-  <div id="body" itemprop="articleBody">
-    {{ content }}
-  </div>
-  <hr>
-  <section class="post_nav">
-    {% if page.previous.url %}
-    &laquo;&nbsp;<a href="{{ page.previous.url }}/" rel="previous" title="{{ page.previous.title }}">{{ page.previous.title }}</a>
+<div id="main" role="main">
+  <article itemscope itemtype="http://schema.org/BlogPosting">
+    <meta itemprop="description" content="{{ page.excerpt | strip_html }}">
+
+    <header class="container post__header">
+      <h1 class="post__title" itemprop="headline">{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</h1>
+      {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
+      {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
+      {% include page__hero.html %}
+      {% include breadcrumbs.html %}
+    </header>
+
+    {% if page.feature.visible == true %}
+      {% include featured.html %}
     {% endif %}
 
-    {% if page.previous.url %}{% if page.next.url %}
-      |
-    {% endif %}{% endif %}
+    <section class="post__body" itemprop="text">
+      <div id="body" itemprop="articleBody">
+        {{ content }}
+      </div>
+    </section>
 
-    {% if page.next.url %}
-    <a href="{{ page.next.url }}/" rel="next" title="{{ page.next.title }}">{{ page.next.title }}</a>&nbsp;&raquo;
+    {% if page.path contains '_posts' and page.tags %}
+    <div class="post__taxonomy">
+      {% include post__taxonomy.html %}
+    </div>
     {% endif %}
-  </section>
 
-</article>
+    <hr>
+    <section class="post_nav">
+      {% if page.previous.url %}
+      &laquo;&nbsp;<a href="{{ page.previous.url }}/" rel="previous" title="{{ page.previous.title }}">{{ page.previous.title }}</a>
+      {% endif %}
+
+      {% if page.previous.url %}{% if page.next.url %}
+        |
+      {% endif %}{% endif %}
+
+      {% if page.next.url %}
+      <a href="{{ page.next.url }}/" rel="next" title="{{ page.next.title }}">{{ page.next.title }}</a>&nbsp;&raquo;
+      {% endif %}
+    </section>
+    <aside class="post__sidebar sticky">
+      <div class="toc--sidebar"></div>
+      {% include ad.html %}
+    </aside>
+  </article>
+  {% if page.path contains '_posts' and site.related_posts.size >= 3 %}
+    {% include related.html %}
+  {% endif %}
+</div>

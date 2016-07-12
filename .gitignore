@@ -5,3 +5,4 @@ Gemfile.lock
 _drafts/
 bower_components
 .jekyll-metadata
+.asset-cache

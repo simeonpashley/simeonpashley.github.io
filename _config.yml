@@ -1,22 +1,85 @@
+---
+# Site wide configuration
+title: "Simeon Pashley"
+description: "Personal website"
+logo: site-logo.png
+teaser: default-teaser.png
+locale: en_GB
+words_per_minute: 200
+title_separator: "×"
+url: http://www.pashley.org
+shortname: pashley.org
+
+# Site owner
+authors:
+  gamelinchpin:
+    name:       Simeon Pashley
+    email:      ""
+    position:   ""
+    start_date: 1986-02-01
+    github:     gamelinchpin
+    twitter:    simeonpashley
+    gplus:      +SimeonPashley
+    linkedin:   https://uk.linkedin.com/in/simeonpashley/
+    gravatar:   e75deb5e1dc8de89fecefba23a1efd97
+    about:      ""
+
+owner:
+  name: "Simeon Pashley"
+  email: ""
+  twitter: simeonpashley
+  github: gamelinchpin
+  gplus: +SimeonPashley
+  gravatar:
+    hash: e75deb5e1dc8de89fecefba23a1efd97
+    img_src: "https://www.gravatar.com/avatar/e75deb5e1dc8de89fecefba23a1efd97?s=200"
+  linkedin_url: https://uk.linkedin.com/in/simeonpashley/
+  github-repo: https://github.com/gamelinchpin/gamelinchpin.github.io
+  google:
+    ad-client: ca-pub-7328585512091257
+    ad-slot:
+    analytics: UA-16937664-6
+    plus: https://plus.google.com/+SimeonPashley/posts
+  bing:
+    verify: D81F4C18A6CB3018F64D7C827D953DFD
+  alexa:
+    verify: Y5DYjZ4VWlrQzBP5kcQJeOKLNas
+  yandex:
+    verify: 55a5419baf76a498
+  bio: "Just another."
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+
 # Where things are
 source:      .
 destination: ./_site
 plugins_dir: ./_plugins
 layouts_dir: ./_layouts
 data_dir:    ./_data
-collections: null
 
 # Handling Reading
 safe:         false
-include:      [".htaccess"]
-exclude: [
-  README.md,
-  package.json,
-  gruntfile.js,
-  sass/,
-  vendor
-]
-keep_files:   [".git", ".svn"]
+include:
+  - ".htaccess"
+  - '_pages'
+exclude:
+  - README.md
+  - package.json
+  - gruntfile.js
+  - sass/
+  - vendor
+  - _posts/older
+keep_files:
+  - ".git"
+  - ".svn"
+  - images
+  - "1999"
+  - "200"
+  - "2010"
+  - "2011"
+  - "2012"
+  - "2013"
+  - "2014"
+
 encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -28,12 +91,18 @@ unpublished: false
 
 # Plugins
 whitelist: []
-gems:      [jekyll-paginate]
+gems:
+  - jekyll-archives
+  - jekyll-assets
+  - jekyll/tagging
+  - jekyll-tagging-related_posts
+  - jemoji
+  - jekyll-paginate
 
 # Conversion
-markdown: kramdown
-highlighter: rouge
-lsi:         false
+markdown:          kramdown
+highlighter:       rouge
+lsi:               true
 excerpt_separator: <!-- more -->
 
 # Serving
@@ -43,8 +112,8 @@ host:    127.0.0.1
 baseurl: "" # does not include hostname
 
 # Outputting
-permalink: /:year/:month/:title
-paginate: 10
+permalink:     /:year/:month/:title
+paginate:      10
 paginate_path: /page:num
 timezone:      null
 
@@ -59,54 +128,118 @@ redcarpet:
   extensions: []
 
 kramdown:
-  input: GFM
+  input:          GFM
   auto_ids:       true
   footnote_nr:    1
+  hard_wrap:      false
   entity_output:  as_char
-  toc_levels:     1..6
+  toc_levels:     1..3
   smart_quotes:   lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-  coderay:
-    coderay_wrap:              div
-    coderay_line_numbers:      inline
-    coderay_line_number_start: 1
-    coderay_tab_width:         4
-    coderay_bold_every:        10
-    coderay_css:               style
-
 
 # Site settings
 
 twitter_username: simeonpashley
 github_username:  gamelinchpin
-disqus_short_name: gamelinchpingithubio
 
-# Put the authors in alphabetical order
-authors:
-  gamelinchpin:
-    name: Simeon Pashley
-    email: ""
-    position: ""
-    start_date: 1986-02-01
-    github: gamelinchpin
-    twitter: simeonpashley
-    gplus: +SimeonPashley
-    linkedin: https://uk.linkedin.com/in/simeonpashley/
-    gravatar: e75deb5e1dc8de89fecefba23a1efd97
-    about: ""
+# Collections
+
+collections:
+  faqs:
+    output:    true
+    permalink: /:collection/:path/
+    title:     FAQs
+  components:
+    output: false
+  colors:
+    output: false
 
 defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
+  - scope:
+      path: "_posts/articles"
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
-      layout: "post"
-  -
-    scope:
-      path: "projects"
+      layout:   article
+      category: articles
+  - scope:
+      path: "_posts/projects"
       type: "pages" # previously `page` in Jekyll 2.2.
     values:
-      layout: "project" # overrides previous default layout
+      layout:   project # overrides previous default layout
+      category: projects
+  # Pages
+  - scope:
+      path: _pages
+      type: pages
+    values:
+      layout: article
 
-include: ['_pages']
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+# Plugin: jekyll-assets
+
+assets:
+  sources:
+    - _assets/javascripts
+    - _assets/stylesheets
+  autoprefixer:
+    browsers: ["last 2 versions","> 5%","IE 9"]
+
+# Plugin: jekyll-archives
+
+jekyll-archives:
+  enabled: [year, month, tags]
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    tag: /tag/:name/
+  layouts:
+    year: year-archive
+    month: month-archive
+    tag: tag_index
+    #day: day-archive
+    #tag: tag-archive-layout
+
+# Plugin: jekyll-picture-tag
+
+picture:
+  source: "images/_originals"
+  output: "images"
+  markup: "picture"
+  presets:
+    default:
+      ppi: [1]
+      source_720:
+        media: "(min-width: 1200px)"
+        width: "720"
+      source_670:
+        media: "(min-width: 768px)"
+        width: "670"
+      source_540:
+        media: "(min-width: 600px)"
+        width: "540"
+      source_default:
+        width: "320"
+    hero:
+      attr:
+        class: "page__hero-image"
+        itemprop: "image"
+      ppi: [1]
+      source_1600:
+        media: "(min-width: 1600px)"
+        width: "1600"
+      source_1024:
+        media: "(min-width: 1024px)"
+        width: "1024"
+      source_768:
+        media: "(min-width: 768px)"
+        width: "768"
+      source_600:
+        media: "(min-width: 600px)"
+        width: "600"
+      source_default:
+        width: "320"
