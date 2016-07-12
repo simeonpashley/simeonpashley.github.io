@@ -1,14 +1,18 @@
 ---
-layout: page
-title: Resume
-header_title: Resume
-description: My recent history
-type: AboutPage
-author: gamelinchpin
-permalink: /resume/
+permalink: /history/
+title: "Brief History"
+date: 2014-06-01
+modified: 2016-02-11
+excerpt: "My recent history"
+ads: false
+share: false
+author: false
+fullwidth: true
 ---
 
 Hi, my name is Simeon and I'm currently a Technical Director at [Approved Food Ltd.](http://www.approvedfood.co.uk)
+
+{% include toc.html %}
 
 I've been a professional software developer since 1986 and I've included my most recent history below.
 
@@ -16,13 +20,13 @@ I've been a professional software developer since 1986 and I've included my most
 
 You can find me online at the following locations:
 
-- [github.com/gamelinchpin](https://github.com/gamelinchpin)
-- [linkedin.com/simeonpashley](https://uk.linkedin.com/in/simeonpashley)
-- [twitter.com/simeonpashley](https://twitter.com/simeonpashley)
+- [github.com/gamelinchpin](https://github.com/{{ site.owner.github }})
+- [linkedin.com/simeonpashley]({{ site.owner.linkedin_url }})
+- [twitter.com/simeonpashley](https://twitter.com/{{ site.owner.twitter }})
 
 ## History
 
-I believe my career is extensive so I have only included recent history. Full details can be found on my [LinkedIn](https://uk.linkedin.com/in/simeonpashley) page.
+I believe my career is extensive so I have only included recent history. Full details can be found on my [LinkedIn]({{ site.owner.linkedin_url }}) page.
 
 ### Approved Food Ltd. (Jan 2011 - Present)
 
