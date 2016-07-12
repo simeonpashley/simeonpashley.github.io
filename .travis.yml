@@ -13,6 +13,7 @@ branches:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
 install:
+- travis_retry gem install activesupport -v 4.2.6
 - travis_retry npm install
 - travis_retry bower install
 - travis_retry bundle install
