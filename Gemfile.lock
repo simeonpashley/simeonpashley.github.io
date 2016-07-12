@@ -172,7 +172,6 @@ DEPENDENCIES
   jekyll-archives
   jekyll-assets
   jekyll-compose
-  jekyll-mentions (= 1.1.3)
   jekyll-paginate (= 1.1.0)
   jekyll-sitemap (= 0.10.0)
   jekyll-tagging-related_posts

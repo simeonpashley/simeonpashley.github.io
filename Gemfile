@@ -18,7 +18,6 @@ gem 'jekyll'
 
 group :jekyll_plugins do
   gem 'jekyll-compose', versions['jekyll-compose']
-  gem 'jekyll-mentions', versions['jekyll-mentions']
   gem 'jekyll-sitemap', versions['jekyll-sitemap']
   gem 'jekyll-paginate', versions['jekyll-paginate']
   gem 'jekyll-assets', versions['jekyll-assets']
