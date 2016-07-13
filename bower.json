@@ -4,6 +4,7 @@
         "bootstrap": "~3.2.0",
         "prism": "prism#gh-pages",
         "font-awesome": "4.x.x",
+        "breakpoint-sass": "*",
         "typicons": "*"
     },
     "exportsOverride": {

@@ -6,7 +6,6 @@ versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 
 gem 'hpricot'
 gem 'kramdown'
-gem 'breakpoint'
 gem 'mini_magick'
 gem 'autoprefixer-rails'
 gem 'uglifier'

@@ -11,7 +11,7 @@
    Vendor
    ========================================================================== */
 
-@import "breakpoint"; // media query mixins
+@import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "mixins";
 @import "reset";
 @import "base";
