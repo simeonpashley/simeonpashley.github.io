@@ -14,7 +14,7 @@
         </span>
         {% assign readtime = post.content | strip_html | number_of_words | divided_by:site.words_per_minute %}
         {% if readtime > 1 %}
-        <span class="homepage__item-time">{% icon stopwatch %} {{ readtime }} min read</span>
+        <span class="homepage__item-time"><svg class="icon"><use xlink:href="#icon-#stopwatch"></use></svg> {{ readtime }} min read</span>
         {% endif %}
       </div>
       {% if post.image.teaser %}

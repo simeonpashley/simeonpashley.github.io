@@ -10,7 +10,7 @@ share: false
 {{ page.excerpt | markdownify }}
 
 <ul class="tag__list">
-  {% assign sorted_tags = site.tags | sort_tags_by_name %}
+  {% assign sorted_tags = site.tags %}
   {% for tag in sorted_tags %}
     <li><a href="/tag/{{ tag[0] | replace:' ','-' | downcase }}/" class="tag__item"><span class="tag__name">{{ tag[0] }}</span> <span class="tag__count">{{ tag[1] }}</span></a></li>
   {% endfor %}
