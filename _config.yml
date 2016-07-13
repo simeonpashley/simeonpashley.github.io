@@ -72,13 +72,6 @@ keep_files:
   - ".git"
   - ".svn"
   - images
-  - "1999"
-  - "200"
-  - "2010"
-  - "2011"
-  - "2012"
-  - "2013"
-  - "2014"
 
 encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
