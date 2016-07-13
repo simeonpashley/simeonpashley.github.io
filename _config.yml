@@ -93,7 +93,6 @@ unpublished: false
 whitelist: []
 gems:
   - jekyll-archives
-  - jekyll-assets
   - jekyll/tagging
   - jekyll-tagging-related_posts
   - jemoji
@@ -180,15 +179,6 @@ compress_html:
   ignore:
     envs: development
 
-# Plugin: jekyll-assets
-
-assets:
-  sources:
-    - _assets/javascripts
-    - _assets/stylesheets
-  autoprefixer:
-    browsers: ["last 2 versions","> 5%","IE 9"]
-
 # Plugin: jekyll-archives
 
 jekyll-archives:
@@ -203,43 +193,3 @@ jekyll-archives:
     tag: tag_index
     #day: day-archive
     #tag: tag-archive-layout
-
-# Plugin: jekyll-picture-tag
-
-picture:
-  source: "images/_originals"
-  output: "images"
-  markup: "picture"
-  presets:
-    default:
-      ppi: [1]
-      source_720:
-        media: "(min-width: 1200px)"
-        width: "720"
-      source_670:
-        media: "(min-width: 768px)"
-        width: "670"
-      source_540:
-        media: "(min-width: 600px)"
-        width: "540"
-      source_default:
-        width: "320"
-    hero:
-      attr:
-        class: "page__hero-image"
-        itemprop: "image"
-      ppi: [1]
-      source_1600:
-        media: "(min-width: 1600px)"
-        width: "1600"
-      source_1024:
-        media: "(min-width: 1024px)"
-        width: "1024"
-      source_768:
-        media: "(min-width: 768px)"
-        width: "768"
-      source_600:
-        media: "(min-width: 600px)"
-        width: "600"
-      source_default:
-        width: "320"
