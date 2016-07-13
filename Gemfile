@@ -17,11 +17,14 @@ gem 'github-pages'
 gem 'jekyll'
 
 group :jekyll_plugins do
-  gem 'jekyll-compose', versions['jekyll-compose']
+  gem 'jemoji', versions['jemoji']
+  gem 'jekyll-mentions', versions['jekyll-mentions']
+  gem 'jekyll-redirect-from', versions['jekyll-redirect-from']
   gem 'jekyll-sitemap', versions['jekyll-sitemap']
   gem 'jekyll-paginate', versions['jekyll-paginate']
-  gem 'jekyll-assets', versions['jekyll-assets']
-  gem 'jekyll-archives', versions['jekyll-archives']
-  gem 'jemoji', versions['jemoji']
-  gem 'jekyll-tagging-related_posts', versions['jekyll-tagging-related_posts']
+end
+
+group :nongh_jekyll_plugins do
+  gem 'jekyll-archives'
+  gem 'jekyll-tagging-related_posts'
 end
