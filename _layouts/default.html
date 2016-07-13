@@ -71,7 +71,7 @@ layout: compress
     <script>
       document.createElement("picture");
     </script>
-    {% javascript vendor/picturefill.min async %}
+    <script src="/js/vendor/picturefill.min.js" async></script>
 
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
@@ -93,7 +93,7 @@ layout: compress
 
   </head>
 
-  <body id="0">
+  <body id="0" class="page-layout-{{ page.layout }} page-type-{{ page.type }}">
 
     {% unless page.layout == "glitch" %}
       <section>
@@ -107,12 +107,18 @@ layout: compress
     {% endunless %}
 
     {{ content }}
-
+    <script src="/js/vendor/jquery.min.js"></script>
+    <script src="/js/plugins/bigfoot.min.js"></script>
+    <script src="/js/plugins/jquery.fitvids.min.js"></script>
+    <script src="/js/plugins/jquery.lazyload.min.js"></script>
+    <script src="/js/plugins/jquery.magnific-popup.min.js"></script>
+    <script src="/js/plugins/jquery.smooth-scroll.min.js"></script>
+    <script src="/js/plugins/stickyfill.min.js"></script>
     {% unless page.layout == "glitch" %}
       {% include svg-icons.svg %}
-      {% javascript main async %}
+      <script src="/js/main.js" async></script>
     {% else %}
-      {% javascript glitch async %}
+      <script src="/js/glitch.js" async></script>
     {% endunless %}
 
     <!-- Google Universal Analytics -->
