@@ -15,8 +15,6 @@ $doc-font-size                : 16;
 $doc-line-height              : 24;
 
 $border-radius                : 4px;
-
-
 /*
    Color variables
    ========================================================================== */
@@ -29,7 +27,11 @@ $dark-gray                    : #191413;
 $light-gray                   : #e2e2e2;
 $lighter-gray                 : #f9f9f9;
 
-$background-color             : $lighter-gray;
+$poly-back                    : #e7e7e2;
+$poly-red                     : #ff0052;
+$poly-red-hover               : #8e2b88;
+
+$background-color             : $poly-back;
 
 $highlighter-color            : #f3bc15;
 
