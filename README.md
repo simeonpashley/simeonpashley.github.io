@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/gamelinchpin/gamelinchpin.github.io.svg?branch=master)](https://travis-ci.org/gamelinchpin/gamelinchpin.github.io)
+[![Build Status](https://travis-ci.org/simeonpashley/simeonpashley.github.io.svg?branch=master)](https://travis-ci.org/simeonpashley/simeonpashley.github.io)
 
-Repo for [gamelinchpin.github.io](http://gamelinchpin.github.io)
+Repo for [simeonpashley.github.io](http://simeonpashley.github.io)
 
 
 ### Update the site & serve locally
