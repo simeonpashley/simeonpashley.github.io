@@ -186,3 +186,5 @@ jekyll-archives:
     tag: tag_index
     #day: day-archive
     #tag: tag-archive-layout
+
+theme: jekyll-theme-dinky
