@@ -7,7 +7,7 @@ teaser: default-teaser.png
 locale: en_GB
 words_per_minute: 200
 title_separator: "×"
-url: http://www.pashley.org
+url: http://pashley.org
 shortname: pashley.org
 
 # Site owner
@@ -29,12 +29,11 @@ owner:
   email: ""
   twitter: simeonpashley
   github: gamelinchpin
-  gplus: +SimeonPashley
   gravatar:
     hash: e75deb5e1dc8de89fecefba23a1efd97
     img_src: "https://www.gravatar.com/avatar/e75deb5e1dc8de89fecefba23a1efd97?s=200"
   linkedin_url: https://uk.linkedin.com/in/simeonpashley/
-  github-repo: https://github.com/gamelinchpin/gamelinchpin.github.io
+  github-repo: https://github.com/simeonpashley/simeonpashley.github.io
   google:
     ad-client: ca-pub-7328585512091257
     ad-slot:
@@ -67,6 +66,8 @@ exclude:
   - gruntfile.js
   - sass/
   - vendor
+  - node_modules
+  - www
   - _posts/older
 keep_files:
   - ".git"
@@ -84,7 +85,8 @@ unpublished: false
 
 # Plugins
 whitelist: []
-gems:
+plugins:
+  - jekyll-feed
   - jekyll-archives
   - jekyll/tagging
   - jekyll-tagging-related_posts
@@ -107,7 +109,7 @@ baseurl: "" # does not include hostname
 permalink:     /:year/:month/:title
 paginate:      10
 paginate_path: /page:num
-timezone:      null
+timezone:      Europe/London
 
 quiet:    false
 defaults: []
@@ -172,7 +174,6 @@ compress_html:
   ignore:
     envs: development
 
-# Plugin: jekyll-archives
 
 jekyll-archives:
   enabled: [year, month, tags]

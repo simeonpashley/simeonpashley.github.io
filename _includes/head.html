@@ -19,8 +19,6 @@
 
   {% if page.excerpt %}
     {% assign seo_description = page.excerpt %}
-  {% elsif page.type == 'tag' %}
-    {% assign seo_description = page.title | prepend: "An archive of " | append: " posts." | %}
   {% elsif site.description %}
     {% assign seo_description = site.description %}
   {% endif %}

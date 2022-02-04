@@ -20,7 +20,7 @@ I've been a professional software developer since 1986 and I've included my most
 
 You can find me online at the following locations:
 
-- [github.com/gamelinchpin](https://github.com/{{ site.owner.github }})
+- [github.com/simeonpashley](https://github.com/{{ site.owner.github }})
 - [linkedin.com/simeonpashley]({{ site.owner.linkedin_url }})
 - [twitter.com/simeonpashley](https://twitter.com/{{ site.owner.twitter }})
 
@@ -52,7 +52,7 @@ Note: I have only included recent achievements at Approved Food. I'm writing thi
 
 **Online Platform**
 
-- Online platform consistently in Top 5 of [IRUK 500: Web Performance Tracker](http://internetretailing.net/iruk-500-web-performance-tracker/) for PageSpeed. [My Post]({% post_url 2015-08-29-top-5-website-performance---july-2015 %})
+- Online platform consistently in Top 5 of [IRUK 500: Web Performance Tracker](http://internetretailing.net/iruk-500-web-performance-tracker/) for PageSpeed. [My Post]({% post_url articles/2015-08-29-top-5-website-performance---july-2015 %})
 - Setup [Zopim Chat](http://www.zopim.com) & integrated into online platform.
 - Created Restful API for external connectivity and integration into internal systems; built on [Slim](http://www.slimframework.com).
 - Continual improvement of the online store platform for mobile devices.
@@ -83,6 +83,7 @@ Note: I have only included recent achievements at Approved Food. I'm writing thi
 - Brief _Pitch To Rich_ data scraper for internal analysis
 
 ### 2014
+
 **Online Platform**
 
 - Change systems from using single categories for products into tag based system to vastly improve user experience.
@@ -118,6 +119,7 @@ Note: I have only included recent achievements at Approved Food. I'm writing thi
 - Setup [Zendesk Customer Service](https://www.zendesk.com) portal with IP base phones. Online phones helped with business moving premises later in year.
 
 ### 2013
+
 **Online Platform**
 
 - Use Wordpress as CMS for website enabling non-developers to adjust content in a familiar context
@@ -148,6 +150,7 @@ Note: I have only included recent achievements at Approved Food. I'm writing thi
 - Migrated version control to _Git_ & _Github_
 
 ### 2012
+
 **Online Platform**
 
 - Created responsive framework for online store platform
@@ -164,6 +167,7 @@ Note: I have only included recent achievements at Approved Food. I'm writing thi
 - Migrate core internal services from Windows to Unix Centos systems
 
 ### 2011
+
 **Online Platform**
 
 - Designed & implemented affiliate scheme for increased marketing
@@ -265,6 +269,7 @@ I have experience using the following:
 - [Mikrotik](http://routerboard.com)
 
 **Principles**
+
 - Design Patterns
 - Refactoring
 
@@ -274,4 +279,3 @@ At the risk of repeating myself, I love software development.
 
 - I am very passionate about building great software with good business value.
 - I have a strong work ethic and I will do whatever it takes to deliver great results.
-

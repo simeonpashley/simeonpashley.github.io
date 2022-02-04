@@ -6,28 +6,25 @@ home-primary:
   - title: "Articles"
     url: /
 
-
 # Secondary home navigation links
 
 home-secondary:
-  - { url: '/history', title: 'History' }
+  - { url: "/history", title: "History" }
   - title: "About"
     url: /about/
   - title: "Contact"
     url: /contact/
 
-
 # Masthead navigation links
 
 masthead:
-  - { url: '/history', title: 'History' }
+  - { url: "/history", title: "History" }
   - title: "About"
     url: /about/
   - title: "Contact"
     url: /contact/
   - title: "Articles"
     url: /
-
 
 # Primary site navigation links (overlay)
 
@@ -35,11 +32,10 @@ primary:
   - title: "Articles"
     url: /
 
-
 # Secondary site navigation links (overlay)
 
 secondary:
-  - { url: '/history', title: 'History' }
+  - { url: "/history", title: "History" }
   - title: "About"
     url: /about/
   - title: "Contact"
@@ -49,13 +45,12 @@ secondary:
   - title: "Sitemap"
     url: /sitemap/
 
-
 # Footer navigation links
 
 colophon-menu:
   - title: "About"
     url: /about/
-  - { url: '/history', title: 'History' }
+  - { url: "/history", title: "History" }
   - title: "Contact"
     url: /contact/
   - title: "Terms &amp; Policies"
@@ -66,5 +61,5 @@ colophon-social:
     url: https://twitter.com/simeonpashley
     icon: icon-twitter
   - title: "GitHub"
-    url: https://github.com/gamelinchpin
+    url: https://github.com/simeonpashley
     icon: icon-github
