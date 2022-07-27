@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Statement
 notitle: true
-author: gamelinchpin
+author: simeonpashley
 permalink: /privacy/
 ---
 

@@ -1,23 +1,20 @@
 ---
-
-
 title: How I use Twitter
 date: 2010-07-18 23:40:37
 
 tags: ["business"]
 
 type: post
-
-
 ---
+
 (mobile post)
- There's an interesting post over on GameProducer.net about how Juuso
+There's an interesting post over on GameProducer.net about how Juuso
 uses Twitter as part of his game blog that I wanted to emulate here.
 
-I use my @GameLinchpin Twitter feed largely to auto-post new articles
+I use my @simeonpashley Twitter feed largely to auto-post new articles
 from this blog. This is done automatically when I hit publish so it's
 the best way to keep up-to-date. Simply [follow
-us](http://Twitter.com/gamelinchpin) and you're all set.
+us](http://twitter.com/simeonpashley) and you're all set.
 
 I also follow other people in the games industry, not companies, and
 join in chats there and also RT (re-tweet) anything I find interesting
@@ -26,7 +23,7 @@ and relevant to game development. I also follow events such as \#e3expo,
 
 As Juuso says, you really need a client to use Twitter as the basic web
 service really doesn't scratch the surface of what's possible.
- I use Tweetdeck on my iPhone, Home Mac and work PC as it's by far the
+I use Tweetdeck on my iPhone, Home Mac and work PC as it's by far the
 best app. I use Twitterific on iPad as TD isn't very good yet.
 
 If you're starting out, start by following me then go through my lists
@@ -41,15 +38,15 @@ add people for the channel as they're obviously interested and engaged
 in that subject.
 
 I follow:
- \#xblig - Xbox Live Independant Games
- \#gamedev - general game development
- \#iPhone - broad iPhone chat
- \#leanstartup - small business bootstrapping
+\#xblig - Xbox Live Independant Games
+\#gamedev - general game development
+\#iPhone - broad iPhone chat
+\#leanstartup - small business bootstrapping
 
 Event specific ones pop up too such as
- \#gamescom
- \#develop2010
- \#e3expo
+\#gamescom
+\#develop2010
+\#e3expo
 
 Joining Twitter was one of the best things I've done for. Long time and
 I'd consider it pretty much mandatory for game debs to keep up with a

@@ -1,14 +1,12 @@
 ---
-
-
 title: Avoiding Game Development Contract Pitfalls - Royalties
 date: 2010-05-26 19:39:00
 
 tags: ["business", "contract", "royalties"]
 
 type: post
-
 ---
+
 <div
 style="clear: left;
 float: left; margin-bottom: 1em; margin-right: 1em;">
@@ -17,7 +15,7 @@ float: left; margin-bottom: 1em; margin-right: 1em;">
 
 </div>
 
-Here at @Gamelinchpin we like to clear some of the fog surrounding the
+Here at @simeonpashley we like to clear some of the fog surrounding the
 more complex business of making games.
 
 Negotiating contracts can be tough, and there's a lot to think about but
@@ -27,24 +25,24 @@ it's not easy if you lack experience but we're here to help.
 
 I'll start by going through some common elements of royalty clauses.
 
+\*\* \*\*
 
- ** **
- ****
- ****
- **I'd like to start out by saying always take professional legal advice
+---
+
+---
+
+**I'd like to start out by saying always take professional legal advice
 before signing a contract, the information below is my opinion only
 based on experience.**
 
-Is it worth it?
----------------
+## Is it worth it?
 
 YES! There's a myth that it's pretty much impossible to achieve
 royalties on anything but the killer AAA multi-million selling items but
 I've seen many cases where the route to success is often in being aware
 of what options you have, and what to avoid too.
 
-Common Pitfalls
----------------
+## Common Pitfalls
 
 When thinking about royalties it's important to really think about all
 of the different facets of the deal piece together as even the smallest,
@@ -93,10 +91,10 @@ negotiations with the 2 parties go. I have seen quite a wide variety of
 values such
 as:
 
--   20% recoup and 30% royalty
--   10% recoup and 10% royalty
--   75% recoup and 30% royalty
--   100% recoup and 5% royalty
+- 20% recoup and 30% royalty
+- 10% recoup and 10% royalty
+- 75% recoup and 30% royalty
+- 100% recoup and 5% royalty
 
 I have even seen **1 extreme case where the Advance was written off**
 and a low percentage royalty was paid. In this case the developer saw
@@ -132,7 +130,7 @@ but try and get this defined or at least **try and cap the amount** that
 goes against your royalties.
 
 **Retention or Returns**
- These terms refer to the amount of cash the publisher retains to cope
+These terms refer to the amount of cash the publisher retains to cope
 with unsold or returned stock. This figure is used to reduce the amount
 your royalties are calculated against. There's not a lot you can do
 about this but be aware that it's lurking in the background.
@@ -163,7 +161,7 @@ on a future exchange rate.
 
 I've explained some of the elements that can massively affect the amount
 you recoup against.
- Recouping against undefined **Net Receipts** is a dangerous game and
+Recouping against undefined **Net Receipts** is a dangerous game and
 one you should seek to nail down what the specifics are as above. Be
 aware of everything you're getting yourself into.
 
@@ -171,8 +169,7 @@ I'd strongly advice always using a professional company like [TC
 Associates](http://www.tc-ltd.com/) to exercise your right to audit the royalty accounts as pretty much every audit exposes inaccuracies in your
 favour, sometimes a few thousand and have been known to be millions.
 
-Other Areas to Consider
------------------------
+## Other Areas to Consider
 
 One other area to consider is how your royalties are recouped against
 items such as Bundle Deals and how they are affected by any potential
@@ -185,8 +182,7 @@ Will you be able to gain any royalties on sales of other items such as
 downloadable content,  t-shirts, merchandising, social network apps,
 etc?
 
-What next?
-----------
+## What next?
 
 ### Next Time
 

@@ -1,14 +1,12 @@
 ---
-
-
 title: The Definitive Guide To Pitching Your Video Game
 date: 2010-10-01 11:00:57
 
 tags: ["LinkedIn", "pitch", "pitching"]
 
 type: post
-
 ---
+
 Over the years I've both pitched many games and been on the receiving
 end of pitches too, all of which range from a small game worth £100k up
 to AAA hits of close on £10M. I've worked my way through the good & bad
@@ -25,10 +23,12 @@ are:
 
 <div>
 
-  -------------------------------------- -------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  A **Great Idea**                       A **Good Business Case**                                                                                       and a **Great Team** to execute it
-  ![image](/assets/image47.png "image")   [![image](/assets/image_thumb7.png "image")](http://game-linchpin.com/wp-content/uploads/2010/09/image48.png)   [![28561_401001936774_749226774_4419975_4373594_n](/assets/28561_401001936774_749226774_4419975_4373594_n_thumb.jpg "28561_401001936774_749226774_4419975_4373594_n")](http://game-linchpin.com/wp-content/uploads/2010/09/28561_401001936774_749226774_4419975_4373594_n.jpg)
-  -------------------------------------- -------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+
+A **Great Idea** A **Good Business Case** and a **Great Team** to execute it
+![image](/assets/image47.png "image") [![image](/assets/image_thumb7.png "image")](http://pashley.org/wp-content/uploads/2010/09/image48.png) [![28561_401001936774_749226774_4419975_4373594_n](/assets/28561_401001936774_749226774_4419975_4373594_n_thumb.jpg "28561_401001936774_749226774_4419975_4373594_n")](http://pashley.org/wp-content/uploads/2010/09/28561_401001936774_749226774_4419975_4373594_n.jpg)
+
+---
 
 </div>
 
@@ -53,10 +53,12 @@ presenting. There are 3 main properties your great idea should have…
 
 <div>
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------
-  [![Glastonbury-Festival-2008-001](/assets/Glastonbury-Festival-2008-001_thumb.jpg "Glastonbury-Festival-2008-001")](http://game-linchpin.com/wp-content/uploads/2010/09/Glastonbury-Festival-2008-001.jpg)   ![image](/assets/image5.png "image")        [![six-sense](/assets/six-sense_thumb.jpg "six-sense")](http://game-linchpin.com/wp-content/uploads/2010/09/six-sense.jpg)
-  It needs to be **relevant to a big enough audience**                                                                                                                                                        It needs to **stand out from the crowd**   And be **Innovative**, in that it offers something new in actual game experience that sets it apart from other games in the genre.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------
+---
+
+[![Glastonbury-Festival-2008-001](/assets/Glastonbury-Festival-2008-001_thumb.jpg "Glastonbury-Festival-2008-001")](http://pashley.org/wp-content/uploads/2010/09/Glastonbury-Festival-2008-001.jpg) ![image](/assets/image5.png "image") [![six-sense](/assets/six-sense_thumb.jpg "six-sense")](http://pashley.org/wp-content/uploads/2010/09/six-sense.jpg)
+It needs to be **relevant to a big enough audience** It needs to **stand out from the crowd** And be **Innovative**, in that it offers something new in actual game experience that sets it apart from other games in the genre.
+
+---
 
 </div>
 
@@ -66,12 +68,12 @@ presenting. There are 3 main properties your great idea should have…
 cover some basic areas to make sure that all the key information is
 shared
 
--   High Concept
--   Key Features
--   Storyboards
--   Business Case
--   Pitch Summary
--   Defensive Slides
+- High Concept
+- Key Features
+- Storyboards
+- Business Case
+- Pitch Summary
+- Defensive Slides
 
 #### How Long Should It Be?
 
@@ -100,7 +102,7 @@ Pitch" with the idea being that you could jump in a lift on the ground
 floor with the person you're presenting to and make your pitch memorable
 before they leave on the 2nd floor.
 
-[![image](/assets/image_thumb1.png "image")](http://game-linchpin.com/wp-content/uploads/2010/09/image9.png)
+[![image](/assets/image_thumb1.png "image")](http://pashley.org/wp-content/uploads/2010/09/image9.png)
 
 This means that it's important that your **high concept is easy to
 communicate**, memorable & easy to pass on.
@@ -200,7 +202,7 @@ prototype.
 #### High Concept
 
 ![image](/assets/image14.png "image")
- The original Burnout game's X Statement
+The original Burnout game's X Statement
 is:
 
 > "High-Speed, High-Octane, High-Impact Action"
@@ -232,7 +234,7 @@ start of another - or you could just cruise away.
 
 #### Choose Your Route {style="clear: both;"}
 
-[![burnout-paradise-20080701043017547_640w](/assets/burnout-paradise-20080701043017547_640w_thumb.jpg "burnout-paradise-20080701043017547_640w")](http://game-linchpin.com/wp-content/uploads/2010/09/burnout-paradise-20080701043017547_640w.jpg)
+[![burnout-paradise-20080701043017547_640w](/assets/burnout-paradise-20080701043017547_640w_thumb.jpg "burnout-paradise-20080701043017547_640w")](http://pashley.org/wp-content/uploads/2010/09/burnout-paradise-20080701043017547_640w.jpg)
 
 The open world naturally facilitated choosing your own route through the
 world, you could take short-cuts, scenic routes and weave your way under
@@ -260,10 +262,10 @@ they're not in your plans so be careful.
 Stick to communicating your Key Features and the basics
 of:
 
--   High Concept
--   Core experience
--   Character / Objective
--   Theme & tone
+- High Concept
+- Core experience
+- Character / Objective
+- Theme & tone
 
 ### Storyboards {style="clear: both;"}
 
@@ -330,7 +332,7 @@ up-side is for both parties.
 <div
 style="position: relative;
 width: 244px;
-background: url(http://game-linchpin.com/wp-content/uploads/2010/09/image_thumb2.png);
+background: url(http://pashley.org/wp-content/uploads/2010/09/image_thumb2.png);
 height: 182px;">
 
 <div
@@ -359,16 +361,16 @@ deal: the **Emotional** side where the buyer is **figuring out if they like the 
 They’ll be asking the following
 questions:
 
--   Is there an audience for it?
--   Can this team make it? What's the teams heritage? Have they done
-    this kind of game before?
--   How much do I think it's worth? Is the proposal about right for this
-    scope of game?
--   Does it meet my business needs?
--   Does it fit with portfolio & strategy? Show them that fits within
-    their portfolio of games and expands it in new areas
--   How much Risk is involved?
--   **Can \*we\* make money?**
+- Is there an audience for it?
+- Can this team make it? What's the teams heritage? Have they done
+  this kind of game before?
+- How much do I think it's worth? Is the proposal about right for this
+  scope of game?
+- Does it meet my business needs?
+- Does it fit with portfolio & strategy? Show them that fits within
+  their portfolio of games and expands it in new areas
+- How much Risk is involved?
+- **Can \*we\* make money?**
 
 As a presenter, your role is to make sure that you answer these
 questions accurately and with confidence and **make them want to give
@@ -392,7 +394,7 @@ this stage.
 
 ### Pitch Summary
 
-*Tell them what you've just told them!*
+_Tell them what you've just told them!_
 
 The sticky bit of business is now down and it's time to re-emphasise
 what a great idea it is and remind them that it's something they really
@@ -401,7 +403,7 @@ Features.**
 
 ### Defensive Slides {style="clear: both;"}
 
-[![image184_thumb](/assets/image184_thumb_thumb.png "image184_thumb")](http://game-linchpin.com/wp-content/uploads/2010/09/image184_thumb.png)
+[![image184_thumb](/assets/image184_thumb_thumb.png "image184_thumb")](http://pashley.org/wp-content/uploads/2010/09/image184_thumb.png)
 
 Now here's a top-secret
 tip: Defensive Slides.
@@ -453,8 +455,6 @@ Pitch](http://irrationalgames.com/insider/from-the-vault-may/), kindly shared by
 An [article written in
 2007](http://makeitbigingames.com/2007/09/how-to-pitch-your-game/) on pitching games
 
-  ------------------------ ------------------------ ------------------------
+---
 
-  ------------------------ ------------------------ ------------------------
-
-
+---

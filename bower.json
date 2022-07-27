@@ -1,34 +1,29 @@
 {
-    "name": "gamelinchpin.github.io",
-    "dependencies": {
-        "bootstrap": "~3.2.0",
-        "prism": "prism#gh-pages",
-        "font-awesome": "4.x.x",
-        "breakpoint-sass": "*",
-        "typicons": "*"
+  "name": "simeonpashley.github.io",
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "prism": "prism#gh-pages",
+    "font-awesome": "4.x.x",
+    "breakpoint-sass": "*",
+    "typicons": "*"
+  },
+  "exportsOverride": {
+    "bootstrap": {
+      "js": "dist/js/*.js",
+      "css": "dist/css/*.css",
+      "fonts": "dist/fonts/*"
     },
-    "exportsOverride": {
-        "bootstrap": {
-            "js": "dist/js/*.js",
-            "css": "dist/css/*.css",
-            "fonts": "dist/fonts/*"
-        },
-        "font-awesome": {
-            "css": "css/*.css",
-            "font": "font/*"
-        },
-        "prism": {
-            "css": "themes/*.css",
-            "js": "*.js"
-        }
+    "font-awesome": {
+      "css": "css/*.css",
+      "font": "font/*"
     },
-    "homepage": "http://gamelinchpin.github.io",
-    "private": true,
-    "ignore": [
-        "node_modules",
-        "bower_components"
-    ],
-    "authors": [
-        "Simeon Pashley", "Simeon Pashley <simeon@ringalpha.com>"
-    ]
+    "prism": {
+      "css": "themes/*.css",
+      "js": "*.js"
+    }
+  },
+  "homepage": "http://simeonpashley.github.io",
+  "private": true,
+  "ignore": ["node_modules", "bower_components"],
+  "authors": ["Simeon Pashley", "Simeon Pashley <simeon@ringalpha.com>"]
 }

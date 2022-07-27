@@ -1,14 +1,12 @@
 ---
-
-
 title: 20 years of a Video Game Developer’s Career – Part 4
 date: 2010-09-17 17:07:44
 
 tags: ["career", "history", "LinkedIn"]
 
 type: post
-
 ---
+
 I'd like to share with you my game development career experience as part
 of a series of posts, let's rejoin the story at during the twilight days
 of PlayStation 2 when I started at Kuju in Sheffield. I've included a
@@ -41,14 +39,14 @@ Dave, Nick, Tony and myself beavered away making a few PS2/X360/PC ports
 for the main Kuju office while we found our feet and got our own
 projects, which didn't take long and we were expanding quickly.
 
--   **Date**: 2003
--   **Role**: Anything going
--   **Studio Size:** 4
--   **Projects**: 1
--   **Platforms**: PlayStation 2, XBox, PC
+- **Date**: 2003
+- **Role**: Anything going
+- **Studio Size:** 4
+- **Projects**: 1
+- **Platforms**: PlayStation 2, XBox, PC
 
 **Kuju Sheffield v1.1**
- Within a few weeks we expanded into a larger office on the same floor
+Within a few weeks we expanded into a larger office on the same floor
 that took us up to about 15 people before we needed to move again. We
 were working on a football game for Codemasters at this point and we
 started to bring in some great staff who were unfortunate casualties of
@@ -76,14 +74,14 @@ We delivered the game on PS2 and XBox as a team and we were hungry for
 me but we really need to move out so we relocated across town into the
 posh Media Center.
 
--   **Date**: 2003
--   **Role**: Anything going
--   **Studio Size:** 10-15
--   ****Projects**:** 1
--   **Platforms**: PlayStation 2, XBox, PC
+- **Date**: 2003
+- **Role**: Anything going
+- **Studio Size:** 10-15
+- \***\*Projects**:\*\* 1
+- **Platforms**: PlayStation 2, XBox, PC
 
 **Kuju Sheffield v1.2**
- ![](/assets/sheffield_office-150x150.jpg "sheffield_office")Our studio
+![](/assets/sheffield_office-150x150.jpg "sheffield_office")Our studio
 increased quickly over the next few years peaking at about 40 staff
 across 3 projects being made on PC, PSP, Xbox & PS2.
 
@@ -114,14 +112,14 @@ an active group of developers required.
 Despite all of this, we were struggling to get in new work along with
 many other developers and the prospects didn't look good.
 
--   **Date**: 2005
--   **Role**: Anything going
--   **Studio Size:** 15-35
--   ****Projects**:** 3
--   **Platforms**: PlayStation 2, XBox, PC
+- **Date**: 2005
+- **Role**: Anything going
+- **Studio Size:** 15-35
+- \***\*Projects**:\*\* 3
+- **Platforms**: PlayStation 2, XBox, PC
 
 **Kuju v2.0 - The King is Dead**
- ![](/assets/IMG_4287-150x150.jpg "1st World War devs")What happened next
+![](/assets/IMG_4287-150x150.jpg "1st World War devs")What happened next
 was a blur of rapid change.
 
 Our incumbent Studio Manager retired and I was asked to take over as I'd
@@ -157,14 +155,14 @@ project.
 So, I hunted around for a new home for our studio and I found one just
 around the corner.
 
--   **Date**: 2005
--   **Role**: Anything going
--   **Studio Size:** 30-35
--   ****Projects**:** 1
--   **Platforms**: PlayStation 2, XBox, PC
+- **Date**: 2005
+- **Role**: Anything going
+- **Studio Size:** 30-35
+- \***\*Projects**:\*\* 1
+- **Platforms**: PlayStation 2, XBox, PC
 
 **Kuju v2.1 - Custom Fit Office**
- ![](/assets/Arundel_SmileyChris1-150x150.jpg "Smiley Chris")Our new
+![](/assets/Arundel_SmileyChris1-150x150.jpg "Smiley Chris")Our new
 offices was brilliant. I managed to find us a large open-plan space and
 I planned the floor space incorporating meeting rooms, a small office
 (for me), storage space, kitchen and other bits and bobs. We got to
@@ -179,7 +177,7 @@ moving, even it if was just around the corner.
 
 I think it's safe to say that we enjoyed our new space.
 
-[![](/assets/fire1_470x365-150x150.jpg "fire1_470x365")](http://game-linchpin.com/wp-content/uploads/2010/09/fire1_470x365.jpg)We had exciting times too, we had people trapped in a lift and had to call out the fire brigade that amused everyone except those trapped and we there was also a MASSIVE fire opposite our building and we just watched from our windows.
+[![](/assets/fire1_470x365-150x150.jpg "fire1_470x365")](http://pashley.org/wp-content/uploads/2010/09/fire1_470x365.jpg)We had exciting times too, we had people trapped in a lift and had to call out the fire brigade that amused everyone except those trapped and we there was also a MASSIVE fire opposite our building and we just watched from our windows.
 
 During all of this we were still working on our game and all of our
 other commitments but it all seemed to gel.
@@ -189,10 +187,10 @@ invade the new territory of Outsourcing the artwork that very few people
 were doing at the time. It just made complete sense.
 
 **Meeting the Stars**
- Our football game was a dream come true for a handful of us as we went
+Our football game was a dream come true for a handful of us as we went
 to Barcelona and Milan to go behind the scenes of the largest clubs at
 Barcelona, Inter Milan and AC Milan to capture reference of the stars.
- From all 3 teams we got to meet all the stars, agents and managers,
+From all 3 teams we got to meet all the stars, agents and managers,
 take detailed reference photos of everyone from many angles. We even
 went out for dinner with [Lionel
 Messi](http://en.wikipedia.org/wiki/Lionel_Messi)!
@@ -238,15 +236,15 @@ this together. You can imagine what this did to me as a result.
 
 ![](/assets/ChemistryTeam_Feb2008-300x199.jpg "ChemistryTeam_Feb2008")
 
--   **Date**: 2007
--   **Role**: Anything going
--   **Studio Size:** 35-40
--   ****Projects**:** 3
--   **Platforms**: PlayStation 3, XBox 360, PC
+- **Date**: 2007
+- **Role**: Anything going
+- **Studio Size:** 35-40
+- \***\*Projects**:\*\* 3
+- **Platforms**: PlayStation 3, XBox 360, PC
 
 ### Enough is enough
 
-[![](/assets/Mikey1-150x150.jpg "Leaving the studio in good hands")](http://game-linchpin.com/wp-content/uploads/2010/09/Mikey1.jpg)Despite great prospects and a wonderful team, I'd had enough and I worked with the Execs to bring in Mike as a replacement Studio Head and I sadly quickly left the business with nowhere else to go. These were tough times and sometimes people just won't listen to repeated cries for support and see the issues that are staring them right in the face. It sometimes takes a drastic measure to make people realise what's going
+[![](/assets/Mikey1-150x150.jpg "Leaving the studio in good hands")](http://pashley.org/wp-content/uploads/2010/09/Mikey1.jpg)Despite great prospects and a wonderful team, I'd had enough and I worked with the Execs to bring in Mike as a replacement Studio Head and I sadly quickly left the business with nowhere else to go. These were tough times and sometimes people just won't listen to repeated cries for support and see the issues that are staring them right in the face. It sometimes takes a drastic measure to make people realise what's going
 off.
 
 So, I left Kuju and a great team. My time at Kuju was the happiest and
@@ -265,10 +263,9 @@ This is where we'll join the story next time...
 
 #### Further Reading
 
--   [Series Part
-    1](/2010/08/20-years-of-a-video-game-developer-career.html)
--   [Series Part
-    2](/2010/08/20-years-of-a-video-game-developer%e2%80%99s-career-%e2%80%93-part-2.html)
--   [Series Part
-    3](/2010/08/20-years-of-a-video-game-developer-career-3.html)
-
+- [Series Part
+  1](/2010/08/20-years-of-a-video-game-developer-career.html)
+- [Series Part
+  2](/2010/08/20-years-of-a-video-game-developer%e2%80%99s-career-%e2%80%93-part-2.html)
+- [Series Part
+  3](/2010/08/20-years-of-a-video-game-developer-career-3.html)

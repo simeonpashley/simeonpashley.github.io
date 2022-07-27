@@ -12,12 +12,12 @@ shortname: pashley.org
 
 # Site owner
 authors:
-  gamelinchpin:
+  simeonpashley:
     name:       Simeon Pashley
     email:      ""
     position:   ""
     start_date: 1986-02-01
-    github:     gamelinchpin
+    github:     simeonpashley
     twitter:    simeonpashley
     gplus:      +SimeonPashley
     linkedin:   https://uk.linkedin.com/in/simeonpashley/
@@ -28,7 +28,7 @@ owner:
   name: "Simeon Pashley"
   email: ""
   twitter: simeonpashley
-  github: gamelinchpin
+  github: simeonpashley
   gravatar:
     hash: e75deb5e1dc8de89fecefba23a1efd97
     img_src: "https://www.gravatar.com/avatar/e75deb5e1dc8de89fecefba23a1efd97?s=200"
@@ -134,7 +134,7 @@ kramdown:
 # Site settings
 
 twitter_username: simeonpashley
-github_username:  gamelinchpin
+github_username:  simeonpashley
 
 # Collections
 

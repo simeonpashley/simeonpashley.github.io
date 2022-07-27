@@ -1,14 +1,12 @@
 ---
-
-
 title: What's your point of difference?
 date: 2010-06-21 22:03:18
 
 tags: ["business", "career"]
 
 type: post
-
 ---
+
 Bear with me on this one...I'm currently sat watching a TV programme in
 the UK called '[Mary Queen Of Shops](http://www.bbc.co.uk/programmes/b00swfz7)', which is of particular interest because they're focusing on a business I know near my house.
 
@@ -76,6 +74,6 @@ successful. :)
 #### Further Reading
 
 Blog Post - [Are You
-Unique?](http://game-linchpin.com/2010/05/are-you-unique.html)
- Blog Post - [Weakest Link – Be A Better Game
-Developer](http://game-linchpin.com/2010/05/weakest-link.html)
+Unique?](http://pashley.org/2010/05/are-you-unique.html)
+Blog Post - [Weakest Link – Be A Better Game
+Developer](http://pashley.org/2010/05/weakest-link.html)

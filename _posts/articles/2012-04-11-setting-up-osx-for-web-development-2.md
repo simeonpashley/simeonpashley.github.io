@@ -1,15 +1,12 @@
 ---
 
-
 title: Setting up OSX for Web Development
 date: 2012-04-11 16:57:46
 
-
-
 type: post
 
----*(I will be maintaining this Post with my current setup steps as time
-moves on)*
+---_(I will be maintaining this Post with my current setup steps as time
+moves on)_
 
 I've been using OSX for Web Development for a while now, initially on a
 Mac Mini, then migrating to a MacBook Pro and on to a MacBook Air. I
@@ -19,41 +16,40 @@ when I need to re-set everything back up again.
 
 Read on to find out how.
 
-Main apps
----------
+## Main apps
 
 After starting from a fresh OSX Install I usually follow up with a few
 default web development applications that I have stored on my local
 server under 'app_0' to indicate that they're the critical.
 
--   **XCode** - install via the App Store. While it's not used for web
-    development it is required as it includes vital system tools that
-    others depend on, such as PEAR, Brew/MacPorts. It's a big old
-    download so it's worth starting early and make sure you've got some
-    elbow room on your locale HD.
--   [Google Chrome](http://google.com/chrome) - my browser of choice, I
-    use the regular suite of Firefox, Safari and some VMWare Fusion
-    Virtual Machines for testing
--   [MAMP Pro](http://www.mamp.info/en/mamp-pro/index.html "MAMP Pro") -
-    the nuts and bolts Mac Apache, MySQL and PHP setup
--   [Sublime Text 2](http://www.sublimetext.com/) - an awesome text
-    editor. I was using the ubiquitous TextMate  for a long time but I
-    shifted over to ST2 and I can honestly say it's awesome. More on my
-    configuration later.
--   [Sequel Pro](http://www.sequelpro.com/) - a useful interface into
-    MySQL when the default phpMyAdmin isn't enough. It has a very handy
-    'Optimise Type' that I'll cover.
--   [Tower](http://www.git-tower.com/) - an GIT visual client that's got
-    some amazing features when you fancy moving away from the Terminal
--   [CodeKit](http://incident57.com/codekit/) - I use this as a
-    continuous integration [SASS](http://sass-lang.com/) (scss) &
-    [Compass](http://compass-style.org/) compiler for my web projects.
+- **XCode** - install via the App Store. While it's not used for web
+  development it is required as it includes vital system tools that
+  others depend on, such as PEAR, Brew/MacPorts. It's a big old
+  download so it's worth starting early and make sure you've got some
+  elbow room on your locale HD.
+- [Google Chrome](http://google.com/chrome) - my browser of choice, I
+  use the regular suite of Firefox, Safari and some VMWare Fusion
+  Virtual Machines for testing
+- [MAMP Pro](http://www.mamp.info/en/mamp-pro/index.html "MAMP Pro") -
+  the nuts and bolts Mac Apache, MySQL and PHP setup
+- [Sublime Text 2](http://www.sublimetext.com/) - an awesome text
+  editor. I was using the ubiquitous TextMate  for a long time but I
+  shifted over to ST2 and I can honestly say it's awesome. More on my
+  configuration later.
+- [Sequel Pro](http://www.sequelpro.com/) - a useful interface into
+  MySQL when the default phpMyAdmin isn't enough. It has a very handy
+  'Optimise Type' that I'll cover.
+- [Tower](http://www.git-tower.com/) - an GIT visual client that's got
+  some amazing features when you fancy moving away from the Terminal
+- [CodeKit](http://incident57.com/codekit/) - I use this as a
+  continuous integration [SASS](http://sass-lang.com/) (scss) &
+  [Compass](http://compass-style.org/) compiler for my web projects.
 
 ### Install XCode
 
 then **install the command line tools** by running XCode then via
 
-*Preferences->Downloads->Command Line Tools->(Install)*
+_Preferences->Downloads->Command Line Tools->(Install)_
 
 ### Stop losing disk space
 
@@ -73,10 +69,10 @@ Inside Terminal
 Preferences:
 
     -> Advanced -> Declare Terminal
+
 As: (xterm-color)
 
-Setup PEAR
-----------
+## Setup PEAR
 
 PEAR is used as to install and manage some PHP tools so it's worth
 setting up early.
@@ -131,8 +127,7 @@ via <http://sourcegear.com/diffmerge/downloads.php>
 GitHub maintains a great page on [Set Up Git for
 Mac](http://help.github.com/mac-set-up-git/), which you should follow before returning here. We'll be using GIT for semi-automated deployment to your production servers later.
 
-Local Terminal Configuration
-----------------------------
+## Local Terminal Configuration
 
 Now you have all of the necessary files installed you can go ahead and
 start configuring your local system.
@@ -141,15 +136,14 @@ I keep a GIT repository of all of my hidden 'dotfiles' at the link below
 that you can use as a great starting point for your own config
 
     cd ~/Projects
-    git clone git@github.com:gamelinchpin/dotfiles.git
+    git clone git@github.com:simeonpashley/dotfiles.git
     cd dotfiles
     ./bootstrap.sh
 
 Restart Terminal and all the relevant config files should be in the
 right places.
 
-Summary
--------
+## Summary
 
 Hopefully you'll be starting to get a decent setup and the following
 posts should help solidify a nice web development environment.

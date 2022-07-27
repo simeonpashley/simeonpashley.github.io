@@ -1,6 +1,4 @@
 ---
-
-
 title: 20 years of a Video Game Developer’s Career – Part 2
 date: 2010-08-19 18:26:54
 
@@ -10,8 +8,9 @@ type: post
 
 description: this week we delve a little deeper on how we used to make video games before networks
 ---
+
 I follow on from [Part 1 of this
-series](http://game-linchpin.com/2010/08/20-years-of-a-video-game-developer-career.html) with some more information on how I got where I am today in the video game development community. Most of the old stuff is irrelevant but I hope it shares the need to actively plan your career to avoid some development cul-de-sacs.
+series](http://pashley.org/2010/08/20-years-of-a-video-game-developer-career.html) with some more information on how I got where I am today in the video game development community. Most of the old stuff is irrelevant but I hope it shares the need to actively plan your career to avoid some development cul-de-sacs.
 
 Let's continue...
 
@@ -113,9 +112,9 @@ company called [SN Systems](http://www.snsys.com/) still makes the systems of ch
 
 Back then though, PC systems running DOS were the de facto standard and
 the ubiquitous text editor then was
-'[BRIEF](http://en.wikipedia.org/wiki/Brief_(text_editor))', which was a revelation because it not only restored your session but also enabled you to have multiple files open in split windows! Later versions also integrated the error messages from your tools that meant you could quickly jump around your code and fix the errors quickly without referencing a separate compiler output file.
+'[BRIEF](<http://en.wikipedia.org/wiki/Brief_(text_editor)>)', which was a revelation because it not only restored your session but also enabled you to have multiple files open in split windows! Later versions also integrated the error messages from your tools that meant you could quickly jump around your code and fix the errors quickly without referencing a separate compiler output file.
 
 **<span style="font-weight: normal;">
- </span>**
+</span>**
 
 I'll continue my career story in Part 3...

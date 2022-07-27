@@ -1,6 +1,4 @@
 ---
-
-
 title: 20 years of a Video Game Developer’s Career – Part 3
 date: 2010-08-25 11:45:13
 
@@ -10,11 +8,12 @@ type: post
 
 description: Part 3 of the series continues the saga of my career through the turbulent times during the transition from PS1 to PS2.
 ---
+
 I'd like to share with you my game development career experience as part
 of a series of posts, the [1st
-part](http://game-linchpin.com/2010/08/20-years-of-a-video-game-developer-career.html)talked about my early career and I followed up with a [second
-post](http://game-linchpin.com/2010/08/20-years-of-a-video-game-developer%e2%80%99s-career-%e2%80%93-part-2.html)that was more about how those games were made.
- Let's get back on track with the series and rejoin the fun back when
+part](http://pashley.org/2010/08/20-years-of-a-video-game-developer-career.html)talked about my early career and I followed up with a [second
+post](http://pashley.org/2010/08/20-years-of-a-video-game-developer%e2%80%99s-career-%e2%80%93-part-2.html)that was more about how those games were made.
+Let's get back on track with the series and rejoin the fun back when
 the transition for PS1 to PlayStation 2 was happening.
 
 ### Krisalis v2 a.k.a Teque Software
@@ -152,8 +151,7 @@ This is where we'll join the story next time...
 
 #### Further Reading
 
--   [Series Part
-    1](http://game-linchpin.com/2010/08/20-years-of-a-video-game-developer-career.html)
--   [Series Part
-    2](http://game-linchpin.com/2010/08/20-years-of-a-video-game-developer%e2%80%99s-career-%e2%80%93-part-2.html)
-
+- [Series Part
+  1](http://pashley.org/2010/08/20-years-of-a-video-game-developer-career.html)
+- [Series Part
+  2](http://pashley.org/2010/08/20-years-of-a-video-game-developer%e2%80%99s-career-%e2%80%93-part-2.html)
