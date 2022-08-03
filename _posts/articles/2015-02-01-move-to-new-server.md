@@ -1,6 +1,4 @@
 ---
-
-
 title: Relocating to Github.io
 ---
 
@@ -13,6 +11,7 @@ There's a few missing edges but I'm hopeful that keeping the content in Markdown
 Some of the images didn't make it through the process so I'll be churning through those in the coming days.
 
 Issues to solve:
+
 - Missing images
 - Random post dates & times
 - Formatting/style issues lost in translation (Tables are going to be fun!)

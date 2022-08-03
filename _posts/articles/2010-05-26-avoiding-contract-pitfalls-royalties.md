@@ -3,8 +3,6 @@ title: Avoiding Game Development Contract Pitfalls - Royalties
 date: 2010-05-26 19:39:00
 
 tags: ["business", "contract", "royalties"]
-
-type: post
 ---
 
 <div

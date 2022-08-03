@@ -1,15 +1,12 @@
 ---
-
-
 title: 20 years of a Video Game Developer's Career - Part 1
 date: 2010-08-14 15:20:53
 
 tags: ["career"]
 
-type: post
-
 description: Making a long-term career in video game development takes effort and planning, here's an insight into what I've done so far
 ---
+
 Since a young age I've always had an interest in making computer games
 and I've been very fortunate to have supportive parents who worked hard
 to get what I now understand to be very expensive bits of hardware over

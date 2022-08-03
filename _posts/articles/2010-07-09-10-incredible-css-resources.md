@@ -1,14 +1,8 @@
 ---
-
-
 title: 10 Incredible CSS Resources
 date: 2010-07-09 14:31:01
-
-
-
-type: post
-
 ---
+
 CSS is becoming a very popular part of web design these days. Most
 designers now offer CSS design as a part of their services, and even
 amateur designers are learning all they can about CSS. The best part

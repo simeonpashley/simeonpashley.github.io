@@ -1,14 +1,10 @@
 ---
-
-
 title: New Hosting service for mid-size eCommerce site
 date: 2011-01-21 11:54:50
 
 tags: ["ecommerce", "hosting"]
-
-type: post
-
 ---
+
 ![Hosted Dell R410
 Server](/assets/Dell-PowerEdge-R410-1U-Server-E5520-8-Core-2TB-4GB-DDR3-8XDVDRW-0908-13-server@11-e1295562432645.jpg "Hosted Dell R410 Server")
 

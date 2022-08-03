@@ -1,13 +1,9 @@
 ---
-
-
 title: 5 Top Tips from a Freelance Game Programmer
 date: 2010-06-04 08:30:00
 tags: ["career", "freelance", "guest", "programmer"]
-
-type: post
-
 ---
+
 I recently reconnected with an old friend who's been a Freelance Game
 Programmer for many years, I asked him what advice he could give to
 someone just starting out and here's his top
@@ -17,16 +13,8 @@ I particularly like his ethos: *"value-for-money & minimum hassle", because con
 
 **Rhys Twelves, 12 Code Monkeys Ltd, UK**
 [**http://uk.linkedin.com/in/rhystwelves**](http://uk.linkedin.com/in/rhystwelves)
-<span class="Apple-style-span"
-style="color: #777777; font-family: arial, sans-serif; font-size: small;"><span
-class="Apple-style-span"
-style="-webkit-border-horizontal-spacing: 2px; -webkit-border-vertical-spacing: 2px; border-collapse: collapse; font-size: 13px;">
-</span></span>
-<span class="Apple-style-span"
-style="color: #777777; font-family: arial, sans-serif; font-size: small;"><span
-class="Apple-style-span"
-style="-webkit-border-horizontal-spacing: 2px; -webkit-border-vertical-spacing: 2px; border-collapse: collapse; font-size: 13px;">Here's
-Rhys' reply:</span></span>
+
+Here's Rhys' reply:
 
 > The only real tips I have are:-
 

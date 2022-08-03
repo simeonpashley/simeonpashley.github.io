@@ -1,14 +1,10 @@
 ---
-
-
 title: Thought - You Need Slack To Succeed
 date: 2015-01-21 06:32:22
 
 tags: ["production"]
-
-type: post
-
 ---
+
 <div style="margin-bottom: 0px; margin-top: 0px;">
 
 Slack is the need to have capacity to adapt to change, it's no good

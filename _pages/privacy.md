@@ -2,7 +2,6 @@
 layout: page
 title: Privacy Statement
 notitle: true
-author: simeonpashley
 permalink: /privacy/
 ---
 

@@ -1,15 +1,12 @@
 ---
-
-
 title: Guest Post – Three Ways to Zap Stress During Crunch
 date: 2010-06-30 11:45:35
 
 tags: ["career", "Stress"]
 
-type: post
-
-description: 'In a guest post by Mike Reeves-McMillan, he helps you cope with the inevitable stress that comes with making video games. '
+description: "In a guest post by Mike Reeves-McMillan, he helps you cope with the inevitable stress that comes with making video games. "
 ---
+
 Stress is a fact of 21st-century life, and all the more so when you're
 working on big, high-pressure projects. I've worked in a projects
 environment for most of the past 20 years, and I know how it gets. You
@@ -17,7 +14,7 @@ start to become irritable, forgetful, you may find yourself dreaming
 about work, you're tired but you can't sleep well, you might even start
 to find loud noises and bright lights painful. It's not fun.
 
- Basically, what's happened is that what is meant to be a short-term
+Basically, what's happened is that what is meant to be a short-term
 response for getting you out of immediate physical danger, increasing
 your concentration and memory and awareness of your environment, has
 kept firing off over a long period, and now those exact responses are
@@ -30,8 +27,8 @@ solved, let's start with a definition of stress.
 
 ### What Stress Is
 
-This is my simplified version of the Kim-Diamond definition (in *Nature
-Reviews Neuroscience*, 2002). It has three parts.
+This is my simplified version of the Kim-Diamond definition (in _Nature
+Reviews Neuroscience_, 2002). It has three parts.
 
 1.  Something is measurably winding up your physical state.
 2.  You don't like it.
@@ -97,7 +94,7 @@ parts.
     name sets up a circuit between the inner "emotion feeling" parts of
     your brain and the outer "word processing" parts in the cerebral
     cortex, and drains off the activation (Liebermann et al.,
-    *Psychological Science*, May 2007). "Welcoming" the emotion (not the
+    _Psychological Science_, May 2007). "Welcoming" the emotion (not the
     circumstances, by the way, just the emotion) releases your
     resistance to it, which is a big part of what is causing the stress.
 
@@ -116,7 +113,7 @@ parts.
 3.  The **cognitive** approach emphasises that, while you can't always
     change the outward situation, you can change the way you think about
     it - and that increases your sense of control.Newman & Stone wrote
-    up an interesting experiment in *Annals of Behavioural Medicine*,
+    up an interesting experiment in _Annals of Behavioural Medicine_,
     June 1996. They showed two groups of people the same stressful
     silent film, and asked them to make up either a serious narrative
     about it (group 1) or a funny narrative (group 2). They had
@@ -125,7 +122,7 @@ parts.
     groups.
     What they found was that, regardless of their score on the
     sense-of-humour test, the "funny narrative" group not only said they
-    felt better but *were less stressed*, according to standard physical
+    felt better but _were less stressed_, according to standard physical
     tests, than the "serious narrative" group. The film was the same -
     only the story they told themselves about it was different.
 

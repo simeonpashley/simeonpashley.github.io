@@ -1,14 +1,15 @@
 ---
 title: Week ending - 11th October
-tags: [web development, docker, react]
+tags: ["web development", "docker", "react"]
 date: 2015-10-11 18:36:45
 ---
 
 There are a few things I discovered this week worth noting:
 
-- [Docker empty volumes](#a1)
-- [Starting React](#a2)
-- [Profile refresh](#a3)
+- [<a name="a1"></a> Docker empty volumes](#-docker-empty-volumes)
+- [<a name="a2"></a>Starting React](#starting-react)
+- [<a name="a3"></a>Profile refresh](#profile-refresh)
+  - [Debug](#debug)
 
 {% include toc.html %}
 
@@ -34,11 +35,12 @@ After enjoying building iOS apps recently with [React Native] I thought I'd take
 
 I took a little time out to refresh this site and also my LinkedIn profile to update them a little to reflect changes. My LinkedIn profile was heavily focused on my career in video games that ended in 2010 so it was long due a re-vamp.
 
-[Docker]: http://www.docker.com
-[React]: https://facebook.github.io/react/
-[React Native]: https://facebook.github.io/react-native/
-[NodeJS]: https://nodejs.org/
-[Laravel]: http://www.docker.com
+[docker]: http://www.docker.com
+[react]: https://facebook.github.io/react/
+[react native]: https://facebook.github.io/react-native/
+[nodejs]: https://nodejs.org/
+[laravel]: http://www.docker.com
 
 ### Debug
+
 {:.no_toc}

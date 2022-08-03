@@ -16,9 +16,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      - uses: helaili/jekyll-action@2.2.0
+      - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: "master"
-          target_path: /
           keep_history: true

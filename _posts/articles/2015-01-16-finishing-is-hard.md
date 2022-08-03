@@ -1,16 +1,10 @@
 ---
-
-
 title: Finishing Your Video Game Production is Hard
 date: 2015-01-16 20:45:46
 
 tags: ["production"]
-
-type: post
-
-
-
 ---
+
 ![Knackered Runner](/assets/4633508350_63c6eff451_m.jpg)Every new project
 starts out exciting and fun. Then it gets harder and less fun, until it
 hits a low point-really hard, and not much fun at all. And then you find

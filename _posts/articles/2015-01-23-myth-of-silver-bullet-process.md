@@ -1,14 +1,10 @@
 ---
-
-
 title: Myth of the Silver Bullet Game Production Process
 date: 2015-01-23 07:15:42
 
 tags: ["production"]
-
-type: post
-
 ---
+
 <div style="margin-bottom: 0px; margin-top: 0px;">
 
 There is no one development process that fits all; Scrum, Prince, Lean,
@@ -30,8 +26,6 @@ team before you unleash it.
 
 </div>
 
-
-
 <div style="margin-bottom: 0px; margin-top: 0px;">
 
 This way, you'll get to iron out the bugs and if things go well then at
@@ -47,8 +41,6 @@ pre-production and concept and more formal methods for the middle bit
 where you're largely implementing your design.
 
 </div>
-
-
 
 <div style="margin-bottom: 0px; margin-top: 0px;">
 

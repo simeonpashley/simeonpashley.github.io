@@ -1,14 +1,8 @@
 ---
-
-
 title: Don't miss the growing mobile web audience
 date: 2011-03-24 15:17:10
-
-
-
-type: post
-
 ---
+
 ![](/assets/iphone_ra.jpg "iPhone view of Ring Alpha")Mobile purchases
 and mobile web viewing are increasing every day and it's simply not good
 enough to expect users to view your regular site. iPhone, Android and
@@ -37,7 +31,6 @@ and iPad, I'm sure you'll agree they look very impressive.
 
 ![](/assets/photo-e1300979026311.png "iPad View")
 
-Want to capture the growing mobile audience?
---------------------------------------------
+## Want to capture the growing mobile audience?
 
 [Contact Us](/contact) to find out how we can help.

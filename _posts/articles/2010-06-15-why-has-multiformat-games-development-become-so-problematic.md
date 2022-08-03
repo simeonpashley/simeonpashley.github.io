@@ -1,15 +1,12 @@
 ---
-
-
 title: Why has multiformat games development become so problematic?
 date: 2010-06-15 11:45:16
 
 tags: ["production"]
 
-type: post
-
 description: Why has multiformat games development become so problematic?
 ---
+
 > With release dates slipping as titles need ‘further development time’
 > and louder groans from coders regarding the trials of contemporary
 > CPUs, we look at how the increasingly contradictory nature of
@@ -20,13 +17,13 @@ description: Why has multiformat games development become so problematic?
 I contributed to a few years for [Develop
 Mag](http://www.develop-online.net/) about video game production issues.
 
-*"Mike Cook" is actually Game Production Legend "[Mike
-Cox](http://uk.linkedin.com/pub/mike-cox/2/55a/584)" as the author got his name wrong.* :)
+_"Mike Cook" is actually Game Production Legend "[Mike
+Cox](http://uk.linkedin.com/pub/mike-cox/2/55a/584)" as the author got his name wrong._ :)
 
 Read the full article below, including me waffling on about
 multi-platform video game development.
 
- **Posted: Thursday, 3rd January 2008 at 9:38 am**
+**Posted: Thursday, 3rd January 2008 at 9:38 am**
 
 > With release dates slipping as titles need ‘further development time’
 > and louder groans from coders regarding the trials of contemporary
@@ -39,7 +36,7 @@ multi-platform video game development.
 > development.
 >
 > Staggered releases have become more
-common: it’s not unusual to see a
+> common: it’s not unusual to see a
 > PS3 version of a title ship a week or two after its 360 counterpart.
 > But it can be even more severe than that – some titles are appearing
 > on some formats months after they’ve appeared on another, with
@@ -100,7 +97,7 @@ common: it’s not unusual to see a
 > One way of reducing the complexity of the latter case, says Merceron,
 > is to actually open up to even more platforms. That way, “you could
 > potentially develop three sets of
-titles: one for PC/PS3/360, one for
+> titles: one for PC/PS3/360, one for
 > Wii/PS2/PSP and one for DS and mobile,” he says.
 >
 > CAUGHT IN THE NET
@@ -108,7 +105,7 @@ titles: one for PC/PS3/360, one for
 > When taking a birds-eye view of the different ‘this generation’
 > consoles, it’s tempting to generalise the differences based solely on
 >
-performance: the Wii is weak, the PS3 is strong but the Cell poses
+> performance: the Wii is weak, the PS3 is strong but the Cell poses
 > architectural difficulties, and the Xbox 360 is powerful and less of
 > an alien layout. But to do so would miss some of the other large
 > issues, especially one such as online gameplay.
@@ -179,14 +176,14 @@ performance: the Wii is weak, the PS3 is strong but the Cell poses
 > equal-footed technology for several different architectures and
 > performance envelopes – is a job too large for many small- to
 > medium-sized developers.
->  Merceron points out several reasons for why building a bespoke
+> Merceron points out several reasons for why building a bespoke
 > multiplatform engine is more difficult in this generation than it
 > might have been in the past.
 >
 > “These days, experts are rare – losing one key person in your team can
 > make things tough, to a greater extent than before. Not only that, but
 > the scope of today’s games is
-bigger: even console games are moving
+> bigger: even console games are moving
 > deeply into the online and social community spaces, an area where
 > multiplatform needs to be applicable as well,” he adds.
 >
@@ -194,7 +191,7 @@ bigger: even console games are moving
 > a year having passed since two of the current-gen platforms launched,
 > Merceron believes that cross-generation development will be a big
 > force in the future.
->  “Developers that are already trying to architect so that the core
+> “Developers that are already trying to architect so that the core
 > technologies can migrate to PS4, Wii 2 and Xbox 720,” he says. “It’s a
 > very interesting trend, as it can really have a very positive impact
 > for the company in about three years from now.” (And, as we reveal on
@@ -217,7 +214,7 @@ bigger: even console games are moving
 > platform-specific features can be abstracted out on top.
 >
 > It’s a point that Merceron agrees
-with: “Whatever your approach,
+> with: “Whatever your approach,
 > anyone can trip up on architectural aspects. Architecture work is now
 > extremely important so that you ensure the implementation will be
 > robust and manageable. A poor low level architecture will generate a

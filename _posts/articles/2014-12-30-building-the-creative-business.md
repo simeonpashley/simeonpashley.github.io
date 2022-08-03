@@ -1,43 +1,35 @@
 ---
 
-
 title: Building the Creative Business
 date: 2014-12-30 08:19:17
 
-
-
-type: post
-
-
-
----*Building the Creative Business* is a management course aimed at
+---_Building the Creative Business_ is a management course aimed at
 entrepreneurs operating within the creative industries. I attended at
-[*London Business School*](http://www.london.edu/)where I learned about how to grow a business that is inherently complex and unpredictable due to the creative aspects involved. Ideas often don't work, challenges arise in trying to sell an idea and implementing that idea is often fraught with problems.
+[_London Business School_](http://www.london.edu/)where I learned about how to grow a business that is inherently complex and unpredictable due to the creative aspects involved. Ideas often don't work, challenges arise in trying to sell an idea and implementing that idea is often fraught with problems.
 
 Most new ventures fail within the first three years and most failures
 are related to poor management. The average life span of an
 entrepreneurial venture in this country is only 24 months. It’s at this
 point that a poorly conceived business strategy begins to ship water. 
-*Building the Creative Business* is an integrative programme that
+_Building the Creative Business_ is an integrative programme that
 concentrates on the general management challenges facing founders and
 managers of creative businesses after the start-up.
 
 The course asks the following questions
 
--   Is my vision realistic?
--   How am I actually going to do it?
--   Will it always be this hard?
--   Where are the great people going to come from to help me make it
-    happen?
--   How will we recruit, reward, motivate and retain them?
--   Is our current team up to it? Am I?
--   How do we finance the business to take the opportunities?
--   Will the wheels fall off when I don’t control everything myself?
--   Am I building capital value or have I condemned myself to being a
-    wage slave for life?
+- Is my vision realistic?
+- How am I actually going to do it?
+- Will it always be this hard?
+- Where are the great people going to come from to help me make it
+  happen?
+- How will we recruit, reward, motivate and retain them?
+- Is our current team up to it? Am I?
+- How do we finance the business to take the opportunities?
+- Will the wheels fall off when I don’t control everything myself?
+- Am I building capital value or have I condemned myself to being a
+  wage slave for life?
 
-My Experience
--------------
+## My Experience
 
 There were 9 companies involved in each session, with two delegates
 attending from each one (the theory being that it needs two people to
@@ -60,15 +52,14 @@ would free up the art, technical and design director to do more
 strategic work, and allow us to run a broader 'pyramid' structure,
 employing more graduates, and increasing our margins.
 
-Course Content
---------------
+## Course Content
 
 The course itself focused on 3 key elements, each of which had it's own
 dedicated multi-day course
 
--   **People**
--   **Strategy**
--   **Finance**
+- **People**
+- **Strategy**
+- **Finance**
 
 ### People
 
@@ -79,9 +70,9 @@ value.
 
 **Core Concepts**
 
--   Our vision
--   Our resources & capabilities
--   Our leadership style & culture business
+- Our vision
+- Our resources & capabilities
+- Our leadership style & culture business
 
 ### Finance
 
@@ -92,9 +83,9 @@ the profit for all stakeholders in the business
 
 **Core Concepts**
 
--   People & process
--   Finance & control
--   Creating & capturing shareholder value
+- People & process
+- Finance & control
+- Creating & capturing shareholder value
 
 ### Strategy
 
@@ -103,48 +94,47 @@ choice: the choices that we make about our place in the market-place, and the ch
 
 **Core Concepts**
 
--   Our markets
--   Our industry & competitors
--   Strategy & tactics business
+- Our markets
+- Our industry & competitors
+- Strategy & tactics business
 
 I captured some more detailed notes on the areas we covered in this
 module
 
 Business plan updates
- *John Bates*
+_John Bates_
 
 What is Strategy? – Taking an external view
- *Dominic Houlder*
+_Dominic Houlder_
 
 Strategy - Innovating to create value
- *Dominic Houlder*
+_Dominic Houlder_
 
 Strategy – the challenge of strategic inertia
- *Dominic Houlder*
+_Dominic Houlder_
 
 Getting to grips with the numbers – building your financial model
- *John Bates & Oliver Rivers*
+_John Bates & Oliver Rivers_
 
 Your Business Plan – next steps
- *John Bates*
+_John Bates_
 
 Strategy - Understanding competitive forces in your environment
- *Dominic Houlder*
+_Dominic Houlder_
 
 Strategy - Understanding competitive forces in your environment
- *Dominic Houlder*
+_Dominic Houlder_
 
 Strategy – Managing your environment to capture value
- *Dominic Houlder*
+_Dominic Houlder_
 
 Strategy - Your strategy
- *Dominic Houlder*
+_Dominic Houlder_
 
 Demystifying accounts
- *Oliver Rivers*
+_Oliver Rivers_
 
-Faculty
--------
+## Faculty
 
 <div title="Page 1">
 

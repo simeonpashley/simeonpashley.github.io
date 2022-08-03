@@ -1,14 +1,8 @@
 ---
-
-
 title: What Clients Want
 date: 2014-12-05 14:54:31
-
-
-
-type: post
-
 ---
+
 A potential client calls and wants a website, as a web developer you are
 more then happy to help. You show them your work, explain how your work
 is better then the rest and sell the person on the importance of Web

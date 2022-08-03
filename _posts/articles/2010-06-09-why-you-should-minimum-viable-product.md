@@ -1,17 +1,9 @@
 ---
-
-
 title: Why you should use Minimum Viable Product game production
 date: 2010-06-09 02:40:29
-
 tags: ["lean", "mvp", "production"]
-
-type: post
- and PC Games Video Games and PC Games Games and PC Games
-
-description: 'How to engage your game players and maximise the feedback
-loop: Change Game > Ship Game > Feedback > Change Game > Ship Game > Feedback'
 ---
+
 The term **Minimum Viable Product** (MVP) has recently come to be used
 in the world of video game production but what does it mean and how can
 it benefit our games and the gamers themselves, including how to get the
@@ -31,8 +23,7 @@ real customer feedback.
 caption="Minimum Viable
 Product"]![](/assets/minimum-viable-product-illustrated-methodologist1-300x225.gif "Minimum Viable Product")[/caption]
 
-Rapid Iteration
----------------
+## Rapid Iteration
 
 The **Minimum Viable Product** is dependant on rapid feedback loops and
 is quicker these are the more successful the iterations will be.
@@ -47,8 +38,7 @@ games, their closed nature and long approval and release cycles can make
 the feedback loop a very long process and therefore seem disconnected
 from the community.
 
-Get Feedback
-------------
+## Get Feedback
 
 Of course, connecting and interacting with the community around your
 game is absolutely essential and is likely to require specific community
@@ -124,8 +114,7 @@ player specifically for it.
 Of course you need to use the information from you’ve worked so hard to
 collect or the whole process is pointless!
 
-Quit Early
-----------
+## Quit Early
 
 A **Minimum Viable Product** also allows for game ideas to be released
 into the market to see how it responds, truly weak ideas can be
@@ -134,13 +123,12 @@ more successful. It’s better to remove these failed attempts rather than
 leave them hanging around unattended.
 
 Of course, this isn’t an excuse for releasing poorly thought out and
-dull games with a “*throw enough mud at the wall and see what sticks*”
+dull games with a “_throw enough mud at the wall and see what sticks_”
 approach as your reputation is attached to each connection you make with
 your audience. The last thing you want is to be known for releasing a
 stream of half-baked ideas.
 
-Rapid Prototyping
------------------
+## Rapid Prototyping
 
 I would say that the **Minimum Viable Product** concept has been used by
 many game developers for internal concepts and prototypes under the
@@ -148,16 +136,14 @@ banner “**Rapid Prototyping**”  where ideas are taken far enough to
 demonstrate before a decision is made to change or abandon games at
 review meetings during its lifetime,
 
-Summary
--------
+## Summary
 
 The development approach of rapidly incorporating feedback from your
 audience is here to stay and the **Minimum Viable Product** concept
 suits this well. Consider using it where possible in your game life
 cycle for maximum success.
 
-Further Reading
----------------
+## Further Reading
 
 [Minimum Viable
 Product](http://en.wikipedia.org/wiki/Minimum_viable_product) – Wikipedia definition

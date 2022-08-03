@@ -3,7 +3,6 @@ title: Weekend Reading - 12/Jun/2010
 date: 2010-06-12 19:38:48
 
 tags: ["read me"]
-type: post
 
 description: Artist, Antony Ward's artwork appears has appeared in many games over the years and always looks amazing. He's written some books too and they're a good read for the artists out there.
 ---

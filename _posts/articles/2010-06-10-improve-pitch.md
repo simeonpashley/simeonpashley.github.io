@@ -1,15 +1,12 @@
 ---
-
-
 title: How To Improve Your Video Game Pitch
 date: 2010-06-10 11:45:04
 
 tags: ["business", "conference", "pitch"]
 
-type: post
-
 description: How To Improve Your Video Game Pitch
 ---
+
 I've seen my game pitches in my time, and I've made quite a few myself
 but I'm continually amazed and just what some people think they're
 doing.  Think about all those poor saps who've been sent to the
@@ -101,15 +98,16 @@ you're ready, don't rush and remember.
 > To fail to prepare is to prepare to fail
 
 If you're business depends on it, it's worth the time and effort to get
-it right and get a professional to run through it with you! *[Shameless
+it right and get a professional to run through it with you! _[Shameless
 self
-plug](http://gamedevconsulting.blogspot.com/p/simeon-pashley-consultant-development.html)*.
+plug](http://gamedevconsulting.blogspot.com/p/simeon-pashley-consultant-development.html)_.
 ;)
 
 As always, if there's something more you'd like to know, post a comment
 or [contact](/contact) me directly.
 
 ###
+
 UPDATE:
 
 **I've followed up with more information in '**[**How To Improve Your
@@ -117,17 +115,16 @@ Pitch – Part 2**](/2010/06/improve-pitch-part-2-2.html)**'**
 
 ### Further Reading
 
--   [Presentation Zen](http://www.presentationzen.com/) - a blog
-    dedicated to sharing the best presentation tips
--   [Presentation
-Zen: Simple Ideas on Presentation Design and Delivery
-    (Voices That
-    Matter)](http://www.amazon.co.uk/gp/product/0321525655?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0321525655)![](/assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0321525655) -
-    a great book that sets the basis for great presentations
--   [Presentation Zen
-Design: Simple Design Principles and Techniques to
-    Enhance Your Presentations (Voices That
-    Matter)](http://www.amazon.co.uk/gp/product/0321668790?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0321668790) -
-    a partner book that focuses on
-    design![](/assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0321668790)
-
+- [Presentation Zen](http://www.presentationzen.com/) - a blog
+  dedicated to sharing the best presentation tips
+- [Presentation
+  Zen: Simple Ideas on Presentation Design and Delivery
+  (Voices That
+  Matter)](http://www.amazon.co.uk/gp/product/0321525655?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0321525655)![](/assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0321525655) -
+  a great book that sets the basis for great presentations
+- [Presentation Zen
+  Design: Simple Design Principles and Techniques to
+  Enhance Your Presentations (Voices That
+  Matter)](http://www.amazon.co.uk/gp/product/0321668790?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0321668790) -
+  a partner book that focuses on
+  design![](/assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0321668790)

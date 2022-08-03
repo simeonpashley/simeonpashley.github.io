@@ -3,7 +3,6 @@ title: Linchpin Manifesto
 date: 2010-06-26 17:46:27
 
 tags: ["read me"]
-type: post
 
 description: The Linchpin manifesto holds shows some of the things I hold dear and try to act on every day. I'm sure these apply to you too.
 ---

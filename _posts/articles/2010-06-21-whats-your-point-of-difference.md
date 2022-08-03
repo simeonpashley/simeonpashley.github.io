@@ -3,8 +3,6 @@ title: What's your point of difference?
 date: 2010-06-21 22:03:18
 
 tags: ["business", "career"]
-
-type: post
 ---
 
 Bear with me on this one...I'm currently sat watching a TV programme in

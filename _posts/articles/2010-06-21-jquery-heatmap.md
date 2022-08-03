@@ -1,34 +1,15 @@
 ---
-
-
 title: jQuery heatmap
 date: 2010-06-21 14:38:22
 
-
-
-type: post
-
-
-
-
-
 description:
-
-
-
-
-
-
 ---
+
 <div style="float: left;">
-
-
 
 </div>
 
 <div style="float: left;">
-
-
 
 </div>
 

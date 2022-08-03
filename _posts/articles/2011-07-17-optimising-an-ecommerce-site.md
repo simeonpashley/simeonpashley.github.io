@@ -1,14 +1,8 @@
 ---
-
-
 title: Optimising an eCommerce Site
 date: 2011-07-17 18:41:27
-
-
-
-type: post
-
 ---
+
 Our development work this week has included a lot of server optimisation
 for an eCommerce website and we **dramatically improved response
 times**, lowered overall CPU use and memory use by making changes to the

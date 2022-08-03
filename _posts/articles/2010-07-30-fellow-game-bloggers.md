@@ -1,14 +1,10 @@
 ---
-
-
 title: Fellow Game Bloggers
 date: 2010-07-30 16:55:43
 
 tags: ["business"]
-
-type: post
-
 ---
+
 I've collected a list of all of the video game bloggers I've found so
 far. These cover a broad range of topics include developers, producers,
 artists, designers, business and I'd wholly recommend adding them all to

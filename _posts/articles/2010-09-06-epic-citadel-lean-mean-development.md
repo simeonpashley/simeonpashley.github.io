@@ -1,13 +1,9 @@
 ---
-
-
 title: Epic Citadel - lean, mean development
 date: 2010-09-06 11:17:04
 tags: ["development", "iphone", "middleware", "unreal"]
-
-type: post
-
 ---
+
 ![epic-citadel-004](/assets/epiccitadel004.jpg "epic-citadel-004") The
 recent outing on iPhone of the amazing looking Unreal Engine 3 demo
 entitled [Epic

@@ -1,15 +1,10 @@
 ---
-
-
 title: Thought – Who will make the 1st carbon neutral game?
 date: 2015-01-20 18:34:16
 
 tags: ["business", "development"]
-
-type: post
-
-
 ---
+
 Hmmm…. this could be a tough one to work out. Imagine all of the power
 used; development hardware like PCs, food eaten, servers, travel for
 business and commuting, air-conditioning, manufacturing of the discs,

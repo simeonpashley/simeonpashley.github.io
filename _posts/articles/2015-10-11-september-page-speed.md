@@ -1,9 +1,5 @@
 ---
-
 title: September Page Speed
-
-
-
 
 date: 2015-10-09 18:36:45
 ---

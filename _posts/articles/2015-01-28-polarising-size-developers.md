@@ -1,16 +1,10 @@
 ---
-
-
 title: The Polarising Size of Video Game Developers
 date: 2015-01-28 18:37:00
 
 tags: ["business", "career"]
-
-type: post
-
-
-
 ---
+
 There used to be a time when developers of all sizes existed from small
 bedroom teams up to hundreds of people working on projects and
 everywhere in between. Developers of 40-100 people were not uncommon but

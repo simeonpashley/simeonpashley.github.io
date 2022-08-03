@@ -4,8 +4,6 @@ date: 2010-08-25 11:45:13
 
 tags: ["career"]
 
-type: post
-
 description: Part 3 of the series continues the saga of my career through the turbulent times during the transition from PS1 to PS2.
 ---
 

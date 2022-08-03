@@ -1,14 +1,10 @@
 ---
-
-
 title: What can we learn from location based games?
 date: 2010-07-06 16:00:10
 
 tags: ["design"]
-
-type: post
-
 ---
+
 Location based games have really taken off in the last year or so and
 they're only going to get better but do those ideas have to be
 constrained to gps devices? Can you do location based game play on a

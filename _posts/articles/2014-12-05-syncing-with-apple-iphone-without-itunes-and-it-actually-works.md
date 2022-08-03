@@ -1,14 +1,8 @@
 ---
-
-
 title: Syncing with Apple iPhone without iTunes — and it actually works!
 date: 2014-12-05 20:05:04
-
-
-
-type: post
-
 ---
+
 Yesterday I’ve spent like 7 hours trying to upload music and videos to
 my iPhone. Nice going Apple, you put more effort into making the device
 impossible to work with, instead of solving known issues. Anyways, I
@@ -19,8 +13,6 @@ freeze. The software is called IMTOO iPhone Computer Transfer.
 Basically, what you do is connect your iPhone via USB and voila — the
 software sees your phone and automatically creates the music and video
 directories. There are couple of catches though.
-
- 
 
 First of all, the software isn’t free - the license costs \$30. And
 although I did buy it, I got a refund for some reason the next morning.
@@ -56,7 +48,6 @@ music.
 Here is a video on how iPhoneBrowser and MNPlight.
 
 To sum it all up, here are the
-
 
 [Download IMTOO iPhone
 Transfer](http://www.videoconverterdownload.com/software/imtoo-ipod-computer-transfer.html)

@@ -58,5 +58,4 @@ gem "kramdown-parser-gfm"
 #   gem 'jekyll-tagging-related_posts'
 # end
 
-
 gem "webrick", ">= 1.7"

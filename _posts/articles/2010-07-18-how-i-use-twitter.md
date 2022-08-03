@@ -3,8 +3,6 @@ title: How I use Twitter
 date: 2010-07-18 23:40:37
 
 tags: ["business"]
-
-type: post
 ---
 
 (mobile post)

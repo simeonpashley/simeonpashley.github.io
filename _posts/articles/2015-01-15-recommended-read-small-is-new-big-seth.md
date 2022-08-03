@@ -1,13 +1,10 @@
 ---
-
-
 title: Recommended Read - Small is the New Big - Seth Godin
 date: 2015-01-15 22:23:54
 
 tags: ["read me"]
-type: post
-
 ---
+
 <div>
 
 For me, even though this book is a few years old the title of Seth's
@@ -45,6 +42,3 @@ Visit Amazon via the link below to check out more details including
 synopsis, ratings and other reviews.
 
 </div>
-
-
-

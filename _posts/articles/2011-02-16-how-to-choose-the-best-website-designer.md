@@ -1,12 +1,8 @@
 ---
-
-
 title: How to Choose the Best Website Designer
 date: 2011-02-16 11:34:54
-
-type: post
-
 ---
+
 In order to compete in today's tough hospitality economy, business
 owners need a strong online presence. The convenience of online
 shopping, coupled with the high price of gasoline, means a growing
@@ -42,21 +38,21 @@ provide the best services at the best prices? So pay close attention to
 other important signs,
 including:
 
--   Is the business web design company interested in specifically what
-    elements you’ll need on your website for growth, or are you herded
-    into their client group and given a select number of templates to
-    choose from that look like everyone else’s?
--   Is the business web designer prepared to take the time to determine
-    your target audience?
--   Are they interested in your overall business goals?
--   Does the designer know enough about your industry, or are they
-    willing to learn, in order to trounce the competition?
--   IS the design company responsive when you call or send an e-mail? If
-    it takes 2 days for them to return your call just to discuss the
-    project, what will happen after they’ve gotten your money?
--   Does the designer talk in terms of the future- how they will support
-    your needs or continue to work with and maintain your business
-    website once is completed?
+- Is the business web design company interested in specifically what
+  elements you’ll need on your website for growth, or are you herded
+  into their client group and given a select number of templates to
+  choose from that look like everyone else’s?
+- Is the business web designer prepared to take the time to determine
+  your target audience?
+- Are they interested in your overall business goals?
+- Does the designer know enough about your industry, or are they
+  willing to learn, in order to trounce the competition?
+- IS the design company responsive when you call or send an e-mail? If
+  it takes 2 days for them to return your call just to discuss the
+  project, what will happen after they’ve gotten your money?
+- Does the designer talk in terms of the future- how they will support
+  your needs or continue to work with and maintain your business
+  website once is completed?
 
 **Portfolio**
 
@@ -93,11 +89,11 @@ services to ensure your success.
 Ring Alpha Web Design offers all of this and more,
 including:
 
--   **Unique Web Design-**updated periodically
--   **Web Hosting**-to keep the site up and running
--   **Domain Registration**
--   **Online Marketing of the Site-**to bring potential customers
--   **SEO (Search Engine Optimisation)-**to make sure your site is \#1
+- **Unique Web Design-**updated periodically
+- **Web Hosting**-to keep the site up and running
+- **Domain Registration**
+- **Online Marketing of the Site-**to bring potential customers
+- **SEO (Search Engine Optimisation)-**to make sure your site is \#1
 
 Ready to begin creating a business website that really has impact?
 Please contact Ring Alpha Web Design to discuss your needs today.

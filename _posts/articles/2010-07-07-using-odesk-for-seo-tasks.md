@@ -1,25 +1,10 @@
 ---
-
-
 title: Using Odesk For SEO Tasks
 date: 2010-07-07 14:32:40
 
-
-
-type: post
-
-
-
-
-
 description:
-
-
-
-
-
-
 ---
+
 ![](/assets/wpknock-odesk-logo-300x244.jpg)SEO or search engine
 optimization is a technique used to rank up high in Google. Deciding to
 hire a search engine optimizer is a big decision that can potentially

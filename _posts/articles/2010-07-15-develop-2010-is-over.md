@@ -1,14 +1,10 @@
 ---
-
-
 title: Develop 2010 is over, next up Gamescom
 date: 2010-07-15 23:05:22
 
 tags: ["conference"]
-
-type: post
-
 ---
+
 <span style="font-size: 13.2px;">Well, it looks like Develop 2010 is over for this year (the clue is in the name) and the next event is
 [Gamescom](http://www.gamescom.de/en/gamescom/home/index.php) in just over 4 weeks time. Just enough time to detox ready for the next wave of
 'networking'. :)</span>

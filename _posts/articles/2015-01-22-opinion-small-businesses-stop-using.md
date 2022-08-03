@@ -1,14 +1,9 @@
 ---
-
-
 title: Opinion - Small businesses STOP USING AUTOMATED REPLIES!
 date: 2015-01-22 09:29:49
 tags: ["business", "connect", "fun", "opinion", "small"]
-
-type: post
-
-
 ---
+
 If there's one thing I hate, it's receiving an automated reply from a
 small business, in particular one that's supposed to connect with me as
 a person. OK, I'll confess I'm having a rant about recruitment agencies,

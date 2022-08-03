@@ -1,14 +1,10 @@
 ---
-
-
 title: How To Improve Your Video Game Developer CV
 date: 2015-01-25 20:36:36
 
 tags: ["career"]
-
-type: post
-
 ---
+
 The way we apply for roles is still baked into the tradition of a paper CV along with the formatting that goes with it. Stop, think about it.
 
 Imagine your Resume sat in a pile with the recruiter shuffling through

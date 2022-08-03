@@ -1,14 +1,8 @@
 ---
-
-
 title: Where have I been?
 date: 2010-12-05 13:03:06
-
-
-
-type: post
-
 ---
+
 It's been quite a long time since I posted about Game Production as I've
 been focusing my efforts on my new venture '[Ring
 Alpha](http://ringalpha.com)' where I'm currently focusing on making my own video games and collaborating with other indie developers around the

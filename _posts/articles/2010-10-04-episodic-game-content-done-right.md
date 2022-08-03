@@ -1,14 +1,10 @@
 ---
-
-
 title: Episodic Game Content Done Right
 date: 2010-10-04 11:45:54
 
 tags: ["business model", "episodic", "LinkedIn"]
-
-type: post
-
 ---
+
 I think there's a missed opportunity with Episodic games that are
 currently being launched, they're largely just about delivering a known
 experience over an extended period of time and splitting the costs

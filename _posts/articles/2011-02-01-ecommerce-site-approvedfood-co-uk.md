@@ -1,16 +1,12 @@
 ---
-
-
 title: eCommerce Site - ApprovedFood.co.uk
 date: 2011-02-01 11:06:48
 
 tags: ["development", "ecommerce", "website"]
-
-type: post
-
 ---
+
 ![](/assets/ApprovedFood_v2.jpg "Approved Food v2")
- Today saw the first public showing of the eCommerce site refresh for
+Today saw the first public showing of the eCommerce site refresh for
 [www.approvedfood.co.uk](http://www.approvedfood.co.uk), which we're amazingly proud of.
 
 This is an ongoing extensive web development project and encompasses
@@ -21,7 +17,7 @@ the thousands of daily visitors find their way around the products much
 easier and Approved Food get more control, data and a rapid turn-around
 on changes and support.
 
- One of the things we did is to incorporate greatly enhanced tracking
+One of the things we did is to incorporate greatly enhanced tracking
 via Google Analytics using Custom Vars, Custom Reports, Goals/Funnels
 and eCommerce tracking so Approved Food can find out, down to the
 product and user, what's working and improve areas that need attention.

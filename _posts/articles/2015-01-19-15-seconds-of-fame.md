@@ -1,13 +1,6 @@
 ---
-
-
 title: 15 seconds of fame
 date: 2015-01-19 09:33:15
-
-
-
-type: post
-
 ---
 
 <div style="margin-bottom: 0px; margin-top: 0px;">
@@ -30,7 +23,7 @@ The take away here is that everything has a much shorter lifetime now.
 Recognise that your job won't be for life, your game will be forgotten
 within 2 months of launch, 10hrs of gameplay is a lifetime, even the
 massive investment in a typically massively multiplayer online game will
-only last 3 years. 
+only last 3 years.
 
 </div>
 

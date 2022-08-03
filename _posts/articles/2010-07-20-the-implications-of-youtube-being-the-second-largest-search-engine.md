@@ -1,25 +1,10 @@
 ---
-
-
 title: The Implications of YouTube Being The Second Largest Search Engine
 date: 2010-07-20 11:28:33
 
-
-
-type: post
-
-
-
-
-
 description:
-
-
-
-
-
-
 ---
+
 [You tube](/http://www.youtube.com/) has become the second largest search engine in recent years. It helps the viewers to get the exact idea of your product or the services you offer through the internet. It not only helps to drag the traffic towards your site, but also makes bulk revenue for you.
 
 This tool is highly efficient to give a specification to your web page.
@@ -61,8 +46,6 @@ quality that you give, they subscribe for the updates from you. This
 enables you to know about the viewers you have for your content. Some of
 the viewers even leave some comment that helps you to improve the
 eminence of your product.
-
- 
 
 The title that you place for your video must be very catchy. This
 attracts the people who are searching for some information regarding

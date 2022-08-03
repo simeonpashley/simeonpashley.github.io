@@ -1,15 +1,12 @@
 ---
-
-
 title: Flow - Make Better Games
 date: 2010-09-22 11:45:35
 
 tags: ["LinkedIn", "production", "productivity"]
 
-type: post
-
 description: Working in a state of Flow is both productive and pleasing. You should foster and support it's existence for a happy team and game.
 ---
+
 I’ve been meaning to re-present something I did for a whole game
 development studio a while back about ‘**Flow**’. It instantly improved
 production and was something we held dear as a team.
@@ -17,9 +14,9 @@ production and was something we held dear as a team.
 Have you ever said anything
 like:
 
--   “Wow, is it that time already?”
--   “Sorry, I was miles away”
--   “I get my best work done when everyone’s gone home!”
+- “Wow, is it that time already?”
+- “Sorry, I was miles away”
+- “I get my best work done when everyone’s gone home!”
 
 If the answer is yes, then you’ve experienced a state of **Flow** and
 most likely been incredibly productive. It’s sometimes called being “in
@@ -67,18 +64,18 @@ get into **Flow**.
 
 ![800-service-interruption-transfer](/assets/800serviceinterruptiontransfer.jpg "800-service-interruption-transfer")
 
--   You get an email pop-up – +15 minutes
--   IM pops up – +15 minutes
--   Telephone call – +15 minutes
--   At desk requests - +15 minutes
--   ‘ping’ from a new text message on your mobile - +15 minutes
--   Starting a long build – +15 minutes
+- You get an email pop-up – +15 minutes
+- IM pops up – +15 minutes
+- Telephone call – +15 minutes
+- At desk requests - +15 minutes
+- ‘ping’ from a new text message on your mobile - +15 minutes
+- Starting a long build – +15 minutes
 
 #### Implicit Interruptions
 
--   Noise
--   Interrupting colleagues – how often does your neighbours phone go
-    off?
+- Noise
+- Interrupting colleagues – how often does your neighbours phone go
+  off?
 
 You can quickly see how this can mount up to a problem and in a bigger
 team the problem compounds itself as the people who have been
@@ -105,37 +102,34 @@ and the others around them drift out so they can pay attention.
 Here are a few things you can do to try to help
 yourself:
 
--   **Turn communications systems off** and let everyone know why you’re
-    doing it; E-Mail, IM and Phone. It’s not going to be forever and I'm
-    sure your manager/lead will be happy you want to be focused.
--   Use your email apps **Out Of Office system to auto-respond** letting
-    people you’ll get back to them soon. This prevents them from
-    thinking you're ignoring them for no reason.
--   Set your email app to **only check emails every 30 mins** or so. Do
-    emails really need an instantaneous response?
--   **'Zebra' Mail** - I've also used the email apps rules systems to
-    pickup keywords in the subject line to bring an alert up. In my
-    example people knew that putting the word 'Zebra' in the subject
-    line would mean it would get my instant attention. I could also
-    change the word to prevent people just using it all of the time.
--   **Put your headphones on.** This seems to be the international
-    symbol for Do Not Disturb plus you’ve got a damn good excuse for not
-    responding to general chat as you can't hear them! You don’t have to
-    listen to music either, just pop your headphones on.
--   **Door Etiquette** - If you're fortunate to have your own office
-    then adopt a door protocol such
-as:
-    -   Door Open - ready for interruption
-    -   Door ajar - priority interruptions only
-    -   Door closed - Do Not Disturb on pain of death
+- **Turn communications systems off** and let everyone know why you’re
+  doing it; E-Mail, IM and Phone. It’s not going to be forever and I'm
+  sure your manager/lead will be happy you want to be focused.
+- Use your email apps **Out Of Office system to auto-respond** letting
+  people you’ll get back to them soon. This prevents them from
+  thinking you're ignoring them for no reason.
+- Set your email app to **only check emails every 30 mins** or so. Do
+  emails really need an instantaneous response?
+- **'Zebra' Mail** - I've also used the email apps rules systems to
+  pickup keywords in the subject line to bring an alert up. In my
+  example people knew that putting the word 'Zebra' in the subject
+  line would mean it would get my instant attention. I could also
+  change the word to prevent people just using it all of the time.
+- **Put your headphones on.** This seems to be the international
+  symbol for Do Not Disturb plus you’ve got a damn good excuse for not
+  responding to general chat as you can't hear them! You don’t have to
+  listen to music either, just pop your headphones on.
+- **Door Etiquette** - If you're fortunate to have your own office
+  then adopt a door protocol such
+  as: - Door Open - ready for interruption - Door ajar - priority interruptions only - Door closed - Do Not Disturb on pain of death
 
 Consider other people's desire to be undisturbed, do you really need an
 answer to that question now?  Try and use appropriate
 communication:
 
--   **Time critical**: voice
--   **Immediate & discreet**: Instant Message
--   **Can wait**: e-mail
+- **Time critical**: voice
+- **Immediate & discreet**: Instant Message
+- **Can wait**: e-mail
 
 Teams and Studios should support this whole way of working by being
 considerate and enabling people to work for extended periods in an

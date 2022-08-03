@@ -1,8 +1,6 @@
 ---
 title: Game Development Post Production - SHU GSPM S2W2
 date: 2012-03-28 11:39:30
-
-type: post
 ---
 
 Below is a link to the presentation I gave at _Sheffield Hallam

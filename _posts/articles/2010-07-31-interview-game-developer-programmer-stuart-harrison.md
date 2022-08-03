@@ -1,15 +1,12 @@
 ---
-
-
 title: 'Interview with a Veteran Video Game Developer \#1'
 date: 2010-07-31 12:54:10
 
 tags: ["interview"]
 
-type: post
-
 description: Find out what a 15 year video game developer has to say.
 ---
+
 I recently circulated a few questions to some veteran video game
 developers I know about their experience and their insight into video
 game development. The 1st response I received is from [Stuart
@@ -24,7 +21,7 @@ out what Stuart had to say...
 
 If you've been making video games for more than 5 yrs simply [send me
 your answers](http://game-linchpin/contact) to the questions below along with a little bio and I'll happily post good responses.
- I look forward to hearing from you
+I look forward to hearing from you
 
 </div>
 

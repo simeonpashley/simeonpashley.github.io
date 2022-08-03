@@ -3,8 +3,6 @@ title: The Definitive Guide To Pitching Your Video Game
 date: 2010-10-01 11:00:57
 
 tags: ["LinkedIn", "pitch", "pitching"]
-
-type: post
 ---
 
 Over the years I've both pitched many games and been on the receiving

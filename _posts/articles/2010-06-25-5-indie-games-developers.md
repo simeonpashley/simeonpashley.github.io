@@ -1,15 +1,12 @@
 ---
-
-
 title: Spotlight - 5 Indie Games Developers
 date: 2010-06-25 11:43:32
 
 tags: ["business"]
 
-type: post
-
 description: This week we turn the spotlight on 5 Indie Games Developers. Do you agree? Should you be in this list?
 ---
+
 The phrase 'indie games' often refers to games made by small independent
 developers, who fund the game themselves and release it out into the
 wild but self-publishing. After all, they're not bound to a publisher
@@ -82,7 +79,7 @@ developers.
 Here's their current offering for XBox Live Arcade - Space Ark
 
 > What is Space Ark?
->  It’s is a fun arcade/puzzle game with a hint of retro arcade flavour;
+> It’s is a fun arcade/puzzle game with a hint of retro arcade flavour;
 > inspired by classic arcade games of the late 80s, such as Rainbow
 > Island, Bubble Bobble and Arkanoid.
 >
@@ -116,7 +113,7 @@ Explodemon:
 > from Curve's deep-seated love of video game culture and history,
 > Explodemon! is wrapped up as a loving homage to SNES-era Japanese
 > action games.
->  Explodemon! will release on PlayStation 3 on the PlayStation Network
+> Explodemon! will release on PlayStation 3 on the PlayStation Network
 > in 2010.
 
 ### Shadegrown Games
@@ -153,15 +150,15 @@ the comments.
 #### Further Reading
 
 ThatGameCompany - http://thatgamecompany.com , twitter @thatgamecompany
- Holographic Dreams - http://holographicdreams.com , twitter
+Holographic Dreams - http://holographicdreams.com , twitter
 @HoloDreams
- Strawdog Studios - http://www.strawdogstudios.com
- Curve Studios - http://curve-studios.com , twitter @curvestudios
- Shadegrown Games - http://www.shadegrowngames.com, twitter
+Strawdog Studios - http://www.strawdogstudios.com
+Curve Studios - http://curve-studios.com , twitter @curvestudios
+Shadegrown Games - http://www.shadegrowngames.com, twitter
 @shadegrowngames
 
 **Bonus**:
- One Bit Beyond - Curve Studios Creative Director blog -
+One Bit Beyond - Curve Studios Creative Director blog -
 http://www.onebitbeyond.com
- Twitter @xnacommunity
- Twitter [\#xblig](http://twitter.com/#search?q=%23XBLIG)
+Twitter @xnacommunity
+Twitter [\#xblig](http://twitter.com/#search?q=%23XBLIG)

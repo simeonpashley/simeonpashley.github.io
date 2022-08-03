@@ -10,16 +10,13 @@
   outline-offset: -2px;
 }
 
-
 /*
    em Function
    ========================================================================== */
 
 @function em($target, $context: $doc-font-size) {
-
   @return ($target / $context) * 1em;
 }
-
 
 /*
    Bourbon Clearfix
@@ -42,14 +39,12 @@
 ///   }
 
 @mixin clearfix {
-
   &::after {
     clear: both;
     content: "";
     display: table;
   }
 }
-
 
 /*
    Typography Related Mixins
@@ -90,7 +85,6 @@
  */
 
 @mixin font-size($size, $margin: yes, $line-height: $doc-line-height) {
-
   /* Generates the font-size in REMs with a PX fallback */
 
   font-size: 0px + $size;

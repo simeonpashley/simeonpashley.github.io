@@ -1,14 +1,8 @@
 ---
-
-
 title: Five eCommerce Website SEO tips you can use
 date: 2011-04-27 13:36:39
-
-
-
-type: post
-
 ---
+
 ![](/assets/basket_key.jpg "eCommerce Website")We have a great deal of
 experience in Search Engine Optimisation (SEO) for eCommerce websites to
 improve the position of both your online store and the items you sell.

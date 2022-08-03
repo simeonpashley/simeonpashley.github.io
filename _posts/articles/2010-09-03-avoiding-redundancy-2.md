@@ -4,8 +4,6 @@ date: 2010-09-03 17:00:07
 
 tags: ["business", "career", "redundancy"]
 
-type: post
-
 description: Let's put the redundancy post in context and explore the topic a little more.
 ---
 

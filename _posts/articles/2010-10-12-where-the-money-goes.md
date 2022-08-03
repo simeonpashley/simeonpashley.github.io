@@ -1,14 +1,8 @@
 ---
-
-
 title: Where The Money Goes
 date: 2010-10-12 11:28:08
-
-
-
-type: post
-
 ---
+
 I wanted to share with you a presentation about **Where The Money Goes**
 that is received from making video games. I made this presentation a few
 years ago to a game development studio I was running at the time and I
@@ -40,32 +34,32 @@ typical but vary depending on the nature of your business.
 Let's walk through the components of this
 example:
 
--   **Wages** - this is the gross salary you receive before tax and
-    national insurance costs are taken off
--   **Corporate NIC** - These are the National Insurance contributions a
-    UK business makes in addition to the NI payments you make yourself
--   **Benefits** - this is a general roll up for things such as bonus,
-    pensions, healthcare, time-off in lieu and a myriad of other things
--   **Recruitment** - this is the money the company pays to the
-    recruitment agency that got you the job and I've chosen a figure I
-    think is typical. It's typically a one-off payment made when you
-    pass your probation period. This figure obviously varies massively
-    depending on the deal your employer has and may not even exist if
-    you applied direct.
+- **Wages** - this is the gross salary you receive before tax and
+  national insurance costs are taken off
+- **Corporate NIC** - These are the National Insurance contributions a
+  UK business makes in addition to the NI payments you make yourself
+- **Benefits** - this is a general roll up for things such as bonus,
+  pensions, healthcare, time-off in lieu and a myriad of other things
+- **Recruitment** - this is the money the company pays to the
+  recruitment agency that got you the job and I've chosen a figure I
+  think is typical. It's typically a one-off payment made when you
+  pass your probation period. This figure obviously varies massively
+  depending on the deal your employer has and may not even exist if
+  you applied direct.
 
 We then have 2 more figures that scale with your business but we'll
 assume that they apply in a linear fashion for this example
 
--   **Business Costs** - this figure of 40% is typical and includes a
-    whole host of costs that **I'll go into later.** Needless to say
-    that if there's only 1 of you then it's going to be 100% cost
-    against your salary.
--   **Platform Fee** - many platforms such as Apple, Sony, Microsoft all
-    take 30% of the revenue received as a platform fee. It's a way for
-    them to recoup the costs of developer support, administration,
-    marketing and whatever else they consider worthy. I've taken this
-    30% and applied it directly to your salary as a 'tax' to show the
-    amount of money required to pay your wages.
+- **Business Costs** - this figure of 40% is typical and includes a
+  whole host of costs that **I'll go into later.** Needless to say
+  that if there's only 1 of you then it's going to be 100% cost
+  against your salary.
+- **Platform Fee** - many platforms such as Apple, Sony, Microsoft all
+  take 30% of the revenue received as a platform fee. It's a way for
+  them to recoup the costs of developer support, administration,
+  marketing and whatever else they consider worthy. I've taken this
+  30% and applied it directly to your salary as a 'tax' to show the
+  amount of money required to pay your wages.
 
 Using these figures, your salary comes in at 39% of gross revenue, i.e.,
 **for every £1 you earn the game needs to earn £2.55**.
@@ -136,25 +130,27 @@ have been stripped out.
 Again, using the same format as before we can arrive at some figures for
 how many units you'd need to sell to break-even and get your money back.
 
-  ----------------- ------------------------------- -----------------------------------
+---
+
   <div>             **Unit Sales to get your £1**   **Unit Sales to get £36k salary**
 
-  **Price Point**
+**Price Point**
 
   </div>
 
-  £39.99            0.04                            1,545
+£39.99 0.04 1,545
 
-  £19.99            0.09                            3,090
+£19.99 0.09 3,090
 
-  £9.99             0.17                            6,184
+£9.99 0.17 6,184
 
-  £4.99             0.34                            12,380
+£4.99 0.34 12,380
 
-  £1.99             0.86                            31,043
+£1.99 0.86 31,043
 
-  £0.59             2.91                            104,705
-  ----------------- ------------------------------- -----------------------------------
+£0.59 2.91 104,705
+
+---
 
 Stripping away the costs obviously means you need to sell fewer games to
 get the same amount of cash in your pocket at the end of the day.
@@ -183,60 +179,60 @@ First, lets take a look through some typical costs that come in at the
 project level and are duplicated for every project the studio
 undertakes:
 
--   **I.T. Rentals** - this is the cost of the hardware & software you
-    use every day to make the
-game: desktop machines, laptops, monitors,
-    dev kits, art packages, IDEs, etc.
--   **Middleware** - if you use any licensed software such as Unreal,
-    Unity, Scaleform, SpeedTree or anything else like this.
--   **Outsourcing**: Art, Anim, Audio - these are other costs for the
-    work done by people outside of your studio
--   **QA** - engaging people to test your game costs money, whether it
-    be £50 to your friend or employing 100+ people to get your game from
-    Alpha to Master
--   **Materials** - all the other bits & pieces you
-consume: blank
-    media, pens, paper, ink for the printer, books, reference games,
-    etc.
--   **Travel** - travel to see publishers, marketing events or trade
-    shows all costs money.
--   **Training** - now you're at the event you probably need a ticket to
-    get in, or maybe a specific training course
--   **Subsistence -** maybe you're old skool and get some Pizzas in
-    during crunch, maybe you like to take the team out on occasion or
-    even just a Christmas party.
--   **Agent fees** - some companies use agents to help them get their
-    games signed up to publishers and deals are typically based on a
-    percentage of gross revenue and 10% is a typical value.
+- **I.T. Rentals** - this is the cost of the hardware & software you
+  use every day to make the
+  game: desktop machines, laptops, monitors,
+  dev kits, art packages, IDEs, etc.
+- **Middleware** - if you use any licensed software such as Unreal,
+  Unity, Scaleform, SpeedTree or anything else like this.
+- **Outsourcing**: Art, Anim, Audio - these are other costs for the
+  work done by people outside of your studio
+- **QA** - engaging people to test your game costs money, whether it
+  be £50 to your friend or employing 100+ people to get your game from
+  Alpha to Master
+- **Materials** - all the other bits & pieces you
+  consume: blank
+  media, pens, paper, ink for the printer, books, reference games,
+  etc.
+- **Travel** - travel to see publishers, marketing events or trade
+  shows all costs money.
+- **Training** - now you're at the event you probably need a ticket to
+  get in, or maybe a specific training course
+- **Subsistence -** maybe you're old skool and get some Pizzas in
+  during crunch, maybe you like to take the team out on occasion or
+  even just a Christmas party.
+- **Agent fees** - some companies use agents to help them get their
+  games signed up to publishers and deals are typically based on a
+  percentage of gross revenue and 10% is a typical value.
 
 #### Studio Costs
 
 Secondly, the studio itself costs money to run if you're making 20 games
 or even if you're not making any games at all!
 
--   **Office space** - the space itself costs money to rent, plus
-    there's local taxes, insurance and all sorts of maintenance you'll
-    be needing
--   **Utilities -** internet, electric, water and the air-con for your
-    server room need to keep on being delivered for you to keep going
--   **Equipment -** desks, chairs, servers, shelves, whiteboards,
--   **Management -** larger studios have people who don't actually make
-    the games on the front line but are still there and for corporations
-    these include people you'll probably never see including CEOs,
-    Studio Managers, Production, IT, Office Admin, Finance, Marketing,
-    etc.
--   **Sales** - The studio needs to sell both itself and it's games with
-    personal visits, trade show attendance and maybe adverts in trade
-    magazines for recruitment.
--   **Events** – Does your studio have events to celebrate key
-    milestones being passed? Summer Events? Christmas Parties?
--   **Legal & Finance** - Maybe you need to use accountants to run
-    through your figures or audit your returns? Business contracts need
-    a valid legal pass over them that usually involves engaging a
-    specialised lawyer. If you're working on long international
-    contracts then maybe you need to dabble in Forward Exchange rates?
--   **Miscellaneous** - There's a myriad of small costs such as postage,
-    blackberry fees, free fruit, etc.
+- **Office space** - the space itself costs money to rent, plus
+  there's local taxes, insurance and all sorts of maintenance you'll
+  be needing
+- **Utilities -** internet, electric, water and the air-con for your
+  server room need to keep on being delivered for you to keep going
+- **Equipment -** desks, chairs, servers, shelves, whiteboards,
+- **Management -** larger studios have people who don't actually make
+  the games on the front line but are still there and for corporations
+  these include people you'll probably never see including CEOs,
+  Studio Managers, Production, IT, Office Admin, Finance, Marketing,
+  etc.
+- **Sales** - The studio needs to sell both itself and it's games with
+  personal visits, trade show attendance and maybe adverts in trade
+  magazines for recruitment.
+- **Events** – Does your studio have events to celebrate key
+  milestones being passed? Summer Events? Christmas Parties?
+- **Legal & Finance** - Maybe you need to use accountants to run
+  through your figures or audit your returns? Business contracts need
+  a valid legal pass over them that usually involves engaging a
+  specialised lawyer. If you're working on long international
+  contracts then maybe you need to dabble in Forward Exchange rates?
+- **Miscellaneous** - There's a myriad of small costs such as postage,
+  blackberry fees, free fruit, etc.
 
 #### Tick All That Apply
 
@@ -267,28 +263,30 @@ payment is received** and for those paying attention this is **after
 your next monthly salary run.** Even in an idealistic world, this causes
 strains on the businesses cash flow.
 
-  ---------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Days**   **Event**
+---
 
-  -30        **Milestone 1 work in progress** for 30 calendar days
+**Days** **Event**
 
-  0          **MS 1 Submitted** on this date starting a chain  of events
+-30 **Milestone 1 work in progress** for 30 calendar days
 
-  15         **MS 1 approved**, purchase<span style="vertical-align: baseline;
+0 **MS 1 Submitted** on this date starting a chain  of events
+
+15 **MS 1 approved**, purchase<span style="vertical-align: baseline;
 language: en-gb; mso-ascii-font-family: constantia; mso-color-index: 13; mso-font-kerning: 12.0pt; mso-text-raise: 0%;"> order raised & invoiced</span>
 
-  30         MS 2 Submitted
+30 MS 2 Submitted
 
-  45         **MS 1 Revenue <span style="vertical-align: baseline;
+45 **MS 1 Revenue <span style="vertical-align: baseline;
 language: en-gb; mso-ascii-font-family: constantia; mso-color-index: 13; mso-font-kerning: 12.0pt; mso-text-raise: 0%;">received</span>**
-             <span style="vertical-align: baseline;
+<span style="vertical-align: baseline;
 language: en-gb; mso-ascii-font-family: constantia; mso-color-index: 13; mso-font-kerning: 12.0pt; mso-text-raise: 0%;">MS 2 Approved</span>
 
-  60         MS 3 Submitted
+60 MS 3 Submitted
 
-  75         MS 2 Revenue received
-             MS 3 Approved
-  ---------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+75 MS 2 Revenue received
+MS 3 Approved
+
+---
 
 #### Delayed Revenue
 
@@ -302,12 +300,14 @@ month on a business that's expecting consistent monthly revenue.
 Here's what this example should look like where the money is received
 consistently, no slips, no delays and everything is perfect.
 
-  ------------ ------------- ------------- ------------- -------------
-  Revenue
-  Costs
-  Net Profit
-  Acc Profit
-  ------------ ------------- ------------- ------------- -------------
+---
+
+Revenue
+Costs
+Net Profit
+Acc Profit
+
+---
 
 Now lets take this and delay 1 of the payments by 1 month and we can see
 the dramatic effect this has on the business as it's forced to support
@@ -319,12 +319,14 @@ the studio **incurring more costs with no more revenue coming in**, just
 the figure that was promised. If the studio doesn't have enough cash in
 the bank then this could be fatal.
 
-  ------------- ------------- -------------------------------------------------- ------------- -------------
-  Revenue
-  Costs
-  Net Profit
-  Acc. Profit
-  ------------- ------------- -------------------------------------------------- ------------- -------------
+---
+
+Revenue
+Costs
+Net Profit
+Acc. Profit
+
+---
 
 #### Increased Costs
 
@@ -337,12 +339,14 @@ curtains for the project and it could be for the studio.
 This can happen when the team size increased to cope with late delivery
 or scope increases without a corresponding increase in the revenues.
 
-  ------------- ------------- ------------- ------------- -------------
-  Revenue
-  Costs
-  Net Profit
-  Acc. Profit
-  ------------- ------------- ------------- ------------- -------------
+---
+
+Revenue
+Costs
+Net Profit
+Acc. Profit
+
+---
 
 **Forward Planning**
 

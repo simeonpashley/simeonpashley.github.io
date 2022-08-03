@@ -1,16 +1,12 @@
 ---
-
-
 title: Opinion - Video Game Developer Graduate Training is Poor
 date: 2010-04-01 09:31:53
 
 tags: ["career", "training"]
 
-type: post
-
-
 description: I believe that the graduates in UK universities need help or game development is going to be devoid of any well trained new talent.
 ---
+
 I'm typically passionate about making sure our beloved games industry is
 well stocked with talented, passionate individuals and we're not going
 to get them by just sitting back and waiting.
@@ -77,7 +73,7 @@ peoples lives.
 </div>
 
 [![](/assets/logo_train2game.gif "logo_train2game")](http://www.train2game.com/)
- Train2Game - The group striving to support graduates - **External
+Train2Game - The group striving to support graduates - **External
 Link**
 
 <div style="clear:both;">

@@ -1,8 +1,5 @@
 
-    
 <!DOCTYPE html>
-
-
 
 <!-- HEADER -->
 <html>
@@ -17,7 +14,6 @@
 	<body>
 
 <!-- /HEADER -->
-
 
         <div id="positionHome">
             <section>
@@ -43,7 +39,6 @@
             </section>
             <div id="errorBorder"></div>
 
-        
 <!-- FOOTER -->
             <footer>
             <div id="footerHome">

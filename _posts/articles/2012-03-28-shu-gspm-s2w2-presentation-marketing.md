@@ -1,8 +1,6 @@
 ---
 title: Traditional Game Marketing
 date: 2012-03-28 10:22:47
-
-type: post
 ---
 
 Below is a link to the presentation I gave at _Sheffield Hallam

@@ -1,14 +1,8 @@
 ---
-
-
 title: Live Customer Support, chat and monitoring of your website visitors
 date: 2011-05-12 15:24:59
-
-
-
-type: post
-
 ---
+
 <div style="float: right;
 margin: 0 0 10px 10px;">
 
@@ -29,25 +23,23 @@ padding: 5px;width:250px;font-size:1.2em;
 color:black;text-align:center;">
 
 Add Live Chat/Support to your website TODAY for ~~£100~~ **only £50**!
-  
- [Contact Us](/contact) to get started straight away.
+
+[Contact Us](/contact) to get started straight away.
 
 </div>
 
 **UPDATE:** Our clients with a small number of visitors are using this tool to chat to all of their customers while they're in a buying mood.
 
-Understand who’s on your site, make your customers love you, and earn more money.
----------------------------------------------------------------------------------
+## Understand who’s on your site, make your customers love you, and earn more money.
 
--   Want to know who's on your website RIGHT NOW?
--   Want to catch your customers before they abandon their basket?
+- Want to know who's on your website RIGHT NOW?
+- Want to catch your customers before they abandon their basket?
 
 Chat to your customers live while they're on your website and help them
 find what they're looking for with a great online support tool like
 [Olark](http://www.olark.com/?r=tcg0p7ld "Olark live chat").
 
-Integration is easy
--------------------
+## Integration is easy
 
 We recently integrated this into our own website and were so impressed
 with the results that we began to encourage our existing clients to take
@@ -59,16 +51,15 @@ our desktop client - Pidgin for Windows or Adium for Mac.
 Once installed, your website visitors appear as chat clients right
 inside your desktop chat client along with basic information about that
 particular user.
- ![live customer
+![live customer
 support](/assets/buddy-list-300x121.png "live customer support")
- On the website, they see that you're 'live' and they can choose to chat
+On the website, they see that you're 'live' and they can choose to chat
 with you if they need help and you can also choose to start chatting to
 them.
 
 ![Realtime Chat](/assets/visitor.png "Realtime Chat")
 
-IMMEDIATE benefits
-------------------
+## IMMEDIATE benefits
 
 Since installing it, we've been able to catch multiple customers before
 they walked away and we've genuinely got business we wouldn't have had,
@@ -95,30 +86,29 @@ margin: 0 10px 10px 0;">
 So far, we've enhanced this
 with:
 
--   **known user names** - find out who's registered and who hasn't
--   **current basket value** - focus on the customers who have a large
-    amount of value in their basket
--   **page priority** - catch users who are on your Contact or Checkout
-    pages
+- **known user names** - find out who's registered and who hasn't
+- **current basket value** - focus on the customers who have a large
+  amount of value in their basket
+- **page priority** - catch users who are on your Contact or Checkout
+  pages
 
 ### Comprehensive Features {style="clear:both;"}
 
 The realtime chat and customer support software is great whether you're
 on your own or if you have a team of support people.
- ![](/assets/team-300x121.png "team")
+![](/assets/team-300x121.png "team")
 
 The software also generates lots of useful information about your online
 chats and visitors, as well as pushing more data out to Google Analytics
 so you can really drill down into the detail.
- ![](/assets/reports-300x121.png "reports")
+![](/assets/reports-300x121.png "reports")
 
-Want Real-Time Chat on your website?
-------------------------------------
+## Want Real-Time Chat on your website?
 
 We can help you setup your website and desktop client to enable you to
 catch real-time visitors on your website and improve your chance of
 converting those visitors into customers. [Contact us to find out
 how](/contact)
- I can honestly say that we are genuinely impressed with Olark Live
+I can honestly say that we are genuinely impressed with Olark Live
 Customer Support and so our customers, especially as it brought them
 real orders within hours of being installed.

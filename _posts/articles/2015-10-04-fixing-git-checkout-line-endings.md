@@ -1,9 +1,5 @@
 ---
-
 title: Fixing Git checkout line endings
-
-
-
 
 date: 2015-10-04 18:36:45
 ---

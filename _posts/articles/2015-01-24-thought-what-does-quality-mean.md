@@ -1,15 +1,8 @@
 ---
-
-
 title: Thought - What does Quality mean?
 date: 2015-01-24 06:30:53
-
-
-
-type: post
-
-
 ---
+
 Without looking it up, what does quality mean to you in terms of how you
 feel about a game or service? On it’s own it almost has no meaning, it
 needs to be preceded by something like “low” or “high” for it to make

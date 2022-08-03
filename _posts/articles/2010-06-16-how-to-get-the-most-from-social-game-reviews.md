@@ -1,15 +1,12 @@
 ---
-
-
 title: How To Get The Most From Social Game Reviews
 date: 2010-06-16 20:04:54
 
 tags: ["business", "marketing"]
 
-type: post
-
 description: How To Get The Most From Social Game Reviews
 ---
+
 In the second part of the series on **Leveraging Social Media To
 Maximise Your Game Sales**, I'll expand on the [previous
 article](/2010/06/leveraging-social-media.html) and cover the topic of
@@ -75,6 +72,7 @@ elsewhere, there aren't many other places where people who bought it,
 review it.
 
 ####
+
 Bonus: Cultural Game Expectations
 
 It's really hard to get a true feeling from pro reviews as they're all
@@ -149,12 +147,13 @@ killer".
 
 On the iPad / iPhone it also has an inherent flaw in when people are
 encouraged to give feedback.
- An example:![](/assets/iPhone-Rating.png "iPhone Rating")
- 1. I buy the game on my iPhone (no ratings system)
- 2. I play the game on my iPhone
- 3. I've finished with it / bored of it / need the space, so I remove
-it.
- 4. I'm prompted to rate the app/game out of 5
+An example:![](/assets/iPhone-Rating.png "iPhone Rating")
+
+1.  I buy the game on my iPhone (no ratings system)
+2.  I play the game on my iPhone
+3.  I've finished with it / bored of it / need the space, so I remove
+    it.
+4.  I'm prompted to rate the app/game out of 5
 
 There's the rub, I'm at the point where my relationship with the game
 has ended and I'm moving on and that's the only time I get to give

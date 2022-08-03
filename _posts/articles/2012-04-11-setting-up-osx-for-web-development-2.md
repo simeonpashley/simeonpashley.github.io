@@ -3,8 +3,6 @@
 title: Setting up OSX for Web Development
 date: 2012-04-11 16:57:46
 
-type: post
-
 ---_(I will be maintaining this Post with my current setup steps as time
 moves on)_
 

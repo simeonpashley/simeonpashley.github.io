@@ -1,14 +1,8 @@
 ---
-
-
 title: Blog - Game Development Social Media Partnership
 date: 2010-07-03 16:40:15
-
-
-
-type: post
-
 ---
+
 ### Fellow Game Development bloggers
 
 We all know that after writing a great post and hitting the publish
@@ -43,7 +37,7 @@ know.
 Joining the group is easy with your Google ID and posting on the group
 is as easy as writing an email. You are, of course, completely at
 liberty to vote for the articles you ?consider good enough.
- Remember, this isn’t confined to designers or developers, any blogger
+Remember, this isn’t confined to designers or developers, any blogger
 who wishes to promote their latest masterpieces can [join the
 group](http://groups.google.com/group/game-development-social-media-partnership/subscribe).
 

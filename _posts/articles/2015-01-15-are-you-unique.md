@@ -1,14 +1,10 @@
 ---
-
-
 title: Are you and your game unique?
 date: 2015-01-15 06:31:36
 
 tags: ["business", "career"]
-
-type: post
-
 ---
+
 In a world of seemingly infinite choice of games and staff, how do you
 stand out? How can you differentiate your offering so that everyone
 wants it? How can you make it easier for people to find your needle in a

@@ -1,15 +1,12 @@
 ---
-
-
 title: Are you good enough to make 3D games?
 date: 2010-07-12 11:45:37
 
 tags: ["business", "career"]
 
-type: post
-
 description: Making 3D games requires a top-flight design, code and art team. Do you have what it takes?
 ---
+
 If you're going to be looking to make 3D games, you're going to need the
 best programmers you can find, or strip your artwork down to nothing.
 
@@ -21,7 +18,7 @@ they have 1/2 your frame rate as you're now rendering twice as much as
 you were before. (This is a gross assumption based on the fact that
 you're render bound)
 
- Those beautiful silky games that did run at 60fps, drop a frame and
+Those beautiful silky games that did run at 60fps, drop a frame and
 you're now run at 30fps tops (2 frames at 60fps). There is no 50fps or
 40fps, it's straight down to 30fps. The next jump down is 20fps (3
 frames at 60 fps) and it goes on from there but in less damaging leaps.
@@ -54,5 +51,5 @@ takes talent and expertise to make 3D game sing.
 
 [Housemarque - SuperStardust HD at
 120fps](http://blog.eu.playstation.com/2010/06/10/super-stardust-hd-3d-story/)
- [The inspiring
+[The inspiring
 post](http://au.playstation.com/home/news/articles/detail/item285381/Talking-games-with-Shuhei-Yoshida/)

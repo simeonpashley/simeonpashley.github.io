@@ -1,14 +1,8 @@
 ---
-
-
 title: Practical Ways to Improve Website Readability
 date: 2010-10-26 14:08:13
-
-
-
-type: post
-
 ---
+
 A readable website will encourage your viewers to remain on your website
 longer and investigate your content further. Perhaps they will even come
 back and maybe share your website with their friends. The alternative,
@@ -62,5 +56,3 @@ font and bold or italic fonts.
 Creating a website with better readability is a gift to your viewers and
 a smart business move. Take a little bit of time to make sure that your
 site is readable and you will see much better results with your website.
-
- 

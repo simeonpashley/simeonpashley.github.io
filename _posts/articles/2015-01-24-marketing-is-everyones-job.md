@@ -1,20 +1,13 @@
 ---
-
-
 title: Marketing your video game is everyone's job
 date: 2015-01-24 21:30:09
 
 tags: ["business", "development"]
-
-type: post
-
-
 ---
+
 In a world of freelancers, contractors and small, tight development
 communities. Everyone is on the public face of their business and
 reputation.
-
-
 
 <div>
 

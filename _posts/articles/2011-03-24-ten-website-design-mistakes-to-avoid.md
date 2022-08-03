@@ -1,12 +1,8 @@
 ---
-
-
 title: Ten Website Design Mistakes to Avoid
 date: 2011-03-24 21:30:34
-
-type: post
-
 ---
+
 As the economy took a downturn and fuel prices soar, more people are
 turning to spending money online. But, with millions of sites competing
 for every customer, competition is tough, to say the least. To
@@ -22,27 +18,26 @@ the first --and best --destination for your products and services will
 be much easier if you follow these key
 points:
 
--   Using Design Templates
--   Dull, Drab Colors and Words
--   Too Many Words
--   Confusing Menus
--   Inaccessibility; Poor Navigation
--   Lack of Professional Appearance
--   Hard to Read, Frustrating Fonts
--   Only One Purchase Option
--   Neglecting Upkeep & Site Maintenance
--   Annoying Ads, Pop-Up and Otherwise
+- Using Design Templates
+- Dull, Drab Colors and Words
+- Too Many Words
+- Confusing Menus
+- Inaccessibility; Poor Navigation
+- Lack of Professional Appearance
+- Hard to Read, Frustrating Fonts
+- Only One Purchase Option
+- Neglecting Upkeep & Site Maintenance
+- Annoying Ads, Pop-Up and Otherwise
 
 Looking over this list, you’ll notice all of these points fall under
 three main points vital to your business website design
 success:
 
--   Presentation
--   Precision
--   Prioritisation
+- Presentation
+- Precision
+- Prioritisation
 
-Presentation
-------------
+## Presentation
 
 The main goal of any profitable business website is to attract potential
 customers and convert them into paying customers.  Thus, presentation is
@@ -51,8 +46,7 @@ losing them to your competitors. It’s that simple. The best business
 websites combine great design with the features customers want most, to
 get their attention, draw them in closer and open their wallets.
 
-Precision
----------
+## Precision
 
 Have you ever landed on a site where the home page has ten paragraphs of
 detailed information in a teensy-tiny font you can barely see? How long
@@ -68,8 +62,7 @@ Uncover your customer’s real needs so you can precisely address those
 needs via the design and features of your business website. That’s a
 sure path to success.
 
-Prioritisation
---------------
+## Prioritisation
 
 Finally, no business is successful without prioritization.  For example,
 the needs of a customer should come first.  When a question or problem
@@ -92,5 +85,3 @@ functional business website customers will love, and to avoid theses
 common mistakes and others, knock the socks off your competition with a
 cutting-edge, highly interactive website design from Ring Alpha Web
 Design.
-
- 

@@ -6,8 +6,7 @@
    Breakpoint-Sass
    ========================================================================== */
 
-@include breakpoint-set('to ems', true);
-
+@include breakpoint-set("to ems", true);
 
 /*
    Typography
@@ -38,7 +37,12 @@ body {
   }
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   line-height: 1.25;
 }
 
@@ -61,7 +65,15 @@ del a {
 }
 
 /* reduce orphans and widows when printing */
-p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
+p,
+pre,
+blockquote,
+ul,
+ol,
+dl,
+figure,
+table,
+fieldset {
   orphans: 3;
   widows: 3;
 }
@@ -117,12 +129,13 @@ a {
 
 /* Lists */
 
-ol, ul {
-
+ol,
+ul {
   @include breakpoint($small) {
     padding-left: 1em;
 
-    ol, ul {
+    ol,
+    ul {
       padding: 0.5em 1em;
     }
   }
@@ -148,7 +161,8 @@ figcaption code {
   border: 1px solid $light-gray;
   border-radius: $border-radius;
 
-  &:before, &:after {
+  &:before,
+  &:after {
     letter-spacing: -0.2em;
     content: "\00a0"; // non-breaking space
   }
@@ -193,18 +207,15 @@ figure {
 
     /* image hover animation */
     &:hover {
-
       img {
-        box-shadow: 0 0 10px rgba($black, 0.20);
+        box-shadow: 0 0 10px rgba($black, 0.2);
       }
     }
   }
 
   &.half {
-
     > a,
     > img {
-
       @include breakpoint($small) {
         width: calc(50% - 0.5em);
       }
@@ -216,10 +227,8 @@ figure {
   }
 
   &.third {
-
     > a,
     > img {
-
       @include breakpoint($small) {
         width: calc(33.3333% - 0.5em);
       }
@@ -256,13 +265,11 @@ figcaption {
   }
 }
 
-
 /* Fix IE9 SVG bug */
 
 svg:not(:root) {
   overflow: hidden;
 }
-
 
 /*
    Navigation lists
@@ -282,7 +289,6 @@ svg:not(:root) {
  */
 
 nav {
-
   ul {
     margin: 0;
     padding: 0;
@@ -301,6 +307,30 @@ nav {
    Global animation transition
    ========================================================================== */
 
-b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item, .archive__item-thumb, .archive__item-body, .palette__swatch {
+b,
+i,
+strong,
+em,
+blockquote,
+p,
+q,
+span,
+figure,
+img,
+h1,
+h2,
+header,
+input,
+a,
+tr,
+td,
+form button,
+input[type="submit"],
+.btn,
+.highlight,
+.archive__item,
+.archive__item-thumb,
+.archive__item-body,
+.palette__swatch {
   transition: all 0.2s ease-in-out;
 }

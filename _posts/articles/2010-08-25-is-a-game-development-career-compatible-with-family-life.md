@@ -1,12 +1,9 @@
 ---
 
-
 title: Is a game development career compatible with family life?
 date: 2010-08-25 13:50:18
 
 tags: ["career"]
-
-type: post
 
 description: "What compromises have you made to balance your career and family?\\r\\n"---
 I've been following the thread over on Luke's blog entitled ['Goodbye,

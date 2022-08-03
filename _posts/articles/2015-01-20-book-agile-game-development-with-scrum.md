@@ -1,13 +1,10 @@
 ---
-
-
 title: Book - Agile Game Development with SCRUM
 date: 2015-01-20 11:20:32
 
 tags: ["read me"]
-type: post
-
 ---
+
 I recently connected with long time promotion and pioneer of Agile game
 development, Clinton Keith.
 

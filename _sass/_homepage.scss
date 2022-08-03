@@ -8,7 +8,6 @@
 
   /* hover state */
   &:hover {
-
     .homepage__item-title,
     .homepage__item-excerpt {
       color: #000;
@@ -51,7 +50,6 @@
 }
 
 .homepage__item-time {
-
   &:before {
     content: "";
     padding-left: 0.45em;
@@ -90,21 +88,21 @@
   }
 }
 
-
 .homepage__item-more {
   display: flex;
   justify-content: flex-end;
   padding-top: 1.5em;
   margin-right: 1em;
   .read-more {
-      position: relative;
-      padding-right: 2.5rem;
-      i {
-          position: absolute;
-          right: 0.5rem;
-          top: 50%;
-          transform: translateY(-54%);
-          font-size: 2rem;
-          line-height: 100%;
-      }
-  }}
+    position: relative;
+    padding-right: 2.5rem;
+    i {
+      position: absolute;
+      right: 0.5rem;
+      top: 50%;
+      transform: translateY(-54%);
+      font-size: 2rem;
+      line-height: 100%;
+    }
+  }
+}

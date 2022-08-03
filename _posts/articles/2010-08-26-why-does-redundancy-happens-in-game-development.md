@@ -1,15 +1,12 @@
 ---
-
-
 title: Why Does Redundancy Always Happen In Game Development?
 date: 2010-08-26 12:16:28
 
 tags: ["business", "career"]
 
-type: post
-
 description: Redundancies are a natural consequence for an independent studio when they finish a project. What happens when the project ships? What do all of these people do? As much as we’d like to believe that 100% of the team have meaningful work, it’s not going to be the case.
 ---
+
 It’s worth understanding why redundancies are a natural consequence for
 an independent studio when they finish a project.
 
@@ -21,7 +18,7 @@ quality.
 So, what happens when the project ships? What do all of these people do?
 As much as we’d like to believe that 100% of the team have meaningful
 work, it’s not going to be the case.
- With the best will in the world a studio will plan follow-on revenue
+With the best will in the world a studio will plan follow-on revenue
 generating work but it’s incredibly rare that this work magically
 dove-tails into utilising 100% of the available team, or even a
 reasonable chunk of the team. Support work, patching and concepting
@@ -35,7 +32,7 @@ pay the wages but this money stops at the point of delivery. Some games
 are developed against an advance for royalties that usually means the
 game was developed for almost no profit on the basis of a big upside
 should the royalties kick in.
- Publishers are generally not interested in paying for your team to idle
+Publishers are generally not interested in paying for your team to idle
 around between projects, they want to pay for the work only and even
 then it needs to be competitively priced.
 
@@ -95,6 +92,6 @@ completely failing.
 
 **As a business owner**, think about this when you're starting out as it
 can make a real difference to the viability of your business.
- **As a developer**, look at the business you're working in for the
+**As a developer**, look at the business you're working in for the
 signs of whether or not your likely to be around when the project
 finishes.

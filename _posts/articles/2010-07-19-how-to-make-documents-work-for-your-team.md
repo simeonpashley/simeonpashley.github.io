@@ -1,15 +1,12 @@
 ---
-
-
 title: How To Make Documents Work For Your Team
 date: 2010-07-19 17:12:08
 
 tags: ["production"]
 
-type: post
-
 description: All video game development need documents and here are some tips to ensure your documents are read, acted on and kept up-to-date.
 ---
+
 All video game production projects need documents, whether it’s a four
 page description for an iPhone game, Xbox Live Indie Game, Flash game or
 a 65-doc library for a AAA multi-million selling game on PS3, X360 and
@@ -49,7 +46,7 @@ six
 months: let them turn straight to a 'Sound' section with 'UI
 Sounds', 'UI Music', 'In-Game Sound Effects', 'In-Game Music' and so on
 all laid out as they'd expect.
- Nobody's creativity's being stifled by keeping the same structure (and
+Nobody's creativity's being stifled by keeping the same structure (and
 of course the template can be tweaked and improved as time goes on) and
 just having that template there is a great way to avoid designers (and
 producers) overlooking things. It's also a massive help to designers
@@ -112,7 +109,7 @@ It's better to be clear. If in doubt, state it. Don't write lazily. This
 is
 lazy:
 
-*All rhinos can be ridden by players of level 14 or above.*
+_All rhinos can be ridden by players of level 14 or above._
 
 Hold up. Does that means that all rhinos are rideable, and all rhino
 riding requires players to be level 14 or above? Or does it mean that
@@ -120,8 +117,8 @@ level 14 players have their choice of all rhinos in the game to ride,
 but level 13 players can ride some of them? Let's try it
 again:
 
-*All rhinos in the game can be ridden. Riding a rhino requires the
-player to be at level 14 or above.*
+_All rhinos in the game can be ridden. Riding a rhino requires the
+player to be at level 14 or above._
 
 ### English
 
@@ -169,10 +166,10 @@ they've already gleaned all they need to. Here's what I
 mean:
 
 UI: New PS3 hardware requirements - added 'Move Disconnected' message
-(*link*)
+(_link_)
 
 Sound
-Effects: New 3D ambient effects added - MORE DETAIL SEE (*link*)
+Effects: New 3D ambient effects added - MORE DETAIL SEE (_link_)
 
 ### Version Control
 
@@ -181,7 +178,7 @@ start where you list everything that's changed in the latest version.
 Yes, this will get long. If you're doing the update email as described
 above, you can cut and paste the same text and
 control section into an email, save the doc and check in, send the email
-and everything's done. 
+and everything's done.
 
 ### Reference
 

@@ -1,14 +1,10 @@
 ---
-
-
 title: 5 of my favourite Game Development Twitter Feeds list
 date: 2015-01-17 23:49:34
 
 tags: ["read me"]
-type: post
-
-
 ---
+
 <div style="float: left;
 padding: 5px;">
 

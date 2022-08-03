@@ -1,15 +1,12 @@
 ---
-
-
 title: Can I Help You?
 date: 2010-08-10 20:01:28
 
 tags: ["business", "indie games"]
 
-type: post
-
 description: I can help you make a better game by providing feedback on your design or work-in-progress game.
 ---
+
 I am frequently contacted by video game developers asking me for help in
 a couple of areas, some just want some feedback, some are asking me for
 financial investment to make their game a reality.
@@ -20,7 +17,7 @@ your work?
 I'm currently looking for 1 other developer to mentor and devote some
 real attention to, should this be you?
 
- I'm happy to say that in many cases I provide assistance and make a
+I'm happy to say that in many cases I provide assistance and make a
 difference with their games and help re-direct them towards a more
 prosperous future by providing them with not only advice on the games
 themselves but also how to make them, what potential opportunities they
@@ -54,7 +51,7 @@ relationship is typically rewarding for both parties.
 
 And sometimes, things are succesful despite everything telling you the
 contrary.
- ![](/assets/jedward-fail1.JPG "Jedward")
+![](/assets/jedward-fail1.JPG "Jedward")
 
 #### Critique?
 

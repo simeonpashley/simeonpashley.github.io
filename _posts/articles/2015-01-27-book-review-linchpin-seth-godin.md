@@ -1,20 +1,18 @@
 ---
-
-
 title: Book Review - Linchpin, Seth Godin
 date: 2015-01-27 20:01:51
 
 tags: ["read me"]
-type: post
 
 description: Seth Godin always inspires with his thought provoking writing and this book is now exception.
 ---
+
 [![](/assets/LinchPin+Cover.jpg)](http://www.amazon.co.uk/gp/product/0749953357?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0749953357)
 
 I recently finished Seth Godin's recent book entitled "Linchpin: Are You
 Indispensable? How to Drive Your Career and Create a Remarkable Future"
 
-"*Why are some people easily outsourced, downsized, or freelanced into
+"_Why are some people easily outsourced, downsized, or freelanced into
 obscurity, while others have their pick of opportunities? In his most
 powerful book yet, Seth Godin argues that it's more essential than ever
 to become indispensable - to become a linchpin. Linchpins are the
@@ -28,7 +26,7 @@ being indispensable is overcoming the fears that hold most of us back.
 If you have you ever found a shortcut that others missed, seen a new way
 to resolve a conflict, or made a connection with someone others couldn't
 reach, then you have what it takes to become indispensable. It's time to
-stop complying with the system and draw your own map.*"
+stop complying with the system and draw your own map._"
 
 Here's what I thought...
 
@@ -68,9 +66,8 @@ then I'll continue to read Seth's blog to fill the gap.
 
 Read this, and The Dip and Tribes and you'll be spouting Godinisms!
 
-  ------------------------ ------------------------ ------------------------
+---
 
-  ------------------------ ------------------------ ------------------------
-
+---
 
 ![](/assets/ir?t=gamedevelcons-21&l=as2&o=2&a=0749953357)

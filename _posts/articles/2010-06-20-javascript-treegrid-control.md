@@ -1,12 +1,7 @@
 ---
 
-
 title: Javascript TreeGrid control
 date: 2010-06-20 14:39:24
-
-
-
-type: post
 
 ---**JavaScript TreeGrid control** aimed to organize and edit information
 in grid, tree, or treegrid modes.-[Link](http://www.maxtreegrid.com/).
@@ -38,14 +33,14 @@ using email attachments, PPTs and PDFs here is a fresh new way –
 [Link](http://www.theclientspace.com/design-slideshow?v1).
 
 jQuery news ticker – liScroll – liScroll is a jQuery plugin that
-transforms any given unordered list into a *scrolling News Ticker*
+transforms any given unordered list into a _scrolling News Ticker_
 [Link](http://www.gcmingati.net/wordpress/wp-content/lab/jquery/newsticker/jq-liscroll/scrollanimate.html).
 
 Be a CSS Team
 Player: CSS Best Practices for Team-Based Development
 
 By Emily P. Lewis.
- “How many times have you picked up a project that someone else started,
+“How many times have you picked up a project that someone else started,
 only to discover that the creator’s original code is a mess?
 
 Or you work with several team members, each of whom has their own

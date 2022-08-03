@@ -4,8 +4,6 @@ date: 2010-07-16 11:44:14
 
 tags: ["production"]
 
-type: post
-
 description: In the upcoming series I'll cover everything you need to know about Video Game Production. The whole story including a happy ending.
 ---
 

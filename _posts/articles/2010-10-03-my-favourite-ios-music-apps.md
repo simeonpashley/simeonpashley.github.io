@@ -1,14 +1,10 @@
 ---
-
-
 title: My Favourite iOS Music Apps
 date: 2010-10-03 12:01:41
 
 tags: ["iphone", "music"]
-
-type: post
-
 ---
+
 I've spent a little while this week whiling away the hours with a couple
 of music related apps for iPhone / iPad I'd recommend you check-out.
 Perfect for a Sunday morning.
@@ -54,8 +50,8 @@ Get your self some old skool tunes!
 > to listen to computers and consoles music (C64, Amstrad CPC, Atari ST,
 > Amiga, PC, GB, NES, SNES, SMS, Genesis/Megadrive, PcEngine, PSX,
 > ...).
->  Minimum requirement is iPhone 3G/iPod 2G, iOS 3.0 or more.
->  Modizer is also optimized for iPad & iPhone 4.
+> Minimum requirement is iPhone 3G/iPod 2G, iOS 3.0 or more.
+> Modizer is also optimized for iPad & iPhone 4.
 >
 > Based on multiple high quality playback engines and using either the
 > FTP server, the builtin WEB browser or the integrated Modland & HVSC
@@ -68,6 +64,7 @@ Get your self some old skool tunes!
 
 [![Modizer](/assets/badge_appstore-lrg.gif) Modizer for
 **iPhone**](http://clkuk.tradedoubler.com/click?p=23708&a=1829861&url=http%3A%2F%2Fitunes.apple.com%2Fgb%2Fapp%2Fmodizer%2Fid393964792%3Fmt%3D8%26uo%3D4%26partnerId%3D2003)
- [![Modizer](/assets/badge_appstore-lrg.gif)Modizer for
+[![Modizer](/assets/badge_appstore-lrg.gif)Modizer for
 **iPad**](http://clkuk.tradedoubler.com/click?p=23708&a=1829861&url=http%3A%2F%2Fitunes.apple.com%2Fgb%2Fapp%2Fmodizer%2Fid393964792%3Fmt%3D8%26uo%3D4%26partnerId%3D2003)
- ****
+
+---

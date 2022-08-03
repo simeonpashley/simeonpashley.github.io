@@ -1,14 +1,8 @@
 ---
-
-
 title: 4 of the Best Spam Filters for WordPress
 date: 2010-10-11 14:09:09
-
-
-
-type: post
-
 ---
+
 When a blog receives lots of comments, it is a sign that the blog is a
 popular one among visitors. On the flip side, a blog with spam comments
 looks unprofessional. You can either spend your days deleting all of the

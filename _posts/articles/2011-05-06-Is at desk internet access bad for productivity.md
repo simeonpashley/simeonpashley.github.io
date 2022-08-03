@@ -1,8 +1,8 @@
 ---
 title: Is at desk internet access bad for productivity?
 date: 2011-05-06 22:46:31
-type: post
 ---
+
 I know a few development companies that do not have internet access at
 the staff’s desk. Internet access is restricted to separate systems that
 are shared between multiple people and are in public areas so people can

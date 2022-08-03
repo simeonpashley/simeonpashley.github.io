@@ -1,7 +1,6 @@
 ---
 title: Do you connect with your video game audience?
 date: 2015-01-19 19:07:50
-type: post
 ---
 
 The relationship between games and their audience has changed over the

@@ -1,15 +1,10 @@
 ---
-
-
 title: Thought - How do you prefer to communicate?
 date: 2015-01-21 18:33:23
 
 tags: ["communication"]
-
-type: post
-
-
 ---
+
 There are many ways to communicate with people, what’s your preference?
 
 I have to admit that I find telephone conversations the hardest, they

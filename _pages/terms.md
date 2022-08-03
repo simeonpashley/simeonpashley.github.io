@@ -5,7 +5,6 @@ date: 2014-06-22
 modified: 2016-07-11T16:02:42-05:00
 excerpt: "Terms & conditions, privacy policy, license, and other legal stuff."
 share: false
-author: false
 ---
 
 Your use of this website, in any and all forms, constitutes an acceptance of these terms and policies. This page is reviewed and revised from time to time.
@@ -20,18 +19,17 @@ All content provided is for informational purposes only. The articles and posts 
 
 The owner of this blog does not share personal information with third-parties nor does the owner store information collected about your visit for use other than to analyse content performance. The owner is not responsible for the republishing of the content found on this blog on other Web sites or media without permission.
 
-
 ### Log Files
 
 Like many other websites, {{ site.shortname }} uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
-{:.fl}
+- Internet Protocol addresses (IP)
+- Types of browser
+- Internet Service Provider (ISP)
+- Date and time stamp
+- Referring and exit pages
+- Number of clicks
+  {:.fl}
 
 All of this information is not linked to anything that is personally identifiable.
 
@@ -69,16 +67,15 @@ All content provided on this blog is for informational purposes only. The owner 
 
 This policy is subject to change at anytime.
 
-
 ## Disclosure Policy
 
 This site uses affiliate programs such as Amazon and Google Ads. If you click an affiliate link you help support this site as the owner will get a percentage of that sale.
 
 What this means for you:
 
-* I became an affiliate to earn revenue towards the costs of running and maintaining this website. Where I have direct control over which ads are served on this website I offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
-* I write genuine and objective opinions and advice.
-{:.fl}
+- I became an affiliate to earn revenue towards the costs of running and maintaining this website. Where I have direct control over which ads are served on this website I offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
+- I write genuine and objective opinions and advice.
+  {:.fl}
 
 ## License
 
@@ -88,4 +85,4 @@ All original content (e.g. articles, posts, pages and images) available on {{ si
 
 I would greatly appreciate it if you give credit for any content you re-use, a link back to the source article attributed to either [{{ site.title }}]({{ site.url }}) is good enough for me. I
 
-*Last updated: {{ page.modified | date: "%d %B %Y" }}*
+_Last updated: {{ page.modified | date: "%d %B %Y" }}_

@@ -5,13 +5,11 @@ date: 2014-06-01
 modified: 2016-02-11
 ads: false
 share: false
-author: false
 ---
 
 ## About the Site
 
 I initially registered the domain `pashley.org` back in 2002 to enable me to setup a friendly email domain for my family and also provide a nice domain for my personal web precense.
-
 
 Calling this site a "blog" is probably generous as it's more like a random collection of my thoughts that I want to keep online and share, sometimes connected, often rare. I go through fits & starts of writing so you'll probably see huge gaps in time.
 
@@ -19,7 +17,7 @@ I've had various random sites since the mid-1990s on [tripod.com](http://tripod.
 
 ## Contact
 
-Have more questions? 
+Have more questions?
 
 <div markdown="0"><a href="/contact/" class="btn"><svg class="icon"><use xlink:href="#icon-comments"></use></svg> Message Me</a></div>
 
@@ -33,4 +31,4 @@ If you've found any of them useful and want to thank me, here's a few ways you c
 
 [^affiliate]: Anything I link to on Amazon may be done with [affiliate URLs](/terms/).
 
-*[CMS]: Content Management System
+\*[CMS]: Content Management System

@@ -1,14 +1,8 @@
 ---
-
-
 title: Get my business on Google Maps
 date: 2011-05-04 12:18:27
-
-
-
-type: post
-
 ---
+
 Getting **your business on Google Maps** (aka Google Places, Google
 Local Business) is critical for every business as search results now
 prioritise and display local results over regular non-map based
@@ -19,23 +13,22 @@ significant amount of potential customers.
 Google Maps](/business-on-google-maps/) for **only £50.**
 
 Thankfully, getting on the map is  a simple thing to do, it involves
-creating your own *Google Places* account and then submitting various
+creating your own _Google Places_ account and then submitting various
 business details such as address, contact details, categories, images,
 reviews and more to Google for consideration. Getting noticed is a
 little harder.
 
 ![](/assets/google_maps.gif "Get my business on Google Maps")
- The tough part is getting your business noticed on <span
+The tough part is getting your business noticed on <span
 style="text-decoration:underline;">Google Maps</span>, as there are more and more businesses claiming their place and competing for attention. There are various components that need to be done right or it's just a waste of time.
- A well constructed place marker can generate genuine customers for your
+A well constructed place marker can generate genuine customers for your
 business and is absolutely vital in todays crowded market place. There
 are some proven tricks to use to jump up the listings above your
 competitors if you know how to play the game - these include getting
 your categories right, using key phrases in your copy, getting important
 related
 
-Getting noticed on Google Maps
-------------------------------
+## Getting noticed on Google Maps
 
 We have experience of getting businesses onto **Google Maps** and
 getting them noticed, generating real value to your bottom-line and
@@ -49,7 +42,6 @@ marker for only £50.**.
 
 ### Related
 
--   [Google Places](http://www.google.com/places/)
--   [Our Google Maps listing service](/business-on-google-maps/) for
-    **only £50.**
-
+- [Google Places](http://www.google.com/places/)
+- [Our Google Maps listing service](/business-on-google-maps/) for
+  **only £50.**

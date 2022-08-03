@@ -6,7 +6,6 @@ modified: 2016-01-05T16:13:31-05:00
 excerpt: "Preferred methods of sending your questions, inquires, messages, and love letters to me."
 ads: false
 share: false
-author: false
 ---
 
 Short and succinct messages [via Twitter](https://twitter.com/{{ site.owner.twitter }}) are my preferred contact point. I can also be found on several other social networks if you want to reach out and [follow me](/support/#follow-me-on-social-media) there.

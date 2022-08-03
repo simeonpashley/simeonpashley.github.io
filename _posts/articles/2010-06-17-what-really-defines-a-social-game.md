@@ -1,15 +1,12 @@
 ---
-
-
 title: What Really Defines A Social Game?
 date: 2010-06-17 11:45:36
 
 tags: ["design"]
 
-type: post
-
 description: What Really Defines A Social Game? Can I Have My Ball Back?
 ---
+
 Social Games are a bit like a ball, they're inert when they're in the
 garage and not much fun on when your on your own\*. The more people
 there are the better the ball does it's job and the more people have
@@ -38,7 +35,7 @@ lot more value on those interactions. All of which have been missing
 until recently.
 
 So, I've been for quite a few job interviews recently and I've been
-asked *"What do you think makes a social game?"*
+asked _"What do you think makes a social game?"_
 
 ### Pillars of Social Games
 
@@ -51,19 +48,20 @@ enabled people to have an **entertaining shared experience**. These
 strengthen bonds and enable people to build relationshops.
 
 There are 3 high level examples of social gameplay:
- 1) **Solo Offline** - I play in my own world, disconnected and nothing
-is shared - [Red Dead
-Redemption](http://www.amazon.co.uk/gp/product/B002OHDET6?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B002OHDET6)
- 2) **Realtime multi-player** - We share a world, doing the same thing
-as each other - [Call Of
-Duty]("http://www.amazon.co.uk/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fie%3DUTF8%26ref_%3Damb%5Flink%5F156944707%5F3%26rh%3Dn%253A300703%252Ck%253AB0036ORNUW%257CB0036ORNUC%257CB0036ORNUM&tag=gamedevelcons-21&linkCode=ur2&camp=1634&creative=19450")
- 3) **Async multi-player** - We play the same game separately but our
-games are inter-twined - [FarmVille](http://www.farmville.com/)
+
+1.  **Solo Offline** - I play in my own world, disconnected and nothing
+    is shared - [Red Dead
+    Redemption](http://www.amazon.co.uk/gp/product/B002OHDET6?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B002OHDET6)
+2.  **Realtime multi-player** - We share a world, doing the same thing
+    as each other - [Call Of
+    Duty]("http://www.amazon.co.uk/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.co.uk%2Fs%3Fie%3DUTF8%26ref_%3Damb%5Flink%5F156944707%5F3%26rh%3Dn%253A300703%252Ck%253AB0036ORNUW%257CB0036ORNUC%257CB0036ORNUM&tag=gamedevelcons-21&linkCode=ur2&camp=1634&creative=19450")
+3.  **Async multi-player** - We play the same game separately but our
+    games are inter-twined - [FarmVille](http://www.farmville.com/)
 
 Two other principals that are compatible with all of the above:
- a) **Competitive** - we compete against each other, one of us is better
+a) **Competitive** - we compete against each other, one of us is better
 than the other
- b) **Co-operative** - we share the same goal and share in the rewards
+b) **Co-operative** - we share the same goal and share in the rewards
 along the way
 
 As game developers, we've known about this for many years and it's
@@ -116,8 +114,8 @@ religious festivals.
 
 <div>
 
-![](/assets/hustle_kings_ps3.jpg "hustle_kings_ps3") ****
- **Hustle Kings** - a viral trophy that you can only get by playing
+![](/assets/hustle_kings_ps3.jpg "hustle_kings_ps3") \***\*
+**Hustle Kings\*\* - a viral trophy that you can only get by playing
 against someone who already has it.
 
 </div>
@@ -214,8 +212,7 @@ It takes a great designer to spot these things and provide elegant
 design solutions to get around these gameplay problems but when it
 works, it's a whole lot better for it and then we expect it as the norm.
 
-*Social Game = Inclusive Catalyst For Shared Fun* {style="text-align: center;"}
--------------------------------------------------
+## _Social Game = Inclusive Catalyst For Shared Fun_ {style="text-align: center;"}
 
 So there it is, a strapline, a byline, an X-Statement for a good social
 game. It should enable everyone to play by providing us with a common
@@ -228,8 +225,7 @@ sharing time with our families.
 #### Further Reading
 
 [Nudge Social Media](http://www.nudgesocialmedia.com/) - a top social media agency based in London. Toby is a stellar guy and knows his SM inside out.
- [Game Design Framework for Social
+[Game Design Framework for Social
 Networks](http://playgen.com/game-design-for-social-networks/) - an interesting article on the fundamentals of social game design
 
 Gratuitous footage of John ;)
-

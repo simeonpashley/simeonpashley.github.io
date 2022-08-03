@@ -1,14 +1,8 @@
 ---
-
-
 title: Top Link Cloaking Plugins for WordPress
 date: 2010-12-15 11:51:42
-
-
-
-type: post
-
 ---
+
 If you have a blog with affiliated link hijacking. It does not matter if you are writing about poster
 printing or computer programing, this is problem that every blogger will
 face. In order to prevent someone else from taking the money for your
@@ -70,5 +64,3 @@ you can rely on for quality.
 No matter what your topic, your blog should be free of worry. Keep your
 blog safe from hijackers by cloaking
 other features that come along with link cloaking plugins.
-
- 

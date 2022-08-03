@@ -1,14 +1,8 @@
 ---
-
-
 title: Job Interview Assessment Form Template
 date: 2013-04-29 11:41:38
-
-
-
-type: post
-
 ---
+
 Back in the days of old, we used standard templates for a lot of company
 documents to ease & standardise communication throughout the business.
 Here's an example of a job interview form that was used to summarise an
@@ -16,7 +10,7 @@ interview and share it around the various departments who needed to know
 various aspects. This document was often referred to through the initial
 probation period.
 
-------------------------------------------------------------------------
+---
 
 **Name of Candidate**
 
@@ -69,10 +63,6 @@ certainly satisfy.
 
 **Overall impression of candidate [attitude etc]**
 
- 
-
- 
-
 He came across as someone willing to turn his hand at everything, but at
 the same time concious of his limitations.  He has crafted AI systems
 from scratch and likes to stick out projects to the end.
@@ -91,7 +81,7 @@ Sheffield, he has Spanish friends nearby
 
 **Period of Notice with current employer:**
 
- n/a
+n/a
 
 **Availability to start:**
 
@@ -99,19 +89,13 @@ Immediate (pending relocation)
 
 **Will the candidates journey to work be long/difficult?**
 
- n/a
+n/a
 
 **Will the candidate require relocation assistance?**
 
 Yes, this was asked about specifically.
 
 **Overall summary of the interview:**
-
- 
-
- 
-
- 
 
 If I’m honest, the interview was hastily held (due to Jose turning up
 unannounced) so there wasn’t the time to prepare appropriate technical
@@ -143,7 +127,7 @@ alternatively candidates details to be kept on file for the future
 recommend employment - provide brief outline of proposal (salary, grade,
 start date).
 
- **Please complete the Request to Make an Offer form(Intranet/HR/Forms)
+**Please complete the Request to Make an Offer form(Intranet/HR/Forms)
 and send for approval (cc to HR)**
 
 Jose would add value to the team and the studio, bringing much knowledge
@@ -159,5 +143,3 @@ early June.
 
 **Additional comments from Interviewer on suitability of candidate to be
 interviewed**
-
- 

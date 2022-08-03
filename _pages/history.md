@@ -6,7 +6,6 @@ modified: 2022-04-01
 excerpt: "My recent history"
 ads: false
 share: false
-author: false
 fullwidth: true
 ---
 

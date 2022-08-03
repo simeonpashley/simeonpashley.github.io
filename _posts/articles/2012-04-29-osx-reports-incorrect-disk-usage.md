@@ -1,14 +1,8 @@
 ---
-
-
 title: OSX reports incorrect disk usage
 date: 2012-04-29 14:05:44
-
-
-
-type: post
-
 ---
+
 If you're OSX disk usage is being reported incorrectly then you've
 probably got caught by a Time Machine feature introduced in Apple OSX
 10.7. This typically happens where your free disk space erodes over time
@@ -24,13 +18,11 @@ Read about it
 here <http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars/18>
 
 If you want to disable the feature and reclaim your space go in to
-*Terminal* and
+_Terminal_ and
 enter:
 
     sudo tmutil disablelocal
 
-**followed by return, and after entering you password and hitting return
+\*\*followed by return, and after entering you password and hitting return
 again, it should delete the local snapshots and free up the missing
 space.
-
- 

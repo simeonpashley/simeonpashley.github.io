@@ -1,19 +1,12 @@
 ---
-
-
 title: Generalist or Specialist game developer?
 date: 2010-06-21 11:45:45
 
 tags: ["career"]
 
-type: post
-
-
-
-
-
 description: Generalist or Specialist game developer?
 ---
+
 Whilst researching teams, I recently came across 2 similar concepts that
 describe the skills of people working in your beloved game development
 industry - "T-Shaped" people and "Generalising Specialist".
@@ -59,12 +52,11 @@ What type of person are you? I think I'm 'T' shaped. :)
 
 #### Further Reading
 
--   [Generalizing
-Specialists: Improving Your IT Career
-    Skills](http://www.agilemodeling.com/essays/generalizingSpecialists.htm)
--   [![](/assets/TheTenFacesOfInnovation.jpg)](http://www.amazon.co.uk/gp/product/184668031X?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=184668031X)![](/assets/ir?t=gamedevelcons-21&l=as2&o=2&a=184668031X)
-    [The Ten Faces of
-    Innovation](http://www.amazon.co.uk/gp/product/184668031X?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=184668031X) -
-    IDEO's Strategies for Beating the Devil's Advocate & Driving
-    Creativity Throughout Your Organization.
-
+- [Generalizing
+  Specialists: Improving Your IT Career
+  Skills](http://www.agilemodeling.com/essays/generalizingSpecialists.htm)
+- [![](/assets/TheTenFacesOfInnovation.jpg)](http://www.amazon.co.uk/gp/product/184668031X?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=184668031X)![](/assets/ir?t=gamedevelcons-21&l=as2&o=2&a=184668031X)
+  [The Ten Faces of
+  Innovation](http://www.amazon.co.uk/gp/product/184668031X?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=184668031X) -
+  IDEO's Strategies for Beating the Devil's Advocate & Driving
+  Creativity Throughout Your Organization.

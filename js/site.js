@@ -1,32 +1,23 @@
 /*====================================
 =            DOM IS READY            =
 ====================================*/
-$(function() {
-    $('.pagination .active a').click(function() {
-        return false;
-    });
+$(function () {
+  $(".pagination .active a").click(function () {
+    return false;
+  });
 });
-
 
 /*========================================
 =            WINDOW IS LOADED            =
 ========================================*/
-$(window).load(function() {
-
-});
-
+$(window).load(function () {});
 
 /*=========================================
 =            WINDOW IS RESIZED            =
 =========================================*/
-$(window).resize(function() {
-
-});
-
+$(window).resize(function () {});
 
 /*==========================================
 =            WINDOW IS SCROLLED            =
 ==========================================*/
-$(window).scroll(function() {
-
-});
+$(window).scroll(function () {});

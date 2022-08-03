@@ -1,27 +1,20 @@
 ---
-
-
 title: Studio Policy Bible
 date: 2013-04-22 11:32:00
-
-
-
-type: post
-
 ---
+
 Every business needs some policies to keep teams aware of everything
 they need to know and working smoothly. Here's one of our old policy
 documents that's a little skewed towards a game development studio but
 most of it should apply to most types of business
 
-------------------------------------------------------------------------
+---
 
 A central repository for all the bits of miscellaneous policy staff
 should be aware
 of:
 
-1.   HR Policies
-----------------
+## 1.   HR Policies
 
 1.1.  Please see company general HR policies, available on intranet.
 
@@ -45,8 +38,7 @@ that relates to potential clues as to the nature of the project or
 identity of the client should be cleared with Studio Head before being
 sent to HR
 
-2.   IT Policies
-----------------
+## 2.   IT Policies
 
 2.1.  Please see company wide IT policies, available on intranet.
 
@@ -74,14 +66,12 @@ accounts and be responsible for logging IT requests from their staff. 
 Help desk accounts may be requested for other members of staff and will
 be granted / withheld on a case-by-case basis.
 
-3.   PR
--------
+## 3.   PR
 
 3.1.  All PR content (including draft material) to go through Studio
 Manager on way to external or internal (i.e. other staff) destinations.
 
-4.   Expenses
--------------
+## 4.   Expenses
 
 4.1.  When possible staff to seek confirmation from Studio Manager that
 expense claims will be accepted in advance of spending money
@@ -97,8 +87,7 @@ to be handed to Line Manager in advance of monthly deadline
 Manager etc. until reach Studio Head who can actually approve expenses
 and send them to Finance
 
-5.   Absence / Lateness
------------------------
+## 5.   Absence / Lateness
 
 5.1.  Should you be absent due to sickness or any other reason or late
 for work (in respect to agreed working hours) you should telephone both
@@ -107,8 +96,7 @@ your expected time of arrival
 
 5.2.  Please note other general HR policies in this area
 
-6.   Line Manager Misc.
------------------------
+## 6.   Line Manager Misc.
 
 6.1.  Please note Line Management policy separately available from the
 Studio Head, this covers staff supervision and similar meetings.
@@ -122,8 +110,7 @@ clarify requirements with the Studio Head.
 6.3.  All Line Managers should appoint a deputy to cover their essential
 duties during absence.
 
-7.   Office Misc.
------------------
+## 7.   Office Misc.
 
 7.1.  The last person to leave
 must: ensure all windows are closed, turn off the lights, lock both locks on the door
@@ -143,8 +130,7 @@ encouraged to pre-empt the potential disaster of temporarily running out
 of milk by buying some when it is convenient.  Also please alert Studio
 Manager if tea, coffee or sugar supplies are running low.
 
-8.   Telephone
---------------
+## 8.   Telephone
 
 8.1.  Please answer the phone when it rings
 
@@ -157,8 +143,7 @@ mutes the call!)
 
 8.4.  Note, guide on how to use the phone system is on the studio wikki
 
-9.   External documents
------------------------
+## 9.   External documents
 
 9.1.  Please send all external documents in PDF format
 
@@ -166,13 +151,15 @@ mutes the call!)
 by the Studio Head and final versions filed
 
 10. Confidentiality
--------------------
+
+---
 
 10.1.      Unless explicitly told otherwise please assume that all
 information regarding company activity is confidential
 
 11. Server
-----------
+
+---
 
 11.1.      Only alter the contents of any network drive with permission
 of whoever is responsible for that drive.  The exception being Temp
@@ -181,8 +168,9 @@ responsible for a project specific drive, New Projects Lead is
 responsible for the New Projects drive, and the Studio Head responsible
 for the General drive.
 
-12.  Overrides
---------------
+12. Overrides
+
+---
 
 12.1.      The following policy from the Employee handbook is modified
 as
@@ -194,13 +182,11 @@ At the discretion of the management the use of company machines and the
 network for personal playing games is permitted during the following
 periods:
 
--   Before 9:00 am
--   between 12:<span style="text-decoration: line-through;">30</span>45
-    pm and 1:<span style="text-decoration: line-through;">15</span>30 pm
--   after 6:30 pm
+- Before 9:00 am
+- between 12:<span style="text-decoration: line-through;">30</span>45
+  pm and 1:<span style="text-decoration: line-through;">15</span>30 pm
+- after 6:30 pm
 
 Game Play during these periods must not interrupt any members of staff
 working in the same area – use of headphones rather than speakers is
 required.
-
- 

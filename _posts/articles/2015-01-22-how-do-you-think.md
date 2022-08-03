@@ -2,7 +2,6 @@
 title: How do you think?
 date: 2015-01-22 20:21:59
 tags: ["career"]
-type: post
 ---
 
 When working with other people it's important to consider how they see things, as their view is often very different from your own perspective. In our

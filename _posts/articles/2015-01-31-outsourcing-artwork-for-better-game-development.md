@@ -1,12 +1,8 @@
 ---
-
-
 title: Outsourcing Artwork for Better Game Development
 date: 2015-01-31 06:18:50
 
 tags: ["business", "outsourcing", "production"]
-
-type: post
 
 description: Guest David Tolley shares his best practice on setting up an outsource operation to maximise your game production.
 ---
@@ -107,7 +103,7 @@ forward to receiving them.
 [TIGA - Outsourcing and
 Offshoring](http://www.tiga.org/Documents/Download05_FINAL.PDF) -
 **External PDF**
- [![](/assets/TIGA.gif)TIGA](http://tiga.org/) is the trade association representing the UK’s games industry - **External Link**
+[![](/assets/TIGA.gif)TIGA](http://tiga.org/) is the trade association representing the UK’s games industry - **External Link**
 
 **UPDATE - 22/June/2010**
 

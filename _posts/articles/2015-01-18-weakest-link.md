@@ -1,14 +1,10 @@
 ---
-
-
 title: Weakest Link - Be A Better Game Developer
 date: 2015-01-18 11:26:13
 
 tags: ["business", "career"]
-
-type: post
-
 ---
+
 <div class="separator"
 style="clear: left;
 float: left; margin-bottom: 1em; margin-right: 1em; text-align: center;">
@@ -38,7 +34,7 @@ Marketing etc. all grow in significance as your business grows.
 In the early days one person will perform multiple roles at once, the
 roles are typically allocated based on relative merit, e.g., the more
 creative person takes on the creative roles such as creative director,
-the more logical person becomes the business manager. 
+the more logical person becomes the business manager.
 
 </div>
 
@@ -55,5 +51,3 @@ maybe it's time to step aside and bring in someone who can really push
 things along, maybe you're happy where you are?
 
 </div>
-
-

@@ -4,8 +4,6 @@ date: 2010-08-19 18:26:54
 
 tags: ["career"]
 
-type: post
-
 description: this week we delve a little deeper on how we used to make video games before networks
 ---
 

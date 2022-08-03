@@ -1,14 +1,10 @@
 ---
-
-
 title: Leveraging Social Media To Maximise Your Game Sales
 date: 2010-08-28 06:45:16
 
 tags: ["business", "marketing"]
-
-type: post
-
 ---
+
 Connecting with your audience is absolutely critical to the success of
 your game and is something you should take seriously and adopt a
 professional understanding. I’ll cover some of the high level points
@@ -16,8 +12,7 @@ here and provide how to maximise social media communication for different busine
 
 <!-- more -->
 
-Old Skool / New Skool
----------------------
+## Old Skool / New Skool
 
 ### Forums – old skool
 
@@ -39,8 +34,7 @@ sharing feedback about your game anyway and you need to be there,
 especially if you’re doing **Minimum Viable Product** production and
 need to iterate your game.
 
-Facebook
---------
+## Facebook
 
 Make it easy for people to ‘Like’ your game on
 [Facebook](http://www.facebook.com "Facebook"), which also posts on their wall and tells their friends too, and encourage conversation by using the discussion areas on the Facebook Fan page. It isn’t enough to just setup the Fan page and expect people to just turn up, it takes
@@ -48,8 +42,7 @@ effort. I would discourage you from setting up a Facebook ‘Page’ as
 these feel very business like as they don’t currently incorporate much
 in the way of community.
 
-Twitter
--------
+## Twitter
 
 **[Twitter](http://twitter.com "Twitter")** is also an amazingly
 powerful, and yet simple, tool for interacting with the community around
@@ -68,8 +61,7 @@ search.
 **[[blippr]TweetDeck[/blippr]](http://www.TweetDeck.com "TweetDeck")** is an awesome tool for doing all of the above in one easy to use, free
 package.
 
-RSS Feeds
----------
+## RSS Feeds
 
 If you have a blog, or web-site with an RSS feed it is possible to
 syndicate this automatically onto Facebook and Twitter, which saves some
@@ -80,15 +72,13 @@ interaction to truly engage the community.
 I would advice running your RSS feeds via services such as
 [[blippr]FeedBurner[/blippr]](http://Feedburner.Google.Com "Feedburner") to enable more powerful subscriptions through email, and embedded sharing
 
-Link Tracking
--------------
+## Link Tracking
 
 The use of link shortening sites can have a beneficial side-effect in
 that they usually incorporate link tracking took. The ubiquitous
 [[blippr]Bit.Ly[/blippr]](http://bit.ly "Bit.Ly") provides some fantastic tools for discovering the popularity and reach of items you link to, including
 
-Community Managers
-------------------
+## Community Managers
 
 I’d say from the outset that if you have big ambitions, or you have a
 big title, then you should **engage a specific community manager to be
@@ -98,8 +88,7 @@ is a skill that is not to be under-estimated. They can engage with your
 audience in a concise meaningful way and really understand the chaotic
 world of relationships.
 
-Summary
--------
+## Summary
 
 In a nutshell, there are no easy ways to work with communities, you’ve
 just go to go there and put in the effort. The invaluable feedback and

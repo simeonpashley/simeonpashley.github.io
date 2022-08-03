@@ -1,15 +1,10 @@
 ---
-
-
 title: Why fixed 9-5 working time is bad for video game
 date: 2015-01-26 23:04:38
 
 tags: ["career", "production"]
-
-type: post
-
-
 ---
+
 I often wander between favouring and hating the idea of a 9-5 culture at
 work. On the one hand it fits in nicely with a family life where we work
 to enjoy ourselves, we turn up, do some work, go home and disconnect and
@@ -22,12 +17,12 @@ turned on and off at preset times of day.
 Imagine a day like
 this:
 
--   9am – be creative and passionate when you punch in
--   12pm – stop being creative and thinking about your art.
--   1pm – start being creative again, now, you’ve only got 4.5hrs
-    remaining
--   5.30pm – stop thinking, park your creativity, go home, disconnect
--   rinse and repeat.
+- 9am – be creative and passionate when you punch in
+- 12pm – stop being creative and thinking about your art.
+- 1pm – start being creative again, now, you’ve only got 4.5hrs
+  remaining
+- 5.30pm – stop thinking, park your creativity, go home, disconnect
+- rinse and repeat.
 
 <!-- more -->
 

@@ -3,6 +3,7 @@ title: Victorian Video Game Production
 date: 2015-01-26 08:18:06
 tags: ["production"]
 ---
+
 Is middleware replacing talented, creative developers? Is everything
 becoming mass produced?
 
@@ -31,7 +32,6 @@ managers who follow methodologies, anyone being trained in how to do one
 specific interchangeable job without thought. It's an easy life but
 ultimately there's a lot of people who can get that far up the career
 ladder very quickly, and for much less pay.
-
 
 This all comes crashing down when things change. Where are the people
 who think for themselves? Where are the ones who can come up with new

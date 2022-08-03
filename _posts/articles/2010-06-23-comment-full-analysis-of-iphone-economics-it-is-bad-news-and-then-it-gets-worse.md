@@ -3,8 +3,6 @@ title: Comment - Full Analysis of iPhone Economics - it is bad news. And then it
 date: 2010-06-23 13:19:17
 
 tags: ["business", "iphone"]
-
-type: post
 ---
 
 I recently re-tweeted this article and I commented on the post but

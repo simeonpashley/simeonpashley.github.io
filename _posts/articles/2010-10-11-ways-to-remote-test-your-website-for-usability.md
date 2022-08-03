@@ -1,14 +1,8 @@
 ---
-
-
 title: 5 Ways to Remote Test Your Website for Usability
 date: 2010-10-11 11:12:16
-
-
-
-type: post
-
 ---
+
 The usability of your website can be measured to an extent. There are
 programs that will test the usability or you can use people to test it.
 Remote testing allows you to find trouble spots on your website so that
@@ -61,5 +55,3 @@ techniques they use are surveys and focus groups.
 
 With one or more of these remote testing tools, you can make sure that
 your business website is as effective and successful as it can be.
-
- 

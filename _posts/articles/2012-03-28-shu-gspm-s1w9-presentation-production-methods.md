@@ -1,8 +1,6 @@
 ---
 title: Game Production Methods - SHU GSPM S1W9
 date: 2012-03-28 10:15:40
-
-type: post
 ---
 
 Below is a link to the presentation I gave at _Sheffield Hallam

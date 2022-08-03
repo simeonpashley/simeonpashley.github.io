@@ -5,7 +5,6 @@ date: 2014-06-19T09:33:51.793000-04:00
 modified: 2016-03-22T15:02:23-04:00
 excerpt: "If you like the free content I provide, here are some great ways to show your support and motivate me to create more of it."
 share: false
-author: false
 ---
 
 {% include toc.html %}

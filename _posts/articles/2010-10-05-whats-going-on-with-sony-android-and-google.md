@@ -1,14 +1,10 @@
 ---
-
-
 title: What's going on with Sony, Android and Google?
 date: 2010-10-05 11:38:03
 
 tags: ["LinkedIn"]
-
-type: post
-
 ---
+
 Yesterday we witnessed [Google TV open it's
 web-doors](http://www.google.com/tv/) and it reminded me of a common thread between Sony and Google.
 
