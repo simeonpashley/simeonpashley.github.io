@@ -1,182 +1,204 @@
----
-# Site wide configuration
-title: "Simeon Pashley"
-description: "Personal website"
-logo: site-logo.png
-teaser: default-teaser.png
-locale: en_GB
-words_per_minute: 200
-title_separator: "×"
-url: http://pashley.org
-shortname: pashley.org
+# The Site Configuration
 
-# Site owner
-authors:
-  simeonpashley:
-    name: Simeon Pashley
-    email: ""
-    position: ""
-    start_date: 1986-02-01
-    github: simeonpashley
-    twitter: simeonpashley
-    linkedin: https://uk.linkedin.com/in/simeonpashley/
-    gravatar: e75deb5e1dc8de89fecefba23a1efd97
-    about: ""
+# Import the theme
+theme: jekyll-theme-chirpy
 
-owner:
-  name: "Simeon Pashley"
-  email: ""
-  twitter: simeonpashley
-  github: simeonpashley
-  gravatar:
-    hash: e75deb5e1dc8de89fecefba23a1efd97
-    img_src: "https://www.gravatar.com/avatar/e75deb5e1dc8de89fecefba23a1efd97?s=200"
-  linkedin_url: https://uk.linkedin.com/in/simeonpashley/
-  github-repo: https://github.com/simeonpashley/simeonpashley.github.io
-  google:
-    ad-client: ca-pub-7328585512091257
-    ad-slot:
-    analytics: UA-16937664-6
-    plus: https://plus.google.com/+SimeonPashley/posts
-  bing:
-    verify: D81F4C18A6CB3018F64D7C827D953DFD
-  alexa:
-    verify: Y5DYjZ4VWlrQzBP5kcQJeOKLNas
-  yandex:
-    verify: 55a5419baf76a498
-  bio: "Just another."
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+# Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
+# and doesn't have a custom domain.
+baseurl: ""
 
-# Where things are
-source: .
-destination: ./_site
-plugins_dir: ./_plugins
-layouts_dir: ./_layouts
-data_dir: ./_data
+# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
+# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
+# otherwise, the layout language will use the default value of 'en'.
+lang: en
 
-# Handling Reading
-safe: false
-include:
-  - ".htaccess"
-  - "_pages"
-exclude:
-  - README.md
-  - package.json
-  - gruntfile.js
-  - sass/
-  - vendor
-  - node_modules
-  - www
-  - _posts/older
-keep_files:
-  - ".git"
-  - ".svn"
-  - images
+# Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
+prefer_datetime_locale:
 
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-# Filtering Content
-show_drafts: null
-limit_posts: 0
-future: true
-unpublished: false
-
-# Plugins
-whitelist: []
-plugins:
-  - jekyll-feed
-  - jekyll-archives
-  - jekyll/tagging
-  - jekyll-tagging-related_posts
-  - jemoji
-  - jekyll-paginate
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: true
-excerpt_separator: <!-- more -->
-
-# Serving
-detach: false
-port: 4000
-host: 127.0.0.1
-baseurl: "" # does not include hostname
-
-# Outputting
-permalink: /:year/:month/:title
-paginate: 10
-paginate_path: /page:num
+# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Europe/London
 
-quiet: false
+# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+# ↓ --------------------------
 
-# Markdown Processors
-rdiscount:
-  extensions: []
+title: Simeon Pashley # the main title
 
-redcarpet:
-  extensions: []
+tagline: Nonsense # it will display as the sub-title
+
+description: >- # used by seo meta and the atom feed
+  Some random collection of notes, posts and longer form writing.
+  Mostly about technology, web development, games and whatever else I find
+  interesting.
+
+# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+url: ""
+
+github:
+  username: simeonpashley # change to your github username
+
+twitter:
+  username: simeonpashley # change to your twitter username
+
+social:
+  # Change to your full name.
+  # It will be displayed as the default author of the posts and the copyright owner in the Footer
+  name: Simeon Pashley
+  # email: simeon@pashley.org # change to your email address
+  links:
+    # The first element serves as the copyright owner's link
+    - https://github.com/simeonpashley # change to your github homepage
+    - https://twitter.com/simeonpashley # change to your twitter homepage
+    # Uncomment below to add more social links
+    # - https://www.facebook.com/username
+    # - https://www.linkedin.com/in/username
+
+google_site_verification: # fill in to your verification string
+
+# ↑ --------------------------
+# The end of `jekyll-seo-tag` settings
+
+google_analytics:
+  id: # fill in your Google Analytics ID
+  # Google Analytics pageviews report settings
+  pv:
+    proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
+    cache_path: # the local PV cache data, friendly to visitors from GFW region
+
+# Prefer color scheme setting.
+#
+# Note: Keep empty will follow the system prefer color by default,
+# and there will be a toggle to switch the theme between dark and light
+# on the bottom left of the sidebar.
+#
+# Available options:
+#
+#     light  - Use the light color scheme
+#     dark   - Use the dark color scheme
+#
+theme_mode: # [light|dark]
+
+# The CDN endpoint for images.
+# Notice that once it is assigned, the CDN url
+# will be added to all image (site avatar & posts' images) paths starting with '/'
+#
+# e.g. 'https://cdn.com'
+# img_cdn: "https://raw.githubusercontent.com/cotes2020/chirpy-images/main"
+
+# the avatar on sidebar, support local or CORS resources
+avatar: "/assets/img/logo/head2022.jpg"
+
+# boolean type, the global switch for ToC in posts.
+toc: true
+
+comments:
+  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  # The active options are as follows:
+  disqus:
+    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  # utterances settings › https://utteranc.es/
+  utterances:
+    repo: # <gh-username>/<repo>
+    issue_term: # < url | pathname | title | ...>
+  # Giscus options › https://giscus.app
+  giscus:
+    repo: # <gh-username>/<repo>
+    repo_id:
+    category:
+    category_id:
+    mapping: # optional, default to 'pathname'
+    input_position: # optional, default to 'bottom'
+    lang: # optional, default to the value of `site.lang`
+
+# Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
+assets:
+  self_host:
+    enabled: # boolean, keep empty means false
+    # specify the Jekyll environment, empty means both
+    # only works if `assets.self_host.enabled` is 'true'
+    env: # [development|production]
+
+pwa:
+  enabled: true # the option for PWA feature
+
+paginate: 10
+
+# ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
-  input: GFM
-  auto_ids: true
-  footnote_nr: 1
-  hard_wrap: false
-  entity_output: as_char
-  toc_levels: 1..3
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-# Site settings
-
-twitter_username: simeonpashley
-github_username: simeonpashley
-
-# Collections
+  syntax_highlighter: rouge
+  syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
+    css_class: highlight
+    # default_lang: console
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
 
 collections:
-  faqs:
+  tabs:
     output: true
-    permalink: /:collection/:path/
-    title: FAQs
-  components:
-    output: false
-  colors:
-    output: false
+    sort_by: order
 
 defaults:
   - scope:
-      path: "_posts/articles"
-      type: "posts" # previously `post` in Jekyll 2.2.
+      path: "" # An empty string here means all files in the project
+      type: posts
     values:
-      layout: article
-      category: articles
-  # Pages
+      layout: post
+      comments: true # Enable comments in posts.
+      toc: true # Display TOC column in posts.
+      # DO NOT modify the following parameter unless you are confident enough
+      # to update the code of all other post links in this project.
+      permalink: /posts/:title/
   - scope:
-      path: _pages
-      type: pages
+      path: _drafts
     values:
-      layout: article
+      comments: false
+  - scope:
+      path: ""
+      type: tabs # see `site.collections`
+    values:
+      layout: page
+      permalink: /:title/
+  - scope:
+      path: assets/img/favicons
+    values:
+      swcache: true
+  - scope:
+      path: assets/js/dist
+    values:
+      swcache: true
 
-# HTML Compression
+sass:
+  style: compressed
+
 compress_html:
   clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
   ignore:
-    envs: development
+    envs: [development]
+
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - tools
+  - README.md
+  - CHANGELOG.md
+  - LICENSE
+  - gulpfile.js
+  - node_modules
+  - package*.json
+  - docs
 
 jekyll-archives:
-  enabled: [year, month, tags]
-  permalinks:
-    year: "/:year/"
-    month: "/:year/:month/"
-    tag: /tag/:name/
+  enabled: [categories, tags]
   layouts:
-    year: year-archive
-    month: month-archive
-    tag: tag_index
-    #day: day-archive
-    #tag: tag-archive-layout
-
-theme: jekyll-theme-dinky
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/

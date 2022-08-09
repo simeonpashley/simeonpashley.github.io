@@ -1,16 +1,36 @@
-<footer class="site-footer">
-  <div class="copyright">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-6"> Copyright &copy; <span itemprop="copyrightYear">2010 - {{ site.time | date: '%Y' }}</span> <span itemprop="copyrightHolder publisher">Simeon Pashley</span>. All rights reserved. </div>
-        <nav class="col-sm-6" style="text-align: right">
-          <div class="pull-right">
-            <ul class="site-links list-inline">
-              <li><a href="/privacy">Privacy</a></li>
-            </ul>
-          </div>
-        </nav>
-      </div>
+<!-- The Footer -->
+
+<footer class="row pl-3 pr-3">
+  <div class="col-12 d-flex justify-content-between align-items-center text-muted pl-0 pr-0">
+    <div class="footer-left">
+      <p class="mb-0">
+        © {{ 'now' | date: "%Y" }}
+        <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
+        {% if site.data.locales[lang].copyright.brief %}
+        <span data-toggle="tooltip" data-placement="top"
+          title="{{ site.data.locales[lang].copyright.verbose }}">{{ site.data.locales[lang].copyright.brief }}</span>
+        {% endif %}
+      </p>
     </div>
+
+    <div class="footer-right">
+      <p class="mb-0">
+        {% capture _platform %}
+          <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>
+        {% endcapture %}
+
+        {% capture _theme %}
+          <a href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank" rel="noopener">Chirpy</a>
+        {% endcapture %}
+
+        {{ site.data.locales[lang].meta
+          | default: 'Powered by :PLATFORM with :THEME theme.'
+          | replace: ':PLATFORM', _platform | replace: ':THEME', _theme
+        }}
+
+      </p>
+    </div>
+
   </div>
+
 </footer>
