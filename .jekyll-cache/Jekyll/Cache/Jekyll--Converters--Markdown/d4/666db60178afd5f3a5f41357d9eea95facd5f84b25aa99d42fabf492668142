@@ -1,4 +1,0 @@
-I"û<p>I recently had trouble when my SSH auto-it took a while to figure out what was wrong. Iâ€™ve made some notes for
-posterity. It turned out to be SSH not being happy with the
-directory/file ownership and permission on both the target and client.</p>
-:ET

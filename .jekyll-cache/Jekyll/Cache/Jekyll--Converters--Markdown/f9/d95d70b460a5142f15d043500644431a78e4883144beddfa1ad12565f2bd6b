@@ -1,12 +1,0 @@
-I"<p>Hitting 100 on Google Pagespeed feels like it’s impossible to hit right now. Despite a lot of effort to hit &amp; maintain the current rating it’s really hard to push past 97%.</p>
-
-<p>The main reason appears to be that Google down ranks speed when including external javascript libraries such as their own Google Analytics javascript include. It isn’t possible to store GA.js locally as that would negate the metrics anyway.</p>
-
-<p>It would be possible to spoof the results by removing the javascript, getting a pagespeed score, then putting it back but that seems like a pointless exercise.</p>
-
-<p>So, 97 appears to be the best I can hope for until I find around it.</p>
-
-<!-- more -->
-
-<p><img src="/assets/img/pagespeed-201509.png" alt="September 2015" title="September 2015" /></p>
-:ET

@@ -1,7 +1,0 @@
-I"¼<p>I walked into a minefield of problems when attempting to connect back to
-my Synology DS210j after a regular firmware update. The approved desktop
-application <strong>DSAssistant</strong> was used to upload and apply the firmware
-but something just went wrong. DSAssistant claimed the IP address was
-set, but the device wouldnâ€™t accept web connections. I eventually found
-a solution that helped me get the device back up &amp; running.</p>
-:ET

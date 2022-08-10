@@ -1,2 +1,0 @@
-I"~<p>Fix node privilege issues when installed via brew. User will be constantly receive permission denied without this fix.</p>
-:ET
