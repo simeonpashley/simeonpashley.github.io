@@ -1,0 +1,337 @@
+I"�4<h1 id="klipper-config">Klipper Config</h1>
+
+<p>Klipper config for Creality Ender 3 V2</p>
+
+<p>View my associated <a href="https://github.com/simeonpashley/klipper_config">config on github</a></p>
+
+<p>Tweaked to suit printer &amp; my needs.</p>
+
+<h1 id="shopping-list">Shopping List</h1>
+
+<h2 id="main-parts">Main parts</h2>
+
+<ul>
+  <li><a href="https://amzn.to/3AKjhfT">Creality Ender 3 V2</a></li>
+  <li><a href="https://amzn.to/34miju6">E3D Hemera 24v</a></li>
+  <li><a href="https://amzn.to/3uasRaJ">E3D Hemera metal backplate</a></li>
+  <li><a href="https://amzn.to/3KRwpEJ">CR Touch</a></li>
+  <li><a href="https://amzn.to/34mhlhs">Dual Z-axis Upgrade Kit</a></li>
+  <li><a href="https://amzn.to/3AMYY1j">BIGTREETECH SKR 2 Motherboard with 5x TMC2209</a></li>
+  <li><a href="https://amzn.to/3KWfjp6">Bed compression springs</a></li>
+  <li><a href="https://amzn.to/3geOgHz">4010 Noctua 12v fan (2 of)</a></li>
+  <li><a href="https://amzn.to/3uf4ngr">92mm Noctua 12v fan (2 of)</a></li>
+  <li><a href="https://amzn.to/3HbUYd8">5015 24v blower fans</a></li>
+</ul>
+
+<h3 id="rasberry-pi---for-klipper">Rasberry Pi - for Klipper</h3>
+
+<ul>
+  <li><a href="https://amzn.to/34IaNKx">Raspberry Pi Zero 2 W</a></li>
+</ul>
+
+<p>Bonus: Camera for remote monitoring via Mainsail</p>
+
+<ul>
+  <li><a href="https://amzn.to/3LJbmVp">Raspberry Pi Camera v2</a></li>
+  <li><a href="https://amzn.to/3gGJZwI">Raspberry Pi Camera to Zero cable</a></li>
+</ul>
+
+<h2 id="filaments">Filaments</h2>
+
+<ul>
+  <li><a href="https://amzn.to/3AKjHmt">eSun PLA+</a></li>
+  <li><a href="https://amzn.to/3IRHpjv">Hatchbox PETG</a></li>
+  <li><a href="https://amzn.to/3reZgLp">Evyone PETG (Hatchbox is better)</a></li>
+  <li><a href="https://amzn.to/3HjlEbX">Creality PLA (eSun PLA+ is better)</a></li>
+</ul>
+
+<h2 id="extras">Extras</h2>
+
+<ul>
+  <li><a href="https://amzn.to/34U2bAv">iFixit Precision toolset</a></li>
+  <li><a href="https://amzn.to/34x5iP3">ADXL345 - used for resonance/ringing/ghosting</a></li>
+  <li><a href="https://amzn.to/3KXofdX">JST Connector kit</a></li>
+  <li><a href="https://amzn.to/3gdb8as">Washers</a></li>
+  <li><a href="https://amzn.to/3I49tAp">20 AWG wire</a></li>
+  <li><a href="https://amzn.to/3oLxzIs">24 AWG wire</a></li>
+  <li><a href="https://amzn.to/3g7UTvj">26 AWG Wire</a></li>
+  <li><a href="https://amzn.to/3AJkGmS">M3 bolts &amp; nuts (big size range)</a></li>
+  <li><a href="https://amzn.to/32JmUGe">M3 square nuts</a></li>
+  <li><a href="https://amzn.to/34q0Wc1">M2-2.5 screws</a></li>
+  <li><a href="https://amzn.to/34o6vHD">M3-M5 bolts &amp; nuts</a></li>
+  <li><a href="https://amzn.to/3AJGK0C">Dupont pins &amp; crimper</a></li>
+  <li><a href="https://amzn.to/3odvViq">Buck converters</a></li>
+  <li><a href="https://amzn.to/345HEsy">Heat shrink tubing</a></li>
+  <li><a href="https://amzn.to/3IO6yeU">Tie wraps</a></li>
+  <li><a href="https://amzn.to/3LtoMEG">Wowstick</a></li>
+  <li><a href="https://amzn.to/3oOmmXv">Craft knife set</a></li>
+  <li><a href="https://amzn.to/3603w9d">Tweezer set</a></li>
+  <li><a href="https://amzn.to/3GORI6D">Wire strippers</a></li>
+  <li><a href="https://amzn.to/3HQKIXZ">Side cutters</a></li>
+  <li><a href="https://amzn.to/3Bgzmu4">Hex / Allen key set</a></li>
+  <li><a href="https://amzn.to/3LAubd1">Isopropyl Alcohol</a></li>
+  <li><a href="https://amzn.to/361sWTU">300mm steel rule</a></li>
+</ul>
+
+<h1 id="build">Build</h1>
+
+<p>2022-02-12</p>
+
+<ul>
+  <li>Used <a href="https://amzn.to/34x5iP3">ADXL345</a> to discover resonance/ringing/ghosting. Followed <a href="https://www.klipper3d.org/Measuring_Resonances.html">this guide</a>. <a href="https://www.thingiverse.com/thing:4917510">This mount</a> for the X &amp; Y, these ADXL345 (https://amzn.to/34x5iP3)</li>
+</ul>
+
+<p>2022-02-05</p>
+
+<ul>
+  <li>Published current SKR2 &amp; electronics front bay at Thingverse https://www.thingiverse.com/thing:5233293</li>
+  <li>Replaced short stepper cables with much longer 1.5m, a bit excessive but lots of room. (https://amzn.to/3HQJFY3)</li>
+</ul>
+
+<p>2022-02-01</p>
+
+<ul>
+  <li>Dual Z screw split into 2 cables - “z” for left/stock &amp; “z1” for right screw. Attached to E1 port on SKR</li>
+  <li>Config for dual z <code class="language-plaintext highlighter-rouge">Z_TILT</code>, run_currents, etc.</li>
+</ul>
+
+<p>2022-01-30
+All working config for</p>
+
+<ul>
+  <li>Creality Ender 3 V2</li>
+  <li>BigTreeTech SKR 2 - klipper</li>
+  <li>Raspberry Pi Zero 2 W (with colour coded header) with GPIO &amp; +5v from SKR</li>
+  <li>Mainsail</li>
+  <li>CR Touch</li>
+  <li>Hemera Direct Drive Extruder</li>
+  <li>Dual Z screw after installing heavyweight Hemera - cable splitter and ONE connection to board. To be split later.</li>
+</ul>
+
+<p>2022-01-26</p>
+
+<ul>
+  <li>WIP - migrating to BTT SKR2 &amp; Mainsail (from stock &amp; octopi <code class="language-plaintext highlighter-rouge">./octopi</code>)</li>
+</ul>
+
+<p>2022-01-??</p>
+
+<ul>
+  <li>Dual Z screw kit via Amazon. Tricky to install and requires some Z-axis stepper cable routing around the back of the PSU as the existing cables are ultimately very short and don’t reach. Provided Z-Split cable goes down back of PSU, then joins up to existing cable near mother board.</li>
+</ul>
+
+<p>2022-01-01</p>
+
+<ul>
+  <li>Hemera Direct Drive upgrade</li>
+  <li>Noctua 4010+Buck on Hemera after I caught the stock Hemera fan and snapped a blade :’(</li>
+  <li>Swapped to Hemera metal backplate from Amazon as the printed one had flex despite ribs &amp; 85% fill. The metal backplate isn’t great but it’s rigid.</li>
+  <li>Provided Hemera thermistor and heat cables are too short when the extruder is at X=max, Y=min, Z=max for a reasonable run into the controller board so had to hack the covers and ultimately bring those cables around the side. Still short but it <em>just</em> works.</li>
+</ul>
+
+<p>Hemera: Printed backplate, fan duct, and attachments</p>
+
+<p>2021-12-01</p>
+
+<ul>
+  <li>Replaced all fans with Noctua variants and buck converters to reduce noise. CPU cover, PSU cover, “Briss moto” cooling w/ 2x Noctua 4010 and riser feet</li>
+</ul>
+
+<h1 id="hemera-install">Hemera install</h1>
+
+<p>“Dry fit” all components &amp; parts for complete Hemera install before I did it.
+You will need a wide selection of M3 bolts, nuts &amp; washers from 5mm up to 22mm
+Be prepared for electronics, wiring, soldering, etc.
+Most online guides/videos are made by people with multiple printers so they can print parts if required during the build. If, like most people, you have 1 printer then test everything before you touch your working printer.
+I printed various backplates, ducts, connectors, adapters, and test-fitted them all to the Hemera before I actually dismantled the printer and rebuilt it.</p>
+
+<p>Things of note</p>
+
+<ul>
+  <li>X-end stop hitting various backplates during Hemera required mods to those</li>
+  <li>Most backplates are built for BL Touch</li>
+</ul>
+
+<h2 id="hemera-retraction">Hemera retraction</h2>
+
+<p>Retraction 0.3mm at 45mm retract, 25mm detract.
+BEWARE that if your detract speed is too high, you get gaps on the model exactly where the “detraction”s are shown in Prusaslicer.</p>
+
+<h1 id="btt-skr-v2">BTT SKR V2</h1>
+
+<p>w/ 5 x tmc2209</p>
+
+<p>Board does not fit inside 1 side of the under-carriage so dedicated left &amp; right carriages are required to host it.
+The USB-A cable protrudes a long way, so take that into account. A rPI connected via GPIO will save a lot of space and negate the need for the USB.</p>
+
+<p>For klipper, go through the checks carefully.
+https://www.klipper3d.org/Config_checks.html</p>
+
+<p>Especially, <code class="language-plaintext highlighter-rouge">STEPPER_BUZZ</code> command will save a lot of grinding and things going in the wrong direction. e.g., <code class="language-plaintext highlighter-rouge">STEPPER_BUZZ STEPPER=stepper_x</code></p>
+
+<p>For me, the <code class="language-plaintext highlighter-rouge">[tmc2209 stepper_???]</code> sections were important as without them the steppers ran the wrong distances.</p>
+
+<h2 id="stepper-end-stops">Stepper End stops</h2>
+
+<p>SKR has 3-pin stops whereas the Stock has 2-pin stops. Inside the 3-pin male, push the 2-pin female in at the end away from the steppers. I used side-cutters to strip the tiny outer alignment shims to get a good fit without spraining the board.</p>
+
+<h1 id="cr-touch">CR Touch</h1>
+
+<p>CR Touch wiring, VERY different from BL Touch. <strong>Be careful!! Pretty much reversed!! I fried a CR touch with the wrong wiring!!!</strong></p>
+
+<p>Split the 5-wire female JST into a 3 &amp; 2. I carefully retracted the pins from the 5-block and pushed them into 2 new blocks as below</p>
+
+<h2 id="cr-touch---reference">CR touch - reference</h2>
+
+<p>https://www.reddit.com/r/BIGTREETECH/comments/pjrkj2/crtouch_wiring_for_btt_skr_v14_and_skr_v2/</p>
+
+<p>https://www.reddit.com/r/Creality/comments/pl4fyv/creality_cr_touch_wiring_diagrampinout/</p>
+
+<p>Reminder graphic here: https://imgur.com/a/39DU1cv</p>
+
+<h2 id="creality-board-5-pin-jst-block">Creality board 5-pin JST block</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>COLOUR</th>
+      <th>stock board label</th>
+      <th>PIN</th>
+      <th>SKR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>White</td>
+      <td>G</td>
+      <td>GND</td>
+      <td>GND</td>
+    </tr>
+    <tr>
+      <td>Black</td>
+      <td>V</td>
+      <td>+5V</td>
+      <td>+5V</td>
+    </tr>
+    <tr>
+      <td>Yellow</td>
+      <td>IN</td>
+      <td>PB0 SIG</td>
+      <td>PE5</td>
+    </tr>
+    <tr>
+      <td>Red</td>
+      <td>G</td>
+      <td>GND</td>
+      <td>GND</td>
+    </tr>
+    <tr>
+      <td>Blue</td>
+      <td>OUT</td>
+      <td>PB1 SIG</td>
+      <td>PE4</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="skr-jst-blocks">SKR JST blocks</h2>
+
+<p>3-pin sensor ~ 2-pin probe
+|3A |3B |3C |~ |2A |2B |
+— | — | —| —| —| —|
+|wht |blk |yel |~ |red |blu |
+|GND |+5V |PE5 |~ |GND |PE4 |</p>
+
+<h1 id="steppers">Steppers</h1>
+
+<p>When installing, needs the X stepper direction inverting from stock config by putting a <code class="language-plaintext highlighter-rouge">!</code> at the start of the Klipper config.</p>
+
+<p><code class="language-plaintext highlighter-rouge">dir_pin: !PE1 ; this is inverted with the "!" from the stock board</code></p>
+
+<p>Make sure the config has the appropriate tmc2209 blocks or the distance will be wrong
+e.g., <code class="language-plaintext highlighter-rouge">[tmc2209 stepper_x]</code></p>
+
+<h1 id="raspberry-pi">Raspberry PI</h1>
+
+<p>ref: https://www.reddit.com/r/3Dprinting/comments/n73s1j/pi_zero_w_klipper_fluidd_mainsail_guide_skr_mini/</p>
+
+<p><strong>YMMW: Don’t use this literally but as a general guide, config changes are required.</strong></p>
+
+<p>Connect RPI via GPIO to remove the need for a massive USB-A cable</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>rPI</th>
+      <th>SKR TFT</th>
+      <th>SKR note</th>
+      <th>My color</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>GP6</td>
+      <td>GND</td>
+      <td><em>Pin 2 from left (steppers at top)</em></td>
+      <td>black</td>
+    </tr>
+    <tr>
+      <td>GP10</td>
+      <td>PA9</td>
+      <td><em>Pin 3 from left (middle)</em></td>
+      <td>gray</td>
+    </tr>
+    <tr>
+      <td>GP8</td>
+      <td>PA10</td>
+      <td><em>Pin 4 from left</em></td>
+      <td>white</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>https://github.com/bigtreetech/SKR-2/issues/13#issuecomment-831507297</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>On SKR-2 PA9 is TX and PA10 is RX. So pin 10 (RXD0) of RPi would go to the middle pin (PA9) of TFT connector on SKR-2 and pin 8 (TXD0)of RPI would go to the 4th pin from left (PA10) on tft connector. And then or course, pick any ground pin on rpi and connect to second pin over from left (GND) on SKR-2.
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>For my setup, RPI Zero 2, only connected over <code class="language-plaintext highlighter-rouge">/dev/serial0</code> as the documented <code class="language-plaintext highlighter-rouge">/dev/ttyAMA0</code> did not work at all for me.</p>
+
+<p>I used <code class="language-plaintext highlighter-rouge">minicom -h -D /dev/serial0</code> on the rpi to verify data was being received from the SKR, assuming it was periodic temperature information.</p>
+
+<h1 id="reference">Reference</h1>
+
+<ul>
+  <li>Teaching Tech 3D Printer Calibration - https://teachingtechyt.github.io/calibration.html</li>
+</ul>
+
+<p>Great reference for initial setup</p>
+
+<ul>
+  <li>AndrewEllis93/Print-Tuning-Guide - https://github.com/AndrewEllis93/Print-Tuning-Guide</li>
+</ul>
+
+<p>Detailed setup for pressure advance and klipper specific elements.</p>
+
+<ul>
+  <li>Older setup guide, still relevant - https://old.reddit.com/r/ender3/comments/ec2i9j/how_to_calibrate_your_printers_esteps_and/</li>
+</ul>
+
+<h1 id="software">Software</h1>
+
+<p>Started using Cura, moved to Prusaslicer v2.4+ for finer control.
+Fusion 360 for STL mods</p>
+
+<ul>
+  <li>Prusaslicer bug where “Gap Speed”&gt;0 breaks all Auto Volume speeds. Appears when you try and use Volumetric Speed and no changes occur. https://github.com/prusa3d/PrusaSlicer/issues/6844</li>
+</ul>
+
+<h1 id="archive">Archive</h1>
+
+<p>Octopi original config in sub-dir <code class="language-plaintext highlighter-rouge">./octopi</code></p>
+
+<ul>
+  <li>Raspberry Pi 3B - Klipper &amp; mainsail. Moved to RPI Zero 2 to save a lot of space!</li>
+</ul>
+:ET

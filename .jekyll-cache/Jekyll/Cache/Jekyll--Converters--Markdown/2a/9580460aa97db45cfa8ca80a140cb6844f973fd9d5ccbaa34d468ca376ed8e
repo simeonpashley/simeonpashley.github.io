@@ -1,0 +1,29 @@
+I"X<h1 id="shopping-list">Shopping List</h1>
+
+<p>As most of these are electrical, you’ll find references to UK variants but there will undoubtedly be global variants.</p>
+
+<h2 id="hardware-parts">Hardware parts</h2>
+
+<p>Most of the automations and sensors come from existing things I have, as a lot of things now are “connected” in some way and Home Assistant exposes those.</p>
+
+<ul>
+  <li><a href="https://amzn.to/3PfoQIW">Shelly 1PM</a> - wifi relay, used for switching immersion water heater</li>
+  <li><a href="https://amzn.to/3dpMEg4">Gosund Smart Plug Mini 13A</a> - Power monitoring, Wifi enabled, flashable to ESPHome/Tasmota.</li>
+  <li><a href="https://www.ikea.com/gb/en/p/tradfri-wireless-control-outlet-smart-00364477/">IKEA TRÅDFRI Wireless Plug</a> - Zigbee</li>
+  <li><a href="https://amzn.to/3Pdcpxd">SONOFF Universal Zigbee 3.0 USB Dongle</a></li>
+  <li><a href="https://amzn.to/3SFFO63">Aqara Door and Window Sensor</a> - Zigbee</li>
+</ul>
+
+<h3 id="esphome-gadgets">ESPHome gadgets</h3>
+
+<ul>
+  <li><a href="https://amzn.to/3p6q1zE">M5 Stack Atom</a> - ESP32 development board</li>
+  <li><a href="https://amzn.to/3vPKsED">BH1750 Light sensor</a> - used for illuminance</li>
+</ul>
+
+<h2 id="support-parts">Support parts</h2>
+
+<ul>
+  <li><a href="https://amzn.to/3bIieoJ">USB to TTL Serial Converter</a> - for flashing ESPHome firmware</li>
+</ul>
+:ET

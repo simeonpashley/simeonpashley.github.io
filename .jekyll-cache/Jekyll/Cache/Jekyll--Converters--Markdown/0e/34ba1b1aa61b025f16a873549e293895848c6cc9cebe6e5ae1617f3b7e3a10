@@ -1,0 +1,205 @@
+I"p)<p>While most of my work is Mac/Unix based some of my business work is
+built on VB.NET/ASP.NET inside a Windows development. While striving for
+more robust, predictable code I chose to implement
+a Continuous Integration (CI) system. I had already used CI in large
+scale game production environments with great success following the TDD
+model.</p>
+
+<p>Setting up a Continuous Integration server was the 1st task and I chose
+<a href="http://jenkins-ci.org/">Jenkins</a> for the task in hand. This had to be setup on a Windows system so that it could invoke Visual Studio 2010 in order to build the required projects parts that were a mix of VB applications and ASP.NET web services. We also had a requirement to use Perforce as the SCM of choice.</p>
+
+<p>I’m assuming you already have a working build of your product on a host
+machine with your VS2010 build already cleanly building via a solution
+file.</p>
+
+<p>Here’s how I did
+it:</p>
+
+<h3 id="install-java-runtime-edition-jre">Install Java Runtime Edition (JRE)</h3>
+
+<p>Jenkins requires Java so you’re going to have to ensure you have that
+installed before you can go much further. Oracle maintain the JRE so go
+there now and pop back when you’ve got it installed.
+<a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">http://www.oracle.com/technetwork/java/javase/downloads/index.html</a></p>
+
+<h3 id="download-and-install-jenkins">Download and install Jenkins</h3>
+
+<p>Once again, there’s a nice handy page over at Jenkins HQ that includes
+all the info you need on how to get Jenkins installed. Don’t forget to
+come back for more settings.</p>
+
+<p><a href="https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins#MeetJenkins-Installation">https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins#MeetJenkins-Installation</a></p>
+
+<h3 id="jenkins-setup">Jenkins Setup</h3>
+
+<p>Within our organisation we typically keep all of our development files
+in a common directory regardless of host machine that maps straight into
+the Perforce Depot at a consistent point. This ensures we can get
+developers up &amp; running very quickly. In our case, it’s:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><!-- <td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td> --><td class="rouge-code"><pre>C:\dev
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Firstly, we’ll relocate Jenkins into that directory so we can maintain
+it inside our Perforce Depot. So locate your downloaded &amp; unpacked
+‘jenkins.war’ and move it
+to:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><!-- <td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td> --><td class="rouge-code"><pre>C:\dev\Build\jenkins\jenkins.war
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>To test our setup, we’re going to start a static server via the command
+prompt so we can see all the various messages it produces. This will
+help us spot errors and get to know how Jenkins works. Inside your
+Command Prompt
+issue:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><!-- <td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td> --><td class="rouge-code"><pre>java -jar C:\dev\Build\jenkins\jenkins.war
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>If this all looks good, then check the Jenkins web service is running by
+visiting the default web browser location <a href="http://localhost:8080/">http://localhost:8080/</a>. Remember this is a <em>localhost</em> setting so it’ll only work if Jenkins is running properly. We’ll be running <a href="https://wiki.jenkins-ci.org/display/JENKINS/Installing+Jenkins+as+a+Windows+service">Jenkins as a Windows
+Service</a> once we’re happy everything is running OK and we can trust it to work cleanly in the background and startup when the system starts.</p>
+
+<h3 id="install-msbuild-plugin-for-jenkins">Install MSBuild plugin for Jenkins</h3>
+
+<h4 id="heres-a-link-to-the-plugin-youre-looking-to-setup">Here’s a link to the plugin you’re looking to setup</h4>
+
+<p>locally: <a href="https://wiki.jenkins-ci.org/display/JENKINS/MSBuild+Plugin">https://wiki.jenkins-ci.org/display/JENKINS/MSBuild+Plugin</a> . You’ll notice there’s no download link on there as plugins are installed through the local Jenkins browser interface. {style=”color: #333333; font-style: normal;”}</p>
+
+<p><img src="/assets/Screen-Shot-2012-04-13-at-18.19.41-300x215.png" alt="" title="Jenkins Plugin Manager Available" /></p>
+
+<p>Inside the Jenkins browser you’ll be installing the <em>MSBuild</em> plugin via
+<em>Jenkins&gt;Manage Plugins&gt;Available</em> then you’ll find the <em>MSBuild</em> in
+the ‘<em>Build Tools</em>’ section.</p>
+
+<p><strong>NOTE</strong>: This page should be populated with available plugins, however
+if you’ve just installed Jenkins and got to this point quickly then it’s
+likely that the list will be empty. If so then try 2 things. (a) wait
+for the repository to download but we warned there’s no indicators for
+this (b) restart Jenkins service to populate the list.</p>
+
+<h4 id="configure-location-of-msbuildexe">Configure location of MSBuild.exe</h4>
+
+<p>Go to your local <em>Jenkins Configuration</em> via
+<a href="http://localhost:8080/configure">http://localhost:8080/configure</a>
+Navigate down that page to <em>MSBuild</em> section
+click ‘<em>Add MSBuild</em>’</p>
+
+<ul>
+  <li><strong>Name</strong>: .NET 4.0</li>
+  <li><strong>Path</strong> : C:\Windows\Microsoft.NET\Framework\v4.0.30319</li>
+  <li><strong>Default Params</strong>: <em>empty</em></li>
+</ul>
+
+<p><img src="/assets/img/Jenkins-W7.png" alt="" title="Jenkins Config MSBuild Command" /></p>
+
+<p>You should now have the prerequisites to be able to make a build Job via
+Jenkins.</p>
+
+<h2 id="build-job">Build Job</h2>
+
+<h3 id="add-a-new-build-job">Add a new Build Job</h3>
+
+<p>– <strong>New Job</strong> <code class="language-plaintext highlighter-rouge">http://localhost:8080/view/All/newJob</code>
+– <strong>Job Name</strong>: <em>ProjectName</em>
+– <strong>Type</strong>: Build a free-style software project
+– <strong>OK</strong></p>
+
+<p><img src="/assets/img/Jenkins-W7.jpg" alt="" title="Jenkins New Job" />
+Setup your Job to execute a <strong>MSBuild</strong> script:
+Navigate down through <em>Build -&gt; Add Build Step -&gt; Build a Visual
+Studio project</em>
+– <strong>MsBuild Version</strong>: .NET 4.0
+– <strong>MsBuild Build File</strong>:
+C:\dev\Projects\<em>ProjectName</em>\<em>Project.vbproj</em></p>
+
+<p><img src="/assets/img/Jenkins-W7-2.png" alt="" title="Jenkins New Job Build MSBuild" /></p>
+
+<p>That’s it for the basic build. You should now be able to get Jenkins to
+run your build job and have it build locally without errors. If it’s not
+working right, sort it out now before adding in SCM.</p>
+
+<h2 id="continuous-integration-via-perforce">Continuous Integration via Perforce</h2>
+
+<p>Now you’ve got a working build (if not then read up and come back) it’s
+time to connect your local build to the Perforce depot so we can get
+your build system automatically syncing &amp; building your project when
+anything changes in Perforce.</p>
+
+<h3 id="install-perforce-plugin">Install Perforce plugin</h3>
+
+<p>Install <em>Perforce</em> plugin for Jenkins in a similar way to how we
+installed the <em>MSBuild</em> plugin via <em>Jenkins -&gt; Manage Plugins -&gt;
+Available</em></p>
+
+<h3 id="configure-perforce">Configure Perforce</h3>
+
+<p>We’re now going to configure the default Perforce command for the whole
+of Jenkins.</p>
+
+<p>Go to <a href="http://localhost:8080/configure">http://localhost:8080/configure</a> and navigate down to <em>Perforce</em> section of the configuration click ‘<em>Add Perforce</em>’
+– <strong>Name</strong>: p4
+– <strong>Path</strong>: C:\Program Files\Perforce\p4.exe</p>
+
+<p>The system wide default Perforce command is now installed and ready for
+connection to a Job.</p>
+
+<h3 id="add-perforce-to-job">Add Perforce to Job</h3>
+
+<p>Next we’re going to join the command into the job so they execute when
+appropriate.</p>
+
+<p>Go to the job configuration page for the Job you’re setting up
+and locate ‘<em>Source Code Management</em>’ and select ‘<em>Perforce</em>’
+— <strong>P4PORT</strong>: <em>your perforce server IP</em>:1666
+— <strong>username</strong>: <em>your perforce username</em>
+— <strong>workspace</strong>: jenkins</p>
+
+<p>Ensure the perforce workspace/view mappings are accurate inside the
+Job -&gt; Perforce settings. A good way is to copy the view from a working
+p4 workspace inside the p4v application itself and replace the original
+workspace name with ‘jenkins’</p>
+
+<h3 id="check-perforce-works">Check Perforce Works</h3>
+
+<div>
+
+It's now time to see if you're done everything right. Starting a Build
+for the Job inside Jenkins should work smoothly now. But we're not done
+yet, we've still got to setup the triggers to complete the CI process.
+
+</div>
+
+<h3 id="poll-scm">Poll SCM</h3>
+
+<p>So now you’ve got a working installation of Jenkins, you’ve got your
+build working cleanly and it now <em>Integrates</em> your project from Perforce
+when you initiate a build. It’s all good but it’s not very
+<em>Continuous.</em> To make this work we’re going to get Jenkins to poll
+Perforce every 1 minute for changes and then automatically start the Job
+we already setup.
+Find the setup portion inside Job -&gt; Configure -&gt; Build Triggers
+– [x] <strong>Poll SCM</strong> (checked)
+– <strong>Schedule</strong> :</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><!-- <td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td> --><td class="rouge-code"><pre># every minute
+* * * * *
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h2 id="done">Done</h2>
+
+<p>Well, that’s it. You’ve now built yourself a <em>Continuous Integration</em>
+server to watch over you and make sure your builds are consistently
+building and you’ve not forgotten to add something to the repository,
+submit a complete working build or a myriad of other reasons.</p>
+
+<p>You may want to install some desktop notifications for clients, setup
+some NUnit tests and really start building on the good foundations
+you’ve setup.</p>
+:ET

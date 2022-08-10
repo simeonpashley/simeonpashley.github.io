@@ -1,0 +1,152 @@
+I"�<p>I was looking at the schedule for <a href="http://www.develop-conference.com/">Develop Conference
+2010</a> ( @developconf2010 ) to see if there was anything I should pick up on regarding game production and development and I’ve spotted a couple of tasty things that I have experience so I thought I’d jump the gun and share a little before July comes along. Some of the content we’ve seen before from prior conferences and here’s what I’ve
+learned:</p>
+
+<h3 id="games-as-a">Games As A</h3>
+
+<p>Service: Do You Really Know What It Means?</p>
+
+<blockquote>
+  <p>Online games have been around for a while now and we all know the key
+mantra “It’s a service, not a product.” Or do we? Very often, in the
+haze of development, teams may lose their focus from this truth;
+especially as the concept of service is not that clearly defined to
+begin with. As well as fleshing out the concept of Online Game
+Service, this lecture will provide a practical overview on how its
+components should be designed and integrated in the production cycle
+to form an optimal player experience.</p>
+</blockquote>
+
+<p>Well, I’ve done a lot of service related game ideas lately and here are
+a few
+ideas:</p>
+
+<h3 id="the-game-is-just-the-start">The game is just the start</h3>
+
+<p>In a nutshell, <strong>the players journey with your game starts before they
+put the disk in the console</strong>, download it from PSN, XBox Live, Wii or
+download and install via Steam. Your audience already has an expectation
+based on prior marketing, reviews and many other means of communication
+they’ve received up to this point. They’ve probably talked about it with
+their friends.</p>
+
+<p>It’s true to say that the game <strong>content delivered up to this point is
+largely fixed</strong>, it was probably made months ago before it went through
+QA, format submission, mastering, distribution and sitting on the
+shelves in the store. Or at least some of that process if you’re totally
+online.</p>
+
+<p>So as a player, you’ve waited months, saved up, bought the game, you’ve
+played it through. Now what? You’ve had a fantastic time and you need
+more content now! <strong>If this were a book or a film then that would be
+it</strong>, you’d be waiting for the sequel at some point in the future,
+probably years away.</p>
+
+<p>Thankfully we are blessed with an opportunity to maximise everyone’s
+enjoyment and if the developer and publisher are clever, then they’ll
+have a whole slew of things to keep you busy and invested in the game.
+Downloadable content such as levels, characters, vehicles, maps, whole
+new features, tracks, music, new season data all keep the game fresh and
+alive and are <strong>all part of the service we offer</strong>.</p>
+
+<p><img src="/assets/img/GameAsAService.jpg" alt="" title="Game As A Service" /></p>
+
+<h3 id="why-is-this-important">Why is this important?</h3>
+
+<p>So, why not just package up your game and move onto something new? Well,
+I’m sure you’ve slogged your guts out and put a lot of sweat, blood and
+tears into making this the best game it can be and you hope your
+audience appreciates it. Why not maximise all of this effort and keep it
+going for longer, after all you’ve written the tools, have experience of
+how to get things in the game and your team are probably producing
+patches anyway to sort out those last-minute niggles.</p>
+
+<p><strong>It’s almost trivial to make this content.</strong> I’d also guess that during
+the late parts of production from Alpha through to Master Approval that
+you’re creative team have been twiddling their thumbs whilst the bugs
+are ironed out. Making add-on content can be a fantastic way of focusing
+the team, stopping them adding stuff to the version that’s shipping and
+allow them to expand and maximise the experience.</p>
+
+<p>All of these extras help create an attachment with your game and a
+thirst for more content, it’s up to you if it’s free or paid for; which
+is a whole other discussion.</p>
+
+<p>Bolting on upgrades and DLC also <strong>makes it harder to part company with
+the game</strong> itself when it comes to trade-in time and you’ll see lower
+trade in figures for games that actively promote a long-term connection
+with the game.</p>
+
+<h3 id="the-ultimate-service">The ultimate service</h3>
+
+<p>The <strong>ultimate service is user-generated content</strong>, which really binds
+authors and players to the game, giving them an emotional involvement
+and volume of content you’ll find hard to surpass as a developer. It’s
+also self-promoting as authors actively encourage their friends to dive
+in a try the thing they’ve just made, either by demoing it locally or
+pointing them at it so they can play at home.</p>
+
+<p>You’ll find UGC authors in forums promoting their content and obviously
+the game is good too (which is why they’re making content for it). <strong>All
+of this drives long-tail sales of your game</strong>. For these reasons, you’ll
+rarely find a copy of LittleBigPlanet traded in.</p>
+
+<h3 id="integrate-early">Integrate Early</h3>
+
+<p>These are all great ideas and you really need to plan these in early as
+I know from experience that retro-fitting the highly modular
+requirements of supporting DLC into a hard-baked mess of legacy code is
+a nightmare and probably one that will just be a barrier to you ever
+making it happen. I’m sure many of you will have had that same
+experience and wish to leave it long behind.</p>
+
+<p>From an architecture perspective, everything has to be dynamically
+queried, validated and loaded into the game. You should treat your game
+as a tool or framework into which everything plugs-in, nothing should be
+hard-coded or you’re not going to be modular enough to cope with a
+future of upgrades and DLC. How can you integrate another character
+(avatar) if you’re selection screen only supports 8 characters? You’ll
+need to design expansion into your game from day 1.</p>
+
+<h3 id="away-from-the-game">Away from the game</h3>
+
+<p>The ‘service’ can also expand out beyond the game experience itself and
+incorporate regular touch points such as social networks like Facebook,
+mobile phones running OS like Symbian (good luck!), iPhone, iPad,
+Android or Windows Mobile. Here are some examples of more extensive
+<strong>game amplifiers</strong>:</p>
+
+<ol>
+  <li>Browser games</li>
+  <li>public league &amp; competition systems</li>
+  <li>In-game auction houses reflected onto the ‘net</li>
+  <li>Training your game character online then playing them on console</li>
+  <li>Clans, factions, guilds</li>
+  <li>Managing your team for tonight’s game</li>
+  <li>News feeds into the game and out again</li>
+</ol>
+
+<p>The list goes on and on and I’m sure there’s some <strong>things you could add
+to the list too</strong>.</p>
+
+<h3 id="summary">Summary</h3>
+
+<p>There’s a really easy way to remember this - “<strong>The game is just the
+start</strong>”. It’s a mantra that suits every occasion and really
+encapsulates what “game as a service” means.</p>
+
+<p>We want to engage with game players for longer, enabling them to get
+better value from the games we make, after all they’re not cheap to make
+or buy. <strong>Game players and developers have a symbiotic relationship and
+we should nurture it over a long period of time for both our sakes.</strong></p>
+
+<h4 id="further-reading">Further Reading</h4>
+
+<p><a href="http://www.develop-conference.com/developconference2010/all-sessions-evolve.html">Develop Conference 2010 -
+Evolve</a> -
+<a href="http://www.develop-conference.com/developconference2010/biog_detail.html?id=3109">Thomas
+Bidaux</a> will be covering this topic</p>
+
+<p><a href="http://www.edge-online.com/news/valves-newell-entertainment-a-service">Gabe Newell on ‘entertainment as a
+service’</a> - DICE 2009</p>
+:ET

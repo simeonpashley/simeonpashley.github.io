@@ -1,0 +1,26 @@
+I"<p>If you’re OSX disk usage is being reported incorrectly then you’ve
+probably got caught by a Time Machine feature introduced in Apple OSX
+10.7. This typically happens where your free disk space erodes over time
+or when you delete some files and yet the disk still claims to have the
+same space usage as before.</p>
+
+<p>This is a silently introduced feature where Time Machine can operate on
+on laptops (Macbook Air / Macbook Pro) when the TM volume isn’t
+available. The system essentially snapshots your changes for backing up
+later.</p>
+
+<p>Read about it
+here <a href="http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars/18">http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars/18</a></p>
+
+<p>If you want to disable the feature and reclaim your space go in to
+<em>Terminal</em> and
+enter:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><!-- <td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td> --><td class="rouge-code"><pre>sudo tmutil disablelocal
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>**followed by return, and after entering you password and hitting return
+again, it should delete the local snapshots and free up the missing
+space.</p>
+:ET

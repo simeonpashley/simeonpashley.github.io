@@ -1,0 +1,6 @@
+I"B<p>If you’re OSX disk usage is being reported incorrectly then you’ve
+probably got caught by a Time Machine feature introduced in Apple OSX
+10.7. This typically happens where your free disk space erodes over time
+or when you delete some files and yet the disk still claims to have the
+same space usage as before.</p>
+:ET

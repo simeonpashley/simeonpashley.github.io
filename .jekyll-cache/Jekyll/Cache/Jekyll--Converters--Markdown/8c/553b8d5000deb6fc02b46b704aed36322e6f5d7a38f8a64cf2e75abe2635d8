@@ -1,0 +1,217 @@
+I"�'<p>I’ve been meaning to re-present something I did for a whole game
+development studio a while back about ‘<strong>Flow</strong>’. It instantly improved
+production and was something we held dear as a team.</p>
+
+<p>Have you ever said anything
+like:</p>
+
+<ul>
+  <li>“Wow, is it that time already?”</li>
+  <li>“Sorry, I was miles away”</li>
+  <li>“I get my best work done when everyone’s gone home!”</li>
+</ul>
+
+<p>If the answer is yes, then you’ve experienced a state of <strong>Flow</strong> and
+most likely been incredibly productive. It’s sometimes called being “in
+the zone” too among others. Here’s my take on a well-known psychological
+state and why it’s important to game developers.</p>
+
+<p>Flow is a highly productive state of mind, time slips by and you blitz
+through work, making fewer mistakes, no thought about how much effort
+your making and generally higher quality thinking goes into it too.</p>
+
+<blockquote>
+  <p>“Flow is a condition of deep, nearly meditative involvement. In this
+state, there is a gentle sense of euphoria, and one is largely unaware
+of the passage of time.” DeMarco.</p>
+</blockquote>
+
+<p>I’ve been a long time supporter of enabling people to enter this state
+of <strong>Flow</strong> and stay there so they can do their best work and enjoy it.
+It’s important for managers, colleagues, producers and businesses to
+recognise that supporting this can make a real difference to the quality
+of your game.</p>
+
+<p><img src="/assets/img/FlowTarget.png" alt="FlowTarget" title="FlowTarget" />As you settle in for a
+good working session, you slip from your Regular un-productive state
+that you sit at your desk at, through your <strong>Immersion</strong> phase into a
+state of <strong>Flow</strong> and this whole process typically takes you about 15
+minutes to get through, although it can vary from person to person.</p>
+
+<p><strong>Interruptions</strong></p>
+
+<p>We’ve recognised that the state of <strong>Flow</strong> is important and that it
+typically takes you <strong>15 minutes</strong> to get there. The problem here is
+that there are many distractions and interruptions that break your
+concentration and send you crashing back up through the layers to
+reality.</p>
+
+<p>These interruptions mean you’re now back to the start and it’s going to
+take you yet another 15 minutes to get back down there and if you’d only
+just got there then it was also a waste of your last immersion. That’s
+15 minutes lost for every interruption you get. This can be incredibly
+frustrating and it drives me insane!</p>
+
+<p>Imagine a horrible state we’re you’re constantly interrupted and never
+get into <strong>Flow</strong>.</p>
+
+<h4 id="explicit-interruptions">Explicit Interruptions</h4>
+
+<p><img src="/assets/img/800serviceinterruptiontransfer.jpg" alt="800-service-interruption-transfer" title="800-service-interruption-transfer" /></p>
+
+<ul>
+  <li>You get an email pop-up – +15 minutes</li>
+  <li>IM pops up – +15 minutes</li>
+  <li>Telephone call – +15 minutes</li>
+  <li>At desk requests - +15 minutes</li>
+  <li>‘ping’ from a new text message on your mobile - +15 minutes</li>
+  <li>Starting a long build – +15 minutes</li>
+</ul>
+
+<h4 id="implicit-interruptions">Implicit Interruptions</h4>
+
+<ul>
+  <li>Noise</li>
+  <li>Interrupting colleagues – how often does your neighbours phone go
+off?</li>
+</ul>
+
+<p>You can quickly see how this can mount up to a problem and in a bigger
+team the problem compounds itself as the people who have been
+interrupted start sending emails, pop around to someone for a chat, ask
+if you want to join them for a coffee, etc.</p>
+
+<p>There’s also a consideration for time of day too as if it’s close to
+your break/lunch/home time then you’re most likely to just not bother
+trying to get back</p>
+
+<p>I had a particular problem when I was running a team and sitting among
+them. I often had to use the phone to make or receive business calls. I
+rapidly became aware that every time I did that people stopped working
+to listen to what I was saying and I was obviously disturbing them. They
+weren’t cross, they were just interested in what I was talking about and
+often asked questions. I intended this to be transparency but I was
+causing a whole load of drag on people’s time.</p>
+
+<p>You’ll also see this happen when you approach to ask someone a question
+and the others around them drift out so they can pay attention.</p>
+
+<h3 id="mitigating-interruptions">Mitigating Interruptions</h3>
+
+<p>Here are a few things you can do to try to help
+yourself:</p>
+
+<ul>
+  <li><strong>Turn communications systems off</strong> and let everyone know why you’re
+doing it; E-Mail, IM and Phone. It’s not going to be forever and I’m
+sure your manager/lead will be happy you want to be focused.</li>
+  <li>Use your email apps <strong>Out Of Office system to auto-respond</strong> letting
+people you’ll get back to them soon. This prevents them from
+thinking you’re ignoring them for no reason.</li>
+  <li>Set your email app to <strong>only check emails every 30 mins</strong> or so. Do
+emails really need an instantaneous response?</li>
+  <li><strong>‘Zebra’ Mail</strong> - I’ve also used the email apps rules systems to
+pickup keywords in the subject line to bring an alert up. In my
+example people knew that putting the word ‘Zebra’ in the subject
+line would mean it would get my instant attention. I could also
+change the word to prevent people just using it all of the time.</li>
+  <li><strong>Put your headphones on.</strong> This seems to be the international
+symbol for Do Not Disturb plus you’ve got a damn good excuse for not
+responding to general chat as you can’t hear them! You don’t have to
+listen to music either, just pop your headphones on.</li>
+  <li><strong>Door Etiquette</strong> - If you’re fortunate to have your own office
+then adopt a door protocol such
+as: - Door Open - ready for interruption - Door ajar - priority interruptions only - Door closed - Do Not Disturb on pain of death</li>
+</ul>
+
+<p>Consider other people’s desire to be undisturbed, do you really need an
+answer to that question now?  Try and use appropriate
+communication:</p>
+
+<ul>
+  <li><strong>Time critical</strong>: voice</li>
+  <li><strong>Immediate &amp; discreet</strong>: Instant Message</li>
+  <li><strong>Can wait</strong>: e-mail</li>
+</ul>
+
+<p>Teams and Studios should support this whole way of working by being
+considerate and enabling people to work for extended periods in an
+undisturbed state.</p>
+
+<h3 id="how-long-to-stay-in-flow--exceptions">How long to stay in Flow &amp; Exceptions</h3>
+
+<p>In our game development world there are typically 2
+camps: Developers and Managers.</p>
+
+<p><strong>Developers generally need to stay focused for 2 hrs</strong> to get anything
+meaningful done and make progress. I’ve rarely seen anything take less
+than this and staying focused for more than that is difficult.</p>
+
+<p><strong>Managers are exceptions</strong> as they typically work in 20 min batches if
+they’re lucky. Their job requires constant monitoring and attention to
+others and they need to use email, phone and IM to communicate
+throughout the studio.</p>
+
+<p>People in a Lead role are caught between the two roles as they are often
+asked to both Develop and Manage. In this position they need time to do
+the work but they’re constantly interrupted and this often leads to a
+sense of immense frustration. I often see Leads spending the regular
+working hours being interrupted and attending meetings but staying late
+to do their work. It’s a tough place to be and the only advice I can
+give is to try to <strong>time-box your availability</strong> so people know which
+hat you’re wearing at any point in time.</p>
+
+<h3 id="consequences">Consequences</h3>
+
+<p>There are natural consequences of not considering Flow.</p>
+
+<p>Being mindful of it and actively supporting it improves efficiency,
+quality of work and aids progression. All of which make for happier
+Developers and a better game.</p>
+
+<p>The natural opposite of this in a world where interruptions are rife and
+people can’t work are poor performance, poor quality of work and most
+likely late delivery.</p>
+
+<p>We all know that the work still needs doing so in the latter example,
+people end up working overtime to compensate. This overtime usually
+occurs when all the interruptions are gone so people get work done.</p>
+
+<p>Strive to keep a working environment that enables people to <strong>Flow</strong> as
+often as possible.</p>
+
+<h3 id="meta-flow">Meta-Flow</h3>
+
+<p>In addition to the regular working flow I also believe there’s a concept
+of Meta Flow if we take the principles of having a continuous and
+focused train of thought about a particular subject over an extended
+period.</p>
+
+<p>This comes in to play when you’re team members are working on a
+particular item for an extended period of days, even weeks. Their mind
+is full of a single task and shouldn’t be polluted or interrupted by
+other things occurring. Think of a physics programmer being pulled off
+to do work on the rendering system only to return back to physics a
+short while later. In this scenario it makes sense for them to
+consecutively focus on Physics.</p>
+
+<h3 id="summary">Summary</h3>
+
+<p>Being aware of, honouring and supporting <strong>Flow</strong> can make a real
+difference to your game development team and therefore the game.
+Encourage everyone in your organisation to learn about it and respect
+it.</p>
+
+<p><img src="/assets/img/GodKills-e1285111180331.jpg" alt="" title="GodKills" /></p>
+
+<h4 id="further-reading">Further Reading</h4>
+
+<p>•“<a href="http://www.amazon.co.uk/gp/product/0932633439?ie=UTF8&amp;tag=gamedevelcons-21&amp;linkCode=as2&amp;camp=1634&amp;creative=19450&amp;creativeASIN=0932633439">Peopleware</a>”
+– Tom DeMarco</p>
+
+<p>•“Cringe from crossing a concentrating coder”
+<a href="http://liw.iki.fi/liw/texts/flow.en">http://liw.iki.fi/liw/texts/flow.en</a></p>
+
+<p>•“Promoting Flow in Software Development”
+<a href="http://www.davethehat.com/ot2000/unblocking.htm">http://www.davethehat.com/ot2000/unblocking.htm</a></p>
+:ET

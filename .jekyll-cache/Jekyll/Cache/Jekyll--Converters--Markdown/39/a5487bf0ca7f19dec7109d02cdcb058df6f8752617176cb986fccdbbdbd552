@@ -1,0 +1,413 @@
+I"�B<p>I wanted to share with you a presentation about <strong>Where The Money Goes</strong>
+that is received from making video games. I made this presentation a few
+years ago to a game development studio I was running at the time and I
+believe everyone found it useful and gained a better understanding of
+where the money that comes into the business goes before it pays their
+wages and why ‘when’ it comes in is important too. I’ve updated this
+post since then with more up-to-date principles, information and costs
+as I learn new things ever day.</p>
+
+<p>These are general principles that apply to any business and I’m going to
+cover the basics to hold on tight, <strong>feel free to ask me any questions
+in the comments section</strong>.</p>
+
+<h3 id="breaking-out-where-the-money-goes">Breaking out where the money goes</h3>
+
+<p>My initial motivation for writing this post was to answer a question I’d
+long since asked myself when I was starting
+out: “Why do I get paid so little when the business is getting lots of money?”. I wanted to help people understand what the business spent its money on before they got their wages. I appreciate that everyone wasn’t stupid and just thought that 100% of the money coming in went straight to wages but I think there were various pieces of the pie missing.</p>
+
+<h4 id="mid-size-studio">Mid-Size Studio</h4>
+
+<p>I’ll start with an example pie chart that includes typical costs that
+are taken out of revenue fees received for development of a game for a
+mid-size UK studio containing about 35 staff or more. Again, these are
+typical but vary depending on the nature of your business.</p>
+
+<p><img src="/assets/img/WagesGraph.png" alt="WagesGraph" title="WagesGraph" /></p>
+
+<p>Let’s walk through the components of this
+example:</p>
+
+<ul>
+  <li><strong>Wages</strong> - this is the gross salary you receive before tax and
+national insurance costs are taken off</li>
+  <li><strong>Corporate NIC</strong> - These are the National Insurance contributions a
+UK business makes in addition to the NI payments you make yourself</li>
+  <li><strong>Benefits</strong> - this is a general roll up for things such as bonus,
+pensions, healthcare, time-off in lieu and a myriad of other things</li>
+  <li><strong>Recruitment</strong> - this is the money the company pays to the
+recruitment agency that got you the job and I’ve chosen a figure I
+think is typical. It’s typically a one-off payment made when you
+pass your probation period. This figure obviously varies massively
+depending on the deal your employer has and may not even exist if
+you applied direct.</li>
+</ul>
+
+<p>We then have 2 more figures that scale with your business but we’ll
+assume that they apply in a linear fashion for this example</p>
+
+<ul>
+  <li><strong>Business Costs</strong> - this figure of 40% is typical and includes a
+whole host of costs that <strong>I’ll go into later.</strong> Needless to say
+that if there’s only 1 of you then it’s going to be 100% cost
+against your salary.</li>
+  <li><strong>Platform Fee</strong> - many platforms such as Apple, Sony, Microsoft all
+take 30% of the revenue received as a platform fee. It’s a way for
+them to recoup the costs of developer support, administration,
+marketing and whatever else they consider worthy. I’ve taken this
+30% and applied it directly to your salary as a ‘tax’ to show the
+amount of money required to pay your wages.</li>
+</ul>
+
+<p>Using these figures, your salary comes in at 39% of gross revenue, i.e.,
+<strong>for every £1 you earn the game needs to earn £2.55</strong>.</p>
+
+<p>Lets take an array of price points a game may sell at to find out how
+many games you’d need to sell for you to get £1 and also an example
+salary of £36,000.</p>
+
+<p><strong>Price Point</strong></p>
+
+<p><strong>Unit Sales to get your £1</strong></p>
+
+<p><strong>Unit Sales to get £36k salary</strong></p>
+
+<p>£39.99</p>
+
+<p>0.06</p>
+
+<p>2,294</p>
+
+<p>£19.99</p>
+
+<p>0.13</p>
+
+<p>4,589</p>
+
+<p>£9.99</p>
+
+<p>0.26</p>
+
+<p>9,182</p>
+
+<p>£4.99</p>
+
+<p>0.51</p>
+
+<p>18,382</p>
+
+<p>£1.99</p>
+
+<p>1.28</p>
+
+<p>46,094</p>
+
+<p>£0.59</p>
+
+<p>4.32</p>
+
+<p>155,471</p>
+
+<p>As we can see, if let unchecked typical business costs could easily
+career out of control and result in a game never breaking even.</p>
+
+<h4 id="lean-studio">Lean Studio</h4>
+
+<p>Of course not every studio is like this so lets take a further example
+of a ‘lean studio’ where all the costs are as thin as possible and I’d
+assume this is typical of a micro or nano studio of employees, not
+self-employed people.</p>
+
+<p><img src="/assets/img/LeanBusiness.png" alt="LeanBusiness" title="LeanBusiness" /></p>
+
+<p>Blitzing through the points about we get to a salary taking up 59% of
+the revenue or in other words <strong>for every £1 you earn the game needs to
+earn £1.72</strong>. This figure is obviously much lower because all the costs
+have been stripped out.</p>
+
+<p>Again, using the same format as before we can arrive at some figures for
+how many units you’d need to sell to break-even and get your money back.</p>
+
+<hr />
+
+<div>             **Unit Sales to get your £1**   **Unit Sales to get £36k salary**
+
+**Price Point**
+
+  </div>
+
+<p>£39.99 0.04 1,545</p>
+
+<p>£19.99 0.09 3,090</p>
+
+<p>£9.99 0.17 6,184</p>
+
+<p>£4.99 0.34 12,380</p>
+
+<p>£1.99 0.86 31,043</p>
+
+<p>£0.59 2.91 104,705</p>
+
+<hr />
+
+<p>Stripping away the costs obviously means you need to sell fewer games to
+get the same amount of cash in your pocket at the end of the day.</p>
+
+<p>I know I keep saying this but there are so many variables at play and
+they apply to different components at different rates and these are
+indicative numbers only but it doesn’t take long to get these figures
+for any game, studio or business and I have a myriad of tools to capture
+and expose these costs as well as work out what the break-even unit
+sales and costs are for numerous platforms.</p>
+
+<p>E.g., How many units of a game would you need to sell on iPhone to
+break-even?</p>
+
+<h3 id="business-costs">Business Costs</h3>
+
+<p>There’s a large chunk of they money that goes into a mysterious pot
+called ‘business costs’ and this little section includes everything that
+the business pays for outside of salary costs. Lets take a look at a
+list of the obvious
+ones:</p>
+
+<h4 id="project-costs">Project Costs</h4>
+
+<p>First, lets take a look through some typical costs that come in at the
+project level and are duplicated for every project the studio
+undertakes:</p>
+
+<ul>
+  <li><strong>I.T. Rentals</strong> - this is the cost of the hardware &amp; software you
+use every day to make the
+game: desktop machines, laptops, monitors,
+dev kits, art packages, IDEs, etc.</li>
+  <li><strong>Middleware</strong> - if you use any licensed software such as Unreal,
+Unity, Scaleform, SpeedTree or anything else like this.</li>
+  <li><strong>Outsourcing</strong>: Art, Anim, Audio - these are other costs for the
+work done by people outside of your studio</li>
+  <li><strong>QA</strong> - engaging people to test your game costs money, whether it
+be £50 to your friend or employing 100+ people to get your game from
+Alpha to Master</li>
+  <li><strong>Materials</strong> - all the other bits &amp; pieces you
+consume: blank
+media, pens, paper, ink for the printer, books, reference games,
+etc.</li>
+  <li><strong>Travel</strong> - travel to see publishers, marketing events or trade
+shows all costs money.</li>
+  <li><strong>Training</strong> - now you’re at the event you probably need a ticket to
+get in, or maybe a specific training course</li>
+  <li><strong>Subsistence -</strong> maybe you’re old skool and get some Pizzas in
+during crunch, maybe you like to take the team out on occasion or
+even just a Christmas party.</li>
+  <li><strong>Agent fees</strong> - some companies use agents to help them get their
+games signed up to publishers and deals are typically based on a
+percentage of gross revenue and 10% is a typical value.</li>
+</ul>
+
+<h4 id="studio-costs">Studio Costs</h4>
+
+<p>Secondly, the studio itself costs money to run if you’re making 20 games
+or even if you’re not making any games at all!</p>
+
+<ul>
+  <li><strong>Office space</strong> - the space itself costs money to rent, plus
+there’s local taxes, insurance and all sorts of maintenance you’ll
+be needing</li>
+  <li><strong>Utilities -</strong> internet, electric, water and the air-con for your
+server room need to keep on being delivered for you to keep going</li>
+  <li><strong>Equipment -</strong> desks, chairs, servers, shelves, whiteboards,</li>
+  <li><strong>Management -</strong> larger studios have people who don’t actually make
+the games on the front line but are still there and for corporations
+these include people you’ll probably never see including CEOs,
+Studio Managers, Production, IT, Office Admin, Finance, Marketing,
+etc.</li>
+  <li><strong>Sales</strong> - The studio needs to sell both itself and it’s games with
+personal visits, trade show attendance and maybe adverts in trade
+magazines for recruitment.</li>
+  <li><strong>Events</strong> – Does your studio have events to celebrate key
+milestones being passed? Summer Events? Christmas Parties?</li>
+  <li><strong>Legal &amp; Finance</strong> - Maybe you need to use accountants to run
+through your figures or audit your returns? Business contracts need
+a valid legal pass over them that usually involves engaging a
+specialised lawyer. If you’re working on long international
+contracts then maybe you need to dabble in Forward Exchange rates?</li>
+  <li><strong>Miscellaneous</strong> - There’s a myriad of small costs such as postage,
+blackberry fees, free fruit, etc.</li>
+</ul>
+
+<h4 id="tick-all-that-apply">Tick All That Apply</h4>
+
+<p>The items listed above are ones I typically find and look for in a games
+business but just like us, they’re all very unique and the costs vary
+wildly and in some cases may not apply at all depending on how the
+business is setup.</p>
+
+<h3 id="when-the-money-comes-in">When The Money Comes In</h3>
+
+<p>So far we’ve covered a broad range of topics about where the money goes
+so lets work through some examples of When The Money Comes In as this is
+critical for any business, whether you’re making games or anything else.</p>
+
+<p>In my experience, the lack of understanding and focus on <strong>Cash Flow</strong>
+is what kills businesses very quickly and is particularly important for
+<strong>Work For Hire</strong> studios who rely on doing work and getting paid for it
+so they can in turn pay their bills.</p>
+
+<p>Here’s an example timeline for a work-for-hire studio when they send
+their milestone after spending 1 month working on it and considering
+typical contracted dates for payment terms that happens in an ideal
+world. The reality is that these dates slip on both sides but we’ll
+cover that later.</p>
+
+<p>We can see that it can be typically <strong>at least 45  days before any
+payment is received</strong> and for those paying attention this is <strong>after
+your next monthly salary run.</strong> Even in an idealistic world, this causes
+strains on the businesses cash flow.</p>
+
+<hr />
+
+<p><strong>Days</strong> <strong>Event</strong></p>
+
+<p>-30 <strong>Milestone 1 work in progress</strong> for 30 calendar days</p>
+
+<p>0 <strong>MS 1 Submitted</strong> on this date starting a chain  of events</p>
+
+<p>15 <strong>MS 1 approved</strong>, purchase<span style="vertical-align: baseline; language: en-gb; mso-ascii-font-family: constantia; mso-color-index: 13; mso-font-kerning: 12.0pt; mso-text-raise: 0%;"> order raised &amp; invoiced</span></p>
+
+<p>30 MS 2 Submitted</p>
+
+<p>45 <strong>MS 1 Revenue <span style="vertical-align: baseline; language: en-gb; mso-ascii-font-family: constantia; mso-color-index: 13; mso-font-kerning: 12.0pt; mso-text-raise: 0%;">received</span></strong>
+<span style="vertical-align: baseline; language: en-gb; mso-ascii-font-family: constantia; mso-color-index: 13; mso-font-kerning: 12.0pt; mso-text-raise: 0%;">MS 2 Approved</span></p>
+
+<p>60 MS 3 Submitted</p>
+
+<p>75 MS 2 Revenue received
+MS 3 Approved</p>
+
+<hr />
+
+<h4 id="delayed-revenue">Delayed Revenue</h4>
+
+<p>I’m sure you can imagine the cascading effect of slipping dates anywhere
+in
+here: slipped delivery, delayed approval or late payment can all bring a business to it’s knees very quickly.</p>
+
+<p>Diving a little deeper we can see the effect of delaying revenue by 1
+month on a business that’s expecting consistent monthly revenue.</p>
+
+<p>Here’s what this example should look like where the money is received
+consistently, no slips, no delays and everything is perfect.</p>
+
+<hr />
+
+<p>Revenue
+Costs
+Net Profit
+Acc Profit</p>
+
+<hr />
+
+<p>Now lets take this and delay 1 of the payments by 1 month and we can see
+the dramatic effect this has on the business as it’s forced to support
+all the costs without any money in the bank to do so.</p>
+
+<p>This is what happens when <strong>Milestones slip by 1 month</strong> and I’m sure
+you can imagine what happens if this keeps slipping and slipping with
+the studio <strong>incurring more costs with no more revenue coming in</strong>, just
+the figure that was promised. If the studio doesn’t have enough cash in
+the bank then this could be fatal.</p>
+
+<hr />
+
+<p>Revenue
+Costs
+Net Profit
+Acc. Profit</p>
+
+<hr />
+
+<h4 id="increased-costs">Increased Costs</h4>
+
+<p>Taking a slightly different view we can see the effect of the project
+costs increasing in Month 1 resulting in the studio spending all it’s
+money just paying the bills. Since the profit isn’t increasing the
+buffer isn’t building up so if there’s any late delivery then it’s
+curtains for the project and it could be for the studio.</p>
+
+<p>This can happen when the team size increased to cope with late delivery
+or scope increases without a corresponding increase in the revenues.</p>
+
+<hr />
+
+<p>Revenue
+Costs
+Net Profit
+Acc. Profit</p>
+
+<hr />
+
+<p><strong>Forward Planning</strong></p>
+
+<p>I believe I’ve said this a few times by now but business costs can vary
+immensely depending on the structure of your business and the working
+relationships you have with your partners.</p>
+
+<p>Being <strong>predictable and reliable is a core part of running a business</strong>
+as it’s easier to deal with issues if you can expect them upfront and I
+believe this is a <strong>critical skill for good business managers</strong> to have.</p>
+
+<p>This predictability becomes absolutely key if you work within a listed
+company as this is typically more important than making a profit or a
+loss; <strong>anticipating this, communicating it and hitting the expectations
+is how these companies become successful</strong>. Amazingly, if you predict or
+are expected to make a loss and then you make a profit this can be
+potentially bad as it means you don’t have a good grasp on your
+business. The city is a complex area and people can make money even if
+you lose, <strong>hitting expectations is key</strong>.</p>
+
+<p>Growing your business and having a <strong>large volume of work brings with it
+an economy of scale</strong> as the fixed costs of running the projects is
+spread across a larger revenue stream. However, large volumes of work
+also need more effort and support so it’s a matter of getting the
+balance right and choosing a level that you’re comfortable with.</p>
+
+<p>Making profit isn’t just about buying yourself a Ferrari, although that
+could happen one day. Your business will probably need the banked profit
+some day to get through an inevitable sticky patch.</p>
+
+<p>Profitability also brings with it <strong>more flexibility in what you do</strong> as
+you can afford to speculate and take risks on projects that may be even
+more profitable for you but it’s no great loss if you end up breaking
+even.</p>
+
+<h3 id="summary">Summary</h3>
+
+<p>I’ve covered a lot of finance related topics at a very high level in
+this post and there’s obviously more too it than a simple blog post can
+cover but I believe it’s a great introduction to the business that pays
+many of our wages.</p>
+
+<p>Not everyone wants to run an ever expanding studio as the size incurs
+it’s own increasing risks and stress to go with it. Striking a balance
+you’re happy with is important, for some it’s a 1-man game making games
+in their study and this low overhead, low turnover business can actually
+reap more financial rewards let alone making the owner very happy that
+they are in total control of their own destiny and lifestyle.</p>
+
+<p>I’ll spare you the details of the more complex areas of corporate
+finance including EBITDAR, COGS, SG&amp;A, CAPEX, gearing and leverage but
+feel free to ask.</p>
+
+<p>I hope you’ve found this useful and I welcome any questions in the
+comments section and I’ll answer what I can.</p>
+
+<h4 id="how-does-your-business-tick">How Does Your Business Tick?</h4>
+
+<p>I’d love to hear your experiences and get an understanding for what
+makes all of your businesses tick, why not drop a post in the comments
+section?</p>
+
+<p>Thanks.</p>
+:ET

@@ -1,0 +1,43 @@
+I"y	<p>There are a few things I discovered this week worth noting:</p>
+
+<ul>
+  <li><a href="#-docker-empty-volumes"><a name="a1"></a> Docker empty volumes</a></li>
+  <li><a href="#starting-react"><a name="a2"></a>Starting React</a></li>
+  <li><a href="#profile-refresh"><a name="a3"></a>Profile refresh</a>
+    <ul>
+      <li><a href="#debug">Debug</a></li>
+    </ul>
+  </li>
+</ul>
+
+<!-- more -->
+
+<h2 id="-docker-empty-volumes"><a name="a1"></a> Docker empty volumes</h2>
+
+<p>Earlier in the week I moved all projects stored on my laptop into a new directory to get them out of my <em>User</em> directory to adhere to our internal project storage policy.</p>
+
+<p>[Docker] started behaving oddly, mounted volumes &amp; paths were now empty on the host. The folder existed on the image but none of the files mapped from my laptop were there anymore.</p>
+
+<p>It took a long while to figure out that the issue was specific to the paths themselves. What I had completely forgotten was that [Docker] on Windows/Mac can <strong>only see below your home directory</strong>. Therefore mapping ‘~/projectX/www’ worked fine but <code class="language-plaintext highlighter-rouge">/projects/projectX/www</code> didn’t.</p>
+
+<p>I tried to symlink the folder beneath the <code class="language-plaintext highlighter-rouge">~</code> directory but that didn’t work as Docker resolved the path back to its original home.</p>
+
+<p>As I write, the projects are now back under my home directory and Docker is now back working again!</p>
+
+<h2 id="starting-react"><a name="a2"></a>Starting React</h2>
+
+<p>After enjoying building iOS apps recently with [React Native] I thought I’d take the plunge and migrate our new internal project from [Laravel] /PHP over to [React] &amp; [NodeJS]. It feels like a great match for the project objectives too.</p>
+
+<h2 id="profile-refresh"><a name="a3"></a>Profile refresh</h2>
+
+<p>I took a little time out to refresh this site and also my LinkedIn profile to update them a little to reflect changes. My LinkedIn profile was heavily focused on my career in video games that ended in 2010 so it was long due a re-vamp.</p>
+
+<p><a href="http://www.docker.com">docker</a>
+<a href="https://facebook.github.io/react/">react</a>
+<a href="https://facebook.github.io/react-native/">react native</a>
+<a href="https://nodejs.org/">nodejs</a>
+<a href="http://www.docker.com">laravel</a></p>
+
+<h3 id="debug">Debug</h3>
+
+:ET

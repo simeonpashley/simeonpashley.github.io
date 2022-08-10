@@ -1,0 +1,43 @@
+I"�
+<p>Recently when I was trying to run <code class="language-plaintext highlighter-rouge">brew update</code> on my Mac I was hitting errors that claimed I had uncommitted changes to my local brew and yet I hadn’t made any changes. It didn’t matter what I did, the changes would not revert and the errors would not go away.</p>
+
+<!-- more -->
+
+<p><code class="language-plaintext highlighter-rouge">brew doctor</code> revealed there were uncommitted changes so I followed the fix instructions to no avail.</p>
+
+<p>The problem turned out to be caused by line-endings that were being modified due to my local <code class="language-plaintext highlighter-rouge">~/.gitattributes</code>.</p>
+
+<p>Making the global fix commonly recommended on stackoverflow.com didn’t help, due to my local settings over-riding the settings.</p>
+
+<p>This didn’t work:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><!-- <td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td> --><td class="rouge-code"><pre>git config <span class="nt">--global</span> core.autocrlf <span class="nb">false</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Reverting all local changes to brew after adding any necessary changes to <code class="language-plaintext highlighter-rouge">~/.gitattributes</code> for the line-endings / binary:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><!-- <td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+</pre></td> --><td class="rouge-code"><pre><span class="nb">cd</span> /usr/local/Library
+git <span class="nb">rm</span> <span class="nt">--cached</span> <span class="nt">-r</span> <span class="nb">.</span>
+git reset <span class="nt">--hard</span> origin/master
+git status
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p><code class="language-plaintext highlighter-rouge">git rm --cached -r .</code> will remove all local files preparing your local directory to accept the correct attributes.</p>
+
+<p><code class="language-plaintext highlighter-rouge">git reset --hard origin/master</code> pulls all changes back in</p>
+
+<p><code class="language-plaintext highlighter-rouge">git status</code> should now say:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><!-- <td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td> --><td class="rouge-code"><pre>On branch master
+Your branch is up-to-date with <span class="s1">'origin/master'</span><span class="nb">.</span>
+nothing to commit, working directory clean
+</pre></td></tr></tbody></table></code></pre></div></div>
+:ET
