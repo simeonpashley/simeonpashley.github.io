@@ -4,6 +4,8 @@ node_modules/
 _drafts/
 bower_components
 .jekyll-metadata
+.jekyll-cache
 .asset-cache
 .DS_Store
 vendor/bundle
+_posts/.jekyll-cache

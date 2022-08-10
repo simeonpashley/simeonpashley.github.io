@@ -11,6 +11,10 @@
   "bugs": {
     "url": "https://github.com/cotes2020/jekyll-theme-chirpy/issues"
   },
+  "scripts": {
+    "w": "bundle exec jekyll s --incremental",
+    "build": "bundle exec jekyll s"
+  },
   "homepage": "https://github.com/cotes2020/jekyll-theme-chirpy#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
