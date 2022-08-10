@@ -1,0 +1,23 @@
+---
+title: Starting out with Klipper for 3D Printing
+date: 2021-12-24 20:33:00
+categories: [3DPrinting]
+tags: [github, repo, 3dprinting, klipper]
+---
+
+My first commit for my [Klipper](https://github.com/Klipper3d/klipper) / [Mainsail](https://github.com/mainsail-crew/mainsail) config to a public Github repo.
+
+https://github.com/simeonpashley/klipper_config/
+
+Hardware:
+
+- [Rasberry Pi 3B](https://amzn.to/3bHxYIr)
+
+Built on:
+
+- [Home Assistant](https://www.home-assistant.io)
+- [MQTT - Mosquitto](https://mosquitto.org)
+- [Zigbee2mqtt](https://www.zigbee2mqtt.io)
+- [Mariadb](https://mariadb.org)
+- [ESPHome](https://esphome.io)
+- [Node-RED](https://nodered.org) - more sophisticated automations

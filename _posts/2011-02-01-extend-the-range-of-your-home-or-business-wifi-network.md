@@ -1,28 +1,11 @@
 ---
 title: Extend the Range of your Home or Business Wifi Network
 date: 2011-02-01 11:32:45
-
-description:
-
-slider_style: sample.css
-slide_redirect_url: http://ringalpha.com/blog/extend-the-range-of-your-home-or-business-wifi-network/
 ---
 
 I am sometimes asked how to extend the range of your home or business
 Wifi network using cheap hardware and the ADSL Router your ISP gave you
 for free and I wanted to share with you my tips.
-
-<div style="float: left;">
-
-</div>
-
-<div style="float: left;">
-
-</div>
-
-<div style="clear:both">
-
-</div>
 
 <div class="note">
 

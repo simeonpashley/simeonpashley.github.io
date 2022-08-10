@@ -101,7 +101,7 @@ Jenkins.
 
 ### Add a new Build Job
 
--- **New Job** http://localhost:8080/view/All/newJob
+-- **New Job** `http://localhost:8080/view/All/newJob`
 -- **Job Name**: _ProjectName_
 -- **Type**: Build a free-style software project
 -- **OK**

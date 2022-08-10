@@ -1,10 +1,8 @@
 ---
-
 title: Early days
 date: 2010-10-16 18:34:30
+---
 
-slider_style: sample.css
-slide_redirect_url: http://ringalpha.com/blog/early-days/---
 Over the last few weeks I've been ramping up my efforts to get my teeth
 into all these prototypes I've got milling around, most of which are
 linked from my homepage. They work but they're not really manageable or
