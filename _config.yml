@@ -47,7 +47,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/simeonpashley # change to your github homepage
-    - https://twitter.com/simeonpashley # change to your twitter homepage
+    # - https://twitter.com/simeonpashley # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -58,7 +58,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-CDNJSEZP9F
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
