@@ -1,12 +1,16 @@
 ---
 layout: post
 title: "From Gaming to Enterprise Architecture: Lessons in Adaptability"
-date: 2023-07-01 12:00:00 +0000
+date: 2023-07-01
 author: "Simeon Pashley"
 tags: [Gaming, Enterprise Architecture, Career Transition, Adaptability]
+home_preview: "What do gaming and enterprise architecture have in common? More than you might think. Discover how creative problem-solving, resilience, and transferable skills can transcend industries. In this article, I share my journey from crafting immersive gaming experiences to designing enterprise systems, offering lessons in adaptability that can help you thrive in any career transition. Ready to unlock your potential? Dive in and learn how to turn challenges into opportunities!"
+
 ---
 
-Discover how the creativity and technical challenges of the gaming industry laid the foundation for a dynamic career in enterprise architecture. From transferable skills to lifelong learning, this journey offers lessons in adaptability and innovation that apply across industries.
+## Bridging Creativity and Strategy in a Changing World
+
+In a world where industries are evolving at breakneck speed, the ability to combine creative problem-solving with strategic thinking is a critical differentiator. My journey from developing engaging gaming experiences to designing enterprise systems demonstrates how creativity and adaptability can transcend industry boundaries. In this article, I’ll share the lessons I’ve learned about applying user-focused design principles, fostering innovation, and aligning technology with business objectives. Whether you’re a technical professional, a leader seeking transformation, or someone striving to future-proof your career, this article offers actionable insights for thriving in an ever-changing professional landscape.
 
 {% include toc.html %}
 

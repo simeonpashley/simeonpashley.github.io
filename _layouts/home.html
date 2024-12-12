@@ -50,11 +50,18 @@ layout: page
     </h1>
 
     <div class="post-content">
-      <p>
+      {% if post.home_preview.size > 0 %}
+      <p class="no-preview-height-limit">
+      
+        {{ post.home_preview | markdownify | strip_html | escape }}
+      </p>
+      {% else %}
+      <p class="preview-height-limit">
         {% include no-linenos.html content=post.content %}
         {{ content | markdownify | strip_html | truncate: 200 | escape }}
       </p>
-    </div>
+    {% endif %}
+  </div>
 
     <div class="post-meta text-muted d-flex">
       <div class="mr-auto">

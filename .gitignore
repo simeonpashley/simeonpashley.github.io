@@ -25,3 +25,6 @@ package-lock.json
 # Misc
 _sass/dist
 assets/js/dist
+gpt_instructions.md
+posted.json
+todo.md

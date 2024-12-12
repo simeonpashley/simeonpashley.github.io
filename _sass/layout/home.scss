@@ -1,7 +1,7 @@
 /*
   Style for Homepage
 */
-@forward "addon/module";
+@forward 'addon/module';
 
 .pagination {
   color: var(--btn-patinator-text-color);
@@ -50,9 +50,12 @@
     &:last-child .page-link {
       border-radius: 50%;
     }
-  } // .page-item
+  }
 
-} // .pagination
+  // .page-item
+}
+
+// .pagination
 
 #post-list {
   margin-top: 1rem;
@@ -94,11 +97,15 @@
       > p {
         /* Make preview shorter on the homepage */
         margin: 0;
-        overflow: hidden;
-        text-overflow: ellipsis;
         display: -webkit-box;
-        -webkit-line-clamp: 2;
-        -webkit-box-orient: vertical;
+
+        &.preview-height-limit {
+          overflow: hidden;
+          text-overflow: ellipsis;
+          line-clamp: 2;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+        }
       }
     }
 
@@ -113,9 +120,12 @@
         display: none;
       }
     }
+  }
 
-  } // .post-preview
-} // #post-list
+  // .post-preview
+}
+
+// #post-list
 
 /* Hide SideBar and TOC */
 @media all and (max-width: 830px) {
@@ -126,9 +136,7 @@
       &:not(:first-child):not(:last-child) {
         display: none;
       }
-
     }
-
   }
 }
 
@@ -166,15 +174,14 @@
         width: 2rem;
         height: 2rem;
       }
-
     }
 
     .page-index {
       display: none;
     }
+  }
 
-  } // .pagination
-
+  // .pagination
 }
 
 /* Pannel hidden */
