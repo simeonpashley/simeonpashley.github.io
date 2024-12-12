@@ -201,9 +201,8 @@ fi;
 ### Specific filename
 
 ```sass
-@import
-  "colors/light-typography",
-  "colors/dark-typography"
+@use  "colors/light-typography";
+@use  "colors/dark-typography";
 ```
 {: file='_sass/jekyll-theme-chirpy.scss'}
 

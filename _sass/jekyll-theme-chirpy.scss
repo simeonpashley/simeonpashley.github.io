@@ -6,7 +6,17 @@
  * MIT Licensed
  */
 
-@import "colors/light-typography", "colors/dark-typography", "addon/module",
-  "addon/variables", "variables-hook", "addon/syntax", "addon/commons",
-  "layout/home", "layout/post", "layout/tags", "layout/archives",
-  "layout/categories", "layout/category-tag", "sp-custom";
+@use "colors/light-typography";
+@use "colors/dark-typography";
+@use "addon/module";
+@use "addon/variables";
+@use "variables-hook";
+@use "addon/syntax";
+@use "addon/commons";
+@use "layout/home";
+@use "layout/post";
+@use "layout/tags";
+@use "layout/archives";
+@use "layout/categories";
+@use "layout/category-tag";
+@use "sp-custom";

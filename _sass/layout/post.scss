@@ -1,6 +1,8 @@
 /*
   Post-specific style
 */
+@use "addon/module" as mod;
+@forward "addon/commons";
 
 @mixin btn-sharing-color($light-color, $important: false) {
   @if $important {
@@ -20,10 +22,6 @@
   content: "\2022";
   padding-left: $pl;
   padding-right: $pr;
-}
-
-%text-color {
-  color: var(--text-color);
 }
 
 h1 + .post-meta {
@@ -167,7 +165,7 @@ nav[data-toggle=toc] {
 
 #related-posts {
   > h3 {
-    @include label(1.1rem, 600);
+    @include mod.label(1.1rem, 600);
   }
 
   em {
@@ -307,7 +305,7 @@ nav[data-toggle=toc] {
 } /* .share-wrapper */
 
 .share-label {
-  @include label(inherit, 400, inherit);
+  @include mod.label(inherit, 400, inherit);
 
   &::after {
     content: ":";

@@ -36,9 +36,6 @@ url: ""
 github:
   username: simeonpashley # change to your github username
 
-twitter:
-  username: simeonpashley # change to your twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -99,26 +96,11 @@ pageviews:
 #
 theme_mode: # [light|dark]
 
-# The CDN endpoint for images.
-# Notice that once it is assigned, the CDN url
-# will be added to all image (site avatar & posts' images) paths starting with '/'
-#
-# e.g. 'https://cdn.com'
-# img_cdn: "https://raw.githubusercontent.com/cotes2020/chirpy-images/main"
-
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/logo/head2022.jpg"
+avatar: "assets/img/logo/head2022.jpg"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
-
-comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
-  # The active options are as follows:
-#     light — Use the light color scheme
-#     dark — Use the dark color scheme
-#
-theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -127,15 +109,9 @@ theme_mode: # [light | dark]
 # e.g. 'https://cdn.com'
 cdn:
 
-# the avatar on sidebar, support local or CORS resources
-avatar:
-
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
-
-# boolean type, the global switch for TOC in posts.
-toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
@@ -178,9 +154,6 @@ pwa:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 10
-
-# The base URL of your site
-baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 

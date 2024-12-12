@@ -6,9 +6,9 @@ date: 2015-10-11 18:36:45
 
 There are a few things I discovered this week worth noting:
 
-- [<a name="a1"></a> Docker empty volumes](#-docker-empty-volumes)
-- [<a name="a2"></a>Starting React](#starting-react)
-- [<a name="a3"></a>Profile refresh](#profile-refresh)
+- [ Docker empty volumes](#-docker-empty-volumes)
+- [Starting React](#starting-react)
+- [Profile refresh](#profile-refresh)
   - [Debug](#debug)
 
 {% include toc.html %}

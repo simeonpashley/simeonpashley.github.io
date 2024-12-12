@@ -2,29 +2,31 @@
 * The syntax highlight.
 */
 
-@import "colors/light-syntax";
-@import "colors/dark-syntax";
+@use "colors/light-syntax" as light;
+@use "colors/dark-syntax" as dark;
+@use "addon/module" as mod;
+@use "variables" as vars;
 
 html {
   @media (prefers-color-scheme: light) {
     &:not([data-mode]),
     &[data-mode=light] {
-      @include light-syntax;
+      @include light.light-syntax;
     }
 
     &[data-mode=dark] {
-      @include dark-syntax;
+      @include dark.dark-syntax;
     }
   }
 
   @media (prefers-color-scheme: dark) {
     &:not([data-mode]),
     &[data-mode=dark] {
-      @include dark-syntax;
+      @include dark.dark-syntax;
     }
 
     &[data-mode=light] {
-      @include light-syntax;
+      @include light.light-syntax;
     }
   }
 }
@@ -69,7 +71,7 @@ $code-radius: 6px;
 
   pre {
     margin-bottom: 0;
-    font-size: $code-font-size;
+    font-size: vars.$code-font-size;
     line-height: 1.4rem;
     word-wrap: normal; /* Fixed Safari overflow-x */
   }
@@ -108,7 +110,7 @@ code {
   hyphens: none;
 
   &.highlighter-rouge {
-    font-size: $code-font-size;
+    font-size: vars.$code-font-size;
     padding: 3px 5px;
     word-break: break-word;
     border-radius: 4px;
@@ -271,7 +273,7 @@ div {
 @media all and (max-width: 576px) {
   .post-content {
     > div[class^='language-'] {
-      @include ml-mr(-1.25rem);
+      @include mod.ml-mr(-1.25rem);
 
       border-radius: 0;
 
