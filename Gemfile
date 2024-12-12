@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 7.1", ">= 7.1.1"
-gem 'sass-embedded', '1.54.9'
+gem 'sass-embedded', '~> 1.82'
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
