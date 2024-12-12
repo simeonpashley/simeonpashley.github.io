@@ -46,14 +46,14 @@ Pretty good; plenty of experience with a variety of games and platforms.
 
 **Communication skills [poor, average, good]**
 
-English wasn’t excellent, but he got his point across very well
+English wasn't excellent, but he got his point across very well
 nonetheless.  He was quite verbose and not at all shy about talking,
 which is a good sign.
 
 **In your opinion will the candidate fit in with the team i.e. team
 dynamics?**
 
-I can’t see why not.
+I can't see why not.
 
 **In your opinion can the company satisfy the candidates career
 aspirations?**
@@ -97,13 +97,13 @@ Yes, this was asked about specifically.
 
 **Overall summary of the interview:**
 
-If I’m honest, the interview was hastily held (due to Jose turning up
-unannounced) so there wasn’t the time to prepare appropriate technical
+If I'm honest, the interview was hastily held (due to Jose turning up
+unannounced) so there wasn't the time to prepare appropriate technical
 questions for him.  As such, we can only make an assessment based on
 what he had to say about his roles elsewhere.
 
-Given how much he has moved around over the past few years, I’d be
-concerned how long he might stick around, especially if he’s dumped
+Given how much he has moved around over the past few years, I'd be
+concerned how long he might stick around, especially if he's dumped
 straight onto a deathmarch project.
 
 He will need relocation expenses paid.
@@ -132,13 +132,13 @@ and send for approval (cc to HR)**
 
 Jose would add value to the team and the studio, bringing much knowledge
 about building AI systems from the ground up.  I have a few reservations
-about whether he’s an ideal candidate, but we have to take a few risks
+about whether he's an ideal candidate, but we have to take a few risks
 to ensure we build up a solid team for the future.
 
 I suggest we bring him in somewhere in the middle of his desired salary
 range, offer to pay relocation expenses, subject to him repaying them
 pro-rata if he leaves within 12 months, and have him on a 6 month
-probation period.  He’d probably come in as a grade 8 or 9.  To start
+probation period.  He'd probably come in as a grade 8 or 9.  To start
 early June.
 
 **Additional comments from Interviewer on suitability of candidate to be

@@ -19,7 +19,7 @@ As organisations adopt cloud computing, AI, and other cutting-edge technologies,
 Architectural standards are the set of principles, guidelines, and protocols that govern how technology is developed, deployed, and maintained within an organisation. They ensure consistency, interoperability, and reliability across systems, reducing risks and inefficiencies.
 
 ### Understanding Architectural Roadmaps
-Roadmaps, on the other hand, provide a clear, step-by-step plan for achieving an organisation’s desired future state. They act as a bridge between current capabilities and long-term goals, offering a visualisation of how different technological initiatives align with the organisation’s strategy.
+Roadmaps, on the other hand, provide a clear, step-by-step plan for achieving an organisation's desired future state. They act as a bridge between current capabilities and long-term goals, offering a visualisation of how different technological initiatives align with the organisation's strategy.
 
 Together, these elements form the foundation for successful digital transformation. They create a shared vision for technology investments and ensure that efforts are aligned with business priorities.
 
@@ -30,7 +30,7 @@ Together, these elements form the foundation for successful digital transformati
 Architectural standards offer a multitude of benefits, enabling organisations to innovate faster while maintaining operational stability.
 
 ### 1. **Scalability**
-Scalability is one of the most critical factors in today’s fast-paced business environment. Standardising architectural components—such as APIs, microservices, or database schemas—ensures that systems can grow seamlessly with increased demand. For example, a cloud-native architecture that adheres to industry standards can easily scale resources up or down, reducing downtime and improving performance.
+Scalability is one of the most critical factors in today's fast-paced business environment. Standardising architectural components—such as APIs, microservices, or database schemas—ensures that systems can grow seamlessly with increased demand. For example, a cloud-native architecture that adheres to industry standards can easily scale resources up or down, reducing downtime and improving performance.
 
 - **Trade-Off**: While standardisation simplifies scaling, it can also limit flexibility. Custom solutions may be sacrificed in favour of universal frameworks, potentially creating challenges for unique business needs.
 

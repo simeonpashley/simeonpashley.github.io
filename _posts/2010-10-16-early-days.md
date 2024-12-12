@@ -30,7 +30,7 @@ forwards.
 
 **Hardware**
 I code everything on a Mac Mini now and my PC hasn't been on for many
-months. My PC is faster and I prefer W7 to OSX but it's also true that
+months. My PC is faster and I prefer W7 to MacOS but it's also true that
 it's a damn sight noisier, consumes more power and I can't make iOS apps
 on it \*but\* I can do everything on a Mac. I never thought I'd be in
 the Apple camp but needs must.

@@ -16,8 +16,8 @@ One word of
 caution: when choosing the best designer for your business, never choose based on price alone. While price can be one indicator of whether the designer meets your budget needs, you may unfortunately get what you pay for, which will certainly cost you more in the long run. Hire the best designer you can afford to avoid this common and expensive
 mistake.
 
-Of course, paying top dollar does not guarantee you’ll get the best
-designer either. So let’s consider the top 5 qualities to look for in
+Of course, paying top dollar does not guarantee you'll get the best
+designer either. So let's consider the top 5 qualities to look for in
 choosing the best website designer for your
 business:
 
@@ -32,16 +32,16 @@ business:
 Unfortunately, all website designers can create graphic design for your
 business website, but not all are professionals. Professionalism seems
 to be fading as more and more website designers jump on the freelance
-bandwagon to get their share of the buying public’s money. Simply
-claiming to be the best is not good enough.  Doesn’t everyone claim they
+bandwagon to get their share of the buying public's money. Simply
+claiming to be the best is not good enough.  Doesn't everyone claim they
 provide the best services at the best prices? So pay close attention to
 other important signs,
 including:
 
 - Is the business web design company interested in specifically what
-  elements you’ll need on your website for growth, or are you herded
+  elements you'll need on your website for growth, or are you herded
   into their client group and given a select number of templates to
-  choose from that look like everyone else’s?
+  choose from that look like everyone else's?
 - Is the business web designer prepared to take the time to determine
   your target audience?
 - Are they interested in your overall business goals?
@@ -49,7 +49,7 @@ including:
   willing to learn, in order to trounce the competition?
 - IS the design company responsive when you call or send an e-mail? If
   it takes 2 days for them to return your call just to discuss the
-  project, what will happen after they’ve gotten your money?
+  project, what will happen after they've gotten your money?
 - Does the designer talk in terms of the future- how they will support
   your needs or continue to work with and maintain your business
   website once is completed?
@@ -58,7 +58,7 @@ including:
 
 Basically, a picture does speak a thousand words. The best website
 designers will have a portfolio of successful sites.  So ask questions.
-Seek references. Visit websites they’ve created. Notice the page ranking
+Seek references. Visit websites they've created. Notice the page ranking
 with the search engines.
 
 **Experience**

@@ -34,11 +34,11 @@ to maintain the equilibrium required for the stock market.
 
 I found running a business of more than 30-40 people tough and
 impersonal, all sorts of middle management are required to run the
-business and there’s a constant demand for new work to fill in the work
-that’s being completed right now. It’s easier to break it down into
+business and there's a constant demand for new work to fill in the work
+that's being completed right now. It's easier to break it down into
 multiple projects and sub-teams, all of which have their own management
 structure.
 
-I think the Micro developer model is the right one for today’s market,
+I think the Micro developer model is the right one for today's market,
 expand when you need to with the right knowledge and expertise and keep
 things simple.

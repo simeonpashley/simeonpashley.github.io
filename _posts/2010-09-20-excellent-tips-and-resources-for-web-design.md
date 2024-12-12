@@ -46,7 +46,7 @@ resolutions.](http://www.smartwebby.com/web_site_design/designing_websites_for_a
 
 ## Make Your Site Compatible with all Browsers
 
-The big name browsers make up 95% of the world’s browsers. If your
+The big name browsers make up 95% of the world's browsers. If your
 design is compatible with them, you are in great shape. If you need
 help, read this article on [making your site cross browser compatible in
 5 easy

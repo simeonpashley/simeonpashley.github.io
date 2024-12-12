@@ -8,7 +8,7 @@ description: It's nice to get comments on games made ages ago
 ---
 
 I always get a warm fuzzy feeling when I get to know that people enjoyed
-the games I made all those years ago...in todays world it's relatively
+the games I made all those years ago...in today's world it's relatively
 easy to find people who were previously shrouded in mystery and you
 could never reach them.
 

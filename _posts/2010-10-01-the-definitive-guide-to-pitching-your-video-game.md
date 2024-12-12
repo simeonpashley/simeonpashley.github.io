@@ -302,7 +302,7 @@ and memorable.
 
 ![image](/assets/img/image21.png "image")
 
-Here’s a **Storyboard** that we could use to describe the action of a
+Here's a **Storyboard** that we could use to describe the action of a
 Survival Horror featuring Close-Quarter Intense Fights, Interactive
 World and Highly Intelligent Opponents in one go. Read through and I'm
 sure you'll agree it's a lot more exciting and compelling than a
@@ -341,7 +341,7 @@ bottom: 0px;
 color: #fff; font-weight: bold;
 left: 0.5em;">
 
-“This is show business, not show friends” - Jerry Maguire
+"This is show business, not show friends" - Jerry Maguire
 
 </div>
 
@@ -356,7 +356,7 @@ left: 0.5em;">
 As we've seen on Dragon's Den many times there are 2 main aspects to a
 deal: the **Emotional** side where the buyer is **figuring out if they like the Idea** (including the Team making it) and the **Practical** business needs. There are many times on DD where the idea is great but the Dragon's just don't like the person pitching the idea.
 
-They’ll be asking the following
+They'll be asking the following
 questions:
 
 - Is there an audience for it?

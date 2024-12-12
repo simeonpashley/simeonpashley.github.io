@@ -47,7 +47,7 @@ In-Browser Tools complete with Firefox Extensions, Coding and
 Programming, Frameworks, Bookmarks, and Layouts in this very helpful
 article.
 
-5\. [Web-developer’s Handbook](http://www.alvit.de/handbook/)
+5\. [Web-developer's Handbook](http://www.alvit.de/handbook/)
 
 This is an amazing site for both beginners and advanced users of CSS. It
 has everything from getting your creative juices flowing to tools and
@@ -80,7 +80,7 @@ browsers as well as gives CSS techniques that work with any browser.
 9\. [CSS Tutorials from Html.net](http://www.html.net/tutorials/css/)
 
 This site provides free tutorials for building a CSS website. Plus, it
-gives an explanation on how CSS works and what it is. Don’t want to wade
+gives an explanation on how CSS works and what it is. Don't want to wade
 through English instructions? Choose to read the tutorials in your
 native tongue with translation options that include Dutch, Arabic,
 French, Spanish, and much more.

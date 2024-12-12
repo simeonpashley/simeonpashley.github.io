@@ -1,5 +1,5 @@
 ---
-title: 20 years of a Video Game Developer’s Career – Part 3
+title: 20 years of a Video Game Developer's Career – Part 3
 date: 2010-08-25 11:45:13
 
 tags: ["career"]

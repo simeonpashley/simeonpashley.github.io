@@ -59,7 +59,7 @@ storing back-up tapes under direction of IT, Richard will appoint cover
 for when he is absent.
 
 2.6.  All software install media to be stored by Studio Manager (staff
-to hand over any install discs that are ‘loose’)
+to hand over any install discs that are 'loose')
 
 2.7.  Exec Producer(s) and Project Manager(s) will have IT helpdesk
 accounts and be responsible for logging IT requests from their staff. 
@@ -121,7 +121,7 @@ delivery.
 
 7.3.  Keep desks reasonably tidy
 
-7.4.  Don’t ‘store’ food / drink etc. anywhere but in the kitchen
+7.4.  Don't 'store' food / drink etc. anywhere but in the kitchen
 
 7.5.  Tea, coffee, sugar and milk will be provided by the company. 
 Whoever uses the last of the milk will need to buy more (and claim cost
@@ -134,7 +134,7 @@ Manager if tea, coffee or sugar supplies are running low.
 
 8.1.  Please answer the phone when it rings
 
-8.2.  Say ‘ – how may I help you?’ or similar with appropriate upbeat,
+8.2.  Say ' – how may I help you?' or similar with appropriate upbeat,
 professional telephone manner!
 
 8.3.  Find out who is calling and check that the person requested can

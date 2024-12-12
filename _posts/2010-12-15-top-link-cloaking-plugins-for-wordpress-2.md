@@ -34,7 +34,7 @@ change throughout your site for you.
 
 [W-Shadow](http://w-shadow.com/blog/2007/07/28/link-cloaking-plugin-for-wordpress/comment-page-10/)
 
-“Slightly Advanced Computer Stuff (and some magic),” according to
+"Slightly Advanced Computer Stuff (and some magic)," according to
 W-Shadow. This link cloaking plugin for WordPress will cloak your
 outgoing
 when.
@@ -55,7 +55,7 @@ free upgrades.
 [Instant WordPress
 Link](http://www.instantwordpresslink.com/?id=7777778)
 
-This plugin specializes in “in-text” advertising. With Instant WordPress
+This plugin specializes in "in-text" advertising. With Instant WordPress
 Link, you can count clicks, style custom
 conversion, shorten URLs, and much more. Created by the well-known
 plugin developer, Tricks and Tips HQ, Instant WordPress Link is one that

@@ -1,5 +1,5 @@
 ---
-title: 20 years of a Video Game Developer’s Career – Part 2
+title: 20 years of a Video Game Developer's Career – Part 2
 date: 2010-08-19 18:26:54
 
 tags: ["career"]
@@ -21,7 +21,7 @@ games were being made wouldn't change too much and we all know how wrong
 that assumption was.
 
 I'm not going to talk specifically about [the games I've
-made](http://gamedevconsulting.blogspot.com/p/softography.html) as that information is available in lots of other places but but more about my career so far.
+made](http://gamedevconsulting.blogspot.com/p/softography.html) as that information is available in lots of other places but more about my career so far.
 
 ![](/assets/img/AmigaInsertWorkbench-300x257.gif "AmigaInsertWorkbench")In
 response to some comments on the 1st part I thought I'd embellish on
@@ -86,7 +86,7 @@ So, all of our game files obviously had to be compressed and this took
 quite a while to do on the relatively slow systems we had too. The tools
 we built on PC were entirely custom made and we had our own compression
 routines based on generally available ones, which were specialised to
-accomodate the specific needs of bitmaps, audio and level data.
+accommodate the specific needs of bitmaps, audio and level data.
 
 #### The alternative use of compression
 

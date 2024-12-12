@@ -1,5 +1,5 @@
 ---
-title: 20 years of a Video Game Developer’s Career – Part 4
+title: 20 years of a Video Game Developer's Career – Part 4
 date: 2010-09-17 17:07:44
 
 tags: ["career", "history", "LinkedIn"]

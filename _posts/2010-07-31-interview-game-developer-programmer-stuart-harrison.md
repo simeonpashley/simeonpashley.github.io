@@ -52,7 +52,7 @@ progression!
 
 If I knew I'd be doing it!
 
-#### What’s the most frustrating thing when developing a game?
+#### What's the most frustrating thing when developing a game?
 
 I've been doing it so long it's no longer a frustrating experience (I
 prefer "challenging") - but the most challenging aspects are trying to
@@ -62,7 +62,7 @@ fixable and has to be scrapped entirely. I'm sure the same is true of
 all creative industries - think of all the film footage that must end up
 on the cutting room floor...
 
-#### What’s the most satisfying thing when you’ve finished developing a game (or even during)?
+#### What's the most satisfying thing when you've finished developing a game (or even during)?
 
 Seeing it on a shelf in a store - I will sometimes pop in to Game (or
 whatever) and see what kinds of people will pick it up off a shelf and
@@ -118,11 +118,11 @@ both male and female, of all ages (but mainly younger). Again, this is
 one of those questions that if I knew the formula for, I'd be out there
 doing it...
 
-#### Have you ever had any projects that you cancelled? If so, why?
+#### Have you ever had any projects that you canceled? If so, why?
 
-No. I've been on projects that I thought should be cancelled and they
+No. I've been on projects that I thought should be canceled and they
 never were. I've been on projects where I practically pleaded for the
-opportunity to complete and they were cancelled anyway. Sometimes there
+opportunity to complete and they were canceled anyway. Sometimes there
 seems to be no logic to this. Fortunately I've never been put in the
 situation of having to make that (oftentimes) illogical decision.
 

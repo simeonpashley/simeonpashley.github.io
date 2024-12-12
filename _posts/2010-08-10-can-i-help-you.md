@@ -49,7 +49,7 @@ great and demand some attention and are obviously destined for great
 things. It's these that I particularly like getting engaged with as the
 relationship is typically rewarding for both parties.
 
-And sometimes, things are succesful despite everything telling you the
+And sometimes, things are successful despite everything telling you the
 contrary.
 ![](/assets/img/jedward-fail1.JPG "Jedward")
 

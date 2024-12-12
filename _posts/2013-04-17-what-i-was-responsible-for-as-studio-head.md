@@ -18,13 +18,13 @@ developed by a balanced high caliber motivated team.
 **Corporate**
 
 1.  Manage the studio as a profitable business unit.
-2.  Develop the studio’s Strategy working with the CEO for approval by
+2.  Develop the studio's Strategy working with the CEO for approval by
     the board.
-3.  Develop the studio’s Brand strategy working with the CEO for
+3.  Develop the studio's Brand strategy working with the CEO for
     approval by the board.
-4.  Develop the studio’s BP working with the FD & CEO for approval by
+4.  Develop the studio's BP working with the FD & CEO for approval by
     the board.
-5.  Execute against the BP including responsibility for the studio’s
+5.  Execute against the BP including responsibility for the studio's
     financial performance.
 6.  Agree accounts with F&A in advance of monthly studio board meeting.
 7.  Complete the studio report for monthly studio board meeting.
@@ -37,7 +37,7 @@ developed by a balanced high caliber motivated team.
 **Production**
 
 1.  Execute the timely, profitable, high quality delivery of all the
-    studio’s projects.
+    studio's projects.
 2.  Manage the staff within the studio including team/project
     allocation, take direct responsibility for key team member
     selection. Ensure authority and responsibility is properly delegated
@@ -59,7 +59,7 @@ developed by a balanced high caliber motivated team.
 10. Provide customer marketing and PR assets in a timely, high quality
     fashion.
 11. Evangelise the products within their publisher and to the consumer.
-    Maintain interaction with any title’s player community.
+    Maintain interaction with any title's player community.
 
 **Business Development**
 
@@ -69,7 +69,7 @@ developed by a balanced high caliber motivated team.
     existing customers.
 3.  Ensure that the studio is professional, open and honest in all its
     relationships.
-4.  Ensure that all new business is within the studio’s Strategy and
+4.  Ensure that all new business is within the studio's Strategy and
     complements the Brand strategy.
 5.  Ensure that the studio has sufficient workflow.
 6.  Prepare pitches, concepts and prototypes as agreed with CEO.
@@ -79,13 +79,13 @@ developed by a balanced high caliber motivated team.
 10. Provide marketing & PR assets in a timely, high quality fashion, to
     the BDM following the processes laid out by the BDD.
 11. Provide timely assets to support the up to date maintenance of the
-    company’s website to the BDM.
+    company's website to the BDM.
 12. Initiate and develop sales opportunities, work with the BDM & CEO on
     qualifying, prioritising and closing opportunities.
 13. Provide the BDM with timely accurate sales updates.
 14. Support the BDM to open new relationships and opportunities.
-15. Support group and other studio’s business development activities.
-16. Maintain awareness of the external perception of the studio’s brand.
+15. Support group and other studio's business development activities.
+16. Maintain awareness of the external perception of the studio's brand.
 17. Execute on the brand strategy.
 18. Agree the BD budget for the studio with BDM and FD.
 19. Execute on BD tasks within the agreed budget.
@@ -129,7 +129,7 @@ developed by a balanced high caliber motivated team.
 **IT**
 
 1.  Operate within the processes laid out by the IT Department.
-2.  Ensure the studio’s staff operates within IT policies/practices.
+2.  Ensure the studio's staff operates within IT policies/practices.
 3.  Agree the IT budget for the studio (not the projects) with ITM & FD.
 4.  Execute on IT tasks within the agreed budget.
 

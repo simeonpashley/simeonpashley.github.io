@@ -854,11 +854,11 @@ Plugins](/assets/img/How-to-install-Wordpress-Plugins-300x134.jpg)
   <http://wordpress.org/extend/plugins/usc-e-shop/>
 - **WooCommerce - excelling eCommerce**
   <http://wordpress.org/extend/plugins/woocommerce/>
-- **WordPress Simple Paypal Shopping Cart**
+- **WordPress Simple PayPal Shopping Cart**
   [http://wordpress.org/extend/plugins/...shopping-cart/](http://wordpress.org/extend/plugins/wordpress-simple-paypal-shopping-cart/)
-- **WordPress Ultra Simple Paypal Shopping Cart**
+- **WordPress Ultra Simple PayPal Shopping Cart**
   [http://wordpress.org/extend/plugins/...shopping-cart/](http://wordpress.org/extend/plugins/wp-ultra-simple-paypal-shopping-cart/)
-- **WordPress Ultra Simple Paypal Shopping Cart**
+- **WordPress Ultra Simple PayPal Shopping Cart**
   [http://wordpress.org/extend/plugins/...shopping-cart/](http://wordpress.org/extend/plugins/wp-ultra-simple-paypal-shopping-cart/)
 - **WP Auctions** <http://wordpress.org/extend/plugins/wp-auctions/>
 - **WP e-Commerce**
@@ -1099,11 +1099,11 @@ Plugins](/assets/img/How-to-install-Wordpress-Plugins-300x134.jpg)
   <http://wordpress.org/extend/plugins/player/>
 - **WordPress Video Plugin**
   [http://wordpress.org/extend/plugins/...-video-plugin/](http://wordpress.org/extend/plugins/wordpress-video-plugin/)
-- **Workbox Video from Vimeo & Youtube Plugin**
+- **Workbox Video from Vimeo & YouTube Plugin**
   [http://wordpress.org/extend/plugins/...outube-plugin/](http://wordpress.org/extend/plugins/workbox-video-from-vimeo-youtube-plugin/)
 - **WP Video Posts**
   <http://wordpress.org/extend/plugins/wp-video-posts/>
-- **WP Youtube channel gallery**
+- **WP YouTube channel gallery**
   [http://wordpress.org/extend/plugins/...annel-gallery/](http://wordpress.org/extend/plugins/wp-youtube-channel-gallery/)
 - **WP YouTube Player**
   <http://wordpress.org/extend/plugins/wp-youtube-player/>
@@ -1111,9 +1111,9 @@ Plugins](/assets/img/How-to-install-Wordpress-Plugins-300x134.jpg)
   <http://wordpress.org/extend/plugins/youtube-embed-plus/>
 - **YouTube Channel**
   <http://wordpress.org/extend/plugins/youtube-channel/>
-- **Youtube Channel Gallery**
+- **YouTube Channel Gallery**
   [http://wordpress.org/extend/plugins/...annel-gallery/](http://wordpress.org/extend/plugins/youtube-channel-gallery/)
-- **Youtube Channel Plugin**
+- **YouTube Channel Plugin**
   [http://wordpress.org/extend/plugins/...nnel-showcase/](http://wordpress.org/extend/plugins/youtube-channel-showcase/)
 
 ### WYSIWYG Editor

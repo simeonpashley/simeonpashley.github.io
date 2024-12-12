@@ -9,7 +9,7 @@ entrepreneurs operating within the creative industries. I attended at
 
 Most new ventures fail within the first three years and most failures
 are related to poor management. The average life span of an
-entrepreneurial venture in this country is only 24 months. It’s at this
+entrepreneurial venture in this country is only 24 months. It's at this
 point that a poorly conceived business strategy begins to ship water. 
 _Building the Creative Business_ is an integrative programme that
 concentrates on the general management challenges facing founders and
@@ -25,7 +25,7 @@ The course asks the following questions
 - How will we recruit, reward, motivate and retain them?
 - Is our current team up to it? Am I?
 - How do we finance the business to take the opportunities?
-- Will the wheels fall off when I don’t control everything myself?
+- Will the wheels fall off when I don't control everything myself?
 - Am I building capital value or have I condemned myself to being a
   wage slave for life?
 
@@ -147,8 +147,8 @@ _Oliver Rivers_
 **Course Director** John Bates is Director of the Foundation for
 Entrepreneurial Management and Adjunct Professor of Entrepreneurship at
 London Business School. Over the last seven years, he has built up the
-school’s practical initiatives in developing entrepreneurial firms,
-including £12m of ‘pre-seed’ and ‘seed’ capital funds and various
+school's practical initiatives in developing entrepreneurial firms,
+including £12m of 'pre-seed' and 'seed' capital funds and various
 networks of entrepreneurs, advisors and investors associated with London
 Business School. John has been teaching and developing courses at London
 Business School since 1985, while also starting up and running two
@@ -185,15 +185,15 @@ Other clients include Polygram and the media buying group Aegis (Carat).
 <div>
 
 **Strategy faculty** Dominic Houlder is Adjunct Associate Professor in
-London Business School’s Strategic and International Management subject
+London Business School's Strategic and International Management subject
 area, and Associate Dean for the Sloan Fellowship Programme. At London
 Business School, he lectures on strategy, values and corporate
 transformation across Masters Degree and Executive Education programmes,
-and won the School’s Distinguished Faculty Contribution Award for 2002
+and won the School's Distinguished Faculty Contribution Award for 2002
 and Teaching Award for 2003. He has been a member of the teaching team
 on custom programmes for EMAP, Diageo and Electronic Arts, directs
 partner-level programmes for Pricewaterhouse Coopers, and led the
-Directors’ Forum, a learning-as-theatre experience to help develop
+Directors' Forum, a learning-as-theatre experience to help develop
 non-executive directors on the boards of public companies. Dominic has
 also advised the Secretary of State and Permanent Secretary at the
 Department of Culture, Media and Sport on strategic issues.
@@ -208,7 +208,7 @@ Department of Culture, Media and Sport on strategic issues.
 
 **Finance faculty** member Chris Higson is a Visiting Associate
 Professor of Accounting at London Business School, where he was formerly
-Chair of the Accounting Group and director of the School’s Financial
+Chair of the Accounting Group and director of the School's Financial
 Seminar for Senior Managers. He has degrees in philosophy and economics
 from University College London, and has a doctorate in finance from
 London Business School; he is also a chartered accountant and worked for

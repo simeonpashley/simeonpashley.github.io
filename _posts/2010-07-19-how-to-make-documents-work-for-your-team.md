@@ -7,15 +7,14 @@ tags: ["production"]
 description: All video game development need documents and here are some tips to ensure your documents are read, acted on and kept up-to-date.
 ---
 
-All video game production projects need documents, whether it’s a four
+All video game production projects need documents, whether it's a four
 page description for an iPhone game, Xbox Live Indie Game, Flash game or
 a 65-doc library for a AAA multi-million selling game on PS3, X360 and
 every other platform. On all video game development projects, similar
-problems come
-up: people don’t read docs, people read docs but find them
-confusing, docs don’t get updated or the updates don’t get acted on.
+problems come up: people don't read documentation, people read documentation but find them
+confusing, documentation don't get updated or the updates don't get acted on.
 Fortunately, there are some ways you, as a game designer (or as
-whoever’s writing a doc) can help.
+whoever's writing a doc) can help.
 
 ### Make it readable
 
@@ -38,7 +37,7 @@ than it has to be.
 ### Make it navigable
 
 Make a studio doc template and stick to it (within reason - a sports
-game and a beat 'em up are going to need different docs, but they'll
+game and a beat 'em up are going to need different documentation, but they'll
 both need a UI section and there's no reason that section shouldn't
 always be at the end and always run in roughly the same order. Help the
 poor sound designer who's just been shuffled onto his third project in
@@ -55,7 +54,7 @@ writing their first design doc to have a skeleton to fill in.
 If you really do have to have a big doc and you want to make it quick to
 flick through, put a navigation bar at the bottom of the page, with the
 appropriate section highlighted to show where you are (this is a five
-minute job if you use Word’s section tools and put it in the footer).
+minute job if you use Word's section tools and put it in the footer).
 That way you can thumb through the doc flickbook style and stop when you
 see what you want. For extra points, make it actually operate like a
 navigation bar on a website and skip you to the start of each section if
@@ -126,11 +125,11 @@ This leads on to English (or whatever language your dev team has agreed
 to work in). Designers (and other doc writers - don't forget the
 Technical Design Doc author) aren't necessarily great
 writers: in terms of technical English (spelling, grammar, punctuation) or writing clearly and in an easy-to-read style. And that's not necessarily a
-problem: \*except\* when it comes to design docs. Don't get the wrong idea
+problem: \*except\* when it comes to design documentation. Don't get the wrong idea
 here: good writing skills don't make someone a good designer, and
 I'd much rather a designer have fantastic ideas but be unable to express
 them than have no ideas but great communication skills. Most designers
-on a large team don’t have to write docs. But for the ones who do have
+on a large team don't have to write documentation. But for the ones who do have
 to, writing skills \*are\* important because for every word they write,
 potentially 60-100 people are going to read it. Luckily, writing skills
 are easy to assess and easy to learn. I give a basic English test (a
@@ -151,7 +150,7 @@ helpful:
 
 ### Updating
 
-Docs need to be updated constantly, to keep them in line with the
+documentation need to be updated constantly, to keep them in line with the
 design, at least until you reach whatever your agreed 'the design is now
 locked' stage and start using change control. Call out changes so that
 people don't have to read the doc itself, if you possibly can. Do a
@@ -173,7 +172,7 @@ Effects: New 3D ambient effects added - MORE DETAIL SEE (_link_)
 
 ### Version Control
 
-Keep docs under version control and have a change control section at the
+Keep documentation under version control and have a change control section at the
 start where you list everything that's changed in the latest version.
 Yes, this will get long. If you're doing the update email as described
 above, you can cut and paste the same text and

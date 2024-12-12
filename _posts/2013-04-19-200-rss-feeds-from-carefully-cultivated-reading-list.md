@@ -130,7 +130,7 @@ everything that's going on around your favourite websites.
 \*\*Related
 
 - Pocket - <http://getpocket.com/>
-- [Feedly: Your Google Reader, Youtube, Google News, RSS News Reader -
+- [Feedly: Your Google Reader, YouTube, Google News, RSS News Reader -
   DevHD](https://itunes.apple.com/gb/app/feedly-your-google-reader/id396069556?mt=8&uo=4)
 
 </div>

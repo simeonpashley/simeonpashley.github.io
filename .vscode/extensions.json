@@ -1,3 +1,6 @@
 {
-  "recommendations": ["ginfuru.ginfuru-vscode-jekyll-syntax"]
+  "recommendations": [
+    "ginfuru.ginfuru-vscode-jekyll-syntax",
+    "streetsidesoftware.code-spell-checker"
+  ]
 }

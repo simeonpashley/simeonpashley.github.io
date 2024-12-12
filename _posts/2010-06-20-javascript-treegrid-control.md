@@ -21,8 +21,8 @@ How to hire a great graphic designer – Business Insider War Room –
 
 jbgallery is a UI widget webpage written in javascript on top of the
 jQuery library. Its function is to show a single big image, multiple
-images, multiple galleries, slideshows, as a site’s background, in a
-“dialog” mode or as a common pop-up. –
+images, multiple galleries, slideshows, as a site's background, in a
+"dialog" mode or as a common pop-up. –
 [Link](http://maxb.net/scripts/jbgallery-2.0/).
 
 30 web based applications useful for web designers –
@@ -40,12 +40,12 @@ Be a CSS Team
 Player: CSS Best Practices for Team-Based Development
 
 By Emily P. Lewis.
-“How many times have you picked up a project that someone else started,
-only to discover that the creator’s original code is a mess?
+"How many times have you picked up a project that someone else started,
+only to discover that the creator's original code is a mess?
 
 Or you work with several team members, each of whom has their own
 way writing code? Or you revisit a project you created years ago, and
-you don’t remember what you were thinking?…”
+you don't remember what you were thinking?…"
 
 <http://msdn.microsoft.com/en-us/scriptjunkie/ff679957.aspx>
 

@@ -40,7 +40,7 @@ should be a pretty close estimate of your time and costs. It is always
 better to estimate high. Projects almost always take longer than you
 think they will.
 
-**Don’t reduce your price to get business**
+**Don't reduce your price to get business**
 The clients that want to pay close to nothing for your valuable work
 will not be easy clients to work for anyway. As you build a name for
 yourself, you will find clients who are more than willing to pay a

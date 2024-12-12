@@ -41,7 +41,7 @@ demoscene groups as I started to really push what was possible on the ST
 as I desperately tried to prove the ST was just as capable as the Amiga
 (which it wasn't). For those of you on the scene I wrote tracker
 players, full-screen scrollers, bitmap emulators, hi-colour displays,
-border busters, highly optimised sprite renderers and much much more.
+border busters, highly optimised sprite renderers and much more.
 All of which emulated what could be achieved easily in hardware on the
 Amiga but I had to try very hard and be inventive to get the same out of
 the weedy ST. Everything I knew was entirely self-taught.

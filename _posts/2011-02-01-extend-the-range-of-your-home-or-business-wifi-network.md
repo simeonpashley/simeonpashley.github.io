@@ -87,7 +87,7 @@ with firmware v2.2 and it's a breeze.
 
 - [D-Link DWL-2100AP - 108Mbps Super G 802.11G Wireless Access
   Point](http://www.amazon.co.uk/gp/product/B00019EYVG?ie=UTF8&tag=gamedevelcons-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B00019EYVG)
-- **OPTIONAL - Netgear GS108 8-port Gigabit Hub**
+- **OPTIONAL - NETGEAR GS108 8-port Gigabit Hub**
   The 2100AP sadly only has 1 network port so you'll need a little
   network hub if you want to connect more than 1 device to the
   endpoint.

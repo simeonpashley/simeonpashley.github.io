@@ -19,38 +19,38 @@ this:
 
 - 9am – be creative and passionate when you punch in
 - 12pm – stop being creative and thinking about your art.
-- 1pm – start being creative again, now, you’ve only got 4.5hrs
+- 1pm – start being creative again, now, you've only got 4.5hrs
   remaining
 - 5.30pm – stop thinking, park your creativity, go home, disconnect
 - rinse and repeat.
 
 <!-- more -->
 
-What happens if I’m on the brink of a brilliant discovery at 17:15 and I
+What happens if I'm on the brink of a brilliant discovery at 17:15 and I
 need that extra bit of time but I have to leave at 17:30?
 
 I would argue that this simply suits a certain time of person and that
-person isn’t into making games they love, they’re looking for a job
-churning out mundane average “product”. Something to do to get paid for
-and keep them off the streets, something they don’t have to think about
-and get emotionally invested in. Maybe they’ve been burned out and are
-looking for an easy life, 9-5 does have it’s appeal sometimes.
+person isn't into making games they love, they're looking for a job
+churning out mundane average "product". Something to do to get paid for
+and keep them off the streets, something they don't have to think about
+and get emotionally invested in. Maybe they've been burned out and are
+looking for an easy life, 9-5 does have it's appeal sometimes.
 
 A corporate culture like this will ultimately mean that the business
-itself becomes a function of it’s indoctrined staff, a reflection of the
+itself becomes a function of it's indoctrined staff, a reflection of the
 people who work there and the ones who made the decision to make it like
-this. This may succeed for a time but I can only guess that it won’t
+this. This may succeed for a time but I can only guess that it won't
 last forever.
 
 Now, I am absolutely not advocating disregarding Working Time
-Regulations and forcing people to work every hour of the day. I’m not
+Regulations and forcing people to work every hour of the day. I'm not
 saying to over-burden people so they have no choice.
 
-What I am saying is that people don’t think and contribute in this
-prescribed manner, people change, some people are so into what they’re
-doing that they want to work weekends anyway, you just can’t stop them.
-Sometimes you have an off day and haven’t got an idea in your head.
-You’re fundamentally being told that caring about what you do isn’t what
+What I am saying is that people don't think and contribute in this
+prescribed manner, people change, some people are so into what they're
+doing that they want to work weekends anyway, you just can't stop them.
+Sometimes you have an off day and haven't got an idea in your head.
+You're fundamentally being told that caring about what you do isn't what
 your employer is looking for and the consequence of this is that you
 will find another outlet.
 

@@ -8,7 +8,7 @@ description: I've watched many developers and people make the wrong decisions th
 ---
 
 Well, the inevitable has happened and by the time you're reading this
-I'll have travelled 250 miles to start the next phase of game
+I'll have traveled 250 miles to start the next phase of game
 development career in Guildford, the hub of game development in the UK.
 This prompted me to reflect on how things have gone over the last few
 years and what advice I can give.

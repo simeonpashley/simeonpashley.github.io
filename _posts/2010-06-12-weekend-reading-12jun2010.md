@@ -22,7 +22,7 @@ Know](http://astore.amazon.co.uk/gamedevelcons-21?_encoding=UTF8&node=6) section
 You can view more of Antony's computer graphic work via his online blog
 & portfolio <http://www.ant-online.co.uk/>
 
-Or contact him via twitter @ant_ward or his tips section @3dtwips
+Or contact him via Twitter @ant_ward or his tips section @3dtwips
 
 I also look forward to learning from you too via comments,
 [feedback](/contact) and having [your articles](/write-for-us) appear

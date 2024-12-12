@@ -15,9 +15,9 @@ announce](http://news.cnet.com/8301-1035_3-10389463-94.html) it was releasing a 
 TV](http://www.engadget.com/2010/05/20/sony-internet-tv-platform-is-first-with-google-tv-dish-adobe-and/),
 it's a fair guess that it's running a variant of **Android**.
 
-> “I am delighted to announce the unique alignment of Google’s rapidly
-> growing, open source **Android** platform with Sony’s unparalleled
-> expertise in the field of TV design and technology.” - Sony’s
+> "I am delighted to announce the unique alignment of Google's rapidly
+> growing, open source **Android** platform with Sony's unparalleled
+> expertise in the field of TV design and technology." - Sony's
 > Chairman, CEO and President, Sir Howard Stringer
 
 In addition to this alignment there's also lots of rumours about things

@@ -21,20 +21,20 @@ know your site, it will be able to spot spam with even more efficiency.
 
 [Bad](http://www.google.com/url?q=http%3A%2F%2Fwww.bad-behavior.ioerror.us%2F&sa=D&sntz=1&usg=AFQjCNHOzYWGDyy3ePVAhgevVVu8PFXIiA)[](http://www.google.com/url?q=http%3A%2F%2Fwww.bad-behavior.ioerror.us%2F&sa=D&sntz=1&usg=AFQjCNHOzYWGDyy3ePVAhgevVVu8PFXIiA)[Behavior](http://www.google.com/url?q=http%3A%2F%2Fwww.bad-behavior.ioerror.us%2F&sa=D&sntz=1&usg=AFQjCNHOzYWGDyy3ePVAhgevVVu8PFXIiA)
 
-This spam filter vows to slow the “flood” of spam by stopping them
-before they even get sent. In their own words, “Bad Behavior also
+This spam filter vows to slow the "flood" of spam by stopping them
+before they even get sent. In their own words, "Bad Behavior also
 transcends other link spam solutions by working in a completely
 different, unique way. Instead of merely looking at the content of
 potential spam, Bad Behavior analyzes the delivery method as well as the
 software the spammer is using. In this way, Bad Behavior can stop spam
-attacks even when nobody has ever seen the particular spam before.”
+attacks even when nobody has ever seen the particular spam before."
 
 [Defensio](http://www.google.com/url?q=http%3A%2F%2Fdefensio.com%2F&sa=D&sntz=1&usg=AFQjCNEGYlsqlJkYlPyGDPscgdnd9brnpQ)
 
 Defensio not only acts as a spam filter, it also blocks malicious
 content and filters profanity and unwanted URLs. This is clearly a
 one-stop shop for creating a cleaner blog environment. Powered
-by[Websense](http://www.google.com/url?q=http%3A%2F%2Fwww.websense.com%2Fcontent%2FThreatSeeker.aspx&sa=D&sntz=1&usg=AFQjCNGAfhmbgSishdDtSrMjmIpbOFJ-wQ)[‘](http://www.google.com/url?q=http%3A%2F%2Fwww.websense.com%2Fcontent%2FThreatSeeker.aspx&sa=D&sntz=1&usg=AFQjCNGAfhmbgSishdDtSrMjmIpbOFJ-wQ)[s](http://www.google.com/url?q=http%3A%2F%2Fwww.websense.com%2Fcontent%2FThreatSeeker.aspx&sa=D&sntz=1&usg=AFQjCNGAfhmbgSishdDtSrMjmIpbOFJ-wQ)[](http://www.google.com/url?q=http%3A%2F%2Fwww.websense.com%2Fcontent%2FThreatSeeker.aspx&sa=D&sntz=1&usg=AFQjCNGAfhmbgSishdDtSrMjmIpbOFJ-wQ)[ThreatSeeker](http://www.google.com/url?q=http%3A%2F%2Fwww.websense.com%2Fcontent%2FThreatSeeker.aspx&sa=D&sntz=1&usg=AFQjCNGAfhmbgSishdDtSrMjmIpbOFJ-wQ)[](http://www.google.com/url?q=http%3A%2F%2Fwww.websense.com%2Fcontent%2FThreatSeeker.aspx&sa=D&sntz=1&usg=AFQjCNGAfhmbgSishdDtSrMjmIpbOFJ-wQ)[Network](http://www.google.com/url?q=http%3A%2F%2Fwww.websense.com%2Fcontent%2FThreatSeeker.aspx&sa=D&sntz=1&usg=AFQjCNGAfhmbgSishdDtSrMjmIpbOFJ-wQ), Defensio is supported by most platforms including WordPress.
+by[Websense](http://www.google.com/url?q=http%3A%2F%2Fwww.websense.com%2Fcontent%2FThreatSeeker.aspx&sa=D&sntz=1&usg=AFQjCNGAfhmbgSishdDtSrMjmIpbOFJ-wQ)['](http://www.google.com/url?q=http%3A%2F%2Fwww.websense.com%2Fcontent%2FThreatSeeker.aspx&sa=D&sntz=1&usg=AFQjCNGAfhmbgSishdDtSrMjmIpbOFJ-wQ)[s](http://www.google.com/url?q=http%3A%2F%2Fwww.websense.com%2Fcontent%2FThreatSeeker.aspx&sa=D&sntz=1&usg=AFQjCNGAfhmbgSishdDtSrMjmIpbOFJ-wQ)[](http://www.google.com/url?q=http%3A%2F%2Fwww.websense.com%2Fcontent%2FThreatSeeker.aspx&sa=D&sntz=1&usg=AFQjCNGAfhmbgSishdDtSrMjmIpbOFJ-wQ)[ThreatSeeker](http://www.google.com/url?q=http%3A%2F%2Fwww.websense.com%2Fcontent%2FThreatSeeker.aspx&sa=D&sntz=1&usg=AFQjCNGAfhmbgSishdDtSrMjmIpbOFJ-wQ)[](http://www.google.com/url?q=http%3A%2F%2Fwww.websense.com%2Fcontent%2FThreatSeeker.aspx&sa=D&sntz=1&usg=AFQjCNGAfhmbgSishdDtSrMjmIpbOFJ-wQ)[Network](http://www.google.com/url?q=http%3A%2F%2Fwww.websense.com%2Fcontent%2FThreatSeeker.aspx&sa=D&sntz=1&usg=AFQjCNGAfhmbgSishdDtSrMjmIpbOFJ-wQ), Defensio is supported by most platforms including WordPress.
 
 [Spam](http://www.google.com/url?q=http%3A%2F%2Fshwsite.org%2F%3Fpage_id%3D255&sa=D&sntz=1&usg=AFQjCNGmg--c6J9itBW_YlovRawvGEdj3A)[](http://www.google.com/url?q=http%3A%2F%2Fshwsite.org%2F%3Fpage_id%3D255&sa=D&sntz=1&usg=AFQjCNGmg--c6J9itBW_YlovRawvGEdj3A)[Hitman](http://www.google.com/url?q=http%3A%2F%2Fshwsite.org%2F%3Fpage_id%3D255&sa=D&sntz=1&usg=AFQjCNGmg--c6J9itBW_YlovRawvGEdj3A)
 

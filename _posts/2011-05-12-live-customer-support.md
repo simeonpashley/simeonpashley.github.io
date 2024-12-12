@@ -30,7 +30,7 @@ Add Live Chat/Support to your website TODAY for ~~£100~~ **only £50**!
 
 **UPDATE:** Our clients with a small number of visitors are using this tool to chat to all of their customers while they're in a buying mood.
 
-## Understand who’s on your site, make your customers love you, and earn more money.
+## Understand who's on your site, make your customers love you, and earn more money.
 
 - Want to know who's on your website RIGHT NOW?
 - Want to catch your customers before they abandon their basket?

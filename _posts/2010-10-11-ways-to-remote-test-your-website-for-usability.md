@@ -6,8 +6,8 @@ date: 2010-10-11 11:12:16
 The usability of your website can be measured to an extent. There are
 programs that will test the usability or you can use people to test it.
 Remote testing allows you to find trouble spots on your website so that
-you can fix them. Let’s say that you have a website the specializes
-in [brochures](http://www.printplace.com/printing/brochure-printing.aspx). You need to know if your users understand how to order brochure printing on your website. Otherwise, you could be loosing valuable customers with a difficult to use website. Here are few ways to remote test your
+you can fix them. Let's say that you have a website the specializes
+in [brochures](http://www.printplace.com/printing/brochure-printing.aspx). You need to know if your users understand how to order brochure printing on your website. Otherwise, you could be losing valuable customers with a difficult to use website. Here are few ways to remote test your
 website.
 
 **1. Have someone you know test out your website while you screen

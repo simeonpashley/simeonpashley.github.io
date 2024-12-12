@@ -222,7 +222,7 @@ fun whilst doing it; and that may be away from the game when we're
 talking about it online, down the pub, in the school playground or
 sharing time with our families.
 
-#### Further Reading
+## Further Reading
 
 [Nudge Social Media](http://www.nudgesocialmedia.com/) - a top social media agency based in London. Toby is a stellar guy and knows his SM inside out.
 [Game Design Framework for Social

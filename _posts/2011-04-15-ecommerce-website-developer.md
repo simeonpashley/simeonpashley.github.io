@@ -18,7 +18,7 @@ extendible eCommerce web platforms that will scale with your business.
 - **Small eCommerce websites** are built on the popular Wordpress
   platform and can support from 1 to 100 products in multiple
   categories and come with a rich feature set including secure
-  payments via Paypal or Google Checkout.
+  payments via PayPal or Google Checkout.
 - **Mid-size eCommerce websites** are built on the proven and feature
   rich Magento eCommerce web platform that is used by hundreds of
   existing **eCommerce stores** around the world. Our **eCommerce

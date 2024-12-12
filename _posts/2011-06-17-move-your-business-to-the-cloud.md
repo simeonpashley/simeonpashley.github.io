@@ -100,7 +100,7 @@ When you trust your company's information to Google, you can be
 confident that your
 critical information is safe and secure.
 
-Google's information security team, including some of the world’s
+Google's information security team, including some of the world's
 foremost experts
 in information, application and network security, are focused on
 keeping your information

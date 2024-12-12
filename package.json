@@ -1,27 +1,47 @@
 {
-  "name": "jekyll-theme-chirpy",
-  "version": "5.2.1",
-  "description": "A minimal, responsive, and powerful Jekyll theme for presenting professional writing.",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cotes2020/jekyll-theme-chirpy.git"
-  },
-  "author": "Cotes Chung",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/cotes2020/jekyll-theme-chirpy/issues"
-  },
+  "name": "pashley.org",
+  "version": "1.0.0",
   "scripts": {
     "w": "bundle exec jekyll s --incremental",
-    "build": "bundle exec jekyll s"
+    "build": "bundle exec jekyll s",
+    "lint": "remark --quiet --frail ./_posts",
+    "textlint:all": "textlint source",
+    "textlint": "textlint _posts"
   },
-  "homepage": "https://github.com/cotes2020/jekyll-theme-chirpy#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-insert": "^0.5.0",
     "gulp-rename": "^2.0.0",
     "gulp-uglify": "^3.0.2",
+    "remark-cli": "^12.0.1",
+    "remark-frontmatter": "^5.0.0",
+    "remark-lint": "^10.0.0",
+    "remark-lint-fenced-code-flag": "^4.0.0",
+    "remark-lint-heading-increment": "^4.0.0",
+    "remark-lint-heading-style": "^4.0.0",
+    "remark-lint-no-shell-dollars": "^4.0.0",
+    "remark-lint-ordered-list-marker-style": "^4.0.0",
+    "remark-lint-ordered-list-marker-value": "^4.0.0",
+    "remark-lint-prohibited-strings": "^4.0.0",
+    "remark-lint-unordered-list-marker-style": "^4.0.0",
+    "remark-stringify": "^11.0.0",
+    "textlint": "^14.4.0",
+    "textlint-filter-rule-comments": "^1.2.2",
+    "textlint-rule-common-misspellings": "^1.0.1",
+    "textlint-rule-terminology": "^5.2.12",
     "uglify-js": "^3.14.3"
+  },
+  "resolutions": {
+    "minimist": ">=1.2.5"
+  },
+  "dependencies": {
+    "retext-emoji": "^9.0.0",
+    "retext-english": "^5.0.0",
+    "retext-quotes": "^6.0.0",
+    "retext-repeated-words": "^5.0.0",
+    "retext-sentence-spacing": "^6.0.0",
+    "retext-syntax-mentions": "^4.0.0",
+    "retext-syntax-urls": "^4.0.0"
   }
 }

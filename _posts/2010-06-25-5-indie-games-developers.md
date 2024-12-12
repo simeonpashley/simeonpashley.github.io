@@ -43,13 +43,13 @@ bundle.
 > explore and experience emotional chords that are still uncommon in
 > video games.
 >
-> An exotic adventure with a more serious tone, Journey presents TGC’s
+> An exotic adventure with a more serious tone, Journey presents TGC's
 > unique vision of an online adventure experience. Awakening in an
 > unknown world, the player walks, glides, and flies through a vast and
 > awe-inspiring landscape, while discovering the history of an ancient,
 > mysterious civilization along the way.
 >
-> Journey’s innovative approach to online play encourages players to
+> Journey's innovative approach to online play encourages players to
 > explore this environment with strangers who cross their path from time
 > to time. By traveling together, they can re-shape the experience –
 > creating authentic moments they will remember and discuss with others.
@@ -79,7 +79,7 @@ developers.
 Here's their current offering for XBox Live Arcade - Space Ark
 
 > What is Space Ark?
-> It’s is a fun arcade/puzzle game with a hint of retro arcade flavour;
+> It's is a fun arcade/puzzle game with a hint of retro arcade flavour;
 > inspired by classic arcade games of the late 80s, such as Rainbow
 > Island, Bubble Bobble and Arkanoid.
 >
@@ -120,7 +120,7 @@ Explodemon:
 
 #### Planck
 
-I hooked up with these guys on twitter recently and I really liked the
+I hooked up with these guys on Twitter recently and I really liked the
 potential of what they had on their web-site so I'll be keeping a close
 eye on these guys. You should check out their blog as the IGF judges
 also think they're great.
@@ -141,7 +141,7 @@ also think they're great.
 
 Well, I've enjoyed this round up of indie game developers and all of
 their indie cuteness. I hope you show them some appreciation by dropping
-by to give them your feedback on their web-sites and 'official' youtube,
+by to give them your feedback on their web-sites and 'official' YouTube,
 or even in our comments as I'm sure they'll be reading.
 
 Is there someone you think should be in the spotlight? Let me know in
@@ -149,16 +149,16 @@ the comments.
 
 #### Further Reading
 
-ThatGameCompany - http://thatgamecompany.com , twitter @thatgamecompany
-Holographic Dreams - http://holographicdreams.com , twitter
+ThatGameCompany - http://thatgamecompany.com , Twitter @thatgamecompany
+Holographic Dreams - http://holographicdreams.com , Twitter
 @HoloDreams
 Strawdog Studios - http://www.strawdogstudios.com
-Curve Studios - http://curve-studios.com , twitter @curvestudios
-Shadegrown Games - http://www.shadegrowngames.com, twitter
+Curve Studios - http://curve-studios.com , Twitter @curvestudios
+Shadegrown Games - http://www.shadegrowngames.com, Twitter
 @shadegrowngames
 
 **Bonus**:
 One Bit Beyond - Curve Studios Creative Director blog -
 http://www.onebitbeyond.com
 Twitter @xnacommunity
-Twitter [\#xblig](http://twitter.com/#search?q=%23XBLIG)
+Twitter [\#xblig](http://Twitter.com/#search?q=%23XBLIG)

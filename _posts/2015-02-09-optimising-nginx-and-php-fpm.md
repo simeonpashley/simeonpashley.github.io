@@ -1,7 +1,7 @@
 ---
-title: Optimising Nginx & PHP-FPM
+title: Optimising NGINX & PHP-FPM
 date: 2015-02-09 21:38:50
-tags: ["nginx", "php-fpm", "server", "unix", "performance"]
+tags: ["NGINX", "php-fpm", "server", "unix", "performance"]
 ---
 
 Some notes from another round of performance optimisation of our server stack hosting our online platform that dramatically improved customer experience too.
@@ -10,7 +10,7 @@ Some notes from another round of performance optimisation of our server stack ho
 
 <!-- more -->
 
-The environment is a set of dedicated front end webhosts running Nginx & PHP-FPM all of which share a common disk volume for the web application itself. Services including MySQL, Memcached and Elastic Search run on seperate VMs to ease the load. Memcached exists in 2 forms:
+The environment is a set of dedicated front end webhosts running NGINX & PHP-FPM all of which share a common disk volume for the web application itself. Services including MySQL, Memcached and Elastic Search run on seperate VMs to ease the load. Memcached exists in 2 forms:
 
 1 - a dedicated **session** cache.
 
@@ -18,7 +18,7 @@ The environment is a set of dedicated front end webhosts running Nginx & PHP-FPM
 
 There are also [bespoke Varnish caches](https://www.ukfast.co.uk/web-acceleration.html) sat infront of the servers to reduce load as much as possible.
 
-Each web VM is running 1 instant of NGinx forwarding to a local PHP-FPM farm of 2 local ports to improve core use and reduce latency. APC is running locally to improve PHP raw performance.
+Each web VM is running 1 instant of NGINX forwarding to a local PHP-FPM farm of 2 local ports to improve core use and reduce latency. APC is running locally to improve PHP raw performance.
 
 In this configuration disk writes are **very** expensive as they lock the shared volume and force a sync across all reading devices.
 
@@ -60,14 +60,14 @@ When the site is under load it's difficult to tell just what isn't being cached 
 The following command shows which of the files are being read at the moment of issuing the command,
 
 ```bash
-$ lsof | grep -e "[[:digit:]]\+r" | grep /var/www/vhost
+lsof | grep -e "[[:digit:]]\+r" | grep /var/www/vhost
 ```
 
 As well as the expected access of PHP, this exposed some image file accessing that should have been cached by Varnish and never actually reached the backend server.
 
 ### GFS2 contention issues
 
-In the environment used, there is a shared disk volume using GFS2 that houses the content for the websites. We already know that accessing this shared disk is expensive and writing to it is very very expensive.
+In the environment used, there is a shared disk volume using GFS2 that houses the content for the websites. We already know that accessing this shared disk is expensive and writing to it is very expensive.
 
 A common occurence is maxed out CPU usage on the web servers that typically comes down to `glock_workqueue` holding 100% CPU while it waits for disk access.
 
@@ -91,7 +91,7 @@ In our scenario the shared volume was mounted under `/var/www/vhosts` so to disc
 lsof | grep -e "[[:digit:]]\+w" | grep /var/www/vhost
 ```
 
-What came to light was that the `nginx` process was locking every file for write access! Wow!!
+What came to light was that the `NGINX` process was locking every file for write access! Wow!!
 
 #### Remove access time updates
 
@@ -115,7 +115,7 @@ Use a ram-disk for storing temporary files, in our stack this is `/dev/shm`
 
 **apc.ini**
 
-```
+```ini
 apc.mmap_file_mask=/dev/shm/apc.XXXXXX
 ```
 
@@ -123,7 +123,7 @@ Disable `stat`ing your code to see if it's changed. **BEWARE** that APC will now
 
 **apc.ini**
 
-```
+```ini
 apc.stat=0
 ```
 
@@ -139,6 +139,6 @@ apc_clear_cache('opcode');
 While [New Relic is a peerless awesome server analyis tool](http://newrelic.com), it does write a lot of log files out. In short, find &amp; disable all of the log files you can. The New Relic eco-system is so variable and changes so rapidly that it's pointless me describing the specifics here but here's some I had to change.
 
 - nr-sysmon-d
-- nr-nginx
+- nr-NGINX
 - nr-plugin (php-fpm)
 - nr-mysql

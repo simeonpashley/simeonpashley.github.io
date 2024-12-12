@@ -9,11 +9,11 @@ description:
 optimization is a technique used to rank up high in Google. Deciding to
 hire a search engine optimizer is a big decision that can potentially
 improve your website, as well as, help you save valuable time, money and
-benefit your internet business further. If you’re thinking of hiring
+benefit your internet business further. If you're thinking of hiring
 freelancers to do SEO tasks such as link building and article writing,
 then you may consider [oDesk](http://www.odesk.com/) freelancers. oDesk freelancers can provide clients with valuable service and it is advisable doing SEO earlier to get maximum benefits.
 
-The best time to hire is when you’re planning a site redesign, or
+The best time to hire is when you're planning a site redesign, or
 considering to launch a new site. That way, you and your SEO can make
 certain that your site is designed to be optimally search-engine
 friendly from the bottom up. Also, a good SEO can help develop good
@@ -37,13 +37,13 @@ individuals for certain projects. Using oDesk freelancers to create a
 virtual workforce answers these problems and frees up your capital to
 help manage your internet business.
 
-[oDesk](http://en.wikipedia.org/wiki/ODesk) can help you post job position and search through thousands of competent applicants. It also gives tests to make certain each applicant has the required skills needed to do the work required. You can look further into an applicant’s work history by carefully reading comments from previous employers and viewing previous work samples. oDesk has streamlined the interviewing and hiring process, making it simple to employ short-term, long-term employees or build a team of freelancers.
+[oDesk](http://en.wikipedia.org/wiki/ODesk) can help you post job position and search through thousands of competent applicants. It also gives tests to make certain each applicant has the required skills needed to do the work required. You can look further into an applicant's work history by carefully reading comments from previous employers and viewing previous work samples. oDesk has streamlined the interviewing and hiring process, making it simple to employ short-term, long-term employees or build a team of freelancers.
 
 When hiring odesk freelancers, you can manage your team as if they were
 working beside you. One of the main problems with hiring outsourcers or
 any worker for that matter is making certain that they are basically
 working and staying well-focused on task assigned. oDesk comes with
-advanced technology where you can monitor your team’s activity on your
+advanced technology where you can monitor your team's activity on your
 wide computer screen. Every minute that a certain task is being worked
 on is as well, logged into the system giving you total control over your
 staff, even more so than having all of them in the office beside you.

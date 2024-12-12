@@ -1,12 +1,12 @@
 ---
 
-title: Setting up OSX for Web Development
+title: Setting up MacOS for Web Development
 date: 2012-04-11 16:57:46
 
 ---_(I will be maintaining this Post with my current setup steps as time
 moves on)_
 
-I've been using OSX for Web Development for a while now, initially on a
+I've been using MacOS for Web Development for a while now, initially on a
 Mac Mini, then migrating to a MacBook Pro and on to a MacBook Air. I
 thought it was a good idea to get my web development software setup down
 so I can recall it more easily and get things moving a lot more quickly
@@ -16,7 +16,7 @@ Read on to find out how.
 
 ## Main apps
 
-After starting from a fresh OSX Install I usually follow up with a few
+After starting from a fresh MacOS Install I usually follow up with a few
 default web development applications that I have stored on my local
 server under 'app_0' to indicate that they're the critical.
 
@@ -59,7 +59,7 @@ command:
 
 ### Fix Terminal
 
-OSX Terminal has a nasty habit of dropping characters over SSH and I've
+MacOS Terminal has a nasty habit of dropping characters over SSH and I've
 hunted down a Preferences change that I've found to really help fix
 missing characters over SSH.
 
