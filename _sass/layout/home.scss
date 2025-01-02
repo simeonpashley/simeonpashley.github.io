@@ -242,13 +242,15 @@
 }
 
 .btn-contact-me {
-  background: var(--button-bg);
-  color: var(--text-color);
+  background: var(--primary-button-bg) !important;
+  color: var(--primary-button-text) !important;
   padding: 12px 20px;
   border-radius: 8px;
   text-decoration: none;
   font-weight: bold;
+  font-size: 1.5em;
   transition: background-color 0.3s ease, color 0.3s ease;
+  box-shadow: rgba(0, 0, 0, 0.5) 0em 0.25em 0.5em;
 }
 
 .btn-contact-me i {

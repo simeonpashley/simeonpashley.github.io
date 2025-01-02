@@ -30,6 +30,11 @@
         <i class="fab fa-linkedin"></i> Contact Me
       </a>
     </div>
+    {% unless site.theme_mode %}
+    <button class="mode-toggle btn" aria-label="Switch Mode">
+      <i class="fas fa-adjust"></i>
+    </button>
+    {% endunless %}
   </div>
 
   <!-- About Link -->

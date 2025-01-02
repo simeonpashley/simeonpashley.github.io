@@ -833,23 +833,7 @@ $sidebar-display: "sidebar-display";
       line-height: 1.75rem;
     }
 
-    .mode-toggle {
-      padding: 0;
-      border: 0;
-      margin-bottom: 1px;
-      background-color: transparent;
 
-      @extend %icon;
-      @extend %sidebar-links;
-
-      > i {
-        @extend %clickable-transition;
-      }
-
-      &:hover > i {
-        color: var(--sidebar-active-color);
-      }
-    }
 
     .icon-border {
       @extend %no-cursor;
@@ -862,7 +846,23 @@ $sidebar-display: "sidebar-display";
     }
 
   } /* .sidebar-bottom */
+  .mode-toggle {
+    padding: 0;
+    border: 0;
+    margin-bottom: 1px;
+    background-color: transparent;
 
+    @extend %icon;
+    @extend %sidebar-links;
+
+    > i {
+      @extend %clickable-transition;
+    }
+
+    &:hover > i {
+      color: var(--sidebar-active-color);
+    }
+  }
 } /* #sidebar */
 
 @media (hover: hover) {
@@ -979,15 +979,15 @@ $sidebar-display: "sidebar-display";
       &::-webkit-input-placeholder {
           @include mod.input-placeholder;
         }
-      
+
         &::-moz-placeholder {
           @include mod.input-placeholder;
         }
-      
+
         &:-ms-input-placeholder {
           @include mod.input-placeholder;
         }
-      
+
         &::placeholder {
           @include mod.input-placeholder;
         }
