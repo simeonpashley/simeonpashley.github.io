@@ -184,9 +184,126 @@
   // .pagination
 }
 
-/* Pannel hidden */
+/* Panel hidden */
 @media all and (max-width: 1200px) {
   #post-list {
     padding-right: 0;
   }
+}
+
+/* Sidebar General Fixes */
+#sidebar {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Ensures all elements are centered */
+  text-align: center; /* Ensures text elements are properly aligned */
+}
+
+/* Profile Wrapper Adjustments */
+#sidebar .profile-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#sidebar .profile-wrapper #avatar {
+  margin-left: 0 !important; /* Override problematic left margin */
+}
+
+#sidebar .profile-wrapper .site-title,
+#sidebar .profile-wrapper .site-subtitle {
+  margin-left: 0 !important; /* Override problematic left margin */
+  margin-top: 0.5rem; /* Add consistent spacing */
+}
+#sidebar .profile-wrapper .site-subtitle {
+  text-align: center; /* Ensures the subtitle is centered */
+  margin-left: 0.25rem !important;
+  margin-right: 0.25rem;
+  display: block; /* Forces block-level behavior for proper alignment */
+  margin-top: 0.5rem; /* Consistent spacing from the title */
+}
+/* Button Alignment */
+#sidebar .cta-wrapper {
+  margin-top: 1rem;
+}
+
+/* About Link Adjustments */
+.about-wrapper {
+  margin-top: 1.5rem;
+}
+
+/* Footer Links Fixes */
+.footer-links {
+  padding-left: 0 !important; /* Override existing padding */
+  margin-left: 0 !important; /* Override problematic margin */
+  justify-content: center; /* Center links */
+  gap: 1rem; /* Add spacing between links */
+  text-align: center;
+}
+
+.btn-contact-me {
+  background: var(--button-bg);
+  color: var(--text-color);
+  padding: 12px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.btn-contact-me i {
+  margin-right: 8px;
+}
+
+.btn-contact-me:hover {
+  background: var(--btn-hover-bg, var(--link-color)); /* Optional hover color */
+  color: var(--btn-hover-text-color, #fff);
+}
+
+/* About Link */
+.about-link {
+  color: var(--link-color);
+  font-size: 1rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.about-link i {
+  margin-right: 8px;
+}
+
+.about-link:hover {
+  text-decoration: underline;
+  color: var(--link-underline-color);
+}
+
+.footer-links {
+  list-style: none;
+  padding-left: 0 !important; /* Override unnecessary padding */
+  margin-left: 1rem !important; /* Add horizontal margin */
+  margin-right: 1rem !important;
+  display: flex;
+  justify-content: space-around; /* Space out the links evenly */
+  gap: 1rem; /* Add spacing between links */
+  font-size: 0.8rem;
+  color: var(--sidebar-muted-color);
+  text-align: center;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: var(--link-underline-color);
+  text-decoration: underline;
+}
+/* Footer Container Spacing */
+.sidebar-footer {
+  margin-left: 1rem; /* Add horizontal spacing for the entire footer */
+  margin-right: 1rem;
+  margin-top: 1rem; /* Add spacing above the footer */
+  text-align: center; /* Ensure proper centering */
 }

@@ -1,11 +1,9 @@
-<!--
-  The Side Bar
--->
-
-<div id="sidebar" class="d-flex flex-column align-items-end">
+<!-- The Sidebar -->
+<div id="sidebar" class="d-flex flex-column align-items-center">
+  <!-- Profile Section -->
   <div class="profile-wrapper text-center">
     <div id="avatar">
-      <a href="{{ '/' | relative_url }}" class="mx-auto">
+      <a href="{{ '/' | relative_url }}">
         {% if site.avatar != empty and site.avatar %}
           {% capture avatar_url %}
             {% if site.avatar contains '://' %}
@@ -16,82 +14,38 @@
               {{ site.avatar | relative_url }}
             {% endif %}
           {% endcapture %}
-          <img src="{{ avatar_url | strip }}" alt="avatar" onerror="this.style.display='none'">
+          <img src="{{ avatar_url | strip }}" alt="avatar" onerror="this.style.display='none'" class="avatar-img">
         {% endif %}
       </a>
     </div>
 
     <div class="site-title mt-3">
-      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <a href="{{ '/' | relative_url }}" class="site-title-link">{{ site.title }}</a>
     </div>
     <div class="site-subtitle font-italic">{{ site.tagline }}</div>
 
-  </div><!-- .profile-wrapper -->
-
-  <ul class="w-100">
-    <!-- the real tabs -->
-    {% for tab in site.tabs %}
-    <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
-      <a href="{{ tab.url | relative_url }}" class="nav-link">
-        <i class="fa-fw {{ tab.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
-        {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
-
-        <span>{{ site.data.locales[lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
+    <!-- Contact Me Button -->
+    <div class="cta-wrapper mt-4">
+      <a href="{{ site.linkedin_url }}" class="btn btn-contact-me" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i> Contact Me
       </a>
-    </li> <!-- .nav-item -->
-    {% endfor %}
-  </ul> <!-- ul.nav.flex-column -->
-  <ul class="w-100 tabs_low">
-      <!-- lower rank -->
-    {% for tab in site.tabs_low %}
-    <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
-      <a href="{{ tab.url | relative_url }}" class="nav-link">
-        <i class="fa-fw {{ tab.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
-        {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
+    </div>
+  </div>
 
-        <span>{{ site.data.locales[lang].tabs_low.[tab_name] | default: tab.title | upcase }}</span>
-      </a>
-    </li> <!-- .nav-item -->
-    {% endfor %}
-  </ul> <!-- ul.nav.flex-column -->
+  <!-- About Link -->
+  <div class="about-wrapper mt-4">
+    <a href="{{ '/about/' | relative_url }}" class="nav-link about-link">
+      <i class="fas fa-info-circle"></i> About
+    </a>
+  </div>
 
-  <div class="sidebar-bottom mt-auto d-flex flex-wrap justify-content-center align-items-center">
-
-    {% unless site.theme_mode %}
-      <button class="mode-toggle btn" aria-label="Switch Mode">
-        <i class="fas fa-adjust"></i>
-      </button>
-
-      {% if site.data.contact.size > 0 %}
-        <span class="icon-border"></span>
-      {% endif %}
-    {% endunless %}
-
-    {% for entry in site.data.contact %}
-      {% capture url %}
-        {%- if entry.type == 'github' -%}
-          https://github.com/{{ site.github.username }}
-        {%- elsif entry.type == 'twitter' -%}
-          https://twitter.com/{{ site.twitter.username }}
-        {%- elsif entry.type == 'email' -%}
-          {% assign email = site.social.email | split: '@' %}
-          javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
-        {%- elsif entry.type == 'rss' -%}
-          {{ "/feed.xml" | relative_url }}
-        {%- else -%}
-          {{ entry.url }}
-        {%- endif -%}
-      {% endcapture %}
-
-      {% if url %}
-      <a href="{{ url }}" aria-label="{{ entry.type }}"
-        {% unless entry.noblank %}target="_blank" rel="noopener"{% endunless %}>
-        <i class="{{ entry.icon }}"></i>
-      </a>
-      {% endif %}
-
-    {% endfor %}
-
-  </div> <!-- .sidebar-bottom -->
-
-</div><!-- #sidebar -->
+  <!-- Footer Links -->
+  <div class="sidebar-footer mt-auto w-100 text-center">
+    <ul class="footer-links d-flex justify-content-around">
+      <li><a href="{{ '/archives/' | relative_url }}">Archives</a></li>
+      <li><a href="{{ '/tags/' | relative_url }}">Tags</a></li>
+      <li><a href="{{ '/privacy/' | relative_url }}">Privacy</a></li>
+      <li><a href="{{ '/tcs/' | relative_url }}">T&Cs</a></li>
+    </ul>
+  </div>
+</div>

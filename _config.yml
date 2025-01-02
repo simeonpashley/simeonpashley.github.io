@@ -3,7 +3,7 @@ lang: en
 timezone: Europe/London
 title: Simeon Pashley # the main title
 
-tagline: Enterprise Architect | Strategic IT Leadership | Digital Transformation Leader | eCommerce & AI Specialist # it will display as the sub-title
+tagline: Strategic Digital Leader | Driving Digital Transformation, AI Innovation & Scalable E-Commerce Solutions # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Some random collection of notes, posts and longer form writing.
@@ -11,6 +11,7 @@ description: >- # used by seo meta and the atom feed
   interesting.
 
 excerpt_separator: "<!--more-->"
+linkedin_url: https://www.linkedin.com/in/simeonpashley/
 
 github:
   username: simeonpashley # change to your github username
@@ -22,11 +23,11 @@ social:
   # email: simeon@pashley.org # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/simeonpashley/
     - https://github.com/simeonpashley # change to your github homepage
     # - https://twitter.com/simeonpashley # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:

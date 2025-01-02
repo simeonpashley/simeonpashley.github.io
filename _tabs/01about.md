@@ -5,39 +5,29 @@ order: 1
 permalink: /about/
 ---
 
-Hi, my name is Simeon and I've been a professional software developer since 1986.
+# About Simeon Pashley
 
-- I am very passionate about building great software with good business value.
-- I have a strong work ethic and I will do whatever it takes to deliver great results.
+Welcome to my professional blog! I am a seasoned leader in the fields of Digital Transformation, AI-Driven Innovation, and Enterprise Architecture, with over 25 years of experience guiding organizations through complex technological changes and challenges.
 
-**SNIP**
+## Areas of Expertise
 
-2016- I've taken to maintaining my history exclusively on [LinkedIn]({{ site.owner.linkedin_url }}) page.
+- **Digital Transformation**: Driving scalable, innovative solutions that align technology with business objectives.
+- **AI-Powered Commerce**: Implementing advanced AI strategies to enhance e-commerce experiences and operational efficiency.
+- **Enterprise Architecture**: Developing robust frameworks and governance to streamline digital operations and support strategic goals.
 
-Roles include: Solutions Architect, Technical Director, Executive Producer, Project Manager and Software Developer to name but a few.
+## Vision and Approach
 
-## About the Site
+I believe in fostering innovation and creativity within teams while ensuring that every technological solution delivers measurable business value. My approach combines strategic thinking with technical expertise to solve complex challenges, optimize systems, and empower organizations to achieve their goals.
 
-I initially registered the domain `pashley.org` back in 2002 to enable me to setup a friendly email domain for my family and also provide a nice domain for my personal web precense.
+## Key Achievements
 
-Calling this site a "blog" is probably generous as it's more like a random collection of my thoughts that I want to keep online and share, sometimes connected, often rare. I go through fits & starts of writing so you'll probably see huge gaps in time.
+- Successfully implemented AI-powered search capabilities to boost e-commerce revenue.
+- Developed enterprise-level architecture frameworks to enhance operational scalability.
+- Led cross-functional teams to deliver award-winning digital transformation projects.
 
-I've had various random sites since the mid-1990s on [tripod.com](http://tripod.com), [blogspot.com](http://blogger.com) (before it became blogger) and a myriad of others. I'm currently going right back to basics using [Jekyll](http://jekyllrb.com/) hosted on [Github Pages](http://github.com/).
+## Connect with Me
 
-## Contact
+Interested in collaborating or learning more? Feel free to connect with me on [LinkedIn]({{ site.linkedin_url }}).
 
-Have more questions?
-
-<div markdown="0"><a href="/contact/" class="btn"><svg class="icon"><use xlink:href="#icon-comments"></use></svg> Message Me</a></div>
-
-## How to Support
-
-If you've found any of them useful and want to thank me, here's a few ways you can.
-
-1. Follow me on [Twitter](https://twitter.com/{{ site.owner.twitter }}).
-2. Buy anything at Amazon using [this link](https://www.amazon.co.uk/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=gamelinchpin-21&linkId=P557QDXPWEYIZTDS) and I'll earn a small commission[^affiliate].
-3. Send a donation via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L5YPSDV8KN2XS).
 
 [^affiliate]: Anything I link to on Amazon may be done with [affiliate URLs](/terms/).
-
-\*[CMS]: Content Management System
