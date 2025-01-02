@@ -1,6 +1,6 @@
 ---
 title: "10 Surprising Lessons for Developers Using AI Coding Assistants"
-date: 2025-01-06 08:00
+date: 2025-01-06 07:00
 categories: [AI in Development, Software Engineering, Productivity Tools]
 tags: [AI Coding Assistants, Large Language Models, Software Development, Prompt Engineering, Digital Transformation]
 filename: "2025-01-02-ai-coding-assistants-lessons.md"
