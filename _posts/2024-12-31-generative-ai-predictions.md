@@ -48,7 +48,7 @@ Generative AI, with its exponential growth, demands such foresight. Historical t
 
 ### 1. **Hyper-Specialised AI Models**
 
-The future belongs to hyper-specialised AI models tailored for specific domains. In healthcare, AI will revolutionise diagnostics, while in legal industries, models will streamline contract analysis. Drawing from examples in *10 Real-World AI Use Cases for SMEs*, such domain-specific systems will outperform general-purpose models in precision and relevance, offering transformative impacts for industries like retail and logistics【53†source】.
+The future belongs to hyper-specialised AI models tailored for specific domains. In healthcare, AI will revolutionise diagnostics, while in legal industries, models will streamline contract analysis. Drawing from examples in *10 Real-World AI Use Cases for SMEs*, such domain-specific systems will outperform general-purpose models in precision and relevance, offering transformative impacts for industries like retail and logistics.
 
 **Key Indicator of Success:** Launch of successful products built on hyper-specialised AI models in multiple industries.
 
@@ -56,7 +56,7 @@ The future belongs to hyper-specialised AI models tailored for specific domains.
 
 ### 2. **Seamless Context Windows**
 
-Continuous context windows will redefine workflows, enabling AI systems to maintain context across vast sessions. This innovation, as highlighted in *AI-Driven Enterprise Development*, will be pivotal for professionals handling complex, multi-phase projects【55†source】. Engineers, legal teams, and creatives will benefit from reduced context-switching, unlocking new levels of productivity.
+Continuous context windows will redefine workflows, enabling AI systems to maintain context across vast sessions. This innovation, as highlighted in *AI-Driven Enterprise Development*, will be pivotal for professionals handling complex, multi-phase projects. Engineers, legal teams, and creatives will benefit from reduced context-switching, unlocking new levels of productivity.
 
 **Key Indicator of Success:** Major AI providers offer systems with context windows exceeding one million tokens.
 
@@ -66,9 +66,9 @@ Continuous context windows will redefine workflows, enabling AI systems to maint
 
 As generative AI integrates deeper into workflows, industry applications evolve to reflect these advancements. However, aligning predictions more closely with my domain expertise:
 
-- **IT and Enterprise Operations**: Agentic AI will autonomously manage IT infrastructure, handling tasks like predictive maintenance, self-healing systems, and workload balancing【57†source】.
-- **E-Commerce**: Personalisation tools powered by agentic AI will enable tailored customer journeys, increasing engagement and sales【58†source】.
-- **Logistics and Supply Chain**: Real-time optimisation of resources and predictive adjustments will streamline global supply chains, as discussed in *Agentic Generative AI* articles【59†source】.
+- **IT and Enterprise Operations**: Agentic AI will autonomously manage IT infrastructure, handling tasks like predictive maintenance, self-healing systems, and workload balancing.
+- **E-Commerce**: Personalisation tools powered by agentic AI will enable tailored customer journeys, increasing engagement and sale.
+- **Logistics and Supply Chain**: Real-time optimisation of resources and predictive adjustments will streamline global supply chains, as discussed in *Agentic Generative AI* articles.
 
 This shift reflects a redefined landscape where AI focuses on operational efficiency and scalability over broader societal impacts.
 
@@ -76,7 +76,7 @@ This shift reflects a redefined landscape where AI focuses on operational effici
 
 ### 4. **AI-Driven Coding Will Become Mainstream**
 
-AI tools like GitHub Copilot and Amazon CodeWhisperer will no longer be seen as optional. By 2025, they will become foundational in coding workflows, enhancing productivity and minimising errors. Insights from *10 Surprising Lessons for Developers Using AI Coding Assistants* highlight the importance of mastering prompts and leveraging AI strengths for streamlined development【54†source】.
+AI tools like GitHub Copilot and Amazon CodeWhisperer will no longer be seen as optional. By 2025, they will become foundational in coding workflows, enhancing productivity and minimising errors. Insights from *10 Surprising Lessons for Developers Using AI Coding Assistants* highlight the importance of mastering prompts and leveraging AI strengths for streamlined development.
 
 **Key Indicator of Success:** Sentiment in engineering media recognises AI tools as essential to modern development processes.
 
@@ -84,7 +84,7 @@ AI tools like GitHub Copilot and Amazon CodeWhisperer will no longer be seen as 
 
 ### 5. **Rise of Agentic Coding Tools**
 
-AI will evolve from tools that assist to those that autonomously handle routine coding tasks. Leveraging advancements in reasoning models, these agents will optimise coding workflows, debug systems, and propose innovative solutions. Developers’ roles will pivot from doing to thinking—supervising and strategising to amplify innovation. This evolution mirrors the transformative shifts seen in console game development during the transitions between platforms like PlayStation 1 through PlayStation 4. Those who adapted thrived; those who didn’t were left behind. Similarly, businesses and individuals must embrace this paradigm shift or risk obsolescence【56†source】.
+AI will evolve from tools that assist to those that autonomously handle routine coding tasks. Leveraging advancements in reasoning models, these agents will optimise coding workflows, debug systems, and propose innovative solutions. Developers’ roles will pivot from doing to thinking—supervising and strategising to amplify innovation. This evolution mirrors the transformative shifts seen in console game development during the transitions between platforms like PlayStation 1 through PlayStation 4. Those who adapted thrived; those who didn’t were left behind. Similarly, businesses and individuals must embrace this paradigm shift or risk obsolescence.
 
 **Key Indicator of Success:** Agentic coding tools achieve adoption across mainstream engineering workflows.
 
