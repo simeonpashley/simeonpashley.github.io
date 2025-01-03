@@ -23,13 +23,18 @@
       <a href="{{ '/' | relative_url }}" class="site-title-link">{{ site.title }}</a>
     </div>
     <div class="site-subtitle font-italic">{{ site.tagline }}</div>
-
+  <!-- Sidebar Call-to-Action -->
+  <div class="sidebar-cta-outer mt-3">
+    <div class="sidebar-cta text-center">
+      <p class="cta-text">Innovating in AI or eCommerce? Let’s shape a smarter future together.</p>
+    </div>
     <!-- Contact Me Button -->
     <div class="cta-wrapper mt-4">
       <a href="{{ site.linkedin_url }}" class="btn btn-contact-me" target="_blank" rel="noopener">
         <i class="fab fa-linkedin"></i> Contact Me
       </a>
     </div>
+  </div>
     {% unless site.theme_mode %}
     <button class="mode-toggle btn" aria-label="Switch Mode">
       <i class="fas fa-adjust"></i>

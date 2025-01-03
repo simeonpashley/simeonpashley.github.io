@@ -222,6 +222,24 @@
   display: block; /* Forces block-level behavior for proper alignment */
   margin-top: 0.5rem; /* Consistent spacing from the title */
 }
+
+.sidebar-cta-outer {
+  padding: 0.5em 0.5em 1em 0.5em;
+  margin: 0.5em;
+  border-radius: 0.25em;
+  background-color: var(--btn-share-color);
+  color: var(--text-color);
+}
+.sidebar-cta {
+  font-size: 1.2rem;
+  line-height: 1.4;
+}
+
+.sidebar-cta .cta-text {
+  margin: 0;
+  font-weight: 500;
+}
+
 /* Button Alignment */
 #sidebar .cta-wrapper {
   margin-top: 1rem;
