@@ -8,6 +8,8 @@ module Jekyll
       replacements = [
         # Example: Remove bold from Markdown headings
         [ /^([#]+)\s\*\*(.*?)\*\*$/, '\1 \2' ],
+        [ /【\d+†source】/, '' ],
+        [ /\[\d+†source\]/, '' ],
         # Add more replacements as needed
         # [ /regex_pattern/, 'replacement' ],
       ]
