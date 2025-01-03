@@ -19,6 +19,8 @@ Generative AI predictions are more than academic exercises; they are crucial for
 
 ### Let’s Collaborate
 
+The rapid pace of change in AI demands strategic insight and actionable plans. By partnering with me, you’ll gain tailored guidance to navigate this transformative era confidently. Let’s work together to future-proof your organisation and ensure you lead in the AI-driven landscape.
+
 ---
 
 ## TL;DR: Key Takeaways
@@ -27,8 +29,6 @@ Generative AI predictions are more than academic exercises; they are crucial for
 - **Hyper-Specialisation is the Future**: Industry-specific AI models will dominate, offering transformative precision and relevance.
 - **Adapt or Be Left Behind**: Developers and organisations must pivot from routine tasks to strategic thinking as AI tools evolve.
 - **Planning is Critical**: Effective preparation is not just a safeguard but an opportunity to lead. Engage early to leverage AI’s full potential.
-
----
 
 These insights provide a foundation, but the journey to harnessing AI’s full potential is unique for every organisation. Whether you’re seeking strategic guidance, exploring implementation pathways, or aiming to future-proof your operations, collaboration can make all the difference. Let’s ensure you’re not just prepared for what’s next but ready to thrive in it.
 
