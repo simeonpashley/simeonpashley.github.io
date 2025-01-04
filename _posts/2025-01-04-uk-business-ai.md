@@ -4,6 +4,7 @@ date: 2025-01-04
 tags: [AI, UK Businesses, Enterprise AI, Digital Transformation, Small Business AI]
 categories: [AI Applications, Business Technology]
 filename: "2025-01-04-uk-business-ai.md"
+thumbnail: /assets/img/2025/2025-uk-business-ai.jpg
 home_preview: "AI is transforming UK businesses of all sizes, levelling the playing field between tech giants and smaller enterprises. From automating tasks to driving personalised customer engagement, this article explores real-world applications and offers actionable insights for solopreneurs, micro-enterprises, and scaling companies. Discover how AI can simplify operations, boost productivity, and unlock new opportunities for growth."
 ---
 # Real-World AI Use Cases for UK Businesses (January 2025): From Solopreneurs to Scaling Enterprises
@@ -15,7 +16,7 @@ AI has become an accessible tool for businesses of all sizes, levelling the play
 This article highlights real-world examples of UK businesses adopting AI, offering actionable insights and inspiration to help you get started.
 
 ---
-![UK alive with innovation](/assets/img/2025/2025-uk-business-ai.png)
+![UK alive with innovation](/assets/img/2025/2025-uk-business-ai.jpg)
 
 ## Key Insights: How UK Businesses Are Using AI
 

@@ -327,3 +327,48 @@
   margin-top: 1rem; /* Add spacing above the footer */
   text-align: center; /* Ensure proper centering */
 }
+
+/* Thumbnail styles */
+.post-thumbnail img {
+  width: 150px;
+  height: auto;
+  border-radius: 5px;
+  margin-right: 15px;
+  float: left;
+}
+
+.post-text {
+  margin-left: 0;
+}
+
+.post-preview {
+  overflow: hidden;
+}
+
+.post-thumbnail + .post-text {
+  margin-left: 170px; /* Adjust based on thumbnail width + margin */
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+  .post-thumbnail img {
+    width: 100px;
+    margin-right: 10px;
+  }
+
+  .post-thumbnail + .post-text {
+    margin-left: 120px; /* Adjust for smaller screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .post-thumbnail img {
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .post-thumbnail + .post-text {
+    margin-left: 0;
+  }
+}

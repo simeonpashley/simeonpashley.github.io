@@ -45,6 +45,15 @@ layout: page
 {% for post in posts %}
 
   <div class="post-preview">
+    {% if post.thumbnail %}
+    <div class="post-thumbnail">
+      <a href="{{ post.url | relative_url }}">
+        <img src="{{ post.thumbnail }}" alt="{{ post.title }} thumbnail">
+      </a>
+    </div>
+    {% endif %}
+    <div class="post-text">
+
     <h1>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h1>
@@ -52,7 +61,7 @@ layout: page
     <div class="post-content">
       {% if post.home_preview.size > 0 %}
       <p class="no-preview-height-limit">
-      
+
         {{ post.home_preview | markdownify | strip_html | escape }}
       </p>
       {% else %}
@@ -91,8 +100,8 @@ layout: page
       {% endif %}
 
     </div> <!-- .post-meta -->
-
-  </div> <!-- .post-review -->
+</div>
+</div> <!-- .post-preview -->
 
 {% endfor %}
 
