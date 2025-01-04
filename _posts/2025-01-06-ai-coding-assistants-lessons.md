@@ -1,24 +1,25 @@
 ---
-title: "10 Surprising Lessons for Developers Using AI Coding Assistants"
+title: "10 Things Developers of All Skill Levels May Be Surprised to Learn About AI Coding Assistants"
 date: 2025-01-06 07:00
 categories: [AI in Development, Software Engineering, Productivity Tools]
 tags: [AI Coding Assistants, Large Language Models, Software Development, Prompt Engineering, Digital Transformation]
 filename: "2025-01-02-ai-coding-assistants-lessons.md"
+thumbnail: /assets/img/2025/dev_contrast.jpeg
 home_preview: >
   AI coding assistants are changing how developers work, but they come with surprising quirks and challenges. From understanding context windows to mastering prompt engineering, this post explores the lessons every developer—junior or expert—needs to know. Discover how to navigate these tools effectively and unlock smarter, faster workflows. Let's transform how you code with AI.
 ---
 
-# 10 Things Developers of All Skill Levels May Be Surprised to Learn About AI Coding Assistants
-
-## Summary
+It's 2025 - your development world has changed!
 
 AI coding assistants are revolutionizing how software is created, offering tools that automate repetitive tasks, accelerate prototyping, and boost productivity. Yet for developers of all skill levels (from junior to expert), these tools bring surprises, challenges, and opportunities for growth.
+
+![UK alive with innovation](/assets/img/2025/dev_contrast.jpeg)
 
 ### Let’s Collaborate
 
 This post highlights key insights and challenges developers face when working with AI coding assistants, but it’s just the beginning. Let’s collaborate to unlock the full potential of AI in your workflows. Whether you’re navigating adoption strategies, refining your development processes, or looking to maximize these tools, I can help guide your journey toward smarter, more efficient outcomes.
 
----
+
 
 ## 1. They Are Experts with Very Short Memories
 
