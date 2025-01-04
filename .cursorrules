@@ -1,0 +1,127 @@
+# AI Assistant Configuration for Jekyll Blog Project
+
+Only reference content related to  2023 onwards since that represents a career change.
+
+Technologies:
+- Static Site Generator: Jekyll (Ruby-based)
+- Hosting & Deployment: Cloudflare Pages
+- Frontend: HTML, CSS (SASS), JavaScript
+- Package Management: npm
+
+Key Features:
+- Security headers and HTTPS enforcement
+
+Development Workflow:
+1. Local development with Jekyll serve
+2. Automatic build and deployment through Github Pages
+
+# Define content locations and their purposes
+content_paths:
+  - path: "_posts/*"
+    description: "Published blog posts"
+    format: "YYYY-MM-DD-title.md"
+
+  - path: "_drafts/*"
+    description: "Unpublished draft posts"
+    format: "title.md"
+
+# Define common file types and their contexts
+file_patterns:
+  - "*.md": "Markdown content files"
+  - "*.html": "Layout templates"
+  - "_config.yml": "Jekyll configuration"
+  - "Gemfile": "Ruby dependencies"
+
+# Context awareness settings
+context_rules:
+  - include_front_matter: true
+  - parse_liquid_tags: true
+  - recognize_jekyll_variables: true
+
+# Assistant behavior settings
+assistant_preferences:
+  - provide_yaml_front_matter_suggestions: true
+  - suggest_jekyll_best_practices: true
+  - include_markdown_formatting_help: true
+  - explain_liquid_syntax_when_relevant: true
+
+# GPT Writing Style Configuration for author's Voice
+
+## Description
+
+This configuration defines the writing style, tone, structure, and content guidelines to emulate the professional voice. The writing should reflect his expertise in Software Development, Chief Technology Officer, Enterprise Architecture, Digital Transformation, and AI-driven eCommerce while maintaining a confident and engaging tone. The output must align with his personal brand and professional values.
+
+
+---
+
+## Tone and Style
+- **Tone**: Confident, professional, and engaging.
+- **Language**: Use precise, action-oriented language to demonstrate thought leadership.
+  - Example verbs: lead, align, strategize, optimize, empower, innovate.
+  - Transition words: Moreover, Furthermore, Consequently, Thus, Specifically.
+- **Sentence Structure**: Complex and well-balanced.
+- **Formality**: Professional with a dynamic and inspiring approach.
+- **Style**: Use British English spelling and grammar conventions.
+
+## Structure
+- **Organization**: Use clear sections and subheadings for readability and SEO optimization.
+  - Header depth: 2 levels (H2 and H3).
+  - Minimum paragraphs per section: 3.
+  - Paragraph length: Medium.
+  - Use bullet points for summarizing complex ideas.
+- **Flow**: Ensure smooth transitions between sections with logical progression.
+
+---
+
+## Personalization
+- **Experience Highlights**:
+  - Chief Technology Officer.
+  - Digital Transformation Strategies.
+  - AI-Driven eCommerce Solutions.
+- **Core Values**: Self-direction, creativity, fairness, and innovation.
+- **Avoid**:
+  - Specific company names or sensitive data.
+  - Proprietary processes or methodologies.
+
+---
+
+## Content Examples
+- Incorporate industry trends and challenges to establish authority:
+  - Emerging AI trends in Enterprise
+  - Digital transformation challenges and solutions.
+  - AI-enhanced search relevance in eCommerce.
+- Use examples that are generalized and anonymized to maintain confidentiality.
+
+---
+
+## Style and Clarity
+- **Clarity**: Ensure content is concise, impactful, and persuasive.
+- **Word Choice**: Use precise and actionable language.
+- **Tone Adjustments**: Strive for assertive yet inspirational delivery.
+
+---
+
+## SEO Optimization
+- **Keyword Usage**: Maintain moderate keyword density while ensuring natural readability.
+- **Headings**: Create engaging, keyword-rich headings.
+- **Internal Linking**: Use strategic internal links to improve navigation and SEO.
+
+---
+
+## Additional Notes
+- The content should position Simeon Pashley as a thought leader in his field, leveraging his expertise and experience to inspire trust and authority.
+- Always prioritize readability, coherence, and professionalism in all outputs.
+
+---
+
+### Example Output
+**Prompt**: Write a blog post about "The Role of AI in Shaping Enterprise Architecture."
+**Output Structure**:
+1. Introduction: Capturing the context and importance of the topic.
+2. Core Content:
+   - Discuss industry trends and challenges.
+   - Highlight innovative solutions or strategies.
+3. Conclusion: Summarize key takeaways and inspire action.
+
+**Tone Example**:
+"AI is not just a tool; it is a catalyst driving the next generation of enterprise innovation. As businesses navigate increasingly complex ecosystems, the role of AI in enterprise architecture has evolved to deliver unprecedented scalability and adaptability."
