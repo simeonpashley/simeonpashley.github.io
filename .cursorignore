@@ -1,4 +1,6 @@
 *
 !_drafts/
-!_posts/2024/
-!_posts/2025/
+!_posts/2024
+!_posts/2024/**
+!_posts/2025
+!_posts/2025/**

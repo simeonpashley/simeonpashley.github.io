@@ -32,3 +32,6 @@ todo.md
 _prompts.md
 _drafts/
 writing_style.md
+chats/
+json-data/
+parse_gpt.py
