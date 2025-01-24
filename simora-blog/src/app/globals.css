@@ -1,0 +1,639 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Logo */
+  --logo-blue: #2563eb;
+  --logo-orange: #f59e0b;
+  --logo-green: #10b981;
+  --logo-purple: #9333ea;
+  /* Chem Logo */
+  --chem-blue: #2ec3ff;
+  --chem-orange: #eea515;
+  --chem-green: #45f700;
+  --chem-red: #fc0301;
+
+  /* Neutral Colors */
+  --neutral-black: #111827;
+  --neutral-dark: #212529;
+  --neutral-white: #ffffff;
+
+
+  /* Base Colors */
+  --simora-blue: #1e3a8a;
+  --simora-orange: #ff8c00;
+  --simora-green: #28a745;
+  --simora-teal: #20c997;
+  --simora-grey: #6c757d;
+  --simora-dark: #343a40;
+  --simora-red: #dc3545;
+  --simora-yellow: #ffc107;
+  --simora-neutral: #f8f9fa;
+  /* Light variations */
+  --simora-blue-light: #487edc;
+  --simora-green-light: #51d670;
+  --simora-orange-light: #f28e4b;
+  --simora-grey-light: #979fa6;
+  --simora-red-light: #dd4b6f;
+  /* Dark variations */
+  --simora-blue-dark: #183e7f;
+  --simora-green-dark: #1d7d34;
+  --simora-orange-dark: #98430b;
+  --simora-grey-dark: #4c535a;
+  --simora-red-dark: #821933;
+
+  /* MAP USE CASE TO COLOUR  */
+  /* Text Colors for Base Colors */
+  --simora-blue-text: var(--neutral-white);
+  --simora-orange-text: var(--neutral-white);
+  --simora-green-text: var(--neutral-white);
+  --simora-teal-text: var(--neutral-white);
+  --simora-grey-text: var(--neutral-white);
+  --simora-dark-text: var(--neutral-white);
+  --simora-red-text: var(--neutral-white);
+  --simora-yellow-text: var(--neutral-dark);
+  --simora-neutral-text: var(--neutral-dark);
+
+  /* Text Colors */
+  --simora-text: var(--neutral-black);
+  --simora-text-light: var(--neutral-white);
+  --simora-text-secondary: var(--simora-grey);
+  --simora-text-dark: var(--neutral-black);
+  /* Background Colors */
+  --simora-bg: var(--neutral-white);
+  --simora-bg-light: var(--neutral-white);
+  --simora-bg-secondary: var(--simora-neutral);
+  --simora-bg-dark: var(--neutral-black);
+  /* Brand Mappings */
+  --brand-assess: var(--simora-grey);
+  --brand-renew: var(--simora-orange);
+  --brand-maintain: var(--simora-green);
+  --brand-evolve: var(--simora-teal);
+  --brand-build: var(--simora-dark);
+  --brand-ignite: var(--simora-red);
+
+  /* Brand Text Mappings */
+  --brand-assess-text: var(--simora-grey-text);
+  --brand-renew-text: var(--simora-orange-text);
+  --brand-maintain-text: var(--simora-green-text);
+  --brand-evolve-text: var(--simora-teal-text);
+  --brand-build-text: var(--simora-dark-text);
+  --brand-ignite-text: var(--simora-red-text);
+
+
+  /* Gradients */
+  --simora-gradient-primary: linear-gradient(135deg,
+      var(--simora-blue),
+      var(--simora-green));
+  --simora-gradient-secondary: linear-gradient(135deg,
+      var(--simora-green),
+      var(--simora-orange));
+  /* Spacing */
+  --simora-spacing-sm: 0.5rem;
+  --simora-spacing-md: 1rem;
+  --simora-spacing-lg: 1.5rem;
+  --simora-spacing-xl: 2rem;
+  /* Typography */
+  --simora-font-family: "Inter", "Helvetica Neue", "Arial", sans-serif;
+  font-optical-sizing: auto;
+  /* Shadows */
+  --simora-shadow-sm: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  --simora-shadow-md: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  --simora-shadow-lg: 0px 8px 16px rgba(0, 0, 0, 0.15);
+
+  /* Border Radius */
+  --simora-radius-sm: 4px;
+  --simora-radius-md: 8px;
+  --simora-radius-lg: 12px;
+  /* Transitions */
+  --simora-transition-fast: 150ms ease-in-out;
+  --simora-transition-normal: 200ms ease-in-out;
+  --simora-transition-slow: 300ms ease-in-out;
+
+  /* .header { background: var(--simora-gradient-primary); color: var(--simora-primary-text); } */
+  --simora-gradient-primary: linear-gradient(135deg, #1E3A8A, #20C997);
+  /*.section-renew { background: var(--simora-gradient-renew); color: #111827; }*/
+  /* Dark text for better contrast */
+  --simora-gradient-renew: linear-gradient(135deg, #FF8C00, #FFC107);
+  /* .section-maintain { background: var(--simora-gradient-maintain); color: var(--simora-text-dark);  } */
+  --simora-gradient-maintain: linear-gradient(135deg, #28A745, #A8D08D);
+  /* .section-evolve { background: var(--simora-gradient-evolve); color: var(--simora-evolve-text);} */
+  --simora-gradient-evolve: linear-gradient(135deg, #20C997, #28A745);
+  /* .section-assess, .section-build { background: var(--simora-gradient-supporting); color: var(--simora-build-text) } */
+  --simora-gradient-supporting: linear-gradient(135deg, #6C757D, #343A40);
+  /* .section-ignite { background: var(--simora-gradient-ignite); color: var(--simora-ignite-text); } */
+  --simora-gradient-ignite: linear-gradient(135deg, #DC3545, #AB2143);
+  /* .section-accent { background: var(--simora-gradient-accent); color: var(--simora-primary-text); } */
+  --simora-gradient-accent: linear-gradient(135deg, #1E3A8A, #6F42C1);
+
+
+  /****/
+
+  /* Neutral Colors */
+  --neutral-white: #ffffff;
+  --simora-neutral-light: #F8F9FA;
+  --simora-neutral-light-text: #212529;
+
+  /* Text Colors */
+  --simora-text: #111827;
+  --simora-text-light: #ffffff;
+  --simora-text-secondary: #6c757d;
+  --simora-text-dark: #111827;
+  --simora-primary-text: #ffffff;
+  --simora-paragraph: #6C757D;
+  /* For paragraph text */
+  --simora-heading-primary: #1E3A8A;
+  --simora-heading-secondary: #FF8C00;
+  --simora-heading-tertiary: #20C997;
+
+  /* Background Colors */
+  --simora-bg: var(--neutral-white);
+  --simora-bg-light: #ffffff;
+  --simora-bg-secondary: #f9fafb;
+  --simora-bg-dark: #111827;
+
+  /* Sub-brand Colors */
+  /* Primary Brand */
+  --simora-blue: #1E3A8A;
+
+  /* Journey Services */
+  --simora-renew: #FF8C00;
+  --simora-renew-text: #FFFFFF;
+
+  --simora-maintain: #28A745;
+  --simora-maintain-text: #FFFFFF;
+
+  --simora-evolve: #20C997;
+  --simora-evolve-text: #FFFFFF;
+
+  /* Supporting Services */
+  --simora-assess: #6C757D;
+  --simora-assess-text: #FFFFFF;
+
+  --simora-build: #343A40;
+  --simora-build-text: #FFFFFF;
+
+  /* Risk Stage */
+  --simora-ignite: #DC3545;
+  --simora-ignite-text: #FFFFFF;
+
+  /* Accents */
+  --simora-accent-yellow: #FFC107;
+  --simora-accent-yellow-text: #212529;
+
+  /* Gradients */
+  --simora-gradient-primary: linear-gradient(135deg, #1E3A8A, #20C997);
+  --simora-gradient-renew: linear-gradient(135deg, #FF8C00, #FFC107);
+  --simora-gradient-maintain: linear-gradient(135deg, #28A745, #A8D08D);
+  --simora-gradient-evolve: linear-gradient(135deg, #20C997, #28A745);
+  --simora-gradient-supporting: linear-gradient(135deg, #6C757D, #343A40);
+  --simora-gradient-ignite: linear-gradient(135deg, #DC3545, #AB2143);
+  --simora-gradient-accent: linear-gradient(135deg, #1E3A8A, #6F42C1);
+  --simora-gradient-neutral-card: linear-gradient(135deg, #E0E0E0, #B0B0B0);
+
+  /* Button Colors */
+  --simora-btn-primary: #28A745;
+  --simora-btn-primary-text: #FFFFFF;
+  --simora-btn-primary-hover: #218838;
+  --simora-btn-primary-active: #1E7E34;
+
+  --simora-btn-secondary: #DC3545;
+  --simora-btn-secondary-text: #FFFFFF;
+  --simora-btn-secondary-hover: #C82333;
+  --simora-btn-secondary-active: #BD2130;
+
+  --simora-btn-tertiary: #6C757D;
+  --simora-btn-tertiary-text: #FFFFFF;
+  --simora-btn-tertiary-hover: #5A6268;
+  --simora-btn-tertiary-active: #545B62;
+}
+
+@supports (font-variation-settings: normal) {
+  :root {
+    --simora-font-family: "InterVariable", "Helvetica Neue", "Arial", sans-serif;
+    font-optical-sizing: auto;
+  }
+}
+
+@font-face {
+  font-family: InterVariable;
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("/fonts/InterVariable.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: InterVariable;
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("/fonts/InterVariable-Italic.woff2") format("woff2");
+}
+
+.logo-svg-color {
+  color: var(--simora-blue) !important;
+  fill: var(--simora-blue) !important;
+}
+
+.logo-svg-color g,
+.logo-svg-color path,
+.logo-svg-color rect,
+.logo-svg-color circle,
+.logo-svg-color polygon {
+  fill: currentColor !important;
+}
+
+/* Base Styles */
+body {
+  font-family: var(--simora-font-family);
+  background-color: var(--simora-bg);
+  color: var(--simora-text);
+}
+
+/* Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+/* Layer Base */
+@layer base {
+  h1 {
+    @apply text-4xl font-bold mb-6;
+  }
+
+  h2 {
+    @apply text-3xl font-semibold mb-4;
+  }
+
+  h3 {
+    @apply text-2xl font-semibold mb-3;
+  }
+
+  p {
+    @apply mb-4 leading-relaxed;
+  }
+}
+
+/* Layer Components */
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 rounded-md font-semibold transition-all duration-200;
+  }
+
+  .btn-primary {
+    @apply btn text-white bg-simoraBlue hover:bg-opacity-90 shadow-md hover:shadow-lg;
+  }
+
+  .btn-secondary {
+    @apply btn border-2 border-simoraBlue text-simoraBlue hover:bg-simoraBlue hover:text-white;
+  }
+
+  .btn-gradient {
+    @apply btn text-white bg-gradient-to-r from-simoraBlue to-simoraGreen hover:from-simoraGreen hover:to-simoraOrange;
+  }
+}
+
+/** **/
+
+/* General Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: var(--simora-bg);
+  color: var(--simora-text);
+}
+
+.header {
+  background: var(--simora-gradient-primary);
+  color: var(--simora-primary-text);
+  padding: 20px;
+  text-align: center;
+}
+
+.header nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+.header nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+.header nav ul li a {
+  color: var(--simora-primary-text);
+  text-decoration: none;
+}
+
+.service {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.service h2 {
+  margin-top: 0;
+}
+
+.btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+  transition: background 0.3s ease;
+}
+
+/* Buttons */
+.btn-renew {
+  background: var(--simora-renew);
+  color: var(--simora-renew-text);
+}
+
+.btn-renew:hover {
+  background: var(--simora-gradient-renew);
+}
+
+.btn-maintain {
+  background: var(--simora-maintain);
+  color: var(--simora-maintain-text);
+}
+
+.btn-maintain:hover {
+  background: var(--simora-gradient-maintain);
+}
+
+.btn-evolve {
+  background: var(--simora-evolve);
+  color: var(--simora-evolve-text);
+}
+
+.btn-evolve:hover {
+  background: var(--simora-gradient-evolve);
+}
+
+.btn-assess {
+  background: var(--simora-assess);
+  color: var(--simora-assess-text);
+}
+
+.btn-assess:hover {
+  background: var(--simora-gradient-supporting);
+}
+
+.btn-build {
+  background: var(--simora-build);
+  color: var(--simora-build-text);
+}
+
+.btn-build:hover {
+  background: var(--simora-gradient-supporting);
+}
+
+.btn-ignite {
+  background: var(--simora-ignite);
+  color: var(--simora-ignite-text);
+}
+
+.btn-ignite:hover {
+  background: var(--simora-gradient-ignite);
+}
+
+/* Service Sections */
+.section-renew {
+  background: var(--simora-gradient-renew);
+  color: var(--simora-renew-text);
+}
+
+.section-maintain {
+  background: var(--simora-gradient-maintain);
+  color: var(--simora-maintain-text);
+}
+
+.section-evolve {
+  background: var(--simora-gradient-evolve);
+  color: var(--simora-evolve-text);
+}
+
+.section-assess {
+  background: var(--simora-gradient-supporting);
+  color: var(--simora-assess-text);
+}
+
+.section-build {
+  background: var(--simora-gradient-supporting);
+  color: var(--simora-build-text);
+}
+
+.section-ignite {
+  background: var(--simora-gradient-ignite);
+  color: var(--simora-ignite-text);
+}
+
+/* Footer */
+.footer {
+  background-color: var(--simora-bg-dark);
+  color: var(--simora-text-light);
+  padding: 20px;
+  text-align: center;
+}
+
+/* Accent Elements */
+.section-accent {
+  background: var(--simora-gradient-accent);
+  color: var(--simora-primary-text);
+}
+
+/* General Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: var(--simora-bg);
+  color: var(--simora-text);
+}
+
+.header {
+  background: var(--simora-gradient-primary);
+  color: var(--simora-primary-text);
+  padding: 20px;
+  text-align: center;
+}
+
+.header nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0 0;
+}
+
+.header nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+.header nav ul li a {
+  color: var(--simora-primary-text);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.header nav ul li a:hover {
+  text-decoration: underline;
+}
+
+.service {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.service h2 {
+  margin-top: 0;
+  font-size: 2em;
+}
+
+.service p {
+  font-size: 1.1em;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.btn {
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease, transform 0.1s ease;
+}
+
+.btn-primary {
+  background-color: var(--simora-btn-primary);
+  color: var(--simora-btn-primary-text);
+}
+
+.btn-primary:hover {
+  background-color: var(--simora-btn-primary-hover);
+}
+
+.btn-primary:active {
+  background-color: var(--simora-btn-primary-active);
+  transform: scale(0.98);
+}
+
+.btn-secondary {
+  background-color: var(--simora-btn-secondary);
+  color: var(--simora-btn-secondary-text);
+}
+
+.btn-secondary:hover {
+  background-color: var(--simora-btn-secondary-hover);
+}
+
+.btn-secondary:active {
+  background-color: var(--simora-btn-secondary-active);
+  transform: scale(0.98);
+}
+
+.btn-tertiary {
+  background-color: var(--simora-btn-tertiary);
+  color: var(--simora-btn-tertiary-text);
+}
+
+.btn-tertiary:hover {
+  background-color: var(--simora-btn-tertiary-hover);
+}
+
+.btn-tertiary:active {
+  background-color: var(--simora-btn-tertiary-active);
+  transform: scale(0.98);
+}
+
+.footer {
+  background-color: var(--simora-bg-dark);
+  color: var(--simora-text-light);
+  padding: 20px;
+  text-align: center;
+}
+
+/* Service Sections with Gradients */
+.service.renew {
+  background: var(--simora-gradient-renew);
+  color: var(--simora-renew-text);
+}
+
+.service.maintain {
+  background: var(--simora-gradient-maintain);
+  color: var(--simora-maintain-text);
+}
+
+.service.evolve {
+  background: var(--simora-gradient-evolve);
+  color: var(--simora-evolve-text);
+}
+
+.service.assess {
+  background: var(--simora-gradient-supporting);
+  color: var(--simora-assess-text);
+}
+
+.service.build {
+  background: var(--simora-gradient-supporting);
+  color: var(--simora-build-text);
+}
+
+.service.ignite {
+  background: var(--simora-gradient-ignite);
+  color: var(--simora-ignite-text);
+}
+
+/* Card Styling with Neutral Gradient */
+.card-section {
+  padding: 40px 20px;
+  background-color: var(--simora-neutral-light);
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  background: var(--simora-gradient-neutral-card);
+  color: var(--simora-text-dark);
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 400px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card h3 {
+  color: var(--simora-heading-primary);
+}
+
+.card p {
+  color: var(--simora-paragraph);
+}
+
+.card .btn {
+  margin-top: 20px;
+}
+
+/* Heading and Paragraph Styles */
+h1,
+h2,
+h3 {
+  margin-bottom: 10px;
+}
+
+p {
+  line-height: 1.6;
+}
+
+/* Example Accent Section */
+.section-accent {
+  background: var(--simora-gradient-accent);
+  color: var(--simora-primary-text);
+  padding: 40px 20px;
+  text-align: center;
+}
