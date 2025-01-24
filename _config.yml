@@ -2,8 +2,8 @@ theme: jekyll-theme-chirpy
 lang: en
 timezone: Europe/London
 title: Simeon Pashley # the main title
-
 tagline: Strategic Digital Leader | Driving Digital Transformation, AI Innovation & Scalable E-Commerce Solutions # it will display as the sub-title
+expertise: Cutting edge, innovative, curious and inspirational development expert. AI first transformation.
 
 description: >- # used by seo meta and the atom feed
   Some random collection of notes, posts and longer form writing.
@@ -209,7 +209,6 @@ compress_html:
 exclude:
   - "*.gem"
   - "*.gemspec"
-  - docs
   - tools
   - README.md
   - LICENSE

@@ -1,0 +1,23 @@
+name: Documentation Validation
+
+on:
+  push:
+    paths:
+      - 'docs/**'
+      - '.github/workflows/docs-validation.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check broken links
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --format detailed docs/**/*.md
+
+      - name: Verify TOC structure
+        run: |
+          grep -qr '^## Table of Contents' docs/ || \
+          (echo "Missing TOC in files:" && grep -Lr '^## Table of Contents' docs/ && exit 1)
