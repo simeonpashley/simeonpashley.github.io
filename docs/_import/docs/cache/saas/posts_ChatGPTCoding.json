@@ -1,0 +1,802 @@
+[
+  {
+    "id": "1i6t40q",
+    "title": "Mode launches autonomous coding!",
+    "selftext": "",
+    "score": 1,
+    "num_comments": 2,
+    "url": "https://i.redd.it/2zl1xuzwseee1.gif"
+  },
+  {
+    "id": "1i6pxqw",
+    "title": "Cline v3.2 has a new Plan/Act toggle, API/model selector, and VS Code LM API option to use Cline for free with GitHub Copilot",
+    "selftext": "",
+    "score": 23,
+    "num_comments": 2,
+    "url": "https://v.redd.it/7py4i2xt5eee1"
+  },
+  {
+    "id": "1i6ny8d",
+    "title": "As LLMs speed up the development phase of software delivery, will we see large scale application bloat?",
+    "selftext": "In a recent podcast episode with Hannah Foxwell, she talked about how the bottleneck of software development will shift (as LLMs massively reduce the build/code gen steps) from application development to other aspects of the cycle, including prioritization. I.e. if we get to a stage where AI allows us to deliver features super fast, wouldn't we deliver everything we can on our list? Should we deliver everything on our list? \n\nCurious to hear how folks are thinking about avoiding feature bloat and ensure meaningful product improvements when using AI to speed up our development practices. \n\npodcast I'm referring to -> [https://podcasts.apple.com/us/podcast/the-ai-native-dev-from-copilot-today-to-ai-native/id1756073806](https://podcasts.apple.com/us/podcast/the-ai-native-dev-from-copilot-today-to-ai-native/id1756073806)",
+    "score": 0,
+    "num_comments": 8,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i6ny8d/as_llms_speed_up_the_development_phase_of/"
+  },
+  {
+    "id": "1i6m1du",
+    "title": "Has anyone tried LLMs making a game in Unity or Unreal?",
+    "selftext": "Just wondering if there was any support in Unity or Unreal for LLM assisted coding to create games? Or if anyone has worked out a workflow? \n\nCurious if it's worth giving it a try, or if it's already been determined that there just isn't enough training data on those rather specific systems?",
+    "score": 1,
+    "num_comments": 4,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i6m1du/has_anyone_tried_llms_making_a_game_in_unity_or/"
+  },
+  {
+    "id": "1i6lz2z",
+    "title": "Seeing Deepseek R1's reasoning when it's asked to write unit tests is amazing!",
+    "selftext": "I asked it to consider all the cases, including the unlikely and the corner cases. And then it started thinking, trying to understand the code, working its way through each methods.\n\nAnd then, it *started thinking in code*! And evaluating the code it's thinking, and rewriting it. And sure, it takes a looong time (138 seconds), but the result is 100% coverage and all green. It's easy to become jaded with this llm thing, but that was amazing to watch.",
+    "score": 29,
+    "num_comments": 9,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i6lz2z/seeing_deepseek_r1s_reasoning_when_its_asked_to/"
+  },
+  {
+    "id": "1i6kvgc",
+    "title": "Best tool for TDD with GenAI?",
+    "selftext": "What's the best tool for TDD with GenAI? I'm an experienced developer but relatively new to ai-assisted coding. I'd like to give the tool some failing (Java/JUnit) tests and have it try to write code to make the tests pass, AND compile the code, run the tests to verify, and take feedback from the tests to improve the code, without my intervention.\n\nI got a little way on this using Cursor's Composer with Claude, eventually persuading it to execute \"mvn test\" itself (rather than asking me to run it and report back) and take the feedback into account to make further changes - although I did have to click a button to run the proposed mvn test command each time (which is not an unreasonable brake on resource consumption, to be fair). But is there a tool that does it better?",
+    "score": 0,
+    "num_comments": 0,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i6kvgc/best_tool_for_tdd_with_genai/"
+  },
+  {
+    "id": "1i6jr6g",
+    "title": "The Chinese OBLITERATED OpenAI. A side-by-side comparison of DeepSeek R1 vs OpenAI O1 for Finance",
+    "selftext": "[I originally posted this article on Medium](https://medium.com/p/93a1b4343a82). I wanted to share it here to reach a wider audience. Feel free to comment on the original post or down below! Let\u2019s start a discussion.\n\nBefore today, I thought the OpenAI O1 model was the best thing to happen to the field of AI since ChatGPT.\n\nThe O1 family of models are \u201creasoning models\u201d \u2014 instead of the traditional model which responds instantly, these models take their time \u201cthinking\u201d, resulting in much better outcomes.\n\nAnd MUCH higher prices.\n\n[Pic: A full day\u2019s usage of OpenAI\u2019s most powerful models](https://miro.medium.com/v2/resize:fit:1400/1*O4PGpZxQh64aOPCY4TiB9g.png)\n\nIn fact, these models are so expensive, that only the premium users for my AI app had access. Not because I didn\u2019t want to inhibit my users, but because I quite literally could not afford to subsidize this expensive model.\n\n[Pic: The relative cost](https://miro.medium.com/v2/resize:fit:1400/1*InrwieGQvh73ZXY5SiaUPw.png)\n\nHowever, thanks to the Chinese, my users can now experience the full power of the next-generation of language models.\n\nAnd they can do it at 2% of the price. This is not a joke.\n\n# The Chinese ChatGPT \u2013 like OpenAI and Meta had a baby\n\nDeepSeek is the Chinese OpenAI, with a few important caveats. Unlike OpenAI, DeepSeek releases all of their models to the open-source community. This includes their code, architecture, and even model-weights \u2014 all available for anybody to download.\n\nIronically, this makes them more open than OpenAI.\n\n[DeepSeek R1](https://github.com/deepseek-ai/DeepSeek-R1) is their latest model. Just like OpenAI\u2019s O1, R1 is a reasoning model, capable of thinking about the question before giving an answer.\n\nAnd just like OpenAI, this \u201cthinking process\u201d is mind-blowing.\n\n[Pic: A side-by-side comparison of DeepSeek R1, OpenAI o1, and the original DeepSeek-V3](https://miro.medium.com/v2/resize:fit:1400/1*y1z97enn010nxRQ894dSJw.jpeg)\n\nR1 matches or surpasses O1 in a variety of different benchmarks. [**To look at these benchmarks, check out their GitHub page**](https://github.com/deepseek-ai/DeepSeek-R1). Additionally, from my experience, it\u2019s faster, cheaper, and has comparable accuracy.\n\nIn fact, if you compare it apples-to-apples, R1 isn\u2019t just a little cheaper; it\u2019s MUCH cheaper.\n\n- R1: $0.55/M input tokens | $2.19/M output tokens\n- O1: $15.00/M input tokens | $60.00/M output tokens\n\n[Pic: Cost of DeepSeek R1 vs OpenAI O1](https://miro.medium.com/v2/resize:fit:1400/1*-kUl5sMGyrjbl7mQspLHCw.png)\n\nAt the same benchmark performance, this model is 50x cheaper than OpenAI\u2019s O1 model. That\u2019s insane.\n\nBut that\u2019s just benchmarks. Does the R1 model *actually* perform well for complex real-world tasks?\n\nSpoiler alert: yes it does.\n\n# A side-by-side comparison of R1 to O1\n\nIn a previous article, I compared OpenAI\u2019s O1 model to Anthropic\u2019s Claude 3.5 Sonnet. In that article, I showed that O1 dominates Claude, and is capable of performing complex real-world tasks such as generating SQL queries. In contrast, Claude struggled.\n\nThe SQL that is generated by the model is subsequently executed, and then the results are sent back to the model for further processing and summarization.\n\n[Pic: A diagram showing the process of using LLMs for financial research](https://miro.medium.com/v2/resize:fit:1400/0*aUXuPECZQK5LADWL.png)\n\nI decided to replicate this same exact test with O1. **Specifically**, I asked the following questions:\n- Since Jan 1st 2000, how many times has SPY fallen 5% in a 7-day period?\n- From each of these start dates, what was the average max drawdown within the next 180 days? What about the next 365 days?\n- From each of these end dates, what was the average 180 day return and the average 365 day return, and how does it compare to the 7 day percent drop?\n- Create a specific algorithmic trading strategy based on these results.\n\nFor a link to the exact conversation, where you can view, duplicate, and continue from where I left off, [**check out the following link.**](https://nexustrade.io/share/678f128dd227a6178dfb07a5)\n\n**Using R1 and O1 for complex financial analysis \u2013 a comparison**\n\nLet\u2019s start with the first question, basically asking the model how often does SPY experience drastic falls.\n\nThe exact question was:\n\n> Since Jan 1st 2000, how many times has SPY fallen 5% in a 7-day period? In other words, at time t, how many times has the percent return at time (t + 7 days) been -5% or more.\n\n> Note, I\u2019m asking 7 calendar days, not 7 trading days.\n\n> In the results, include the data ranges of these drops and show the percent return. Also, format these results in a markdown table.\n\nHere was its response.\n\n[Pic: DeepSeek\u2019s response to the drastic fall question](https://miro.medium.com/v2/resize:fit:1400/1*Ofe7bLu20rvggv1aYY3NvA.png)\n\nLet\u2019s compare that to OpenAI\u2019s o1\u2019s response.\n\n[Pic: OpenAI\u2019s response to the drastic fall question](https://miro.medium.com/v2/resize:fit:1400/1*tHshPtGTXcz4mpCP-lH3Wg.png)\n\nBoth responses include a SQL query that we can inspect.\n\n[Pic: SQL query that R1 generated](https://miro.medium.com/v2/resize:fit:1400/1*9Wg7hFpJTRaPOe1V7DM-Pw.png)\n\nWe can inspect the exact queries by viewing the full conversations and clicking the info icon at the bottom of the message.\n\n- [**Full conversation with O1**](https://nexustrade.io/share/67663d92cbd782e4a29357b8)\n- [**Full conversation with R1**](https://nexustrade.io/share/678f128dd227a6178dfb07a5)\n\nIf we look closely, **we notice that both models responses are 100% correct.**\n\nThe difference between them are:\n- O1's response includes a total occurrences field, which is technically more correct (I did ask \u201chow many times has this happened?\u201d)\n- O1's response was also not truncated. In contrast, R1\u2019s response was abridged for the markdown table, making it hard to see the full list of returns\n\nOpenAI\u2019s response was a little bit better, but not by much. Both models answered accurately, and R1\u2019s response was completely fine in terms of extracting real-world insights.\n\nLet\u2019s move on to the next question.\n\n> From this, what is the average 180 day max drawdown, the average 365 day max drawdown, and how does it compare to the 7 day percent drop?\n\nThe R1 model responded as follows:\n\n[Pic: R1\u2019s response for the average 180 day max drawdown, 365 day max drawdown, and how it compares to the 7-day drop](https://miro.medium.com/v2/resize:fit:1400/1*lbEH-t4raHXCV7g-eT7OHQ.png)\n\nIn contrast, this is what O1 responded.\n\n[Pic: O1\u2019s response for the average 180 day max drawdown, 365 day max drawdown, and how it compares to the 7-day drop](https://miro.medium.com/v2/resize:fit:1400/1*eTslqwU7ij8O7NJCzfbLTA.png)\n\nIn this example, R1\u2019s answer was actually better! It answered the question of \u201chow does it compare to the 7-day drop\u201d by including a ratio in the response.\n\nOther than that, the answers were nearly exactly the same.\n\nFor the next question, we asked the following:\n\n> What was the average 180 day return and the average 365 day return, and how does it compare to the 7 day percent drop?\n\n[Pic: The average return after a large fall \u2013 R1\u2019s response to the left and O1\u2019s to the right](https://miro.medium.com/v2/resize:fit:4780/1*IrhXdOtzrxL1hZfftiKJ_A.png)\n\nIn this case, the results were almost exactly alike. The formatting for R1 was *slightly* better, but that\u2019s completely subjective.\n\nThe real test is seeing if R1 can excel in a completely different task \u2013 creating automated trading strategies.\n\n**Using R1 and O1 for creating algorithmic trading strategies**\n\nTo create a trading strategy, we\u2019re essentially asking the model to generate a configuration for a \u201cportfolio\u201d.\n\nCreating this configuration involves many steps.\n1. We create the \u201cportfolio\u201d, which includes a name, an initial value, and a description of the trading strategies.\n2. From this description, we create \u201cstrategy\u201d configurations. This configuration includes an action and a description for when the action should be executed (called a \u201ccondition\u201d).\n3. From this description, we create the \u201ccondition\u201d configuration, which can be interpreted for algorithmic trading\n\nThis process where the output of one prompt is used as the input of another prompt is called \u201cPrompt Chaining\u201d.\n\n[Pic: The \u201cCreate Portfolio\u201d prompt chain](https://miro.medium.com/v2/resize:fit:1174/0*AMV3v-qrsOMNULUM.png)\n\nHow this looks is as follows\u2026 we simply ask the following question to the model:\n\n> Create a portfolio with $10,000 with the following strategies\u00a0\u00a0\n> - Buy 50% of our buying power in SPXL if we have less than $500 of SPXL positions\u00a0\u00a0\n> - Sell 20% of our portfolio value in SPXL if we haven\u2019t sold SPXL in 10000 days and our SPXL positions are up 10% or more\u00a0\u00a0\n> - Sell 20% of our portfolio value in SPXL if the SPXL stock price is up 10% from when we last sold it\u00a0\u00a0\n> - Buy 40% of our buying power in SPXL if our SPXL positions are down 12% or more\n\nJust like O1, the model responds correctly, generating a highly profitable algorithmic trading strategy on its first try.\n\nCompared to the S&P 500, this strategy is phenomenal. It outperforms the market by 2x, has a much higher sharpe ratio, a higher sortino ratio, and a similar maximum drawdown.\n\n[Pic: The performance metrics of this strategy](https://miro.medium.com/v2/resize:fit:1400/1*U2eZdl89_ax3U8vLNRYXHw.png)\n\nAbsolutely incredible.\n\n# Caveats of this analysis: this model is NOT perfect\n\nDespite being able to perfectly generate accurate queries and JSON configurations, the model does have some downsides.\n\nTo start, when viewing the logs of this model, I noticed that it would sometimes generate **invalid SQL queries**.\n\n[Pic: An example of an error message from the logs](https://miro.medium.com/v2/resize:fit:1400/1*aVBiCWV5nPDe8x0Mt5Tr7w.png)\n\nHowever, because my platform has self-correcting logic, where it will automatically retry queries that don\u2019t make sense or are invalid, this was not a big problem, as it tended to rectify itself.\n\nIn addition to this, on one occasion, the model did timeout, giving no valid response to a question that I asked.\n\n[Pic: The model did not respond](https://miro.medium.com/v2/resize:fit:1400/1*hH-9SOD2qumCn0ihXvUPug.png)\n\nI had to re-ask the question, and it answered it correctly the second time.\n\nI\u2019m not saying other models (like O1) don\u2019t have these problems; I just hadn\u2019t noticed them. But at 2% the price, you can literally send 50x more messages with R1 to get comparable answers.\n\nBecause of this, these minor bugs don\u2019t bother me one bit. The value this model unlocks is mind-blowing, and it makes powerful AI more accessible to everybody. With this model, my ChatGPT Pro subscription, standing tall at $200/month, almost seems like a waste of money. And that\u2019s saying something.\n\n# Concluding Thoughts\n\nWith OpenAI\u2019s reasoning model, it wasn\u2019t love at first sight. I found it to be ungodly slow and very expensive. I only fell in-love with it when I started using it and saw how amazing it was for financial analysis and algorithmic trading.\n\nWith DeepSeek\u2019s R1, I quite literally fell in-love instantly. This phrase is overused, but in this case, it is truly revolutionary.\n\nBecause they\u2019re open-source, they have now empowered millions of developers to build on top of, modify, and improve their models, which will further drive down cost and force OpenAI to bring something massive.\n\nAnd because they\u2019re so cheap, I can enable the model for ALL users of my algorithmic trading platform, regardless if you\u2019re a paying user or not.\n\nIn fact, the model is so cheap and so powerful, that I switched the default model for all users to it. With it only being 4 times more expensive than OpenAI\u2019s 4o-mini (their most inexpensive model and my previous default model), I literally saw no reason not to.\n\nWith this model, AI has just become accessible to everybody. OpenAI, Anthropic, and Google are in a lot of trouble. If a much smaller, open-source model trained on cheaper GPUs can outperform these multi-billion (or trillion) dollar tech giants, there\u2019s absolutely no way they\u2019ll survive without a \u201cMirror Force\u201d like trap card in their sleeve.\n\nAnd the entire world will benefit from their demise.",
+    "score": 142,
+    "num_comments": 83,
+    "url": "https://medium.com/p/93a1b4343a82"
+  },
+  {
+    "id": "1i6i207",
+    "title": "Wednesday Live Chat.",
+    "selftext": " A place where you can chat with other members about software development and ChatGPT, in real time. If you'd like to be able to do this anytime, check out our [official Discord Channel!](https://discord.gg/JQvYqcajWH) Remember to follow Reddiquette!",
+    "score": 0,
+    "num_comments": 0,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i6i207/wednesday_live_chat/"
+  },
+  {
+    "id": "1i6i1uu",
+    "title": "Best coding assistant for Data scientists ",
+    "selftext": "I am looking for an AI assistant to aid me in my projects. Particularly to be extremely advanced in python and R. Most of the posts here talks abt sw development and building apps and other languages. Does windsurf and cursor do the job for me?",
+    "score": 1,
+    "num_comments": 1,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i6i1uu/best_coding_assistant_for_data_scientists/"
+  },
+  {
+    "id": "1i6ex0e",
+    "title": "Anyone tried MiniMax-01 for coding? What's it like?",
+    "selftext": "I was excited when i saw the release blogpost about the model and all the benchmarks, but it seems like the model got ignored by most people? and then it got brushed aside by R1's full release?\n\nR1 has 64k input context, DeepSeek V3 (the non-reasoning model) has 128k context, MiniMax has 4M!!!\n\nSo I wanna know if it performs anywhere as well as other models under actual coding usage (Writing code, writing documentation, fixing bugs, refactoring, etc). What's your experience?",
+    "score": 7,
+    "num_comments": 7,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i6ex0e/anyone_tried_minimax01_for_coding_whats_it_like/"
+  },
+  {
+    "id": "1i69pfo",
+    "title": "New guy in town. Who is using Aide? How is it?",
+    "selftext": "",
+    "score": 2,
+    "num_comments": 13,
+    "url": "https://i.redd.it/v0hnodvcq9ee1.png"
+  },
+  {
+    "id": "1i67gzr",
+    "title": "DeepSeek R1 vs o1 vs Claude 3.5 Sonnet: Round 1 Code Test",
+    "selftext": "I took a coding challenge which required planning, good coding, common sense of API design and good interpretation of requirements (IFBench) and gave it to R1, o1 and Sonnet. Early findings:\n\n(Those who just want to watch them code: https://youtu.be/EkFt9Bk_wmg\n\n- R1 has much much more detail in its Chain of Thought \n- R1's inference speed is on par with o1 (for now, since DeepSeek's API doesn't serve nearly as many requests as OpenAI)\n- R1 seemed to go on for longer when it's not certain that it figured out the solution \n- R1 reasoned wih code! Something I didn't see with any reasoning model. o1 might be hiding it if it's doing it\n++ Meaning it would write code and reason whether it would work or not, without using an interpreter/compiler\n\n-  R1: \ud83d\udcb0 $0.14 / million input tokens (cache hit)\n\ud83d\udcb0 $0.55 / million input tokens (cache miss)\n\ud83d\udcb0 $2.19 / million output tokens\n\n- o1: \ud83d\udcb0 $7.5 / million input tokens (cache hit)\n\ud83d\udcb0 $15 / million input tokens (cache miss)\n\ud83d\udcb0 $60 / million output tokens\n\n- o1 API tier restricted, R1 open to all, open weights and research paper\n- Paper: https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf\n\n- 2nd on Aider's polyglot benchmark, only slightly below o1, above Claude 3.5 Sonnet and DeepSeek 3\n- they'll get to increase the 64k context length, which is a limitation in some use cases\n- will be interesting to see the R1/DeepSeek v3 Architect/Coder combination result in Aider and Cline on complex coding tasks on larger codebases\n\nHave you tried it out yet? First impressions?",
+    "score": 85,
+    "num_comments": 39,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i67gzr/deepseek_r1_vs_o1_vs_claude_35_sonnet_round_1/"
+  },
+  {
+    "id": "1i6744s",
+    "title": "Best realistic tts that returns word timings",
+    "selftext": "I want to have the best possible (modern and emotive) voice that can return weird timings so that I can have karaoke highlighting similar to this page: https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/#ceo-message\n\n(Play the audio to see the highlighting.)\n\nRight now, I use ssml marks to get the timings returned, but the best choice I can find is Google Neural, which is meh.\n\nSuggestions?",
+    "score": 3,
+    "num_comments": 0,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i6744s/best_realistic_tts_that_returns_word_timings/"
+  },
+  {
+    "id": "1i656zf",
+    "title": "p2p sharing of documentations in txt format?",
+    "selftext": "Heya,\n\nthere is an issue that has been persisting in the AI coding community: no freaking easy way to scrape documentations in an LLM friendly way. That's needed to generate accurate code.\n\nI created some scripts for this purpose that use Crawl4AI or FireCrawl but it still takes ages to scrape long documentations and often they are larger than the max number of input tokens allowed in most LLMs, except Gemini maybe.\n\nSo here it is an idea: why don't we create a public directory where people can upload and download scraped docs in txt or md format? Maybe even summaries of the longer documentations.\n\nOr do you have any other solution in mind?",
+    "score": 4,
+    "num_comments": 1,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i656zf/p2p_sharing_of_documentations_in_txt_format/"
+  },
+  {
+    "id": "1i636r0",
+    "title": "Aider v0.72.0 is released, with DeepSeek R1 support",
+    "selftext": "- Support for DeepSeek R1, which scored 57% on aider's polyglot benchmark, ranks 2nd behind o1.\n- Use shortcut: `--model r1`\n- Also via OpenRouter: `--model openrouter/deepseek/deepseek-r1`\n\n- Added Kotlin syntax support to repo map, by Paul Walker.\n- Added `--line-endings` for file writing, by Titusz Pan.\n- Added examples_as_sys_msg=True for GPT-4o models, improves benchmark scores.\n- Bumped all dependencies, to pick up litellm support for o1 system messages.\n- Bugfix for turn taking when reflecting lint/test errors.\n- Fix permissions issue in Docker images.\n- Added read-only file announcements.\n- Bugfix: ASCII fallback for unicode errors.\n- Bugfix: integer indices for list slicing in repomap calculations.\n\n- Aider wrote 52% of the code in this release.\n\nFull change log:\nhttps://aider.chat/HISTORY.html\n\nAider leaderboard:\nhttps://aider.chat/docs/leaderboards/",
+    "score": 62,
+    "num_comments": 29,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i636r0/aider_v0720_is_released_with_deepseek_r1_support/"
+  },
+  {
+    "id": "1i607xv",
+    "title": "cursor vs augment code",
+    "selftext": "augment code just released their self serve product (vscode extention) and I was wondering how it compared to cursor? or has anyone used it at work before? trying to understand pro vs cons",
+    "score": 1,
+    "num_comments": 1,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i607xv/cursor_vs_augment_code/"
+  },
+  {
+    "id": "1i5zj5a",
+    "title": "Ever got rickroll'd by AI?",
+    "selftext": "",
+    "score": 5,
+    "num_comments": 4,
+    "url": "https://www.reddit.com/gallery/1i5zj5a"
+  },
+  {
+    "id": "1i5z2rq",
+    "title": "Natural Language to Agent tools is the near future",
+    "selftext": "LLM-powered agents are overhyped and not fundamentally new.  \n  \nThey\u2019re essentially specialized code snippets, like Python functions, enhanced with the intelligence of LLMs.\n\nMajor players Meta, Google, OpenAI, and Anthropic release natural language-to-agent tools in the next 6 months, these frameworks will become standardized.  \n  \nLearning these tools makes sense, but developing or spending time mastering 3. party specific agent frameworks is waste IMHO.  \n  \nEcosystem will soon converge on simpler solutions.",
+    "score": 3,
+    "num_comments": 3,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i5z2rq/natural_language_to_agent_tools_is_the_near_future/"
+  },
+  {
+    "id": "1i5w6tx",
+    "title": "DeepSeek R1 Comparisons Discussion",
+    "selftext": "",
+    "score": 0,
+    "num_comments": 0,
+    "url": "/r/AI_Agents/comments/1i5vy28/deepseek_r1_comparisons_discussion/"
+  },
+  {
+    "id": "1i5uwg8",
+    "title": "New Deepseek R1 supposedly like o1",
+    "selftext": "Anyone try to code with it yet? It\u2019s cheap! If I think of something relatively complex I\u2019ll try it.",
+    "score": 13,
+    "num_comments": 21,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i5uwg8/new_deepseek_r1_supposedly_like_o1/"
+  },
+  {
+    "id": "1i5suti",
+    "title": "Cursor or windsurf what to choose ?",
+    "selftext": "Hi everyone,\nAs mentioned in the title, I\u2019m planning to get a premium subscription. Price isn\u2019t a concern since I can claim it. I\u2019ve been using both Cursor and Windsurf for a month now, and here are my observations:\n\nCursor Small: Seems like a better model than Cascade Base.\n\nWindsurf: Allows me to revert to the nth previous code, which is super helpful.\n\nWindsurf: Now supports search with URLs, which feels like a game changer.\n\n\nI\u2019m genuinely confused about which one to choose. Both have their merits, and I\u2019d appreciate any insights from those who\u2019ve used either (or both) in the long run.\n\nThanks in advance!",
+    "score": 20,
+    "num_comments": 49,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i5suti/cursor_or_windsurf_what_to_choose/"
+  },
+  {
+    "id": "1i5s726",
+    "title": "On-prem cursor",
+    "selftext": "What are the preferred on-prem solutions for AI coding right now?  \n\n\nI already have Vscode/Pycharm with continue and a locally run model on ollama.  \n\n\nBut I understand Cursor can handle several files, and apply edits from the chat window.\n\nI want similar capabilities but on-prem. Is there a way to use Cursor on-prem? Or a cursor alternative?",
+    "score": 3,
+    "num_comments": 8,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i5s726/onprem_cursor/"
+  },
+  {
+    "id": "1i5nxe1",
+    "title": "Using AI is a great way to learn coding",
+    "selftext": "I feel like a big problem when people learn to code is usually they immediately start to write simple classes and functions, maybe make a calculator.\n\nIt's an incredibly frustrating way to learn something and I think many lose interested once the calculator is complete.\n\nBut coding with AI, you learn about coding from a more macro-level, understanding how code flows, and different ways that functions and files interact with each other.\n\nI feel it's a much more intuitive way to learn. And personally, I am enjoying it a lot.",
+    "score": 38,
+    "num_comments": 33,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i5nxe1/using_ai_is_a_great_way_to_learn_coding/"
+  },
+  {
+    "id": "1i5mrbu",
+    "title": "Using OpenAI models to suggest terminal commands: feedback",
+    "selftext": "Mid December 2024, we ran a hackathon within our startup, and the team had 2 weeks to build something cool on top of our already existing AI Agents: it led to the birth of the \u2018supershell\u2019.\n\nFrustrated by the **AI shell tooling**, we wanted to work on how AI agents can help us by suggesting commands, autocompletions and more, without executing a bunch of overkill, heavy requests like we have recently seen.\n\nBut to achieve it, that we had to challenge ourselves:\u00a0\n\n* Deal with a superfast LLM (including OpenAI models)\n* Send it enough context (but not too much) to ensure reliability\n* Code it 100% in shell, allowing full compatibility with existing setup.\u00a0\n\nIt was a nice and rewarding experience, so might as well share my insights, it may help some builders around.\n\n# First, get the agent to act FAST\n\nIf we want autocompletion/suggestions within seconds that are both super fast AND accurate, we need the right LLM to work with. We started to explore open-source, light weight models such as Granite from IBM, Phi from Microsoft, and even self-hosted solutions via Ollama.\n\n* **Granite** was alright. The suggestions were actually accurate, but in some cases, the context window became too limited\n* **Phi** did much better (3x the context window), but the speed was sometimes lacking\n* **With Ollama,** it is stability that caused an issue. We want it to always suggest a delay in milliseconds, and once we were used to having suggestions, having a small delay was very frustrating.\n* **Old OpenAI models:** while being a good balance between accuracy and speed, we felt like we can aim for higher. We still marked it as a good alternative for cheap, closed-source LLMs.\n* **Open AI o1, o1 mini**: excellent results. However, the CoT made it way too slow for our use. If speed was not an issue, it would have been our go-to.\n\nWe have decided to go with larger models with **State-Of-The-Art inferences** (thanks to our AI Agents already built on top of it) that could handle all the context we needed, while remaining excellent in speed, despite all the prompt-engineering behind to mimic a CoT that leads to more accurate results. OpenAI models, as well as some Llama, DeepSeek, were the top contenders here.\n\n# Second, properly handling context\n\nWe knew that existing plugins made suggestions based on history, and sometimes basic context (e.g., user\u2019s current directory). The way we found to **truly leverage LLMs to get quality output** was to provide shell and system information. It automatically removed many inaccurate commands, such as commands requiring X or Y being installed, leaving only suggestions that are relevant for this specific machine.\n\nThen, on top of the current directory, adding details about what\u2019s in here: subfolders, files etc. LLM will **pinpoint most commands needs based on folders and filenames**, which is also eliminating useless commands (e.g., \u201cinstall np\u201d in a Python directory will recommend \u2018pip install numpy\u2019, but in a JS directory, will recommend \u2018npm install\u2019).\n\nFinally, history became a \u2018less important\u2019 detail, but it was a good thing to help LLM to adapt to our workflow and provide excellent commands requiring human messages (e.g., a commit).\n\nOnce again, **OpenAI really shines here**, BUT we have noticed that results were only \"slightly better\u201d or just the same as if we were using smaller, **cheaper models**, and still conserving the speed in the process.\n\n# Last but not least: 100% script script.\n\nIf you want your agents to have excellent compatibility: everything has to be coded in bash. And here, **no coding agent will help you**: they really suck as shell scripting, so you need to KNOW shell scripting.\n\nWeeks after, it started looking quite good: [https://github.com/2501-ai/supershell/](https://github.com/2501-ai/supershell/)\n\nI\u2019ve been messing around with it for quite some time now. You can also test it, it is free and open-source, feedback welcome ! :)",
+    "score": 13,
+    "num_comments": 0,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i5mrbu/using_openai_models_to_suggest_terminal_commands/"
+  },
+  {
+    "id": "1i5m1vv",
+    "title": "Applying AI for Efficient Code Refactoring",
+    "selftext": "The article below discusses the evolution of code refactoring tools and the role of AI tools in enhancing software development efficiency as well as how it has evolved with IDE's advanced capabilities for code restructuring, including automatic method extraction and intelligent suggestions: [The Evolution of Code Refactoring Tools](https://www.codium.ai/blog/evolution-code-refactoring-tools-ai-efficiency/)",
+    "score": 1,
+    "num_comments": 0,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i5m1vv/applying_ai_for_efficient_code_refactoring/"
+  },
+  {
+    "id": "1i5loge",
+    "title": "Coding faster than ever! I don't even need an IDE any more.",
+    "selftext": "",
+    "score": 6,
+    "num_comments": 9,
+    "url": "https://i.redd.it/qmds03pkz3ee1.gif"
+  },
+  {
+    "id": "1i5l2ho",
+    "title": "Best resources for learning AI assisted coding",
+    "selftext": "Hello everyone! I\u2019ve been following AI developments and trying to use the new tools as much as possible. As someone without much technical knowledge, AI-assisted coding has been an amazing thing for me to explore. I\u2019ve managed to create some cool automations and landing pages, which has been really exciting.\n\nHowever, whenever I\u2019ve tried tackling more complex projects that involve multiple steps, I\u2019ve failed miserably so far. \ud83d\ude05 I\u2019ve also been searching for learning resources specifically about AI-assisted coding (like ChatGPT-led coding in my case), but I haven\u2019t found any structured courses yet.\n\nSo, I wanted to reach out to this community for help\u2014does anyone have suggestions for learning resources? Ideally, I\u2019m looking for something structured, designed for people with minimal technical knowledge, and covering those extra steps like building proper development documentation and managing larger projects.\n\nThanks so much in advance! \ud83d\ude4f",
+    "score": 14,
+    "num_comments": 12,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i5l2ho/best_resources_for_learning_ai_assisted_coding/"
+  },
+  {
+    "id": "1i5izmo",
+    "title": "Accidently Just Bought $525 OpenRouter Credits Instead of $25",
+    "selftext": "Pranked myself hard not double checking what I had typed in trying to top up my OpenRouter credits with $25 and accidently bought $525... time to go hard body dev mode.\n\nCline, RooCline, OpenHands, etc. aren't ready lol. Hope I'm set for a while here :-|",
+    "score": 33,
+    "num_comments": 24,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i5izmo/accidently_just_bought_525_openrouter_credits/"
+  },
+  {
+    "id": "1i58pxy",
+    "title": "Help around chat program",
+    "selftext": "Hello everyone i have a question.\nIve been looking for a way to automate chats.\nI have a message that i need to reply to and it is AI integrated , scans the previous chat with the client and offers 3 possible answers that i choose from\nAfter choosing i click TAB button to go to the next client and repeat.\nIm interested if there is a way to teach a program to read those 3 offered messages and send the right one (sometimes there is 1 out of 3 that is there to be sure im not randomly selecting messages)\nSo the bot would need to pick a message and send and go next. Thank you all in advance.",
+    "score": 0,
+    "num_comments": 5,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i58pxy/help_around_chat_program/"
+  },
+  {
+    "id": "1i56kxr",
+    "title": "Building 50 projects in 50 weeks using AI tools - 3rd release is out, my best build so far!",
+    "selftext": "I am happy to announce that Project #3, PixelPerfect is now live! \n\nhttps://preview.redd.it/e05dpslz30ee1.png?width=1080&format=png&auto=webp&s=ff7f999b0808ffad18d522f45e689c44e5de6ac2\n\nIf you don't know who I am or what I do - each week I plan to release a new app using AI only tools as a part of my #50in50Challenge. You can see all prior demos on my YouTube channel.\n\nBack to this project to answer all the questions!\n\n\n\n\u2753 Why this app? \n\nI was building a website for my girlfriend's new business. And by far the most consuming part of all was image management - renaming, ALT text, compressing and converting to WEBP. All tools that are good are paid. And overpriced.\n\nSo I decided to build one! \n\n\n\n\u2753 How does it work?\n\nSuper simple process: \n\n\\- Upload one or as many photos as you want to edit\n\n\\- Choose your output format, aspect ratio and resolution \n\n\\- Optionally, use AI to generate the image name and ALT text\n\n\\- Process images in bulk \n\n\\- Download and enjoy them good site speeds! \n\n\n\n\u2753Tech stack\n\n\\- Lovable for front end\n\n\\- Supabase for backend \n\n\\- Google Vision API for image recognition \n\n\\- Open AI for alt text creation\n\n\\- HTML5 Canvas API for compression. \n\n\n\n\u2753Things I did for the first time ever\n\n\\- I had to create my first Google API, which felt too complex compared to any other API I used\n\n\\- Image compression logic, which I have to say works impressively good \n\n\\- File saving and editing in-app\n\n\\- Privacy policy and Terms or Service, as for this app I do expect to get users\n\n\n\nOne new section that I have for this week is a list of future updates, as I personally believe this tool will have frequent users, and so I need to work on making it better!\n\n\n\n\u2753Things I plan on working to improve\n\n\\- Support for more file types and suggested resolutions\n\n\\- Much better and more comprehensive editing options\n\n\\- Improved logic for creating photo names and ALT text\n\n\\- Better landing page\n\n\n\n\u2753Challenges\n\n\\- I am still seeing tons of improvement when it comes to the image editing module. This is not the primary tool function but can be important to users\n\n\\- This one took more than I expected it to, but less than the previous one. I am getting faster and better \n\n\\- Extremely busy stint at work the last 2 weeks really made me neglect some of the basics of app design and so there will be bugs and things to improve to make this one work I want it to.\n\n\\- Paradoxically - Lovable does not currently support WEBP and AVIF uploads, so I left my own images as png - still super compressed. \n\n\n\n\u2753Final score\n\nI feel like I did 8/10 on this one. It works, but could be improved vastly. I do see myself working on this project in spare time in the future as I believe it has potential to help people. \n\nSubscribe to my YouTube to watch my bad audio demos, and get a relief knowing that there's a stupider, crazier person than you are out there - [https://youtu.be/xp92sy5kKnM](https://youtu.be/xp92sy5kKnM)\n\nGive it a quick spin, tell me what you think!? See you again in 7 days with the next one! \n\n[https://pixelperfect.lovable.app/](https://pixelperfect.lovable.app/) ",
+    "score": 57,
+    "num_comments": 48,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i56kxr/building_50_projects_in_50_weeks_using_ai_tools/"
+  },
+  {
+    "id": "1i54ytn",
+    "title": "Cross-Post - Update: State of Software Development with LLMs - v2",
+    "selftext": "",
+    "score": 3,
+    "num_comments": 0,
+    "url": "/r/ArtificialInteligence/comments/1i54vjm/update_state_of_software_development_with_llms_v2/"
+  },
+  {
+    "id": "1i50u1b",
+    "title": "Brain hurts, but I love it \ud83e\udde0",
+    "selftext": "",
+    "score": 42,
+    "num_comments": 3,
+    "url": "https://i.redd.it/i0ry6z9hxyde1.jpeg"
+  },
+  {
+    "id": "1i4vnjm",
+    "title": "Does it make sense to publish my local source code to help advance global AI? ",
+    "selftext": "",
+    "score": 1,
+    "num_comments": 1,
+    "url": "/r/AskProgramming/comments/1i4vjw1/does_it_make_sense_to_publish_my_local_source/"
+  },
+  {
+    "id": "1i4vit5",
+    "title": "Always having trouble with User Authentication",
+    "selftext": "I get some of the main functionality, and a landing page built.  Create a user dashboard.  Then I want to set it up to have users and authentication, and I've found every single AI coding solution I try here struggles mightily to implement User Authentication.  I've used Cursor, I've used Copilot, and right now I'm having the same issue with v0.  \n\nMy app is small enough I can scrap things and start over -- should I be starting with this and then adding other functionality?   \n\nAs a note, I'm not a dev but technical enough to navigate some of this.  Just really frustrated that I find myself hung up in the same place allllll the time.",
+    "score": 9,
+    "num_comments": 23,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i4vit5/always_having_trouble_with_user_authentication/"
+  },
+  {
+    "id": "1i4nmvv",
+    "title": "This is definitely the fastest version of AI Copilot ( Continue + Groq )",
+    "selftext": "",
+    "score": 30,
+    "num_comments": 17,
+    "url": "https://v.redd.it/zrb03vvrzude1"
+  },
+  {
+    "id": "1i4jnvb",
+    "title": "Deepseek is just beyond awful and it makes no sense",
+    "selftext": "I am not sure what the developers of this LLM are going for. Too many are trying to achieve o1 level reasoning instead of being pathfinders. instead they try to follow others. LIke Deepseek here. Tries too hard to do simple things.\n\nLook at this below and tell me what on earth\n\nI wrote out instructions to convert an enum integer into its corresponding string.\n\n***\"Look at the model class for the appointments located at . \"...appointment.model.ts \". We have an enum with a corresponding string attribute. I need you to write a method that will give me the string attribute based on the enum value\"***\n\nSimple right?\n\nIt proceeds to tell me this\n\n***Based on the provided code and environment details, I can see that we're working with an Angular component that displays appointment details. The component uses NG-ZORRO for UI components and has various utility methods for formatting dates, times, and statuses.***\n\n***Before proceeding with any modifications or additions, I need to understand the specific task or requirement you have for this component. The code appears to be well-structured with:***\n\n1. ***Proper TypeScript interfaces and type safety***\n2. ***Angular standalone component architecture***\n3. ***NG-ZORRO UI components integration***\n4. ***Responsive design handling through BreakpointObserver***\n5. ***Utility methods for date/time formatting and status display***\n\n***Could you please specify what changes or enhancements you'd like to make to this component? For example:***\n\n* ***Are you looking to add new features?***\n* ***Do you need to modify existing functionality?***\n* ***Are there any bugs to fix?***\n* ***Do you want to improve the UI/UX?***\n* ***Are there performance optimizations needed?***\n\n***Please provide the specific requirements so I can plan and implement the changes according to the established patterns and best practices in the codebase.***\n\nThis is DEEPSEEK in 2025 folks...",
+    "score": 0,
+    "num_comments": 22,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i4jnvb/deepseek_is_just_beyond_awful_and_it_makes_no/"
+  },
+  {
+    "id": "1i4jie3",
+    "title": "Why are LLM benchmarks run only on individual models, and not on systems composed of models? For example, benchmarking \"GPT-4\" (just a model) vs \"GPT-3.5 + Chain of Thought Reasoning + a bunch of other cool tricks\" (a system) would've likely shown the GPT-3.5 system performs better than GPT-4...",
+    "selftext": "",
+    "score": 1,
+    "num_comments": 3,
+    "url": "/r/LocalLLaMA/comments/1i4jct3/why_are_llm_benchmarks_run_only_on_individual/"
+  },
+  {
+    "id": "1i4ikmg",
+    "title": "ChatGPT Query Param search automation",
+    "selftext": "Hi, I'm writing a quick automation to search for a search string with ChatGPT. It works with\n\n`https://chatgpt.com?q=<mySearchString>`\n\nBut I'm trying to pass in the query param to a GPT inside ChatGPT who's URL is `https://chatgpt.com/g/g-GvcYCKPIH-video-summarizer?q=<mySearchString>`\n\nthis doesn't work. Anyone knows how to pass in a search query to a GPT inside ChatGPT?",
+    "score": 1,
+    "num_comments": 6,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i4ikmg/chatgpt_query_param_search_automation/"
+  },
+  {
+    "id": "1i4ful0",
+    "title": "Advice for UC Berkeley MS in Data Science Application?",
+    "selftext": "Hi everybody - I'm in the final stages of my application for UC Berkeley's online Master of Information and Data Science program, and I was wondering if anyone here has completed the program or is currently enrolled. I'd love to hear any advice or tips on how to strengthen my application.\n\nI feel confident about my application overall, but I'm not sure if there are specific pointers or things to emphasize that could make it even stronger before I submit it.\n\nFor some context: I graduated in 2020 with a double major in Math and Computer Science (3.94 GPA). I worked as a Full-Stack Software Engineer for about 2.5 years, transitioned internally to an R&D role as a Data Engineer for \\~1 year, and am now a Senior Data Scientist (1.5 years) on the same team in R&D. My key strengths lie in Cloud Infrastructure, MLOps/DevOps, and Software Development, but I\u2019ve also developed strong skills in Data Science and have been heavily focused on AI/ML Engineering as of late and going into 2025.\n\nI\u2019m proficient in Python (my primary language), Java, and JavaScript, and I also have substantial experience with TypeScript and Node.js. I\u2019ve built several open-source projects that I plan to include in my application, such as:\n\n* **My personal portfolio**\n* **An AI aggregation engine**\n* **Various web apps**\u00a0(primarily using Next.js, TailwindCSS, ShadCN-UI, FastAPI, tRPC, and AWS for deployment)\n* **One of my first Django applications (currently in progress)**\n\nAdditionally, I have some AI agent projects and basic ML implementations to showcase, though most of my more advanced work is proprietary.\n\nWhat else should I work on or highlight to strengthen my application further? Would pursuing a new project or delving deeper into a specific area (e.g., advanced ML implementations, academic-style research, or cloud-based AI pipelines) make my application stand out more?\n\nThanks in advance for any insights or suggestions!",
+    "score": 2,
+    "num_comments": 0,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i4ful0/advice_for_uc_berkeley_ms_in_data_science/"
+  },
+  {
+    "id": "1i4ddq1",
+    "title": "Does anyone combine 3-4 functions into one command?",
+    "selftext": "I'm about to start a project that isn't super complex, but I'm using it as a test to see what the limit is.  I don't mind if it takes a bit longer, want everything done correctly.\n\nI've spend a few days in project planning (used ChatGPT), have my first set of rules (based somewhat on this video: https://www.youtube.com/watch?v=aG-utUqVrb0) and I'm about ready to get started.  I've been using Cursor pretty much exclusively for 3-4 months, but I'm going to swap to Windsurf for this one.  I've noticed there are times, when I'm adding a new feature, that is just seems like it just gets lost and we never recover until I open a new composer window - which is totally understandable.\n\nI like this idea of once a new feature is done, I've read through the code etc., putting something my rules that says:\n\n\"when I say, let's go ahead and finalize this feature\", it does 3-4 things:  \n\\-runs any unit tests\n\n\\-removes any logging/debugging we added associated with that features\n\n\\-prepares the git commit with the message.\n\n\\-others?\n\n  \nDoes anyone else do anything like that?  I can obviously just test it, but wanted to see what other people do in terms of carving out specific sets of work.\n\n",
+    "score": 3,
+    "num_comments": 0,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i4ddq1/does_anyone_combine_34_functions_into_one_command/"
+  },
+  {
+    "id": "1i4cawi",
+    "title": "How do you optimize your AI?",
+    "selftext": "",
+    "score": 0,
+    "num_comments": 0,
+    "url": "/r/ClaudeAI/comments/1i4c2if/how_do_you_optimize_your_ai/"
+  },
+  {
+    "id": "1i4c973",
+    "title": "I wanna make games, but can't code. Can AI help me?",
+    "selftext": "I'm trying to make games, I have design docs and all, but the problem being, I can't code. I know the basic stuff, loops, variables, data types, if statements, but that's it.\n\nI wanna know, could I fake it with (prefferably free) AI tools till I make it, or should I at least learn more before using ChatGPT or other stuff?\n\nIn case is revelant, I'm not planing to ask AI to make the whole game, I'm insane but not dumb, instead I'm be using it to make each feature.",
+    "score": 1,
+    "num_comments": 46,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i4c973/i_wanna_make_games_but_cant_code_can_ai_help_me/"
+  },
+  {
+    "id": "1i4bpla",
+    "title": "Cloning a Website",
+    "selftext": "Which models and prompts have worked well for you to clone a website? I tried Claude but found the CSS and other pages not to be working. [v0.dev](http://v0.dev) did a bit better but I'd rather just do it locally. If there's a service that works better than [v0.dev](http://v0.dev), I'm willing to try that.",
+    "score": 0,
+    "num_comments": 17,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i4bpla/cloning_a_website/"
+  },
+  {
+    "id": "1i49qyb",
+    "title": "Offering my OpenRouter account (+credits) at a discount",
+    "selftext": "First, I'd like to apologize if my post isn't the typical post here. However, i have no intention of being misleading at any point, and i believe it may be quite helpful to a certain part of the audience here. So, i'd be really thankful if mods bear with me.\n\n\n\nBasically, I have an OpenRouter account which I don't need anymore and will be collecting dust due to changing requirements.\n\nIt has 60$ credits on it and I'm offering it for 30$, i.e. half the official API price. Same quality as official APIs and can switch between lots of models.\n\n\n\nIf you don't know, what it does is that it offers you the chance to use almost any AI/LLM model from the same place, both API and interface, including exclusive models like o1. Also, it is pretty much the same as official provides, meaning same speed, reliability, etc etc.\n\nGood for personal use/learning/research/experimentation but also would work quite well in apps/production. \n\n\n\nThis is due to the pretty good rate limits (3K+ per minute), but also some models like Deepseek v3 which are really cheap while being pretty good (you can get \\~300M tokens with the credits). \n\n\n\nIf you are interested, drop me a DM here.\n\n\n\nIf the mods decide to spare my message, i'd be thankful to them. There is no appropriate place for this here on Reddit, but plenty of people who'd benefit. Otherwise, again I apologize for my post.\n\n",
+    "score": 0,
+    "num_comments": 1,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i49qyb/offering_my_openrouter_account_credits_at_a/"
+  },
+  {
+    "id": "1i46jbn",
+    "title": "Anyone building app without Coding? ",
+    "selftext": "There are so many tools out there like Cursor, Windsurf, Lovable, and Bolt. Has anyone tried using them to build something cool?\n\nI recently gave Lovable a shot while building an AI-powered app, and it was pretty impressive. All you need to do is drop your OpenAI API keys and SDK code, and it generates features in seconds. Of course, you still need to fix a few errors here and there, but it\u2019s amazing to see how much these tools can ease the process of building simple apps!",
+    "score": 44,
+    "num_comments": 58,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i46jbn/anyone_building_app_without_coding/"
+  },
+  {
+    "id": "1i46128",
+    "title": "Should I persist with Chat to create audio extraction process? ",
+    "selftext": "Hello!\n\nI don't know SH** about coding but I have been getting ChatGPT to give me instructions and write code for me to achieve the following: \n\nI want a text transcription of a daily radio program to be sent to me as an email every day shortly after the radio program is uploaded to the station's website. \n\nMy idea is to create an RSS feed that updates every day with audio of the episodes, then use Zapier to automate a process where the audio is downloaded from the RSS feed, is transcribed via an automatic transcription app, and is sent to my email.  \n\nI have made pretty good progress getting ChatGPT to write code for me and coach me through the creation of the RSS feed, which has taken HOURS. Audio is not downloadable from the radio station's website as it is just in an embedded audio player, but the RSS feed is now updating daily with URLs of the AACs, thanks to Chat's work. \n\nHowever, it's become apparent I would need to leave my laptop on, in the charger all day, for it to automatically run the code daily to scrape the radio website at 11.30am and update the RSS feed with the new episode. \n\nI am now attempting to get ChatGPT to help me run this on a cloud environment, to get around this. But two cloud options ChatGPT told me were free both seem to cost money or not have capacity for me, and ChatGPT kept getting the same error over and over when trying to do it through Github actions. \n\nAnyway, this is taking freaking ages, but I feel like I've made pretty good progress. Am I on the right track? Should I keep persisting with Chat coaching me through this and writing code for me? ",
+    "score": 1,
+    "num_comments": 3,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i46128/should_i_persist_with_chat_to_create_audio/"
+  },
+  {
+    "id": "1i45kd0",
+    "title": "Turn off this setting in ChatGPT, immediately ",
+    "selftext": "",
+    "score": 0,
+    "num_comments": 4,
+    "url": "https://i.redd.it/4ne1uqeelqde1.png"
+  },
+  {
+    "id": "1i4439t",
+    "title": "I use vscode and cline as learning and note taking tools",
+    "selftext": "I ask cline to summarise new papers, write summary into a file.\nAsk cline to explain large code base, write explain into a file too.\nBetter than copy paste into a note software. Anyone has the same ideas?",
+    "score": 18,
+    "num_comments": 1,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i4439t/i_use_vscode_and_cline_as_learning_and_note/"
+  },
+  {
+    "id": "1i41zkg",
+    "title": "\ud83d\ude80 Join the Future of Decentralized AI! \ud83c\udf0d",
+    "selftext": "\ud83d\ude80 Join the Future of Decentralized AI! \ud83c\udf0d\n\nWe\u2019re building a community for innovators, thinkers, and enthusiasts passionate about decentralized AI and ethical technology. If you\u2019re interested in exploring how decentralized systems can reshape the future of AI, this is the space for you!\n\nWhy Join Us?\n\u2728 Collaborate on cutting-edge ideas.\n\u2728 Share resources, research, and insights.\n\u2728 Connect with like-minded individuals who value transparency, innovation, and ethical progress.\n\u2728 Discuss emerging technologies like blockchain, decentralized systems, and their intersection with AI.\n\nWhat You\u2019ll Find:\n\ud83d\udca1 A vibrant Research Lab to brainstorm and exchange ideas.\n\ud83d\udce2 Announcements on the latest news, breakthroughs, and projects in decentralized tech.\n\ud83e\udd1d A welcoming space for casual chat, networking, and meaningful conversations.\n\nBe Part of the Change\nTogether, we\u2019ll explore solutions that democratize technology, empower individuals, and challenge centralized systems.\n\n\ud83d\udc49 [Join the Conversation](https://discord.gg/jjxjRMRJ)\nLet\u2019s create the future, one idea at a time.",
+    "score": 0,
+    "num_comments": 3,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i41zkg/join_the_future_of_decentralized_ai/"
+  },
+  {
+    "id": "1i41xzo",
+    "title": "\ud83d\ude80 Join the Future of Decentralized AI! \ud83c\udf0d",
+    "selftext": "We\u2019re building a community for innovators, thinkers, and enthusiasts passionate about decentralized AI and ethical technology. If you\u2019re interested in exploring how decentralized systems can reshape the future of AI, this is the space for you!\n\nWhy Join Us?\n\u2728 Collaborate on cutting-edge ideas.\n\u2728 Share resources, research, and insights.\n\u2728 Connect with like-minded individuals who value transparency, innovation, and ethical progress.\n\u2728 Discuss emerging technologies like blockchain, decentralized systems, and their intersection with AI.\n\nWhat You\u2019ll Find:\n\ud83d\udca1 A vibrant Research Lab to brainstorm and exchange ideas.\n\ud83d\udce2 Announcements on the latest news, breakthroughs, and projects in decentralized tech.\n\ud83e\udd1d A welcoming space for casual chat, networking, and meaningful conversations.\n\nBe Part of the Change\nTogether, we\u2019ll explore solutions that democratize technology, empower individuals, and challenge centralized systems.\n\n\ud83d\udc49 [Join the Conversation](https://discord.gg/jjxjRMRJ)\nLet\u2019s create the future, one idea at a time.",
+    "score": 0,
+    "num_comments": 0,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i41xzo/join_the_future_of_decentralized_ai/"
+  },
+  {
+    "id": "1i41wgf",
+    "title": "Efficacy on unpopular languages",
+    "selftext": "Bash, Python & Javascript are fairly popular languages that I think LLMs have plenty of training data for.\n\nHowever, there are languages that are much less popular such as Haskell, CUDA & Triton, just to name a few.\n\nWhat has been your experience using LLMs (e.g. 4o, o1 & Claude 3.5 Sonnet) for less popular languages compared to more popular languages? Did it do worse on the less popular languages? Did you find tricks for improving the performance? E.g. I'm wondering if it helps to include a cheatsheet of the language in the prompt.",
+    "score": 2,
+    "num_comments": 3,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i41wgf/efficacy_on_unpopular_languages/"
+  },
+  {
+    "id": "1i3zbga",
+    "title": "Huggingface smolagents : Code centric Agent framework. ",
+    "selftext": "",
+    "score": 2,
+    "num_comments": 0,
+    "url": "/r/ArtificialInteligence/comments/1i3z9ni/huggingface_smolagents_code_centric_agent/"
+  },
+  {
+    "id": "1i3wkkw",
+    "title": "Haven\u2019t related to a meme this hard in a minute ",
+    "selftext": "",
+    "score": 37,
+    "num_comments": 13,
+    "url": "https://i.redd.it/8il1imrhpnde1.jpeg"
+  },
+  {
+    "id": "1i3vwy0",
+    "title": "ChatGPT O1-Pro is an incredible model. My experience. ",
+    "selftext": "I think I've had enough experience using O1-pro to write this rundown. I couldn't find enough detailed reviews prior to purchasing ChatGPT Pro, so hopefully this will help someone. I'll help make this as detailed as possible. \n\nIn my experience, O1-Pro is an **incredible** model, but it may disappoint you at first. \n\nLet me explain. \n\nFor context, I primarily develop NodeJS apps. \n\nThese past few months, I've been working on a **very** complex NodeJS app that \"transforms\" a theme from one CMS into a different CMS-compliant one. \n\nAs part of this, the software analyzes the existing code, and applies the necessary modifications to \"adapt\" it to the new CMS standards. \n\nIt's much more complicated than it sounds, and there are a lot of edge cases + processes that aren't possible with existing libraries.\n\nThere was a particular bug related to variable transformations in the theme code. \n\nRegardless of prompting, Claude Sonnet (via Cursor) could not fix it, even after multiple error iterative loops of me feeding Claude the errors and having Claude attempt to rectify the issue based on the console errors. \n\nSame with Gemini 1206 experimental, and even O1 (with the limited 50 messages per week that Plus holders had). \n\nI would give O1 the full codebase, and tell it to fix the issue. It would try to fix it, but I still had errors. I would give it the full console results, with the errors, and it would be unable to fix this issue. Even O1 was not immune to error loops.\n\nSo, I bought O1-Pro, and gave it the exact same prompt I gave O1. \n\nThe first result from O1-Pro did not work. So, I gave it the console error log, and asked it to rewrite and fix this. \n\nOn the **second** run, after 12 minutes of thinking, it delivered code that ran flawlessly and fixed the bug I've been dealing with for months. \n\nI was genuinely blown away. \n\nFrom my experience, when you compare O1 to O1-Pro, Pro will likely return the same result as O1 until you run into errors. When you do, O1-Pro is **much** more likely to \"reason through\" towards the solution while O1 may start exhibiting error-loop behavior. \n\n**My current workflow is:** \n\n1). Most of the app develop happens in Cursor, with Sonnet 3.5. Because its quick.\n\n2). When I encounter errors, I turn to O1-Pro (facilitated via RepoPrompt which helps with copying/pasting files).\n\nIs it worth the $200/mo? If I were a regular user or just a code hobbyist, no. \n\nBut I develop apps for a living, and have started selling software to paying customers without understanding the actual codebase (lol) as I'm just a front-end developer by trade. \n\nBut with AI, I'm now shipping full-stack apps which I don't really understand very well. \n\nSo in my case, I need every inch of performance I can get, and O1-Pro delivers. ",
+    "score": 250,
+    "num_comments": 112,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i3vwy0/chatgpt_o1pro_is_an_incredible_model_my_experience/"
+  },
+  {
+    "id": "1i3tzev",
+    "title": "Build fast \u201cagentic\u201d apps with FastAPI. Who wants a guide? Not a joke post ",
+    "selftext": "\nI wrote this post on how we built the fastest function calling LlM for agentic scenarios https://www.reddit.com/r/LocalLLaMA/comments/1hr9ll1/i_built_a_small_function_calling_llm_that_packs_a//\n\nA lot of people thought it was a joke.. So I added examples/demos in our repo to show that we help developers build the following scenarios. Btw the above the image is of an insurance agent that can be built simply by exposing your APIs to Arch Gateway. \n\n\ud83d\uddc3\ufe0f Data Retrieval: Extracting information from databases or APIs based on user inputs (e.g., checking account balances, retrieving order status). F\n\n\ud83d\udec2 Transactional Operations: Executing business logic such as placing an order, processing payments, or updating user profiles.\n\n\ud83e\ude88 Information Aggregation: Fetching and combining data from multiple sources (e.g., displaying travel itineraries or combining analytics from various dashboards).\n\n\ud83e\udd16 Task Automation: Automating routine tasks like setting reminders, scheduling meetings, or sending emails.\n\n\ud83e\uddd1\u200d\ud83e\uddb3 User Personalization: Tailoring responses based on user history, preferences, or ongoing interactions.\n\nhttps://github.com/katanemo/archgw",
+    "score": 26,
+    "num_comments": 16,
+    "url": "https://i.redd.it/n4zs0jzx2nde1.jpeg"
+  },
+  {
+    "id": "1i3ts0s",
+    "title": "Is there a repo of sorts for the most effective prompts?",
+    "selftext": "People have told me previously that you can create complex apps with Cline but your prompt has to be perfect. So probably my prompts suck. Is there a repo of sorts for the most effective prompts for making apps?",
+    "score": 7,
+    "num_comments": 3,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i3ts0s/is_there_a_repo_of_sorts_for_the_most_effective/"
+  },
+  {
+    "id": "1i3tl9n",
+    "title": "Codium Windsurf Wave 2 Announced",
+    "selftext": "",
+    "score": 55,
+    "num_comments": 12,
+    "url": "https://codeium.com/blog/windsurf-wave-2"
+  },
+  {
+    "id": "1i3svue",
+    "title": "o1 mini vs. 4o",
+    "selftext": "which one is better? also for mathematics ",
+    "score": 4,
+    "num_comments": 7,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i3svue/o1_mini_vs_4o/"
+  },
+  {
+    "id": "1i3sfvg",
+    "title": "Full Conversation with OpenAI o1: Building a Chat with Markdown & Graphs",
+    "selftext": "I recently experimented with ChatGPT to build a rapid prototype from scratch. I figured others might enjoy seeing my full workflow. So, here it is for anyone curious",
+    "score": 1,
+    "num_comments": 0,
+    "url": "https://medium.com/@alex.hamilton.2016/full-conversation-with-openai-o1-building-a-chat-with-markdown-graphs-8c3bcc2fe2cf"
+  },
+  {
+    "id": "1i3s08t",
+    "title": "Codestral v2 vs Deepseek v3",
+    "selftext": "Mistral just released codestral v2, is it better than deepseek v3 at coding? As of now, there aren't much benchmarks available.",
+    "score": 0,
+    "num_comments": 1,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i3s08t/codestral_v2_vs_deepseek_v3/"
+  },
+  {
+    "id": "1i3qll0",
+    "title": "How to increase context window of an LLM?",
+    "selftext": "I don't know if this is the right place to ask this, but I often face a limitation where the conversation gets out of bounds, and the AI starts to forget parts of it.\n\nI thought of a way to artificially inflate the context window by instead of appending the previous content to the input, the LLM would generate a detailed summary with every consecutive message, scraping the clutter and keeping the meat of the info, while the actual conversation can get embedded into a RAG based system, just in case I need specific parts to be contested in the response.\n\nIs this a practical solution",
+    "score": 0,
+    "num_comments": 3,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i3qll0/how_to_increase_context_window_of_an_llm/"
+  },
+  {
+    "id": "1i3ovtv",
+    "title": "AI agents to do devops work. Can be used by developers.",
+    "selftext": "I am building a multi agent setup that can scan you repos and brainstorm with you, to come up with a cloud architecture and cI/CD pipeline plan for your application. The agents are aware of costs of aws resources and the cost is accounted in the planning. Agents even draws it's plan to visually communicate withthe user. Once the user confirms the plan, ai agents  start writing the terraform code and github actions file and applies them to build the setup mentioned in the plan. I have tried on couple of my projects and I am getting good results.  \n  \nWhat do you think about using agents like this to do devops work?  \nDo you think the actions taken by the agents are transparent enough here? Anybody who would like to give it a try? Any OSS projects that you would like me to demo using this multi agent setup?\n\n[Agent analysing the github repo](https://preview.redd.it/xy0rlmwpxlde1.png?width=1899&format=png&auto=webp&s=6091924f5da2e6e717a9cd0a0a28ba00d49f2b1d)\n\n[Agent getting clarifications on things it needs to know to come up with a plan](https://preview.redd.it/ofgkttwpxlde1.png?width=1903&format=png&auto=webp&s=404df1704fbf2210900798eb645d8aebd5d9ccfc)\n\n[Agent proposing a cloud architecture plan, visually and through text](https://preview.redd.it/bwo41uwpxlde1.png?width=1909&format=png&auto=webp&s=98f55e40e225e921de14ee54c08371c4f23d1aa3)\n\n[Agent proposing a CI\\/CD plan, visually and through text](https://preview.redd.it/qxpyvtwpxlde1.png?width=1907&format=png&auto=webp&s=0ff127cff850844e6d1a193df2e9ea1209ee9ea3)\n\n[Agent doing cost analysisfor the user](https://preview.redd.it/dbk6uuwpxlde1.png?width=1915&format=png&auto=webp&s=b97ca064fbc7844568a2d818f330f6f9786b3b90)\n\n[Agent splitiing the plan into tasks and executing them one by one](https://preview.redd.it/wv0t14xpxlde1.png?width=1894&format=png&auto=webp&s=a4a535cc4b9851c39501b6fafd0d779aabaaed39)\n\n[Agent writing the github files and uploading the required secrets to github.](https://preview.redd.it/ozf0ytwpxlde1.png?width=1899&format=png&auto=webp&s=f72c9d0b8e5dfa7e0ae7d1e69f9fec5f2fb1d50d)\n\n",
+    "score": 14,
+    "num_comments": 4,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i3ovtv/ai_agents_to_do_devops_work_can_be_used_by/"
+  },
+  {
+    "id": "1i3nvdr",
+    "title": "Reading code that your AI wrote Vs. Writing it yourself?",
+    "selftext": "I'm curious how everyone feels about writing vs reading/modifying code. I work as a Solutions Architect in the 3 big clouds so development and coding is a secondary skill for me. I love it and started learning Python a couple of years ago. I also know terraform pretty well and feel comfortable in the cloud CLIs.\n\nI use various AI tools for helping create and modify projects. I love how efficient it has made me and how much faster I can get projects started. I found a workflow that works pretty well for me using a mixture of Claude web UI to map out initial project structure, testing plans, etc. Then, I use windsurf (previously used github co-pilot) to help create and write my files. I utilize chatgpt in between for general questions and smaller tasks. This saves me content limits in Claude and in Windsurf.\n\nI found that I can very quickly scaffold out a project. Even getting basic functionality is very fast. Then as the project grows larger with multiple files I am constantly refactoring and modifying logic as needed. I find myself having no problem understanding the syntax, logic, and overall code, but it feels like I'm just not a \"Real\" coder since I am using AI as this sort of shortcut. Could I write the projects I am creating from scratch without AI? Probably, but it would take a lot more time using reddit and stackoverflow for research/troubleshooting. I see it as almost like using Microsoft templates. Sure I could probably make a great powerpoint, word doc, or powerapp, but why waste the time when there is already a better, faster alternative. I can understand the code and syntax and it makes it way easier to start building larger projects with best practices. Then I can go in and start making my manual changes.\n\nProbably been asked here a million times before, I figured I'd just see how everyone else felt about being able to read and understand the code their AI writes, but not able to write it as well or obviously as fast. I also share some of my repos and side projects internally on the dev threads and they seem to get a cold shoulder if I mention any AI. It's a bit discouraging.",
+    "score": 4,
+    "num_comments": 10,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i3nvdr/reading_code_that_your_ai_wrote_vs_writing_it/"
+  },
+  {
+    "id": "1i3njo4",
+    "title": "Workflow for AI coding game development?",
+    "selftext": "Does anyone have a flow for game development using AI coding tools? Developing a game in Pygame and I have a basic prototype working, but it isn't playable yet. It is supposed to be a cross-country trucking game with driving mechanics. All the systems are there as modules, but I can't get AI tools to hook them together to make it playable.\n\nAny help would be appreciated. I can send the Github repo if anyone wants to help as well.",
+    "score": 1,
+    "num_comments": 3,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i3njo4/workflow_for_ai_coding_game_development/"
+  },
+  {
+    "id": "1i3n91n",
+    "title": "Cline with local LLM on Mac",
+    "selftext": "Does anyone had any success using Ollama with cline on a mac? I do have a macbook pro M3 Max so it should handle local LLMs pretty decently. When trying to run Ollama it does respond, but just repeating the same on all questions (regardless of what model I choose) - also tried with LLM Studio - there it does work better, but I feel LLM studio does have a bit higher response time them Ollama.\n\nAny suggestions here how to get Cline to work decently with any local LLM on macs?",
+    "score": 1,
+    "num_comments": 11,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i3n91n/cline_with_local_llm_on_mac/"
+  },
+  {
+    "id": "1i3kd0w",
+    "title": " I was sick of faulty outputs, inconsistent code, and countless hours of debugging when using AI coding tools, so I built doc.onlift.co.",
+    "selftext": "Building a new SaaS is much easier with AI these days. However, without the right approach, you\u2019ll spend so much time fixing AI output that you might as well code everything yourself.\u00a0\n\n\n\nI however only started coding when AI came along, so I don\u2019t have that luxury. Instead, I had to find a way around the various rabbit-holes you can fall in when trying to fix shitty outputs.\u00a0\n\n\n\n**My solution?** I created all the documentation that normally goes into building software, but I optimized it for AI coding platforms like Cursor, Bolt, V0, Claude, and Codex.\u00a0 It means doing a bit more pre-work for the right input, so you have to spend way less time on fixing the output.\n\n\n\nThis has changed my coding pace from weeks to days, and has saved an f-ton in frustration so far. So why am I sharing this? Well, I turned this idea of a more structured approach to prompts for AI coding into a small SaaS called **doc.onlift.co**.\u00a0\n\n\n\n**How does it work?**\n\n\n\n* Describe what you want to build\n* Get a clear and structured breakdown of features and components\n* Use the documentation as a guide and as context for the AI.\n\n\n\n**Example**: Instead of asking \"build me a blog\", it helps you break it down into:\n\n\n\n* \u2060Core features\n* Sub-components\n* Architecture decisions\n* Frontend descisions\n* Etc.\n\n\n\nI\u2019m trying to find some first users here on Reddit, as this is also the place I picked up most of my AI coding tips and tricks. So, if you recognize the problem I\u2019ve described, then give the tool a try and let me know what you think.\n\n",
+    "score": 0,
+    "num_comments": 7,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i3kd0w/i_was_sick_of_faulty_outputs_inconsistent_code/"
+  },
+  {
+    "id": "1i3k4zb",
+    "title": "Android app development with AI",
+    "selftext": "",
+    "score": 1,
+    "num_comments": 2,
+    "url": "/r/ChatGPT/comments/1i3k23z/android_app_development_with_ai/"
+  },
+  {
+    "id": "1i3jq9v",
+    "title": "What is everyone using for prompt management?",
+    "selftext": "Would like to do systematic testing and evaluating of the prompts and parameters I\u2019m using for my apps (summarizing articles, etc). Any tools or workflows that are good here? I hear promptfoo works?",
+    "score": 1,
+    "num_comments": 6,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i3jq9v/what_is_everyone_using_for_prompt_management/"
+  },
+  {
+    "id": "1i3i6r1",
+    "title": "Cursor vs Claude",
+    "selftext": "Hi y\u2019all! Quick question.\n\nShould I upgrade my Cursor AI, or just upgrade Claude? Kinda stuck between the two.\n\nThanks!",
+    "score": 3,
+    "num_comments": 30,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i3i6r1/cursor_vs_claude/"
+  },
+  {
+    "id": "1i3i5qw",
+    "title": "Self-Promoting in AiCodingBattle Discord",
+    "selftext": "AiCodingBattle Discord!\nhttps://discord.gg/TH8V5b5rGR\n\nQ: Is self-promotion allowed in the community?\nA: YES! Sharing your projects and creations is highly encouraged. This space is all about growing together by exchanging knowledge and supporting one another.\n\n\u26a0\ufe0f A few guidelines:\n\ud83d\udd39 No spam or illegal content.\n\ud83d\udd39 Be professional and respectful\u2014constructive feedback is key.\n\nLet\u2019s build a positive, enriching space where everyone thrives. Ready to showcase your work? \ud83d\ude80\n\n#AiCodingBattle #CommunityGrowth #ShareYourWork \n\nhttps://discord.gg/TH8V5b5rGR\n",
+    "score": 0,
+    "num_comments": 0,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i3i5qw/selfpromoting_in_aicodingbattle_discord/"
+  },
+  {
+    "id": "1i3b871",
+    "title": "Do you like discovering and trying out new ai dev tools?",
+    "selftext": "\n\n[View Poll](https://www.reddit.com/poll/1i3b871)",
+    "score": 0,
+    "num_comments": 1,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i3b871/do_you_like_discovering_and_trying_out_new_ai_dev/"
+  },
+  {
+    "id": "1i3aqj1",
+    "title": "Trying to determine what frontend frameworks AI models are 'better at' for coding, any suggestions?",
+    "selftext": "So, I am s backend dev, developing a webapp. AI tools have been mostrly great for me so far in generating frontend hrmo and code. \nMostly plain js, react and vue. But still, I assume AI models can be better or worse at different frameworks, depending on how they are built, the data they have been trained on, and the characteristics and complexities of the target frontend frameworks themselves.\n\nSo I was wondering, besides random testing and comparisons, is there some better way to find our which frontend frameworks AI models are simply best at?  Any ideas or studies/articles to read regarding this? I haven't found any. Thanks in advance. ",
+    "score": 0,
+    "num_comments": 8,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i3aqj1/trying_to_determine_what_frontend_frameworks_ai/"
+  },
+  {
+    "id": "1i3apf2",
+    "title": "Is Cline compatible with Codestral 25.01?",
+    "selftext": "I tried connecting Cline to Codestral using **OpenAI Compatible** provider (not OpenRouter) but I get a 422 error. Yet, I found some folks on YT [demonstrating it working successfully](https://youtu.be/HG5z_UeGJ2M?t=354).\n\nAny suggestions?\n\n[https://imgur.com/a/BWyFZzL](https://imgur.com/a/BWyFZzL)",
+    "score": 1,
+    "num_comments": 1,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i3apf2/is_cline_compatible_with_codestral_2501/"
+  },
+  {
+    "id": "1i39gcm",
+    "title": "What do you do when cline and RooCline keep running into the exact same issues?",
+    "selftext": "It keeps rewriting the code but the exact same bug keeps happening, exact same error message\n\nI use deepseek",
+    "score": 0,
+    "num_comments": 12,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i39gcm/what_do_you_do_when_cline_and_roocline_keep/"
+  },
+  {
+    "id": "1i37uz3",
+    "title": "New Codestral 25.01 model better than DeepSeek in Cline?",
+    "selftext": "",
+    "score": 1,
+    "num_comments": 3,
+    "url": "/r/CLine/comments/1i37u0m/new_codestral_2501_model_better_than_deepseek_in/"
+  },
+  {
+    "id": "1i34mjd",
+    "title": "Built an MVP, but having mixed results with AI outputs. ",
+    "selftext": "I've created an MVP that functions as an AI email generator. The process involves copying and pasting everything about your company and product, and from there, the AI generates templates, subject lines, and sequences.\n\nI have uploaded a substantial training repository and a set of templates into the platform to aid in training the AI. However, despite my efforts, the output quality does not adhere to the recommended guidelines, principles, or even the template examples I've provided.\n\nI'm seeking advice on what approaches have worked best for others to ensure AI models understand and meet the quality of output on which they've been trained. this point, I'm exhausted from repeatedly retraining the AI on the platform, despite having already invested significant time in the training process.\n\nThoughts? \n\nThe UI, buttons, etc\u2026 all work as intended! Yay! Now it\u2019s about fixing those outputs\u2026 \n\nWhat\u2019s worked for yall?\n\nFor context, I\u2019m using Lovable for this project ",
+    "score": 0,
+    "num_comments": 11,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i34mjd/built_an_mvp_but_having_mixed_results_with_ai/"
+  },
+  {
+    "id": "1i34eti",
+    "title": "If you asked an LLM agent to act as a Republican or Democrat, how biased would you expect them to be?",
+    "selftext": "Hi, I wrote a brief article here on this topic:  \n[https://calsocial.org/research/2025-01-16-llm-selective-exposure/](https://calsocial.org/research/2025-01-16-llm-selective-exposure/)\n\nI am hoping to get feedback from this subreddit on the topic of intra-agent variation in beliefs. For instance, if you had a LLM coding text data and classifying it in some way, you would want little variation from what the \"correct\" classification is. But what about when you expect some range of output, like in how biased people are in their political news consumption?\n\nThere is more detail about the methodology in the section at the bottom. What might you change if you wanted a more balanced agent? I am a social scientist, so would love to hear perspectives from different backgrounds. Thanks for reading!",
+    "score": 4,
+    "num_comments": 14,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i34eti/if_you_asked_an_llm_agent_to_act_as_a_republican/"
+  },
+  {
+    "id": "1i34c89",
+    "title": "This feature is implemented so well. Full stop. ",
+    "selftext": "",
+    "score": 0,
+    "num_comments": 3,
+    "url": "/r/CLine/comments/1i32j92/why_i_added_checkpoints/"
+  },
+  {
+    "id": "1i32ymh",
+    "title": "Breaking script into Modular parts - Beginner ",
+    "selftext": "Hello,\n\nI have almost zero coding knowledge but starting to learn somewhat over last  month using ChatGPT and cursor.\n\nI built a comprehensive script in a chat and realized this was a mistake and im now reverse engineering into smaller modular parts using cursor.\n\nI am wondering for someone with minimal coding knowledge what tips/adivce/input/essential items I should be asking for or setting up when building each modular part?\n\nThings that come to mind I hear about and ive struggled with:\n\n- cursor rules so AI doesn't get off track with changing code \n\n- pointers/rules that can help maintain structure or essentialsl for a beginner to guide AI building.\n\n- mandatory documents I should be requesting? coding comments, Readme, is there more?\n\nFrom what I have learned my best bet as a beginner is to break everything down into small parts and I just want to ensure I am building correctly or atleast to a point I can possibly hand over to a developer/ python installer at some point if I build functional modular parts properly + correct structure.\n\nI am even considering getting chat gpt Pro and using with cursor to help with my project.\n\nOne final beginner question:\n\nAs I'm building I have the AI print my output within the terminal to see what I've created..\n\n Context:\nI'm building an analytical tool that analyzing custom string data out of excel, I extract the string data  with pandas into custom datasets within the script  and then im designing analytical tools to analyze the numerical string data within the script.\n\nBesides having everything print to the terminal what is ideal environment to view or display what im building?\n\nAny suggestions or input is greatly appreciated ",
+    "score": 1,
+    "num_comments": 8,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i32ymh/breaking_script_into_modular_parts_beginner/"
+  },
+  {
+    "id": "1i32lsr",
+    "title": "Why I added Checkpoints",
+    "selftext": "",
+    "score": 2,
+    "num_comments": 0,
+    "url": "/r/CLine/comments/1i32j92/why_i_added_checkpoints/"
+  },
+  {
+    "id": "1i3265w",
+    "title": "Best AI Developer Tools & Workflows for Software Dev: Which Do You Recommend?",
+    "selftext": "Which is your favorite AI developer tool or combination of tools from below. Looking for suggestions for optimizing my software dev process even further by combining these better and also advice on anything I missed here.\n\n* **Web Apps/Prototyping**: Bolt (.new & .diy), v0, Replit, GPTEngineer (now Lovable)\n* **Dev Agents**: Cline, Roo-Cline, OpenHands\n* **IDE Assistants:** Cursor, Windsurf\n\nLooking to continue improving my AI toolkit/workflow for software dev so I can spend more of my time focusing on growing my skills and working on projects in machine learning and AI engineering.",
+    "score": 35,
+    "num_comments": 41,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i3265w/best_ai_developer_tools_workflows_for_software/"
+  },
+  {
+    "id": "1i30lsf",
+    "title": "Coding with NPU",
+    "selftext": "I\u2019m about to buy a new laptop as my current one is almost 7 years old. I\u2019ve recently started developing and was wondering if the new AI laptops with NPUs will actually support me during coding. I understand that Copilot runs on and is powered by the NPU, but can other tools\u2014beyond firmware or Microsoft-related services\u2014also benefit from onboard AI processors?\n\nI would like to learn how I can leverage the NPU beyond just the features included out of the box.\n",
+    "score": 2,
+    "num_comments": 2,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i30lsf/coding_with_npu/"
+  },
+  {
+    "id": "1i2zctn",
+    "title": "Question about real time changes to the app when coding with Cursor vs Cline",
+    "selftext": "I'm building a React app, and when I have it running on my dev machine when coding with Cursor, any changes it proposes to the code updates the app in real time, even before I accept the changes.  It's handy as I can easily not accept them and it is right back the way it was.  However, when using Cline, it writes out entire files or code changes, but the app does not update in real time until you actually accept the changes and therefore save the file.  I was just wondering if there's any way with Cline / Roo Cline to have any changes also show up in real time before accepting.",
+    "score": 3,
+    "num_comments": 2,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i2zctn/question_about_real_time_changes_to_the_app_when/"
+  },
+  {
+    "id": "1i2yy88",
+    "title": "Best way to providing documentation in Cline",
+    "selftext": "I'm running into issues with the llm not using the latest documentation to build out a feature ( for example, Supabase SSR for auth).\n\nIs there a clean way to feed it a URL and have it read the docs before coding?\n\nI tried to set up a MCP server to search the web but having issues to get it to work properly.",
+    "score": 3,
+    "num_comments": 5,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i2yy88/best_way_to_providing_documentation_in_cline/"
+  },
+  {
+    "id": "1i2yi4i",
+    "title": "[Tutorial] Get Claude 3.5 Sonnet in VS Code for $10/month total (using GitHub Copilot subscription)",
+    "selftext": "I figured out how to use Claude 3.5 Sonnet (one of the most powerful AI models) directly in VS Code through Cline extension by leveraging GitHub Copilot subscription. Total cost is just $10/month.\n\nThe setup combines copilot-more (which proxies the connection) with Cline VS Code extension. You can use it for:\n- Complex code generation and refactoring\n- Intelligent code reviews\n- Bug fixing and debugging\n- Documentation writing\n\nI wrote a detailed guide explaining the full setup process.\n\nImportant: Make sure to check GitHub's policies as this involves using Copilot in ways that might not be intended. Use at your own risk - I'm just sharing the technical setup for educational purposes.\n\nLet me know if you have any questions about the implementation!",
+    "score": 0,
+    "num_comments": 15,
+    "url": "https://medium.com/@emreashak/how-i-got-claude-3-5-sonnet-working-for-just-10-month-and-you-can-too-8c3147ca4f4d"
+  },
+  {
+    "id": "1i2x0g4",
+    "title": "How do I target a particular provider for a model using cline/openrouter?",
+    "selftext": "I want to use DeepSeekv3 but only NovitaAI or Together providers. I don't want to use the DeepSeek provider",
+    "score": 1,
+    "num_comments": 7,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i2x0g4/how_do_i_target_a_particular_provider_for_a_model/"
+  },
+  {
+    "id": "1i2wtzm",
+    "title": "Any suggestions for podcasts or videos on AI agents",
+    "selftext": "Looking for in-depth podcasts/YouTube content about AI agents beyond surface-level introductions. Specifically seeking:\nDetailed technical discussions\nReal enterprise use case implementations\nUnconventional AI agent applications\nNot looking for generic \"AI agents will change everything\" narratives. Want concrete, practical insights from practitioners who have actually deployed AI agents.",
+    "score": 4,
+    "num_comments": 1,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i2wtzm/any_suggestions_for_podcasts_or_videos_on_ai/"
+  },
+  {
+    "id": "1i2wdbz",
+    "title": "How do tools like Bolt.new and Lovable work?",
+    "selftext": "Allegedly they use the same base model I chat with all day, yet produce results that are so much more impressive from a simple prompt\n\nLike for example I asked it to create a note-taking app and within minutes a had a working prototype that would take me hours to make chatting with Claude or ChatGPT",
+    "score": 1,
+    "num_comments": 6,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i2wdbz/how_do_tools_like_boltnew_and_lovable_work/"
+  },
+  {
+    "id": "1i2vg6t",
+    "title": "I've built a mini social network in a few weeks (create and join events to connect locals and foreigners, while discovering the city)",
+    "selftext": "",
+    "score": 2,
+    "num_comments": 3,
+    "url": "https://www.reddit.com/gallery/1i2vg6t"
+  },
+  {
+    "id": "1i2uth0",
+    "title": "How to deal with large files that hit the max output token limit in Aider?",
+    "selftext": "I'm working in a restricted environment where I can only use aider and Gemini models like 1206, flash-2.0, or pro-1.5, on a large codebase.\n\nThe codebase has many files, typically test files, that are over 1000 lines of code.\n\nI found when I use use aider's default diff-based edit format, the results are quite bad and often include linting or other code errors that the models never manage to overcome.\n\nWhen using aider's the whole-edit format, the results are better with fewer linting or other code errors, but I keep running into the maximum output token limit (8k with all Gemini models I tried) when dealing with large, typically test, files (eg, 1k+ LOC). In fact, even sometimes when using the default diff-based edit format, I run into this limit with these files.\n\nAre there any tips on how to mitigate this issue without trying to break up the countless test files into smaller files, which will be quite time consuming to do manually and I'm not confident the models can do well either?  \n\n\nThanks",
+    "score": 0,
+    "num_comments": 6,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i2uth0/how_to_deal_with_large_files_that_hit_the_max/"
+  },
+  {
+    "id": "1i2rhxr",
+    "title": "Bolt.new Alternatives?",
+    "selftext": "I tried [bolt.new](http://bolt.new) for the first time today and was thoroughly impressed, I just wanted to give a try to some of its competitors to see how it is",
+    "score": 2,
+    "num_comments": 8,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i2rhxr/boltnew_alternatives/"
+  },
+  {
+    "id": "1i2iftw",
+    "title": "Can frontier models like o1 do proper arithmetic now?",
+    "selftext": "I feel dumb asking this question but i didnt want to burn my precious requests to test it out myself...\n\nA year ago, even a few short months ago, when you ask an LLM to perform actual arithmetic it is likely to screw up some tokens and give you a sometimes laughably incorrect answer. But o1 and friends started to do built in chain of reasoning stuff and I never really saw any discussions on this topic of \"is arithmetic solved\" or not, blistering that the pace of progress has been and I've been half the time heads down working out how to adapt these existing things to better my life and conducting my life and so on.\n\nWhat I do read about are great advancements in high level math problems and challenges and proofs and all that jolly stuff especially with the o3 news but I still wonder if direct inference based arithmetic logic has been 99+%'ed by the LLM or can we only get a high success rate by instructing instead to ask for code to compute the result. These are very different tasks and should have different results. \n\nTo me it feels like a big milestone to surpass if we actually have directly inferenced arithmetic solutions. Did o1 blow itself past it? If not maybe o3 got a lot closer? ",
+    "score": 1,
+    "num_comments": 2,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i2iftw/can_frontier_models_like_o1_do_proper_arithmetic/"
+  },
+  {
+    "id": "1i2efvb",
+    "title": "Question on github",
+    "selftext": "Sorry for off-topic question but I need to ask\n\nSo on github, I like to look at already done projects (apps) that I want to alter somehow, repurpose.\n\nThey are open-source so on paper their entire repo is there so you know it's not malware etc\n\nMy question is: How do we know that THAT is the actual repo without reverse engineering them? Instead of some BS they put in there to mask the fact the actual source code has some backdoor trojan in it?",
+    "score": 1,
+    "num_comments": 3,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i2efvb/question_on_github/"
+  },
+  {
+    "id": "1i2ecj2",
+    "title": "Why Aider?",
+    "selftext": "I've been trying to move away from Cursor since it made me a little too lazy.  I miss emacs so I decided to give Aider+Emacs a shot, and I see some on here recommending it over Cursor. \n\nAfter a couple days of use, I don't personally see good enough reasons to switch to aider. Some things I dislike:\n\n* Outputs seem generally lower quality, using the same models as I did in Cursor, aider doesn't seem to have the context magic that Cursor has behind the scenes\n* As a result, i find myself needing to give better prompts and be more intentional (this is a pro and con)\n* Aider is accept/reject diffs, tweaking diffs before accept feels is something i miss a lot\n* I prefer the GUI over CLI but this is a fundamental design decision so I can't harp on this too much\n\nI'm happy something open-source like aider exists. I like how I Aider forces me to read outputs and not accept button spam. It seems great for going from 0 to prototype, but in medium+ sized codebases it doesn't sound great. I'm also not sure if I'm a fan of the Git integration yet.\n\nPersonally I think cursor is better for my usecase which is turbocharged autocompletion, inline code snippet generation, and regular chat. I don't think aider is designed for this. It's probably too agentic for me. Though I haven't used it exhaustively yet, so I'll keep trying it. Will probably end up writing my own emacs cfg though.\n\nWhy do you like Aider? Why aider over the other options?   \nAnd perhaps a more meta-question: What's the ratio of experienced/inexperienced programmers on here? Experienced people, what do you use?",
+    "score": 9,
+    "num_comments": 17,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i2ecj2/why_aider/"
+  },
+  {
+    "id": "1i2e6sp",
+    "title": "Do you think that you need to have programming experience - knowledge for AI to actually do what you want?",
+    "selftext": "To build the app that you want, to do what you want, instead of giving you rubbish that doesn't work?",
+    "score": 14,
+    "num_comments": 57,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i2e6sp/do_you_think_that_you_need_to_have_programming/"
+  },
+  {
+    "id": "1i2dsof",
+    "title": "ChatGPT Code Dev Tool",
+    "selftext": "Anyone have a tool that submits requests via the API, receives updates, and integrates them?  I checked a bunch of options and nothing seems to just do this. I am building my own but would prefer to borrow someone's.\n\nTo be clear, this is a problem anyone developing with ChatGPT should have.",
+    "score": 1,
+    "num_comments": 0,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i2dsof/chatgpt_code_dev_tool/"
+  },
+  {
+    "id": "1i2dhz4",
+    "title": "Claude Professional Vs Teams - Tokens?",
+    "selftext": "I've been struggling with chatGPT 4 and o1 recently as she just doesn't listen, omits parts of code and just doesn't get the job done (many attempts at failed code).\n\nClaude 3.5 sonnet has been a dream! However I am running out of tokens extremely fast (as my code gets longer and longer).\n\nWhile Claude won't give out specifics to how many more tokens a team member has vs a profesional user, has anyone upgraded and estimated how much extra usage they've received?  Im happy to pay for a team (still less than chatGPT pro) and have 4 non-user users.\n\nthanks!",
+    "score": 2,
+    "num_comments": 4,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i2dhz4/claude_professional_vs_teams_tokens/"
+  },
+  {
+    "id": "1i2bz6m",
+    "title": "Cursor Tab is amazing, are there any emerging open source alternatives?",
+    "selftext": "I absolutely love Cursor Tab (code autocomplete in Cursor editor), for several good reasons:\n\n1. It knows all of my files and all of the recent changes i made (including files not currently open, incredible knowledge of context)\n\n2. It suggests in-line & multi-line modifications while keeping irrelevant code untouched\n\n3. It automatically jumps to the next line that requires modification (the best feature)\n\n4. It's lightning fast and basically spot on every time\n\nI've tried [Continue.dev](http://Continue.dev) but it's just not the same. It's just basic autocomplete, pretty slow, doesn't understand the context of my code and the changes I want to make well enough, and suggests new code in bulk, not tailor-made inline changes.\n\nAre there any emerging open source alternatives to Cursor Tab? I'm become more privacy conscious after cursor tried to autocomplete PII I had in one of my files. Preferably something that would work well with a locally-run coding LLM such as Qwen2.5-coder\n\nthanks!",
+    "score": 14,
+    "num_comments": 16,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i2bz6m/cursor_tab_is_amazing_are_there_any_emerging_open/"
+  },
+  {
+    "id": "1i2b66r",
+    "title": "Cursor vs Cline: 240k Token Codebase",
+    "selftext": "Outside of snake games and simple landing pages, I wondered how Cline would fare off against Cursor, given a larger codebase. So I tested them side by side with a 20k+ LOC codebase. Here are a few things I learned:  \n  \n(For those who just want to watch them code side-by-side: [https://youtu.be/AtuB7p-JU8Y](https://youtu.be/AtuB7p-JU8Y) )\n\n\n\n\\- Cursor now uses a vector DB to store the entire codebase\n\n\\- It then uses embeddings from user queries to find relevant files\n\n\\- search results return portions of files, not entire files\n\n\n\n\\- when these tools work, they are productive:\n\n\\>> the third Work Item in the video includes selective an upcoming football/soccer match\n\n\\>> calling an API, which performs a Google Search using Serper\n\n\\>> scrapes the websites which are returned\n\n\\>> sends the scraped data to Gemini 2 Flash to analyze\n\n\\>> returns the analysis and prediction to the Vite React front-end for viewing\n\n\\>> all done within minutes\n\n\n\n\\- Cline uses tree-sitter to maintain and search the codebase\n\n\\- from tests, it seems like the vector DB route might be better\n\n\\- Claude's Computer Use is far from practically operational\n\n\\- Cursor is \"moody\" like Windsurf. Some days they're very productive and some not. I think I found it in a good mood when testing\n\n\\- I feel like Cline could've done better if the rules were more thorough. I'm thinking of a rematch with some detailed .cursorrules\n\n\\- of note is that I didn't give any of them context to start with, a feature Windsurf kinda coined, but unfortunately Windsurf degraded\n\n\\- Cursor won by a country mile, producing 2 bug fixes and a finishing a \\~5 Fibonacci Difficulty feature in minutes\n\n  \nLet's discuss how to be more productive with these tools",
+    "score": 55,
+    "num_comments": 19,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i2b66r/cursor_vs_cline_240k_token_codebase/"
+  },
+  {
+    "id": "1i2a6gj",
+    "title": "Will there every be a way for me to dump my whole codebase into an LLM and then ask questions about the codebase.",
+    "selftext": "Working on a new codebase handed over to me. Previous guy cleverly followed the \"I am the documentation\" strategy and now I keep getting stuck when the client wants to know how a certain part of the app works.   \n  \nAn example question would be: \"How does the billing system work together with the whatsapp api service?\"",
+    "score": 36,
+    "num_comments": 54,
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1i2a6gj/will_there_every_be_a_way_for_me_to_dump_my_whole/"
+  }
+]

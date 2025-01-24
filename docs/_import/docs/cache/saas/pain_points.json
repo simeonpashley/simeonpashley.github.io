@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "subreddit": "SaaS",
+    "date_generated": "2025-01-22T01:32:26.198613+00:00",
+    "first_collected": "2025-01-22T01:23:27.318043+00:00",
+    "last_updated": "2025-01-22T01:32:26.188363+00:00",
+    "total_posts_analyzed": 425
+  },
+  "pain_points": [
+    {
+      "category": "AI and Automation",
+      "total_upvotes": 1763,
+      "total_comments": 2231,
+      "sources": [
+        {
+          "title": "Any AI tool recommendation for Intercom",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6z6nv/any_ai_tool_recommendation_for_intercom/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737509069.0
+        },
+        {
+          "title": "Diversifying SaaS revenue",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6ygm6/diversifying_saas_revenue/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737507008.0
+        },
+        {
+          "title": "Reddit comment summary and comment count endpoints available",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6y98j/reddit_comment_summary_and_comment_count/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737506422.0
+        },
+        {
+          "title": "In a Tight Situation",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6xwmp/in_a_tight_situation/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737505454.0
+        },
+        {
+          "title": "Building a SaaS as a Student",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6x5o0/building_a_saas_as_a_student/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737503426.0
+        }
+      ]
+    },
+    {
+      "category": "No-Code and Low-Code Tools",
+      "total_upvotes": 1368,
+      "total_comments": 1733,
+      "sources": [
+        {
+          "title": "Diversifying SaaS revenue",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6ygm6/diversifying_saas_revenue/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737507008.0
+        },
+        {
+          "title": "How do you deal with churn in your MicroSaaS?",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6ybgj/how_do_you_deal_with_churn_in_your_microsaas/",
+          "upvotes": 2,
+          "comments": 0,
+          "created_utc": 1737506602.0
+        },
+        {
+          "title": "Solution for Payment Processor Flexibility in PMS",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6x023/solution_for_payment_processor_flexibility_in_pms/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737502992.0
+        },
+        {
+          "title": "Agentic AI vs SaaS",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6woyn/agentic_ai_vs_saas/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737502135.0
+        },
+        {
+          "title": "Just onboarded my FIRST trial user! Here\u2019s my saas development story with a huge fail in my past",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6wc4m/just_onboarded_my_first_trial_user_heres_my_saas/",
+          "upvotes": 5,
+          "comments": 1,
+          "created_utc": 1737501183.0
+        }
+      ]
+    },
+    {
+      "category": "Validation and Idea Testing",
+      "total_upvotes": 1215,
+      "total_comments": 1753,
+      "sources": [
+        {
+          "title": "What\u2019s the Biggest Marketing Challenge Your SaaS Startup Faces?",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6ybgi/whats_the_biggest_marketing_challenge_your_saas/",
+          "upvotes": 4,
+          "comments": 2,
+          "created_utc": 1737506602.0
+        },
+        {
+          "title": "How do you deal with churn in your MicroSaaS?",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6ybgj/how_do_you_deal_with_churn_in_your_microsaas/",
+          "upvotes": 2,
+          "comments": 0,
+          "created_utc": 1737506602.0
+        },
+        {
+          "title": "Building a SaaS as a Student",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6x5o0/building_a_saas_as_a_student/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737503426.0
+        },
+        {
+          "title": "Solution for Payment Processor Flexibility in PMS",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6x023/solution_for_payment_processor_flexibility_in_pms/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737502992.0
+        },
+        {
+          "title": "Selling my EdTech SaaS",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6wxts/selling_my_edtech_saas/",
+          "upvotes": 1,
+          "comments": 2,
+          "created_utc": 1737502819.0
+        }
+      ]
+    },
+    {
+      "category": "User Acquisition",
+      "total_upvotes": 1073,
+      "total_comments": 1430,
+      "sources": [
+        {
+          "title": "What\u2019s the Biggest Marketing Challenge Your SaaS Startup Faces?",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6ybgi/whats_the_biggest_marketing_challenge_your_saas/",
+          "upvotes": 4,
+          "comments": 2,
+          "created_utc": 1737506602.0
+        },
+        {
+          "title": "In a Tight Situation",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6xwmp/in_a_tight_situation/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737505454.0
+        },
+        {
+          "title": "Free Customer Research Report (First 10 Only)",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6wvub/free_customer_research_report_first_10_only/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737502662.0
+        },
+        {
+          "title": "Just onboarded my FIRST trial user! Here\u2019s my saas development story with a huge fail in my past",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6wc4m/just_onboarded_my_first_trial_user_heres_my_saas/",
+          "upvotes": 5,
+          "comments": 1,
+          "created_utc": 1737501183.0
+        },
+        {
+          "title": "Skip The Code. Start Making Money.",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6waqs/skip_the_code_start_making_money/",
+          "upvotes": 0,
+          "comments": 1,
+          "created_utc": 1737501081.0
+        }
+      ]
+    },
+    {
+      "category": "Marketing Challenges",
+      "total_upvotes": 404,
+      "total_comments": 626,
+      "sources": [
+        {
+          "title": "What\u2019s the Biggest Marketing Challenge Your SaaS Startup Faces?",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6ybgi/whats_the_biggest_marketing_challenge_your_saas/",
+          "upvotes": 4,
+          "comments": 2,
+          "created_utc": 1737506602.0
+        },
+        {
+          "title": "Free Customer Research Report (First 10 Only)",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6wvub/free_customer_research_report_first_10_only/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737502662.0
+        },
+        {
+          "title": "Just onboarded my FIRST trial user! Here\u2019s my saas development story with a huge fail in my past",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6wc4m/just_onboarded_my_first_trial_user_heres_my_saas/",
+          "upvotes": 5,
+          "comments": 1,
+          "created_utc": 1737501183.0
+        },
+        {
+          "title": "Skip The Code. Start Making Money.",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6waqs/skip_the_code_start_making_money/",
+          "upvotes": 0,
+          "comments": 1,
+          "created_utc": 1737501081.0
+        },
+        {
+          "title": "Shut down my company.",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6v897/shut_down_my_company/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737498345.0
+        }
+      ]
+    },
+    {
+      "category": "Freelancers and Outsourcing",
+      "total_upvotes": 390,
+      "total_comments": 475,
+      "sources": [
+        {
+          "title": "Solution for Payment Processor Flexibility in PMS",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6x023/solution_for_payment_processor_flexibility_in_pms/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737502992.0
+        },
+        {
+          "title": "Agentic AI vs SaaS",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6woyn/agentic_ai_vs_saas/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737502135.0
+        },
+        {
+          "title": "Help Us Build the Perfect Feedback Management Tool! \ud83d\ude80",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6whyl/help_us_build_the_perfect_feedback_management_tool/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737501610.0
+        },
+        {
+          "title": "Shut down my company.",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6v897/shut_down_my_company/",
+          "upvotes": 1,
+          "comments": 0,
+          "created_utc": 1737498345.0
+        },
+        {
+          "title": "We completed 500 customers today on our backlinks SaaS (Free gift)",
+          "link": "https://www.reddit.com/r/SaaS/comments/1i6uq9p/we_completed_500_customers_today_on_our_backlinks/",
+          "upvotes": 2,
+          "comments": 15,
+          "created_utc": 1737497088.0
+        }
+      ]
+    }
+  ]
+}

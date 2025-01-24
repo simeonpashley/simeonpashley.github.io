@@ -1,0 +1,1046 @@
+{
+  "slug": "about",
+  "pageName": "About us",
+  "contentType": "page",
+  "pageContent": {
+    "metadata": {
+      "tags": [],
+      "concepts": []
+    },
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "2akhfex5a1kv"
+        }
+      },
+      "id": "ohspi5gYQSqQdFADFTg6F",
+      "type": "Entry",
+      "createdAt": "2025-01-16T08:57:10.129Z",
+      "updatedAt": "2025-01-16T08:57:10.129Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "publishedVersion": 1,
+      "revision": 1,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "topicBusinessInfo"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "internalName": "About us",
+      "name": "About us",
+      "shortDescription": "We use technology to make banking convenient, personal, and secure",
+      "body": {
+        "data": {},
+        "content": [
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "value": "Our company",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "heading-2"
+          },
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [],
+                "value": "Colorful Coin's mission is to help people around the world manage their money with ease and confidence. Bringing together cutting-edge technologies and relentless focus on customer experiences, we offer banking, payment, and lending services tailored to the needs of our customers.",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "paragraph"
+          },
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "value": "Our Story",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "heading-3"
+          },
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [],
+                "value": "Coin story begins with a simple question. What if our banking was designed with the same level of passion, ingenuity and attention to detail, that go into producing our phones. Back in 2014, Poppy Terrell, found herself working on an environmental project in a small Sri-Lankan village. Removed from the amenities of a big city, having to rely on her iPhone to do all her banking, Poppy experienced many a frustrating weekend and came back to the US determined to never again rely on a traditional bank for her daily financial needs.",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "paragraph"
+          },
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [],
+                "value": "Initial frustration soon gave way to curiosity. How would digital banking look like if it was reimagined from the scratch. Using all her savings to build a prototype, in 2015 Poppy met a talented developer Marc Young and having been accepted to the Y Combinator program, they were off to the races. Two major redesigns and a string of angel investments later, the duo finally cracked the code to digital banking and in 2017 went through a period of hyper-growth, expanding their customer base by 674% in less than 12 months.",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "paragraph"
+          },
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [],
+                "value": "Coin's unique value proposition attracted not only customers but also investors interested in revolutionizing traditional banking. In February 2019, Poppy Terrell was approached by the charismatic chairman of the Colorful Collective, Terence Fisher, and the two began a months-long conversation on the future of Coin. Eventually, the compromise was reached and Colorful Collective acquired Coin, making it Colorful Coin, Europe's leading digital bank. Following the acquisition, the company continued its rapid expansion, opening 6 global offices and doubling the number of employees. ",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "paragraph"
+          },
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [],
+                "value": "",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "paragraph"
+          },
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "value": "Leadership",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "heading-3"
+          },
+          {
+            "data": {
+              "target": {
+                "metadata": {
+                  "tags": [],
+                  "concepts": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "2akhfex5a1kv"
+                    }
+                  },
+                  "id": "1jt29A18iuzzBstXBpZXgL",
+                  "type": "Entry",
+                  "createdAt": "2025-01-16T08:57:12.221Z",
+                  "updatedAt": "2025-01-16T08:57:12.221Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "publishedVersion": 1,
+                  "revision": 1,
+                  "contentType": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "ContentType",
+                      "id": "topicPerson"
+                    }
+                  },
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "internalName": "Poppy Terrell (Leadership)",
+                  "name": "Poppy Terrell, Founder & CEO",
+                  "bio": {
+                    "data": {},
+                    "content": [
+                      {
+                        "data": {},
+                        "content": [
+                          {
+                            "data": {},
+                            "marks": [],
+                            "value": "Always looking for ways to improve the world around her, Poppy came up with the idea for Coin service after taking a sabbatical to work on an environmental project in Sri Lanka. Prior to founding Coin, she worked for Chase’s investment banking division, focusing on M&A transactions, and headed the customer relations division at Credit Suisse. Poppy holds a B.S. in business administration from the University of West Florida.",
+                            "nodeType": "text"
+                          }
+                        ],
+                        "nodeType": "paragraph"
+                      }
+                    ],
+                    "nodeType": "document"
+                  },
+                  "avatar": {
+                    "metadata": {
+                      "tags": [],
+                      "concepts": []
+                    },
+                    "sys": {
+                      "space": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "Space",
+                          "id": "2akhfex5a1kv"
+                        }
+                      },
+                      "id": "26SAApp0DZ4xvKXLBBEbeX",
+                      "type": "Asset",
+                      "createdAt": "2025-01-16T08:57:00.245Z",
+                      "updatedAt": "2025-01-16T08:57:00.245Z",
+                      "environment": {
+                        "sys": {
+                          "id": "master",
+                          "type": "Link",
+                          "linkType": "Environment"
+                        }
+                      },
+                      "publishedVersion": 2,
+                      "revision": 1,
+                      "locale": "en-US"
+                    },
+                    "fields": {
+                      "title": "Poppy Terrell",
+                      "description": "",
+                      "file": {
+                        "url": "//images.ctfassets.net/2akhfex5a1kv/26SAApp0DZ4xvKXLBBEbeX/984aec038240e62bc0f460af99880bf5/Ellipse_1.png",
+                        "details": {
+                          "size": 18424,
+                          "image": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "fileName": "Ellipse 1.png",
+                        "contentType": "image/png"
+                      }
+                    }
+                  },
+                  "location": "Berlin, Germany",
+                  "cardStyle": false
+                }
+              }
+            },
+            "content": [],
+            "nodeType": "embedded-entry-block"
+          },
+          {
+            "data": {
+              "target": {
+                "metadata": {
+                  "tags": [],
+                  "concepts": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "2akhfex5a1kv"
+                    }
+                  },
+                  "id": "2r0v7iZ7SS0khYkCAK82lw",
+                  "type": "Entry",
+                  "createdAt": "2025-01-16T08:57:11.155Z",
+                  "updatedAt": "2025-01-16T08:57:11.155Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "publishedVersion": 1,
+                  "revision": 1,
+                  "contentType": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "ContentType",
+                      "id": "topicPerson"
+                    }
+                  },
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "internalName": "Michael Estrada (Leadership)",
+                  "name": "Michael Estrada, Chief Technology Officer",
+                  "bio": {
+                    "data": {},
+                    "content": [
+                      {
+                        "data": {},
+                        "content": [
+                          {
+                            "data": {},
+                            "marks": [],
+                            "value": "A holder of multiple patents and a gifted saxophone player, Michael seems to excel at everything he touches. Always interested in consumer technologies, Michael joined Coin to build the next generation of payment experiences. He has previously worked in a variety of positions within Google and has founded a successful hardware startup Trezor. Michael holds a Bachelor’s and Master’s in Computer Science from Stanford University.",
+                            "nodeType": "text"
+                          }
+                        ],
+                        "nodeType": "paragraph"
+                      }
+                    ],
+                    "nodeType": "document"
+                  },
+                  "avatar": {
+                    "metadata": {
+                      "tags": [],
+                      "concepts": []
+                    },
+                    "sys": {
+                      "space": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "Space",
+                          "id": "2akhfex5a1kv"
+                        }
+                      },
+                      "id": "2762objjfxaE1DeUHFW1wf",
+                      "type": "Asset",
+                      "createdAt": "2025-01-16T08:57:00.235Z",
+                      "updatedAt": "2025-01-16T08:57:00.235Z",
+                      "environment": {
+                        "sys": {
+                          "id": "master",
+                          "type": "Link",
+                          "linkType": "Environment"
+                        }
+                      },
+                      "publishedVersion": 2,
+                      "revision": 1,
+                      "locale": "en-US"
+                    },
+                    "fields": {
+                      "title": "Michael Estrada",
+                      "description": "",
+                      "file": {
+                        "url": "//images.ctfassets.net/2akhfex5a1kv/2762objjfxaE1DeUHFW1wf/28d05f3c64a679f4b2c30527a7aa462b/Ellipse_2.png",
+                        "details": {
+                          "size": 18358,
+                          "image": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "fileName": "Ellipse 2.png",
+                        "contentType": "image/png"
+                      }
+                    }
+                  },
+                  "location": "Berlin, Germany",
+                  "cardStyle": false
+                }
+              }
+            },
+            "content": [],
+            "nodeType": "embedded-entry-block"
+          },
+          {
+            "data": {
+              "target": {
+                "metadata": {
+                  "tags": [],
+                  "concepts": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "2akhfex5a1kv"
+                    }
+                  },
+                  "id": "5YEkWZ4oATSKbR2i7ZUF06",
+                  "type": "Entry",
+                  "createdAt": "2025-01-16T08:57:11.197Z",
+                  "updatedAt": "2025-01-16T08:57:11.197Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "publishedVersion": 1,
+                  "revision": 1,
+                  "contentType": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "ContentType",
+                      "id": "topicPerson"
+                    }
+                  },
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "internalName": "Jesse Ferguson (Leadership)",
+                  "name": "Jesse Ferguson, Chief Customer Officer",
+                  "bio": {
+                    "data": {},
+                    "content": [
+                      {
+                        "data": {},
+                        "content": [
+                          {
+                            "data": {},
+                            "marks": [],
+                            "value": "Jesse has worked with high-growth companies for over 15 years, building a track record for scaling support teams and achieving excellence in customer-facing teams. Jesse is a passionate cook and an active community member championing the cause of women emancipation. Jesse has been recognized numerous times for her leadership, including most recently the Women in Tech Leader of the Year award in 2018. She holds a B.A. in English Literature from the Yale University.",
+                            "nodeType": "text"
+                          }
+                        ],
+                        "nodeType": "paragraph"
+                      }
+                    ],
+                    "nodeType": "document"
+                  },
+                  "avatar": {
+                    "metadata": {
+                      "tags": [],
+                      "concepts": []
+                    },
+                    "sys": {
+                      "space": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "Space",
+                          "id": "2akhfex5a1kv"
+                        }
+                      },
+                      "id": "69Z0seKXE1wpqezBsAv6Fg",
+                      "type": "Asset",
+                      "createdAt": "2025-01-16T08:57:00.246Z",
+                      "updatedAt": "2025-01-16T08:57:00.246Z",
+                      "environment": {
+                        "sys": {
+                          "id": "master",
+                          "type": "Link",
+                          "linkType": "Environment"
+                        }
+                      },
+                      "publishedVersion": 2,
+                      "revision": 1,
+                      "locale": "en-US"
+                    },
+                    "fields": {
+                      "title": "Jesse Ferguson",
+                      "description": "",
+                      "file": {
+                        "url": "//images.ctfassets.net/2akhfex5a1kv/69Z0seKXE1wpqezBsAv6Fg/9587059f5b2f61c97fd3bbc298ae5ee3/Ellipse_3.png",
+                        "details": {
+                          "size": 21083,
+                          "image": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "fileName": "Ellipse 3.png",
+                        "contentType": "image/png"
+                      }
+                    }
+                  },
+                  "location": "Berlin, Germany",
+                  "cardStyle": false
+                }
+              }
+            },
+            "content": [],
+            "nodeType": "embedded-entry-block"
+          },
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [],
+                "value": "",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "paragraph"
+          }
+        ],
+        "nodeType": "document"
+      }
+    }
+  },
+  "fullResponse": {
+    "metadata": {
+      "tags": [],
+      "concepts": []
+    },
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "2akhfex5a1kv"
+        }
+      },
+      "id": "7wGhPNCZNLknpSaJVWfnHf",
+      "type": "Entry",
+      "createdAt": "2025-01-16T08:57:15.203Z",
+      "updatedAt": "2025-01-16T11:21:06.120Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "publishedVersion": 3,
+      "revision": 2,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "page"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "internalName": "About us",
+      "pageName": "About us",
+      "slug": "about",
+      "pageContent": {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2akhfex5a1kv"
+            }
+          },
+          "id": "ohspi5gYQSqQdFADFTg6F",
+          "type": "Entry",
+          "createdAt": "2025-01-16T08:57:10.129Z",
+          "updatedAt": "2025-01-16T08:57:10.129Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 1,
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "topicBusinessInfo"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "internalName": "About us",
+          "name": "About us",
+          "shortDescription": "We use technology to make banking convenient, personal, and secure",
+          "body": {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "value": "Our company",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "heading-2"
+              },
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "Colorful Coin's mission is to help people around the world manage their money with ease and confidence. Bringing together cutting-edge technologies and relentless focus on customer experiences, we offer banking, payment, and lending services tailored to the needs of our customers.",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              },
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "value": "Our Story",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "heading-3"
+              },
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "Coin story begins with a simple question. What if our banking was designed with the same level of passion, ingenuity and attention to detail, that go into producing our phones. Back in 2014, Poppy Terrell, found herself working on an environmental project in a small Sri-Lankan village. Removed from the amenities of a big city, having to rely on her iPhone to do all her banking, Poppy experienced many a frustrating weekend and came back to the US determined to never again rely on a traditional bank for her daily financial needs.",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              },
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "Initial frustration soon gave way to curiosity. How would digital banking look like if it was reimagined from the scratch. Using all her savings to build a prototype, in 2015 Poppy met a talented developer Marc Young and having been accepted to the Y Combinator program, they were off to the races. Two major redesigns and a string of angel investments later, the duo finally cracked the code to digital banking and in 2017 went through a period of hyper-growth, expanding their customer base by 674% in less than 12 months.",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              },
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "Coin's unique value proposition attracted not only customers but also investors interested in revolutionizing traditional banking. In February 2019, Poppy Terrell was approached by the charismatic chairman of the Colorful Collective, Terence Fisher, and the two began a months-long conversation on the future of Coin. Eventually, the compromise was reached and Colorful Collective acquired Coin, making it Colorful Coin, Europe's leading digital bank. Following the acquisition, the company continued its rapid expansion, opening 6 global offices and doubling the number of employees. ",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              },
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              },
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "value": "Leadership",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "heading-3"
+              },
+              {
+                "data": {
+                  "target": {
+                    "metadata": {
+                      "tags": [],
+                      "concepts": []
+                    },
+                    "sys": {
+                      "space": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "Space",
+                          "id": "2akhfex5a1kv"
+                        }
+                      },
+                      "id": "1jt29A18iuzzBstXBpZXgL",
+                      "type": "Entry",
+                      "createdAt": "2025-01-16T08:57:12.221Z",
+                      "updatedAt": "2025-01-16T08:57:12.221Z",
+                      "environment": {
+                        "sys": {
+                          "id": "master",
+                          "type": "Link",
+                          "linkType": "Environment"
+                        }
+                      },
+                      "publishedVersion": 1,
+                      "revision": 1,
+                      "contentType": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "ContentType",
+                          "id": "topicPerson"
+                        }
+                      },
+                      "locale": "en-US"
+                    },
+                    "fields": {
+                      "internalName": "Poppy Terrell (Leadership)",
+                      "name": "Poppy Terrell, Founder & CEO",
+                      "bio": {
+                        "data": {},
+                        "content": [
+                          {
+                            "data": {},
+                            "content": [
+                              {
+                                "data": {},
+                                "marks": [],
+                                "value": "Always looking for ways to improve the world around her, Poppy came up with the idea for Coin service after taking a sabbatical to work on an environmental project in Sri Lanka. Prior to founding Coin, she worked for Chase’s investment banking division, focusing on M&A transactions, and headed the customer relations division at Credit Suisse. Poppy holds a B.S. in business administration from the University of West Florida.",
+                                "nodeType": "text"
+                              }
+                            ],
+                            "nodeType": "paragraph"
+                          }
+                        ],
+                        "nodeType": "document"
+                      },
+                      "avatar": {
+                        "metadata": {
+                          "tags": [],
+                          "concepts": []
+                        },
+                        "sys": {
+                          "space": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "Space",
+                              "id": "2akhfex5a1kv"
+                            }
+                          },
+                          "id": "26SAApp0DZ4xvKXLBBEbeX",
+                          "type": "Asset",
+                          "createdAt": "2025-01-16T08:57:00.245Z",
+                          "updatedAt": "2025-01-16T08:57:00.245Z",
+                          "environment": {
+                            "sys": {
+                              "id": "master",
+                              "type": "Link",
+                              "linkType": "Environment"
+                            }
+                          },
+                          "publishedVersion": 2,
+                          "revision": 1,
+                          "locale": "en-US"
+                        },
+                        "fields": {
+                          "title": "Poppy Terrell",
+                          "description": "",
+                          "file": {
+                            "url": "//images.ctfassets.net/2akhfex5a1kv/26SAApp0DZ4xvKXLBBEbeX/984aec038240e62bc0f460af99880bf5/Ellipse_1.png",
+                            "details": {
+                              "size": 18424,
+                              "image": {
+                                "width": 100,
+                                "height": 100
+                              }
+                            },
+                            "fileName": "Ellipse 1.png",
+                            "contentType": "image/png"
+                          }
+                        }
+                      },
+                      "location": "Berlin, Germany",
+                      "cardStyle": false
+                    }
+                  }
+                },
+                "content": [],
+                "nodeType": "embedded-entry-block"
+              },
+              {
+                "data": {
+                  "target": {
+                    "metadata": {
+                      "tags": [],
+                      "concepts": []
+                    },
+                    "sys": {
+                      "space": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "Space",
+                          "id": "2akhfex5a1kv"
+                        }
+                      },
+                      "id": "2r0v7iZ7SS0khYkCAK82lw",
+                      "type": "Entry",
+                      "createdAt": "2025-01-16T08:57:11.155Z",
+                      "updatedAt": "2025-01-16T08:57:11.155Z",
+                      "environment": {
+                        "sys": {
+                          "id": "master",
+                          "type": "Link",
+                          "linkType": "Environment"
+                        }
+                      },
+                      "publishedVersion": 1,
+                      "revision": 1,
+                      "contentType": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "ContentType",
+                          "id": "topicPerson"
+                        }
+                      },
+                      "locale": "en-US"
+                    },
+                    "fields": {
+                      "internalName": "Michael Estrada (Leadership)",
+                      "name": "Michael Estrada, Chief Technology Officer",
+                      "bio": {
+                        "data": {},
+                        "content": [
+                          {
+                            "data": {},
+                            "content": [
+                              {
+                                "data": {},
+                                "marks": [],
+                                "value": "A holder of multiple patents and a gifted saxophone player, Michael seems to excel at everything he touches. Always interested in consumer technologies, Michael joined Coin to build the next generation of payment experiences. He has previously worked in a variety of positions within Google and has founded a successful hardware startup Trezor. Michael holds a Bachelor’s and Master’s in Computer Science from Stanford University.",
+                                "nodeType": "text"
+                              }
+                            ],
+                            "nodeType": "paragraph"
+                          }
+                        ],
+                        "nodeType": "document"
+                      },
+                      "avatar": {
+                        "metadata": {
+                          "tags": [],
+                          "concepts": []
+                        },
+                        "sys": {
+                          "space": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "Space",
+                              "id": "2akhfex5a1kv"
+                            }
+                          },
+                          "id": "2762objjfxaE1DeUHFW1wf",
+                          "type": "Asset",
+                          "createdAt": "2025-01-16T08:57:00.235Z",
+                          "updatedAt": "2025-01-16T08:57:00.235Z",
+                          "environment": {
+                            "sys": {
+                              "id": "master",
+                              "type": "Link",
+                              "linkType": "Environment"
+                            }
+                          },
+                          "publishedVersion": 2,
+                          "revision": 1,
+                          "locale": "en-US"
+                        },
+                        "fields": {
+                          "title": "Michael Estrada",
+                          "description": "",
+                          "file": {
+                            "url": "//images.ctfassets.net/2akhfex5a1kv/2762objjfxaE1DeUHFW1wf/28d05f3c64a679f4b2c30527a7aa462b/Ellipse_2.png",
+                            "details": {
+                              "size": 18358,
+                              "image": {
+                                "width": 100,
+                                "height": 100
+                              }
+                            },
+                            "fileName": "Ellipse 2.png",
+                            "contentType": "image/png"
+                          }
+                        }
+                      },
+                      "location": "Berlin, Germany",
+                      "cardStyle": false
+                    }
+                  }
+                },
+                "content": [],
+                "nodeType": "embedded-entry-block"
+              },
+              {
+                "data": {
+                  "target": {
+                    "metadata": {
+                      "tags": [],
+                      "concepts": []
+                    },
+                    "sys": {
+                      "space": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "Space",
+                          "id": "2akhfex5a1kv"
+                        }
+                      },
+                      "id": "5YEkWZ4oATSKbR2i7ZUF06",
+                      "type": "Entry",
+                      "createdAt": "2025-01-16T08:57:11.197Z",
+                      "updatedAt": "2025-01-16T08:57:11.197Z",
+                      "environment": {
+                        "sys": {
+                          "id": "master",
+                          "type": "Link",
+                          "linkType": "Environment"
+                        }
+                      },
+                      "publishedVersion": 1,
+                      "revision": 1,
+                      "contentType": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "ContentType",
+                          "id": "topicPerson"
+                        }
+                      },
+                      "locale": "en-US"
+                    },
+                    "fields": {
+                      "internalName": "Jesse Ferguson (Leadership)",
+                      "name": "Jesse Ferguson, Chief Customer Officer",
+                      "bio": {
+                        "data": {},
+                        "content": [
+                          {
+                            "data": {},
+                            "content": [
+                              {
+                                "data": {},
+                                "marks": [],
+                                "value": "Jesse has worked with high-growth companies for over 15 years, building a track record for scaling support teams and achieving excellence in customer-facing teams. Jesse is a passionate cook and an active community member championing the cause of women emancipation. Jesse has been recognized numerous times for her leadership, including most recently the Women in Tech Leader of the Year award in 2018. She holds a B.A. in English Literature from the Yale University.",
+                                "nodeType": "text"
+                              }
+                            ],
+                            "nodeType": "paragraph"
+                          }
+                        ],
+                        "nodeType": "document"
+                      },
+                      "avatar": {
+                        "metadata": {
+                          "tags": [],
+                          "concepts": []
+                        },
+                        "sys": {
+                          "space": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "Space",
+                              "id": "2akhfex5a1kv"
+                            }
+                          },
+                          "id": "69Z0seKXE1wpqezBsAv6Fg",
+                          "type": "Asset",
+                          "createdAt": "2025-01-16T08:57:00.246Z",
+                          "updatedAt": "2025-01-16T08:57:00.246Z",
+                          "environment": {
+                            "sys": {
+                              "id": "master",
+                              "type": "Link",
+                              "linkType": "Environment"
+                            }
+                          },
+                          "publishedVersion": 2,
+                          "revision": 1,
+                          "locale": "en-US"
+                        },
+                        "fields": {
+                          "title": "Jesse Ferguson",
+                          "description": "",
+                          "file": {
+                            "url": "//images.ctfassets.net/2akhfex5a1kv/69Z0seKXE1wpqezBsAv6Fg/9587059f5b2f61c97fd3bbc298ae5ee3/Ellipse_3.png",
+                            "details": {
+                              "size": 21083,
+                              "image": {
+                                "width": 100,
+                                "height": 100
+                              }
+                            },
+                            "fileName": "Ellipse 3.png",
+                            "contentType": "image/png"
+                          }
+                        }
+                      },
+                      "location": "Berlin, Germany",
+                      "cardStyle": false
+                    }
+                  }
+                },
+                "content": [],
+                "nodeType": "embedded-entry-block"
+              },
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          }
+        }
+      }
+    }
+  }
+}

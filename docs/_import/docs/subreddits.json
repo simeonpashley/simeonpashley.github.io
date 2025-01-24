@@ -1,0 +1,164 @@
+[
+  {
+    "subreddit": "SaaS",
+    "enabled": false,
+    "pain_points": [
+      {
+        "name": "User Acquisition",
+        "keywords": [
+          "marketing",
+          "users",
+          "customers",
+          "acquisition",
+          "growth",
+          "traffic",
+          "leads",
+          "conversion",
+          "sales",
+          "advertising"
+        ]
+      },
+      {
+        "name": "Marketing Challenges",
+        "keywords": [
+          "advertising",
+          "campaign",
+          "roi",
+          "budget",
+          "targeting",
+          "audience",
+          "brand",
+          "social media",
+          "content",
+          "seo"
+        ]
+      },
+      {
+        "name": "No-Code and Low-Code Tools",
+        "keywords": [
+          "nocode",
+          "lowcode",
+          "tools",
+          "automation",
+          "integration",
+          "workflow",
+          "platform",
+          "builder",
+          "development",
+          "technical"
+        ]
+      },
+      {
+        "name": "Freelancers and Outsourcing",
+        "keywords": [
+          "freelance",
+          "outsource",
+          "contractor",
+          "hiring",
+          "remote",
+          "team",
+          "talent",
+          "recruitment",
+          "management",
+          "offshore"
+        ]
+      },
+      {
+        "name": "AI and Automation",
+        "keywords": [
+          "ai",
+          "automation",
+          "machine learning",
+          "bot",
+          "artificial intelligence",
+          "workflow",
+          "process",
+          "efficiency",
+          "integration",
+          "api"
+        ]
+      },
+      {
+        "name": "Validation and Idea Testing",
+        "keywords": [
+          "validation",
+          "testing",
+          "mvp",
+          "prototype",
+          "feedback",
+          "market",
+          "research",
+          "survey",
+          "experiment",
+          "hypothesis"
+        ]
+      }
+    ]
+  },
+  {
+    "subreddit": "TeachingUK",
+    "enabled": true,
+    "pain_points": [
+      {
+        "name": "Classroom Management",
+        "keywords": [
+          "discipline",
+          "behavior",
+          "classroom control",
+          "student engagement",
+          "conflicts",
+          "rules",
+          "routine",
+          "attention",
+          "distractions",
+          "motivation"
+        ]
+      },
+      {
+        "name": "Curriculum and Planning",
+        "keywords": [
+          "curriculum",
+          "lesson plans",
+          "teaching materials",
+          "standards",
+          "safeguarding",
+          "EYFS",
+          "KS1",
+          "KS2",
+          "assessment",
+          "planning time"
+        ]
+      },
+      {
+        "name": "Assessment and Reporting",
+        "keywords": [
+          "grading",
+          "assessment",
+          "reporting",
+          "evaluation",
+          "progress tracking",
+          "mock exams",
+          "feedback",
+          "targets",
+          "data management",
+          "parent feedback"
+        ]
+      },
+      {
+        "name": "Workload Management",
+        "keywords": [
+          "workload",
+          "overtime",
+          "time management",
+          "burnout",
+          "stress",
+          "paperwork",
+          "planning time",
+          "work-life balance",
+          "deadlines",
+          "multitasking"
+        ]
+      }
+    ]
+  }
+]
