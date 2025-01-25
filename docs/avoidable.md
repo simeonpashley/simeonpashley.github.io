@@ -57,3 +57,39 @@
 
     ```bash
     make lint test
+    ```
+
+11. Always organize test files alongside components:
+    - Place test files in the same directory as the component
+    - Use `.test.tsx` suffix for test files
+    - Maintain 1:1 correspondence between components and test files
+
+12. Implement proper error boundaries:
+    - Always use error and reset parameters
+    - Display meaningful error messages
+    - Include retry functionality
+    - Test error boundary behavior
+
+13. Follow TypeScript best practices:
+    - Use strict type checking
+    - Avoid `any` type
+    - Use proper type definitions for props
+    - Validate types at runtime when necessary
+
+14. Test all component variants:
+    - Create tests for each prop variant
+    - Test edge cases and error states
+    - Verify proper styling for each variant
+    - Test component interactions
+
+15. Use proper HTML entities:
+    - Escape special characters
+    - Use `&rsquo;` for apostrophes
+    - Use `"` for quotes
+    - Validate HTML in tests
+
+16. Maintain test coverage:
+    - Aim for 100% coverage
+    - Verify coverage reports
+    - Add tests for uncovered code
+    - Run coverage checks in CI

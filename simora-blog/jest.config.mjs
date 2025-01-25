@@ -26,4 +26,8 @@ export default {
   transformIgnorePatterns: [
     '/node_modules/(?!(@testing-library|@swc)/)'
   ],
+  testPathIgnorePatterns: [
+    '/node_modules/',
+    '/tests/e2e/'
+  ],
 };
