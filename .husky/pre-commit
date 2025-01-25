@@ -1,5 +1,7 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
+pushd simora-blog
 pnpm lint
 pnpm test
+popd
