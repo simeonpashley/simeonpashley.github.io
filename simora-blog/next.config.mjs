@@ -5,9 +5,7 @@ const require = createRequire(import.meta.url);
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  experimental: {
-    appDir: true,
-  },
+  // App Router is enabled by default in Next.js 13+
 };
 
 export default nextConfig;
