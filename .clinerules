@@ -11,6 +11,8 @@ When code is changed, YOU MUST:
 
 - WHEN A BUG IS VERIFIED FIXED: Append (DO NOT REMOVE EXISTING) concise unambigous rules to `docs/avoidable.md` that will mitigate avoidable errors found during bug fixing
 
+- node package manager is `pnpm`
+
 ---
 
 # AI Assistant Configuration for Jekyll Blog Project

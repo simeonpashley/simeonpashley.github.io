@@ -93,3 +93,31 @@
     - Verify coverage reports
     - Add tests for uncovered code
     - Run coverage checks in CI
+
+17. Dependency management:
+    - Always specify exact versions in package.json
+    - Use pnpm for package management
+    - Verify Node.js version compatibility
+    - Check for deprecated dependencies regularly
+    - Update dependencies in controlled batches
+
+18. ESLint configuration:
+    - Use supported ESLint versions
+    - Maintain consistent linting rules
+    - Verify linting in pre-commit hooks
+    - Address all linting warnings
+    - Keep eslint-config-next up to date
+
+19. Node.js version constraints:
+    - Verify compatibility with hosting platform
+    - Use .nvmrc for local development
+    - Test with target Node.js version
+    - Avoid breaking changes in dependencies
+    - Document version requirements
+
+20. Testing verification:
+    - Run tests before every commit
+    - Verify component variants
+    - Test error boundaries
+    - Check for console warnings
+    - Verify production builds
