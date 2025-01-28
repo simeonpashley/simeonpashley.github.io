@@ -1,4 +1,5 @@
-When code is changed, YOU MUST:
+
+Before finishing a task or when code is changed, YOU MUST:
 
 1. Verify all components have tests
 2. Ensure the tests follow best practices
@@ -12,6 +13,12 @@ When code is changed, YOU MUST:
 - WHEN A BUG IS VERIFIED FIXED: Append (DO NOT REMOVE EXISTING) concise unambigous rules to `docs/avoidable.md` that will mitigate avoidable errors found during bug fixing
 
 - node package manager is `pnpm`
+- node v18 required due to cloudflare pages support
+- react v18 required for compatability
+- for lint `pnpm run lint`
+- for unit test `pnpm run test`
+- for integration test `pnpm run test:e2e`
+- for coverage use `pnpm run test:coverage`
 
 ---
 

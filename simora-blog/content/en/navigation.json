@@ -1,0 +1,12 @@
+{
+  "main": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Posts",
+      "href": "/posts"
+    }
+  ]
+}

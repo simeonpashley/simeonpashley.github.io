@@ -7,7 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
+    "lint": "next lint --fix",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
@@ -21,9 +21,11 @@
     "@swc/jest": "^0.2.37",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "gray-matter": "^4.0.3",
     "next": "^14.2.23",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-markdown": "^9.0.3",
     "tailwind-merge": "^2.6.0"
   },
   "devDependencies": {
@@ -36,6 +38,7 @@
     "@types/node": "^20.17.16",
     "@types/react": "^18.3.18",
     "@types/react-dom": "^18.3.5",
+    "@types/react-router-dom": "^5.3.3",
     "@typescript-eslint/eslint-plugin": "^8.21.0",
     "@typescript-eslint/parser": "^8.21.0",
     "eslint": "^8.56.0",
@@ -50,6 +53,7 @@
     "lint-staged": "^15.4.2",
     "postcss": "^8.5.1",
     "tailwindcss": "^3.4.17",
+    "ts-jest": "^29.2.5",
     "typescript": "^5.7.3"
   }
 }

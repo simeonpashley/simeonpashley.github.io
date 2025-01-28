@@ -1,0 +1,10 @@
+{
+  "cta": {
+    "primary": "Read More",
+    "secondary": "Explore Features"
+  },
+  "errors": {
+    "404": "Page Not Found",
+    "500": "Server Error"
+  }
+}

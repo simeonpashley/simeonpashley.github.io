@@ -3,6 +3,10 @@ export default {
   setupFilesAfterEnv: ['<rootDir>/jest.setup.mjs'],
   moduleNameMapper: {
     '^@/(.*)$': '<rootDir>/src/$1',
+    '^@/content/(.*)$': '<rootDir>/content/$1',
+    '^@/tests/(.*)$': '<rootDir>/tests/$1',
+    '^@/app/(.*)$': '<rootDir>/src/app/$1',
+    '^@/tests/(.*)$': '<rootDir>/tests/$1'
   },
   transform: {
     '^.+\\.(t|j)sx?$': [
