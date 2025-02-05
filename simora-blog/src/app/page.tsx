@@ -1,101 +1,93 @@
-import Image from 'next/image';
+import fs from 'fs';
+import path from 'path';
+import Link from 'next/link';
 
-export default function Home() {
+interface Post {
+  slug: string;
+  title: string;
+  date: string;
+  fileName: string;
+  built_excerpt?: string;
+  // ...other fields
+}
+
+interface PostsData {
+  posts: Post[];
+  categories: string[];
+  tags: string[];
+}
+
+interface HomePageProps {
+  searchParams: { page?: string };
+}
+
+const POSTS_PER_PAGE = 5;
+
+export default async function HomePage({ searchParams }: HomePageProps) {
+  // Load posts data from JSON
+  const postsDataPath = path.join(process.cwd(), 'public', 'data', 'posts-data.json');
+  const postsData: PostsData = JSON.parse(fs.readFileSync(postsDataPath, 'utf8'));
+
+  // Sort posts descending by date (newest first)
+  const sortedPosts = postsData.posts.sort((a, b) => {
+    const dateA = new Date(a.date).getTime();
+    const dateB = new Date(b.date).getTime();
+    return dateB - dateA;
+  });
+
+  // Determine current page from query parameter (defaults to 1)
+  const currentPage = searchParams.page ? parseInt(searchParams.page, 10) || 1 : 1;
+  const totalPosts = sortedPosts.length;
+  const totalPages = Math.ceil(totalPosts / POSTS_PER_PAGE);
+
+  // Get the slice of posts for the current page
+  const startIndex = (currentPage - 1) * POSTS_PER_PAGE;
+  const paginatedPosts = sortedPosts.slice(startIndex, startIndex + POSTS_PER_PAGE);
+
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="https://nextjs.org/icons/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{' '}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              src/app/page.tsx
-            </code>
-            .
+    <div>
+      <h1>Blog Posts</h1>
+      <ul>
+        {paginatedPosts.map((post) => (
+          <li key={post.slug} style={{ marginBottom: '2rem' }}>
+            <h2>
+              <Link href={`/posts/${post.slug}`}>{post.title}</Link>
+            </h2>
+            <p>{post.built_excerpt ? post.built_excerpt : ''}</p>
           </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
-
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="https://nextjs.org/icons/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
-        </div>
-      </main>
-      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
+        ))}
+      </ul>
+      <Pagination currentPage={currentPage} totalPages={totalPages} />
     </div>
+  );
+}
+
+interface PaginationProps {
+  currentPage: number;
+  totalPages: number;
+}
+
+function Pagination({ currentPage, totalPages }: PaginationProps) {
+  const prevPage = currentPage > 1 ? currentPage - 1 : null;
+  const nextPage = currentPage < totalPages ? currentPage + 1 : null;
+
+  return (
+    <nav>
+      <ul style={{ display: 'flex', gap: '1rem', listStyle: 'none' }}>
+        {prevPage && (
+          <li>
+            <Link href={`/?page=${prevPage}`}>Previous</Link>
+          </li>
+        )}
+        <li>
+          Page {currentPage} of {totalPages}
+        </li>
+        {nextPage && (
+          <li>
+            <Link href={`/?page=${nextPage}`}>Next</Link>
+          </li>
+        )}
+      </ul>
+    </nav>
   );
 }

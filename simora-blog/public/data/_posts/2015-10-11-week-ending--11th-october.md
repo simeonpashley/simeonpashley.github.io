@@ -1,0 +1,41 @@
+
+There are a few things I discovered this week worth noting:
+
+- [ Docker empty volumes](#-docker-empty-volumes)
+- [Starting React](#starting-react)
+- [Profile refresh](#profile-refresh)
+  - [Debug](#debug)
+
+{% include toc.html %}
+
+<!-- more -->
+
+## <a name="a1"></a> Docker empty volumes
+
+Earlier in the week I moved all projects stored on my laptop into a new directory to get them out of my _User_ directory to adhere to our internal project storage policy.
+
+[Docker] started behaving oddly, mounted volumes & paths were now empty on the host. The folder existed on the image but none of the files mapped from my laptop were there anymore.
+
+It took a long while to figure out that the issue was specific to the paths themselves. What I had completely forgotten was that [Docker] on Windows/Mac can **only see below your home directory**. Therefore mapping '~/projectX/www' worked fine but `/projects/projectX/www` didn't.
+
+I tried to symlink the folder beneath the `~` directory but that didn't work as Docker resolved the path back to its original home.
+
+As I write, the projects are now back under my home directory and Docker is now back working again!
+
+## <a name="a2"></a>Starting React
+
+After enjoying building iOS apps recently with [React Native] I thought I'd take the plunge and migrate our new internal project from [Laravel] /PHP over to [React] & [NodeJS]. It feels like a great match for the project objectives too.
+
+## <a name="a3"></a>Profile refresh
+
+I took a little time out to refresh this site and also my LinkedIn profile to update them a little to reflect changes. My LinkedIn profile was heavily focused on my career in video games that ended in 2010 so it was long due a re-vamp.
+
+[docker](http://www.docker.com)
+[react](https://facebook.github.io/react/)
+[react native](https://facebook.github.io/react-native/)
+[nodejs](https://nodejs.org/)
+[laravel](http://www.docker.com)
+
+### Debug
+
+{:.no_toc}

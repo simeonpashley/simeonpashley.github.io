@@ -9,6 +9,7 @@
     "start": "next start",
     "lint": "next lint --fix",
     "test": "jest",
+    "make:posts": "node scripts/generatePostData.js",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
     "test:e2e": "playwright test",
@@ -26,6 +27,9 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-markdown": "^9.0.3",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1",
+    "striptags": "^3.2.0",
     "tailwind-merge": "^2.6.0"
   },
   "devDependencies": {
@@ -54,6 +58,7 @@
     "postcss": "^8.5.1",
     "tailwindcss": "^3.4.17",
     "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2",
     "typescript": "^5.7.3"
   }
 }
